@@ -1,0 +1,270 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6621,
+	"content_name": "(New) 新HSK 한권으로 끝내기 3급 독해",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "문장부호와 문장 구조",
+			"title_b": "문장부호와 문장 구조",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "제1부분 대화·단문 완성",
+			"title_b": "제1부분 대화 단문 완성",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "제1부분 대화·단문 완성",
+			"title_b": "제1부분 대화 단문 완성",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "제1부분 대화·단문 완성",
+			"title_b": "제1부분 대화 단문 완성",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "제1부분 대화·단문 완성",
+			"title_b": "제1부분 대화 단문 완성",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "제2부분 명사 어휘 선택",
+			"title_b": "제2부분 명사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "제2부분 명사 어휘 선택",
+			"title_b": "제2부분 명사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "제2부분 동사 어휘 선택",
+			"title_b": "제2부분 동사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "제2부분 동사 어휘 선택",
+			"title_b": "제2부분 동사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "제2부분 형용사 어휘 선택",
+			"title_b": "제2부분 형용사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "제2부분 형용사 어휘 선택",
+			"title_b": "제2부분 형용사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "제2부분 개사 어휘 선택",
+			"title_b": "제2부분 개사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "제2부분 개사 어휘 선택",
+			"title_b": "제2부분 개사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "제2부분 부사 어휘 선택",
+			"title_b": "제2부분 부사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "제2부분 부사 어휘 선택",
+			"title_b": "제2부분 부사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "제2부분 양사 어휘 선택",
+			"title_b": "제2부분 양사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "제2부분 양사 어휘 선택",
+			"title_b": "제2부분 양사 어휘 선택",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "제3부분 단문 독해",
+			"title_b": "제3부분 단문 독해",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "제3부분 단문 독해",
+			"title_b": "제3부분 단문 독해",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "제3부분 단문 독해",
+			"title_b": "제3부분 단문 독해",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6621/mp4/c1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

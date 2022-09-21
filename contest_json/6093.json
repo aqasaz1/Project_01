@@ -1,0 +1,283 @@
+{
+	"content_lan": "일본어",
+	"content_code": 6093,
+	"content_name": "New 다이나믹 일본어 회화 중급",
+	"content_sample": "8",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "만남",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "가족",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "시간",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "주문",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "복습 1",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "쇼핑",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "길 안내",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "생활",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "약속",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습 2",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "여행",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "몸 상태",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "전화",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "취미",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "복습 3",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "제안",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "의뢰",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "전달",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "장래",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"회화 연습",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습 4",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6093/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

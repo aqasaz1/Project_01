@@ -1,0 +1,259 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 8060,
+	"content_name": "New 멜하바 터키어 초급",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "안녕하세요!",
+			"title_b": "안녕하세요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "안녕하세요! 제 이름은 알렉산드라입니다.",
+			"title_b": "안녕하세요 제 이름은 알렉산드라입니다",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "이것(들)은 무엇인가요?",
+			"title_b": "이것은 무엇인가요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "나는 당신을 좋아합니다.",
+			"title_b": "나는 당신을 좋아합니다",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "나의 것",
+			"title_b": "나의 것",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "알렉산드라의 가족",
+			"title_b": "알렉산드라의 가족",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "몇 살이세요?",
+			"title_b": "몇 살이세요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "이스탄불에서 한국으로 오고 있어요.",
+			"title_b": "이스탄불에서 한국으로 오고 있어요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "오늘 날씨 어때요?",
+			"title_b": "오늘 날씨 어때요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "나는 이스탄불에 갔었어.",
+			"title_b": "나는 이스탄불에 갔었어",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "내일 이스탄불로 갈 거예요.",
+			"title_b": "내일 이스탄불로 갈 거예요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "알렉산드라처럼",
+			"title_b": "알렉산드라처럼",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "옛날 옛날에",
+			"title_b": "옛날 옛날에",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "나의 생활",
+			"title_b": "나의 생활",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "알렉산드라는 이스탄불에 갈 수 있어요.",
+			"title_b": "알렉산드라는 이스탄불에 갈 수 있어요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "내가 ~이 된다면",
+			"title_b": "내가 무엇무엇이 된다면",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "왜냐하면 나는 이것을 해야 해요!",
+			"title_b": "왜냐하면 나는 이것을 해야 해요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "나를 방해하지 말아주세요!",
+			"title_b": "나를 방해하지 말아주세요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "나에게 오기 전에",
+			"title_b": "나에게 오기 전에",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "위스크다르에 가는 길에",
+			"title_b": "위스크다르에 가는 길에",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5365/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

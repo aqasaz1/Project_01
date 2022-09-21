@@ -1,0 +1,291 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6559,
+	"content_name": "新HSK 1~4급 VOCA 리우",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "DAY 01 창 ~ 착",
+			"title_b": "DAY 01 창 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "DAY 02 시 ~ 미",
+			"title_b": "DAY 02 시 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "DAY 03 왜 ~ 천",
+			"title_b": "DAY 03 왜 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "DAY 04 착 ~ 반",
+			"title_b": "DAY 04 착 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "DAY 05 방 ~ 환",
+			"title_b": "DAY 05 방 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "DAY 06 가 ~ 간",
+			"title_b": "DAY 06 가 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "DAY 07 구 ~ 나",
+			"title_b": "DAY 07 구 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "DAY 08 난 ~ 거",
+			"title_b": "DAY 08 난 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "DAY 09 육 ~ 소",
+			"title_b": "DAY 09 육 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "DAY 10 혜 ~ 좌",
+			"title_b": "DAY 10 혜 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "DAY 11 판 ~ 부",
+			"title_b": "DAY 11 판 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "DAY 12 차 ~ 지",
+			"title_b": "DAY 12 차 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "DAY 13 점 ~ 고",
+			"title_b": "DAY 13 점 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "DAY 14 공 ~ 기",
+			"title_b": "DAY 14 공 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "DAY 15 결 ~ 료",
+			"title_b": "DAY 15 결 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "DAY 16 려 ~ 열",
+			"title_b": "DAY 16 려 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "DAY 17 인 ~ 사",
+			"title_b": "DAY 17 인 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "DAY 18 수 ~ 세",
+			"title_b": "DAY 18 수 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "DAY 19 하 ~ 요",
+			"title_b": "DAY 19 하 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "DAY 20 의 ~ 작",
+			"title_b": "DAY 20 의 외",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"강의 듣기",
+				"실전 테스트",
+				"정리 카드"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6559/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

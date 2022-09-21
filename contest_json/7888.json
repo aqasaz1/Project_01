@@ -1,0 +1,451 @@
+{
+	"content_lan": "중국어",
+	"content_code": 7888,
+	"content_name": "119 유튜버 닥터린의 중국어 응급 처치 - 초급 편",
+	"content_sample": "1/16",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "강조하고 싶을 땐? 是",
+			"title_b": "이다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "여기에 있지 有",
+			"title_b": "가지고 있다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "변화무쌍 在",
+			"title_b": "에 있다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "사용과 수단 用",
+			"title_b": "사용하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "빌려주세요 借",
+			"title_b": "빌리다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "선물도 배웅도 送",
+			"title_b": "선물하다 배웅하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "양보의 왕 让",
+			"title_b": "양보하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "불러서 시키기 叫",
+			"title_b": "부르다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "다 지나갈 거예요 过",
+			"title_b": "지나다 건너다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "마음에 품은 想",
+			"title_b": "생각하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "주먹 불끈! 要",
+			"title_b": "필요하다 원하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "곧 시작해요 要",
+			"title_b": "하려고 하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "저 이거 할 줄 알아요 会",
+			"title_b": "할 줄 안다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "할 수 있다 능 能",
+			"title_b": "할 수 있다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "허락만 하면 되는 줄 알았죠? 可以",
+			"title_b": "해도 된다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "당연히 应该",
+			"title_b": "해야 한다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "다 끝났어 完",
+			"title_b": "끝나다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "눈 부릅! 귀 쫑긋! 见",
+			"title_b": "만나다 보다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "잡았다! 住",
+			"title_b": "거주하다 잡다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "언제까지요? 到",
+			"title_b": "도착하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "당신에게 给",
+			"title_b": "주다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "아하! 懂",
+			"title_b": "이해하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "가까워지는 进",
+			"title_b": "들다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "탈출 비법 出",
+			"title_b": "나가다 나오다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "변신의 귀재 起来",
+			"title_b": "일어나다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "제가! 하겠습니다 来",
+			"title_b": "오다 하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "그래, 결정했어! 决定",
+			"title_b": "결정하다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "공부의 모든 것 读",
+			"title_b": "읽다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "재미있는 건 모두 玩儿",
+			"title_b": "놀다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "친구 찾기 找",
+			"title_b": "찾다",
+			"page_name": [
+				"닥터린의 응급 처치",
+				"반복으로 심폐소생",
+				"퀴즈로 재활치료"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7888/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

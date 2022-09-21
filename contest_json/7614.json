@@ -1,0 +1,416 @@
+{
+	"content_lan": "중국어",
+	"content_code": 7614,
+	"content_name": "나의 겁 없는 중국출장 중국어 - 출장편",
+	"content_sample": "1/15",
+	"content_chasi": "14/13",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "입국 수속하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "공항에서 픽업담당자 만나기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "보안 검색대 통과하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "귀국용 항공권 발권하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "기내에 술 반입하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "무상 샘플 핸드 캐리하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "수화물 규정 문의하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "수화물 중량 초과 처리하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "택시 타기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "택시 기사와 가벼운 대화 나누기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "빠오처 타기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "기사님과 출퇴근 약속 잡기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "기사님과 픽업 약속 잡기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "비행기 연착으로 일정 조정하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "체크인하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "체크아웃하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "회원가로 숙박료 할인 받기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "비즈니스센터 이용하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "헬스장 이용하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "조식 먹기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "룸서비스 이용하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "세탁 맡기기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "모닝콜 서비스 받기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "객실 용품 추가 요청하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "객실 바꾸기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "외부 음식 시켜 먹기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "한국인 매니저 소환하기",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7614/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

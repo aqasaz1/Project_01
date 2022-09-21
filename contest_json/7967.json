@@ -1,0 +1,719 @@
+{
+	"content_lan": "영어",
+	"content_code": 7967,
+	"content_name": "야나두 리얼스피드리스닝",
+	"content_sample": "1/36",
+	"content_chasi": "21/23",
+	"content_size": "1100*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "My Grandma Does My Makeup 1",
+			"title_b": "My Grandma Does My Makeup 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "My Grandma Does My Makeup 2",
+			"title_b": "My Grandma Does My Makeup 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Fitness Hacks 1",
+			"title_b": "Fitness Hacks 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Fitness Hacks 2",
+			"title_b": "Fitness Hacks 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "How To Burn Away Stomach Fat & Get Abs 1",
+			"title_b": "How To Burn Away Stomach Fat and Get Abs 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "How To Burn Away Stomach Fat & Get Abs 2",
+			"title_b": "How To Burn Away Stomach Fat and Get Abs 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Everyday Summer Makeup Routine 1",
+			"title_b": "Everyday Summer Makeup Routine 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Everyday Summer Makeup Routine 2",
+			"title_b": "Everyday Summer Makeup Routine 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Everyday Summer Makeup Routine 3",
+			"title_b": "Everyday Summer Makeup Routine 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Everyday Summer Makeup Routine 4",
+			"title_b": "Everyday Summer Makeup Routine 4",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "How To Make The Best Coffee",
+			"title_b": "How To Make The Best Coffee",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "What Traveling Is Really Like 1",
+			"title_b": "What Traveling Is Really Like 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "What Traveling Is Really Like 2",
+			"title_b": "What Traveling Is Really Like 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Interview With A 2-Year-Old 1",
+			"title_b": "Interview With A 2 Year Old 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Interview With A 2-Year-Old 2",
+			"title_b": "Interview With A 2 Year Old 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "DIY Easter Treats & Gifts 1",
+			"title_b": "DIY Easter Treats and Gifts 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "DIY Easter Treats & Gifts 2",
+			"title_b": "DIY Easter Treats and Gifts 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "DIY Easter Treats & Gifts 3",
+			"title_b": "DIY Easter Treats and Gifts 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "First Day Of School Tips 1",
+			"title_b": "First Day Of School Tips 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "First Day Of School Tips 2",
+			"title_b": "First Day Of School Tips 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Scrambled Eggs In A Mug",
+			"title_b": "Scrambled Eggs In A Mug",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "School Night Routine 1",
+			"title_b": "School Night Routine 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "School Night Routine 2",
+			"title_b": "School Night Routine 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "School Night Routine 3",
+			"title_b": "School Night Routine 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "School Night Routine 4",
+			"title_b": "School Night Routine 4",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Morning Life Hacks 1",
+			"title_b": "Morning Life Hacks 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Morning Life Hacks 2",
+			"title_b": "Morning Life Hacks 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Morning Life Hacks 3",
+			"title_b": "Morning Life Hacks 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "How To Use The Seoul Subway 1",
+			"title_b": "How To Use The Seoul Subway 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "How To Use The Seoul Subway 2",
+			"title_b": "How To Use The Seoul Subway 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "How To Use The Seoul Subway 3",
+			"title_b": "How To Use The Seoul Subway 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "How To Use The Seoul Subway 4",
+			"title_b": "How To Use The Seoul Subway 4",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "What It’s Really Like Having A Sister 1",
+			"title_b": "What It is Really Like Having A Sister 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "What It’s Really Like Having A Sister 2",
+			"title_b": "What It is Really Like Having A Sister 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "What It’s Really Like Having A Sister 3",
+			"title_b": "What It is Really Like Having A Sister 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "6 Ways You’re Killing Your Style 1",
+			"title_b": "6 Ways You are Killing Your Style 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "6 Ways You’re Killing Your Style 2",
+			"title_b": "7 Ways You are Killing Your Style 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "6 Ways You’re Killing Your Style 3",
+			"title_b": "8 Ways You are Killing Your Style 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Coffee Life Hacks 1",
+			"title_b": "Coffee Life Hacks 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Coffee Life Hacks 2",
+			"title_b": "Coffee Life Hacks 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "Coffee Life Hacks 3",
+			"title_b": "Coffee Life Hacks 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "School Life Hacks 1",
+			"title_b": "School Life Hacks 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "School Life Hacks 2",
+			"title_b": "School Life Hacks 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "School Life Hacks 3",
+			"title_b": "School Life Hacks 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7967/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,371 @@
+{
+	"content_lan": "영어",
+	"content_code": 6182,
+	"content_name": "간호사를 위한 기본 실무 영어",
+	"content_sample": "6",
+	"content_chasi": "24",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Taking Reservations",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Changing Reservations",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Receiving Paticents",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Asking Patients about Their Conditions",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Checking Patients’ Conditions",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Checking on Pain",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Giving Patients Directions to Departments",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Giving Visitors Directions to Patients’ Rooms",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Taking Blood",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Getting Urine and Stool Samples",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "MRI Scans",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Ultrasound Scans",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Describing Patients’ Rooms",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Answering Patients’ Questions about Hospital Life",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Changing Patients’ Dressings",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Telling Patients to Change Positions",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Explaining the Possible Side Effects of Medication",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Answering Patients’ Questions about Medication",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Reassuring Patients Waking Up from Surgery",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Reassuring Patients’ Guardians",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Informing Patients of Dos and Donts",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Helping Patients Pay Their Bills",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Calls from Patients Who Need Something",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Calls from Patients Who Are Complaining about Their Symptoms",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6182/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

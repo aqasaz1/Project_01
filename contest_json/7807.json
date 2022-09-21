@@ -1,0 +1,851 @@
+{
+	"content_lan": "일본어",
+	"content_code": 7807,
+	"content_name": "100% 현지 영상으로 배우는 패턴 일본어",
+	"content_sample": "1/21/41",
+	"content_chasi": "20/20/20",
+	"content_size": "1100*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "동사의 ない형 3, 2그룹 동사",
+			"title_b": "2그룹 3그룹 동사의 부정형 ",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "동사의 ない형 1그룹 동사",
+			"title_b": "1그룹 동사의 부정형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "충고 표현 ～ないほうがいい",
+			"title_b": "충고 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "부탁·정중한 명령 ～ないでください",
+			"title_b": "부탁 및 정중한 명령 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "의무 ～なければなりません",
+			"title_b": "의무 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "불필요 및 허가 ～なくてもいい",
+			"title_b": "불필요 및 허가 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "부대상황 ～ないで",
+			"title_b": "부대상황 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "보통형(현재형)",
+			"title_b": "현재형 보통체",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "보통형(과거형)",
+			"title_b": "과거형 보통체",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "명사수식형 보통형+명사",
+			"title_b": "명사 수식형 보통형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "강조 ～んです",
+			"title_b": "강조 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "열거 ～し",
+			"title_b": "열거 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "이유·원인1 ～から",
+			"title_b": "이유와 원인 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "이유·원인2 ～ので",
+			"title_b": "이유와 원인 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "역접 ～のに",
+			"title_b": "역접 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "물건 주고받기 あげる",
+			"title_b": "물건 주고받기 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "물건 주고받기 くれる",
+			"title_b": "물건 주고받기 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "물건 주고받기 もらう",
+			"title_b": "물건 주고받기 3",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "행위 주고받기 ～てあげる",
+			"title_b": "행위 주고받기 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "행위 주고받기 ～てくれる",
+			"title_b": "행위 주고받기 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "행위 주고받기 ～てもらう",
+			"title_b": "행위 주고받기 3",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "자동사·타동사",
+			"title_b": "자동사와 타동사",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "결과·상태 지속 ～ている",
+			"title_b": "결과 및 상태 지속 표현 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "습관·반복 / 단순 상태 ～ている",
+			"title_b": "습관과 반복 표현 및 단순 상태 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "동작의 미완료 まだ～ていません",
+			"title_b": "동작의 미완료 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "결과·상태 지속 ～てある",
+			"title_b": "결과 및 상태 지속 표현 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "가능 표현 ～ことができる",
+			"title_b": "가능 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "동사의 가능형",
+			"title_b": "동사의 가능형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "변화 ～なる",
+			"title_b": "변화 표현 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "～になる의 활용",
+			"title_b": "변화 표현 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "동사의 의지형",
+			"title_b": "동사의 의지형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "～(よ)うと思う",
+			"title_b": "의지 및 예정 표현 1",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "～つもりだ",
+			"title_b": "의지 및 예정 표현 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "～予定だ",
+			"title_b": "의지 및 예정 표현 3",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "의견 ～と思う",
+			"title_b": "의견을 나타내는 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "추측 ～でしょう",
+			"title_b": "추측 표현 1 ",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "추측 ～かもしれません",
+			"title_b": "추측 표현 2",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "확신 ～はずだ",
+			"title_b": "확신 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "전문 ～そうだ",
+			"title_b": "전문 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "추측 ～そうだ",
+			"title_b": "추측 표현 3",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "～そうだ의 활용",
+			"title_b": "추측 표현의 활용",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "추량·양태 ～ようだ",
+			"title_b": "추량 및 양태 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "～と",
+			"title_b": "가정 및 조건 표현 1 토",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "～たら",
+			"title_b": "가정 및 조건 표현 2 타라",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "～なら",
+			"title_b": "가정 및 조건 표현 3 나라",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "～ば",
+			"title_b": "가정 및 조건 표현 4 바",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "동사의 수동형",
+			"title_b": "동사의 수동형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "직접 수동",
+			"title_b": "직접 수동",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "간접 수동",
+			"title_b": "간접 수동",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "수동 표현의 사용",
+			"title_b": "수동 표현의 사용",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "동사의 사역형",
+			"title_b": "동사의 사역형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "강제·지시 사역",
+			"title_b": "강제 및 지시 사역",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "허가·방임 사역",
+			"title_b": "허가 및 방임 사역",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "감정 유발 사역",
+			"title_b": "감정 유발 사역",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "동사의 사역수동형",
+			"title_b": "동사의 사역수동형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "존경동사",
+			"title_b": "존경동사",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "동사의 존경형",
+			"title_b": "동사의 존경형",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "존경 표현 お(ご)～になる",
+			"title_b": "존경 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "겸양동사",
+			"title_b": "겸양동사",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "겸양 표현 お(ご)～する(いたす)",
+			"title_b": "겸양 표현",
+			"page_name": [
+				"인트로",
+				"패턴 강의",
+				"인터뷰 강의",
+				"회화 강의",
+				"패턴 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7807/mp4_bind/z1_60h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

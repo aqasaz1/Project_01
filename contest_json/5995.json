@@ -1,0 +1,611 @@
+{
+	"content_lan": "영어",
+	"content_code": 5995,
+	"content_name": "15초 따라 하기 왕초보 영어",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "나다혜",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "I am",
+			"title_b": "I am",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "I am",
+			"title_b": "I am",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "I am",
+			"title_b": "I am",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "I am -ing",
+			"title_b": "I am ing",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "I am -ing",
+			"title_b": "I am ing",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Are you …?",
+			"title_b": "Are you",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Are you …?",
+			"title_b": "Are you",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Can't",
+			"title_b": "Cannot",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Can",
+			"title_b": "Can",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Do",
+			"title_b": "Do",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Don't",
+			"title_b": "Do not",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "I don't",
+			"title_b": "I do not",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "It",
+			"title_b": "It",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "It",
+			"title_b": "It",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "There",
+			"title_b": "There",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Sorry/Thank",
+			"title_b": "Sorry Thank",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "What",
+			"title_b": "What",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "What",
+			"title_b": "What",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "What",
+			"title_b": "What",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "What",
+			"title_b": "What",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Where",
+			"title_b": "Where",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Where/When",
+			"title_b": "Where When",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Why",
+			"title_b": "Why",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "How",
+			"title_b": "How",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "How",
+			"title_b": "How",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "How",
+			"title_b": "How",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Who/Which",
+			"title_b": "Who Which",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Let",
+			"title_b": "Let",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Want",
+			"title_b": "Want",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Know",
+			"title_b": "Know",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Have p.p.",
+			"title_b": "Have pp",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "Need/Mean",
+			"title_b": "Need Mean",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "Like",
+			"title_b": "Like",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Look/Sound/Feel",
+			"title_b": "Look Sound Feel",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "If/Mind",
+			"title_b": "If Mind",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "추가 패턴",
+			"title_b": "추가 패턴",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "추가 패턴",
+			"title_b": "추가 패턴",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "추가 패턴",
+			"title_b": "추가 패턴",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "추가 패턴",
+			"title_b": "추가 패턴",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "추가 패턴",
+			"title_b": "추가 패턴",
+			"page_name": [
+				"오늘의 패턴",
+				"맛보기 퀴즈",
+				"패턴 정리의 힘",
+				"패턴 퀴즈",
+				"패턴 적용의 힘",
+				"마무리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5995/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

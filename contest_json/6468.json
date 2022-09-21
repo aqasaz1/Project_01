@@ -1,0 +1,291 @@
+{
+	"content_lan": "영어",
+	"content_code": 6468,
+	"content_name": "7단계 영어문장 자동생산 프로젝트 - Intermediate",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "make 만들다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "take 가져가다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "have 가지다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "get 얻다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "do 하다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "spend 쓰다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "want 원하다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "lose 잃다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "break 부수다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "choose 선택하다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "give 주다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "teach 가르치다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "buy 사다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "ask 묻다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "send 보내다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "owe 빚지다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "show 보여주다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "tell 말하다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "bring 가져다주다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "offer 제공하다",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6468/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

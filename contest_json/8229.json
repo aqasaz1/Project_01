@@ -1,0 +1,184 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8229",
+	"content_name": "New 씨아 헝가리어 문법 중급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "가능을 의미하는 어미 ´-hat, het´",
+			"title_b": "가능을 의미하는 어미",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "조동사",
+			"title_b": "조동사",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "소유 관계 표현 1",
+			"title_b": "소유 관계 표현 1",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "소유 관계 표현 2",
+			"title_b": "소유 관계 표현 2",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사 과거 1변화의 인칭 변화",
+			"title_b": "동사 과거 1변화의 인칭 변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사 과거 2변화의 인칭 변화",
+			"title_b": "동사 과거 2변화의 인칭 변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사 미래형",
+			"title_b": "동사 미래형",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "명령형 1변화의 인칭 변화",
+			"title_b": "명령형 1변화의 인칭 변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "명령형 2변화의 인칭 변화",
+			"title_b": "명령형 2변화의 인칭 변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "조건법 현재형의 1변화",
+			"title_b": "조건법 현재형의 1변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "조건법 현재형의 2변화",
+			"title_b": "조건법 현재형의 2변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "조건법 과거형의 인칭 변화",
+			"title_b": "조건법 과거형의 인칭 변화",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "동사의 전철",
+			"title_b": "동사의 전철",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "형용사, 수사, 동사와 관련된 부사",
+			"title_b": "형용사 수사 동사와 관련된 부사",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "반복적인 습관을 나타내는 \"szokott\"",
+			"title_b": "반복적인 습관을 나타내는 표현",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8229/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

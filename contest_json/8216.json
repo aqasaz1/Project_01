@@ -1,0 +1,451 @@
+{
+	"content_lan": "영어",
+	"content_code": 8216,
+	"content_name": "[야나두] 미국에서 한 달 살기 - 현지 체험 편 1",
+	"content_sample": "4/30",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "박지혜",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "스마트폰 개통하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "길 물어보기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "로컬 베이글 가게 방문하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "직원에게 원두 추천받기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "영양제 심부름하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "카페 음료 커스터마이징하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동네 맛집 예약하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "세탁소에 옷 맡기기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "친구 집들이 선물 사기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "친구의 이사 축하해주기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "취준생 친구 위로해주기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "지하철 티켓 기계 이용하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "와플 주문하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "직원에게 립 제품 추천받기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "바텐더에게 맥주 종류 물어보기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "바에서 스몰톡하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "직원에게 후한 팁 주기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "마음에 드는 옷 입어보기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "친구 선물 구매하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "한국으로 택배 보내기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "앱으로 점심 주문하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "온라인으로 생필품 주문하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "약 심부름하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "온라인으로 쿠킹 클래스 신청하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "메뉴 추천받기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "친구 경기 응원하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "버스 타고 다운타운 가기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "주문이 잘못 나왔을 때 대응하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "이웃과 저녁 약속 잡기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "친구와 함께 반려견 산책하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "지각하는 친구 기다리기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "음식 테이크아웃하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "예약 없이 맛집에 입장하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "남은 음식 포장 요청하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "택시 이용하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "파머스 마켓 구경하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "파머스 마켓에서 야채 구입하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "피자 픽업하기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "옷 수선 맡기기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "한국 식자재 알려주기",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8216/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

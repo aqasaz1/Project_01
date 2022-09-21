@@ -1,0 +1,589 @@
+{
+	"content_lan": "영어",
+	"content_code": 8140,
+	"content_name": "영어 회화의 결정적 단어들",
+	"content_sample": "6/17",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "시간",
+			"title_b": "시간",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "위치와 방향",
+			"title_b": "위치와 방향",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "수와 양",
+			"title_b": "수와 양",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "날씨",
+			"title_b": "날씨",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "사물",
+			"title_b": "사물",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "사물과 사람",
+			"title_b": "사물과 사람",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "일과",
+			"title_b": "일과",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "외모",
+			"title_b": "외모",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "동작",
+			"title_b": "동작",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "성격, 태도, 감정",
+			"title_b": "성격 태도 감정",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "의복, 치장",
+			"title_b": "의복 치장",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "식재료",
+			"title_b": "식재료",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "요리",
+			"title_b": "요리",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "식사",
+			"title_b": "식사",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "주거",
+			"title_b": "주거",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "살림",
+			"title_b": "살림",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "인간관계",
+			"title_b": "인간관계",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "건강",
+			"title_b": "건강",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "질병, 병원",
+			"title_b": "질병 병원",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "여가와 여행",
+			"title_b": "여가와 여행",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "취미1",
+			"title_b": "취미1",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "취미2",
+			"title_b": "취미2",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "회사 생활",
+			"title_b": "회사 생활",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "경제",
+			"title_b": "경제",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "쇼핑",
+			"title_b": "쇼핑",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "정치",
+			"title_b": "정치",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "사회",
+			"title_b": "사회",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "교통과 운전",
+			"title_b": "교통과 운전",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "스마트폰과 인터넷",
+			"title_b": "스마트폰과 인터넷",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "교육",
+			"title_b": "교육",
+			"page_name": [
+				"결정적 단어",
+				"결정적 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8140/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,424 @@
+{
+	"content_lan": "영어",
+	"content_code": 7554,
+	"content_name": "이보영의 Easy 토킹 스몰톡",
+	"content_sample": "1/17",
+	"content_chasi": "16/14",
+	"content_size": "1000*780",
+	"content_cm": "미소아",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "내 이름 소개 / 사는 곳",
+			"title_b": "내 이름 소개 사는 곳",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "직업 / 내가 좋아하는 것",
+			"title_b": "직업 내가 좋아하는 것",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "내 얘기부터 시작하라 Review",
+			"title_b": "내 얘기부터 시작하라 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "인사 / 날씨 얘기로 긴장 풀기",
+			"title_b": "인사 날씨 얘기로 긴장 풀기",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "장소 / 일상 공유",
+			"title_b": "장소 일상 공유",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "K-pop과 K-drama / 일 이야기로 일상 나누기",
+			"title_b": "Kpop과 Kdrama 일 이야기로 일상 나누기",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "근황 토크 / 들은 얘기와 정보 나누기 ",
+			"title_b": "근황 토크 들은 얘기와 정보 나누기 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "자연스럽게 말문 열리는 잡담거리 Review",
+			"title_b": "자연스럽게 말문 열리는 잡담거리 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "가벼운 용모 칭찬 / 기분 좋은 용모 칭찬 ",
+			"title_b": "가벼운 용모 칭찬 기분 좋은 용모 칭찬 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "격려 / 상대의 공간 칭찬",
+			"title_b": "격려 상대의 공간 칭찬",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "지난 일 칭찬하기 / 일에 대한 칭찬 ",
+			"title_b": "지난 일 칭찬하기 일에 대한 칭찬 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "축하 / 성격 칭찬 ",
+			"title_b": "축하 성격 칭찬 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "아낌없이 칭찬하라 Review",
+			"title_b": "아낌없이 칭찬하라 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "주변 사람 / 좋아하는 곳 / 공통의 관심사 찾기",
+			"title_b": "주변 사람 좋아하는 곳 공통의 관심사 찾기",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "음식 취향 / 상대의 근황 / 과거 경험",
+			"title_b": "음식 취향 상대의 근황 과거 경험",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "대화의 소재를 찾아라 Review",
+			"title_b": "대화의 소재를 찾아라 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "날씨 / 여행 ",
+			"title_b": "날씨 여행 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "가족 / 일 공감하기",
+			"title_b": "가족 일 공감하기",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "주말 / 나의 취미",
+			"title_b": "주말 나의 취미",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "주변의 사물 / 흥미로운 일 / 가벼운 뉴스",
+			"title_b": "주변의 사물 흥미로운 일 가벼운 뉴스",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "가장 흔한 잡담거리 Review",
+			"title_b": "가장 흔한 잡담거리 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "스포츠 / 휴가",
+			"title_b": "스포츠 휴가",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "영화 / 쇼핑 ",
+			"title_b": "영화 쇼핑 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "반려동물 / 음식",
+			"title_b": "반려동물 음식",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "맛 표현 / 좋아하는 것, 싫어하는 것",
+			"title_b": "맛 표현 좋아하는 것 싫어하는 것",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "연예인 / 위로의 말 ",
+			"title_b": "연예인 위로의 말 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "친해지기 위한 잡담거리 Review",
+			"title_b": "친해지기 위한 잡담거리 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "이야기 마무리하기 / SNS·전화번호 교환하기 ",
+			"title_b": "이야기 마무리하기 SNS와 전화번호 교환하기 ",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "명함 주고받기 / 다음 만남 약속하기 / 작별인사",
+			"title_b": "명함 주고받기 다음 만남 약속하기 작별인사",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "자연스러운 대화 마무리 Review",
+			"title_b": "자연스러운 대화 마무리 Review",
+			"page_name": [
+				"INTRO",
+				"들어가기",
+				"오늘의 스몰톡",
+				"확인학습"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

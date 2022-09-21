@@ -1,0 +1,611 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6299,
+	"content_name": "New 다락원 중국어 마스터 3",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "실례합니다만, 성함이 어떻게 되시나요?",
+			"title_b": "실례합니다만 성함이 어떻게 되시나요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "저는 당신이 중국인인줄 알았어요.",
+			"title_b": "저는 당신이 중국인인줄 알았어요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "데이비드는 상호의 룸메이트입니다.",
+			"title_b": "데이비드는 상호의 룸메이트입니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "아침에는 편의점에서 아르바이트를 해요.",
+			"title_b": "아침에는 편의점에서 아르바이트를 해요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "너 주말에 뭐 해?",
+			"title_b": "너 주말에 뭐 해",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "주말에는 아르바이트하러 갈 필요가 없습니다.",
+			"title_b": "주말에는 아르바이트하러 갈 필요가 없습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "좋긴 뭐가 좋아!",
+			"title_b": "좋긴 뭐가 좋아",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "이번 학기에 우리 열심히 공부하자!",
+			"title_b": "이번 학기에 우리 열심히 공부하자",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "그녀는 이번 학기에 열심히 공부해서 장학금을 받으려고 합니다.",
+			"title_b": "그녀는 이번 학기에 열심히 공부해서 장학금을 받으려고 합니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습 (1)",
+			"title_b": "복습 1",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "나는 농구광이야.",
+			"title_b": "나는 농구광이야",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "오늘은 우리가 반드시 이길 거야.",
+			"title_b": "오늘은 우리가 반드시 이길 거야",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "짜오량과 왕따밍은 모두 농구광입니다.",
+			"title_b": "짜오량과 왕따밍은 모두 농구광입니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "우리 외모가 닮긴 닮았지만 성격은 완전히 달라.",
+			"title_b": "우리 외모가 닮긴 닮았지만 성격은 완전히 달라",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "우리 형은 쌍꺼풀에 콧날이 오뚝해.",
+			"title_b": "우리 형은 쌍꺼풀에 콧날이 오뚝해",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "정민은 언니도 있는데 분위기 있게 생겼습니다.",
+			"title_b": "정민은 언니도 있는데 분위기 있게 생겼습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "어떤 신발을 사려고 하십니까?",
+			"title_b": "어떤 신발을 사려고 하십니까",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "20% 세일해서 현재 가격이 160위안입니다.",
+			"title_b": "20퍼센트 세일해서 현재 가격이 160위안입니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "쇼핑센터는 그랜드 세일을 하고 있습니다.",
+			"title_b": "쇼핑센터는 그랜드 세일을 하고 있습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습 (2)",
+			"title_b": "복습 (2)",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "우리 KFC 가서 점심 먹는 것 어때?",
+			"title_b": "우리 KFC 가서 점심 먹는 것 어때",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "어떤 햄버거 먹을래?",
+			"title_b": "어떤 햄버거 먹을래",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "데이비드는 닭다리버거세트 두 개를 주문했습니다.",
+			"title_b": "데이비드는 닭다리버거세트 두 개를 주문했습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "어디가 불편하신가요?",
+			"title_b": "어디가 불편하신가요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "입원해서 좀 살펴보는 게 가장 좋겠어요.",
+			"title_b": "입원해서 좀 살펴보는 게 가장 좋겠어요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "오늘 병원에 진찰을 받으러 왔습니다.",
+			"title_b": "오늘 병원에 진찰을 받으러 왔습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "내가 막 네게 전화 하려던 참이었어.",
+			"title_b": "내가 막 네게 전화 하려던 참이었어",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "너는 무슨 일로 나를 찾았어?",
+			"title_b": "너는 무슨 일로 나를 찾았어",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "정민은 샤오칭에게 데이비드의 전화번호를 알려 주었습니다.",
+			"title_b": "정민은 샤오칭에게 데이비드의 전화번호를 알려 주었습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "복습 (3)",
+			"title_b": "복습 3",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "버스를 탈 때 현금을 쓰니, 아니면 카드로 결제하니?",
+			"title_b": "버스를 탈 때 현금을 쓰니 아니면 카드로 결제하니",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "당신들은 정류장을 지나쳤습니다.",
+			"title_b": "당신들은 정류장을 지나쳤습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "그들은 함께 버스를 탔습니다.",
+			"title_b": "그들은 함께 버스를 탔습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "이 소포를 한국으로 부치려고 합니다.",
+			"title_b": "이 소포를 한국으로 부치려고 합니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "우편요금은 얼마예요?",
+			"title_b": "우편요금은 얼마예요",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "상호는 국제 소포를 부치려고 우체국에 갔습니다.",
+			"title_b": "상호는 국제 소포를 부치려고 우체국에 갔습니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "이번 방학에 나는 여행을 가려고 해.",
+			"title_b": "이번 방학에 나는 여행을 가려고 해",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "쑤저우, 항저우를 보는 데 5~6일이면 충분해.",
+			"title_b": "쑤저우 항저우를 보는 데 오륙일이면 충분해",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "방학을 이용하여 중국에서 여행을 할 예정입니다.",
+			"title_b": "방학을 이용하여 중국에서 여행을 할 예정입니다",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "복습 (4)",
+			"title_b": "복습 4",
+			"page_name": [
+				"인트로",
+				"미리 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"퀴즈 풀기",
+				"정리 하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6299/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

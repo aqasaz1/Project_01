@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 4805,
+	"content_name": "귀 뚫어주는 여자 - 기본 발음편",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "I spilled some coffee on the copy machine.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Put your belongings in it.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Would you like a lovely rabbit for a pet?",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "The tooth fairy might come during the night.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "The weather doesn't look good.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Are you sure we need to stop?",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "I usually park my car in our garage.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "I didn't know Jess could play chess.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "I asked the boss for a raise.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "I'm going to cram for the exam tomorrow.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Don't joke about her appearance.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Dave said you were feeling sad.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "We'll be done with the digging at dawn.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "I've been between jobs for six months now.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "You look just like Luke.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "We’re planning Joey’s birthday party.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Would you like a cup of coffee?",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "I want you to pick up my dry cleaning.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "May I go to the bathroom?",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Give me that plastic bag.",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"Listen & Speak ",
+				"Lecture",
+				"Listen Up",
+				"Speak Up",
+				"Outro "
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

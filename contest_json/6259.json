@@ -1,0 +1,151 @@
+{
+	"content_lan": "영어",
+	"content_code": 6259,
+	"content_name": "야나두 여행영어 하와이 편",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "호텔 영어",
+			"title_b": "호텔 영어",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "레스토랑 영어",
+			"title_b": "레스토랑 영어",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "렌터카 빌리기",
+			"title_b": "렌터카 빌리기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "시티투어하기",
+			"title_b": "시티투어하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "PCC-동작으로 배우는 영어",
+			"title_b": "PCC 동작으로 배우는 영어",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "쿠알로아랜치",
+			"title_b": "쿠알로아랜치",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "해양 스포츠 즐기기",
+			"title_b": "해양 스포츠 즐기기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "쇼핑하기",
+			"title_b": "쇼핑하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "맛집 정복하기",
+			"title_b": "맛집 정복하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "공항 가뿐히 통과하기",
+			"title_b": "공항 가뿐히 통과하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6259/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,169 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8137",
+	"content_name": "챠오 이탈리아어 회화 고급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "소개",
+			"title_b": "소개",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "학원 등록",
+			"title_b": "학원 등록",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "한국 문화 소개",
+			"title_b": "한국 문화 소개         ",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "은행에서",
+			"title_b": "은행에서",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "차량 빌리기 / 주유소",
+			"title_b": "차량 빌리기 주유소",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "집 찾기",
+			"title_b": "집 찾기",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "인터넷 PC방",
+			"title_b": "인터넷 PC방",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "식료품 가게 / 세탁소",
+			"title_b": "식료품 가게 세탁소",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "우체국",
+			"title_b": "우체국",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "공항에서",
+			"title_b": "공항에서",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "분실물센터",
+			"title_b": "분실물센터",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "핸드폰 유심 사기 / 매점",
+			"title_b": "핸드폰 유심 사기 매점",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "초대",
+			"title_b": "초대",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "미용실",
+			"title_b": "미용실",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "전화 인터뷰",
+			"title_b": "전화 인터뷰",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8137/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

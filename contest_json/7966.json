@@ -1,0 +1,655 @@
+{
+	"content_lan": "영어",
+	"content_code": 7966,
+	"content_name": "야나두 리얼데일리영어",
+	"content_sample": "1/22",
+	"content_chasi": "20/19",
+	"content_size": "1100*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "What It’s Really Like Having A Sister",
+			"title_b": "What It is Really Like Having A Sister",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Never Have I Ever!",
+			"title_b": "Never Have I Ever",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Extreme Couples Yoga",
+			"title_b": "Extreme Couples Yoga",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Water Balloon Roulette Challenge",
+			"title_b": "Water Balloon Roulette Challenge",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Friends vs Best Friends",
+			"title_b": "Friends vs Best Friends",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Coffee Life Hacks",
+			"title_b": "Coffee Life Hacks",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "High School vs College",
+			"title_b": "High School vs College",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "What Shopping With Tween Girls Is Really Like",
+			"title_b": "What Shopping With Tween Girls Is Really Like",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Halloween Pumpkin Carving Challenge",
+			"title_b": "Halloween Pumpkin Carving Challenge",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Kids Manage Money Like Real Grown-ups",
+			"title_b": "Kids Manage Money Like Real Grown ups",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "College Advice From Me & My Hall Mates",
+			"title_b": "College Advice From Me and My Hall Mates",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "We Buy Each Other Outfits",
+			"title_b": "We Buy Each Other Outfits",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Workout Routine & What I Eat In A Day",
+			"title_b": "Workout Routine and What I Eat In A Day",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Internet Celeb Grandma: A Documentary",
+			"title_b": "Internet Celeb Grandma A Documentary",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "New School Year, New Haircuts",
+			"title_b": "New School Year New Haircuts",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "How To Lose Weight",
+			"title_b": "How To Lose Weight",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Back To School Shopping For The Girls",
+			"title_b": "Back To School Shopping For The Girls",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Opening A Package From My Mom",
+			"title_b": "Opening A Package From My Mom",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "How I Lost 40 Pounds Without Exercising",
+			"title_b": "How I Lost 40 Pounds Without Exercising",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "How To Get A Slimmer Face",
+			"title_b": "How To Get A Slimmer Face",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Trying “American” Food From A Korean Convenience Store!",
+			"title_b": "Trying American Food From A Korean Convenience Store",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Answering Questions With My Sister",
+			"title_b": "Answering Questions With My Sister",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "How To Clean Your Room In 10 Minutes",
+			"title_b": "How To Clean Your Room In 10 Minutes",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Office Wear 10 Looks To Transition from Winter to Spring",
+			"title_b": "Office Wear 10 Looks To Transition from Winter to Spring",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Everyday Hair Get Ready With Me!",
+			"title_b": "Everyday Hair Get Ready With Me",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Everyday Makeup Get Ready With Me!",
+			"title_b": "Everyday Makeup Get Ready With Me",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "How To Get Famous On Instagram Fast",
+			"title_b": "How To Get Famous On Instagram Fast",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "She Did It!",
+			"title_b": "She Did It",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "A Normal Day In Japan",
+			"title_b": "A Normal Day In Japan",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "What Thrifting Is Really Like!",
+			"title_b": "What Thrifting Is Really Like",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Morning Life Hacks",
+			"title_b": "Morning Life Hacks",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "Everyday Summer Makeup Routine",
+			"title_b": "Everyday Summer Makeup Routine",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "College Grocery Haul",
+			"title_b": "College Grocery Haul",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Staying Friends With My Ex Boyfriend",
+			"title_b": "Staying Friends With My Ex Boyfriend",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "6 Ways I Survived & Enjoyed School",
+			"title_b": "6 Ways I Survived and Enjoyed School",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "Minimalist Life Hacks",
+			"title_b": "Minimalist Life Hacks",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "How To Handle Burn Out With Alisha Marie",
+			"title_b": "How To Handle Burn Out With Alisha Marie",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Mom vs Girlfriend",
+			"title_b": "Mom vs Girlfriend",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "10 Essential Basics: Capsule, Minimal, Wardrobe",
+			"title_b": "10 Essential Basics Capsule Minimal Wardrobe",
+			"page_name": [
+				"INTRO",
+				"리얼 강의",
+				"받아쓰기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7966/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

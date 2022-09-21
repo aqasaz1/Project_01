@@ -1,0 +1,206 @@
+{
+	"content_lan": "일본어",
+	"content_code": 8116,
+	"content_name": "일본 유튜버와 함께 배우는 체험 일본어 초급편",
+	"content_sample": "12",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "이다빈",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "고급 료칸 체험: 미사사 온천에 도착했습니다!",
+			"title_b": "미사사 온천에 도착했습니다",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "초호화 전세 온천 체험: 온천에 전세를 내다!",
+			"title_b": "온천에 전세를 내다",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "가이세키 요리 체험: 대게 되게 맛있다",
+			"title_b": "대게 되게 맛있다",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "온천 마을 탐방: 여행을 마무리하며",
+			"title_b": "여행을 마무리하며",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "구독자 10만 기념: 편의점에서 천 엔으로 안주와 술을 사 왔습니다",
+			"title_b": "편의점에서 천 엔으로 안주와 술을 사 왔습니다",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "오붓한 둘만의 파티: 우리의 추억을 되돌아보며",
+			"title_b": "우리의 추억을 되돌아보며",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "파워 스폿 첫 번째: 성취석에 빈 아내의 소원은?",
+			"title_b": "성취석에 빈 아내의 소원은",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "파워 스폿 두 번째: 하얀 보살님과 인연을 점치는 연못",
+			"title_b": "하얀 보살님과 인연을 점치는 연못",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "미즈키 시게루 로드: 요괴들이 너무 귀여워!",
+			"title_b": "요괴들이 너무 귀여워",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "오사카 시내: 다코야키를 먹으러 왔습니다",
+			"title_b": "다코야키를 먹으러 왔습니다",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "훠궈 데이트: 평범하지만, 행복한 일상",
+			"title_b": "평범하지만 행복한 일상",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "이즈미시 맛집 탐방: 살면서 먹어본 식빵 중에 제일 맛있어!",
+			"title_b": "살면서 먹어본 식빵 중에 제일 맛있어",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "부부가 골든 위크를 보내는 법: 손 세차와 나들이",
+			"title_b": "손 세차와 나들이",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "일상 브이로그: 쇼핑하고 치과에 다녀왔어요",
+			"title_b": "쇼핑하고 치과에 다녀왔어요",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "렌게지 공원: 흩날리는 벚꽃 잎과 살살 녹는 스테이크",
+			"title_b": "흩날리는 벚꽃 잎과 살살 녹는 스테이크",
+			"page_name": [
+				"티저 영상",
+				"리액션 영상",
+				"섀도잉 영상",
+				"정리 영상"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8116/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

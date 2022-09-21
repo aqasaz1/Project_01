@@ -1,0 +1,595 @@
+{
+	"content_lan": "영어",
+	"content_code": 8147,
+	"content_name": "New 영어식 사고 말하기 트레이닝",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "영어는 단도직입적이다",
+			"title_b": "영어는 단도직입적이다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "영어는 논리적이다",
+			"title_b": "영어는 논리적이다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "영어는 현재 중심이다",
+			"title_b": "영어는 현재 중심이다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "영어는 끝까지 따진다",
+			"title_b": "영어는 끝까지 따진다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "'단어 대 단어' 대입틀을 벗어나라",
+			"title_b": "단어 대 단어 대입틀을 벗어나라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "빼먹어도 된다, 핵심만 옮겨라",
+			"title_b": "빼먹어도 된다 핵심만 옮겨라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "이말 저말 바꿔보고 안 되면 돌아가라",
+			"title_b": "이말 저말 바꿔보고 안 되면 돌아가라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "긴 문장은 쪼개라",
+			"title_b": "긴 문장은 쪼개라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "긍정은 부정으로, 부정은 긍정으로",
+			"title_b": "긍정은 부정으로 부정은 긍정으로",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "도대체, 주어란 무엇인가?",
+			"title_b": "도대체 주어란 무엇인가",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "'~라면'과 '~때문에'도 주어가 된다",
+			"title_b": "무엇이라면과 무엇 때문에도 주어가 된다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "사람과 사물의 역할 바꾸기",
+			"title_b": "사람과 사물의 역할 바꾸기",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "주어는 하나다",
+			"title_b": "주어는 하나다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "기본동사, 기본이 아니라 핵심이다",
+			"title_b": "기본 동사 기본이 아니라 핵심이다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "영어는 have가 지킨다",
+			"title_b": "영어는 have가 지킨다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "영어 동사로 한국어 부사까지 잡는다",
+			"title_b": "영어 동사로 한국어 부사까지 잡는다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "같은 동사 재탕은 안 된다",
+			"title_b": "같은 동사 재탕은 안 된다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "순간과 지속을 구분하자",
+			"title_b": "순간과 지속을 구분하자",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "구동사로 쉽게 표현한다",
+			"title_b": "구동사로 쉽게 표현한다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "'전치사 + 명사'로 우리말 동사를 대신하라",
+			"title_b": "전치사와 명사로 우리말 동사를 대신하라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "형용사로 한국어 동사를 대신하라",
+			"title_b": "형용사로 한국어 동사를 대신하라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "There is/are로 웬만한 표현 다 할 수 있다",
+			"title_b": "There is와 There are로 웬만한 표현 다 할 수 있다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "한국어 능동문을 영어 수동태로",
+			"title_b": "한국어 능동문을 영어 수동태로",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "한국어 피동문을 영어 능동태로",
+			"title_b": "한국어 피동문을 영어 능동태로",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "한국어로 과거시제라도 영어로는 천차만별",
+			"title_b": "한국어로 과거시제라도 영어로는 천차만별",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "'과거보다 앞선 과거' 표현하기",
+			"title_b": "과거보다 앞선 과거 표현하기 ",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "시제일치에 목숨 걸지 마라",
+			"title_b": "시제일치에 목숨 걸지 마라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "까탈스런 시제, 비위 맞추기",
+			"title_b": "까탈스런 시제 비위 맞추기",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "헷갈리는 목적어, 이렇게 찾아라",
+			"title_b": "헷갈리는 목적어 이렇게 찾아라",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "이런 목적어에 주의하라 <동+목+전+명>",
+			"title_b": "이런 목적어에 주의하라 동 목 전 명",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "한국어는 타동사, 영어는 자동사",
+			"title_b": "한국어는 타동사 영어는 자동사",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "한국어는 자동사, 영어는 타동사",
+			"title_b": "한국어는 자동사 영어는 타동사",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "사전, 영어책, 인터넷에 나오는 틀린 영어",
+			"title_b": "사전 영어책 인터넷에 나오는 틀린 영어 ",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "콩글리시 박멸하기",
+			"title_b": "콩글리시 박멸하기",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "한국 문화와 서양 문화는 달라도 너무 다르다",
+			"title_b": "한국 문화와 서양 문화는 달라도 너무 다르다",
+			"page_name": [
+				"Today's Rule",
+				"Expression Check",
+				"Lecture",
+				"Speaking Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4_bind_part/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "Review (1) 영어식으로 생각하기, 영어 문장 만들기",
+			"title_b": "Review 1 영어식으로 생각하기 영어 문장 만들기 ",
+			"page_name": [
+				"Lecture",
+				null,
+				null,
+				null
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "Review (2) 주어 고르기",
+			"title_b": "Review 2 주어 고르기 ",
+			"page_name": [
+				"Lecture",
+				null,
+				null,
+				null
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Review (3) 동사 관련 법칙 (I)",
+			"title_b": "Review 3 동사 관련 법칙 I",
+			"page_name": [
+				"Lecture",
+				null,
+				null,
+				null
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Review (4) 동사 관련 법칙 (II)",
+			"title_b": "Review 4 동사 관련 법칙 II",
+			"page_name": [
+				"Lecture",
+				null,
+				null,
+				null
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Review (5) 잘못된 영어 바로잡기",
+			"title_b": "Review 5 잘못된 영어 바로잡기",
+			"page_name": [
+				"Lecture",
+				null,
+				null,
+				null
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8147/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

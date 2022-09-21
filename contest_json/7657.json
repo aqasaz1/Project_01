@@ -1,0 +1,131 @@
+{
+	"content_lan": "중국어",
+	"content_code": 7657,
+	"content_name": "영상으로 체험하는 뿜뿜 중국어 - 알콩달콩 일상편",
+	"content_sample": "1",
+	"content_chasi": "12",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "안부를 묻다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "한국과 중국의 밸런타인데이",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "데이트를 신청하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "고백하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "다이어트를 하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "함께 등교하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "아픈 여자 친구를 보살피다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "용돈을 다 쓴 여자 친구",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "친구에게 축하를 받다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "초록색 모자를 쓴다는 것",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "한국 음식을 만들어 주다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "이별을 준비하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7657/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

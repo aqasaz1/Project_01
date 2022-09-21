@@ -1,0 +1,161 @@
+{
+	"content_lan": "중국어",
+	"content_code": 7658,
+	"content_name": "영상으로 체험하는 뿜뿜 중국어 - 탄탄대로 취업편",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "취직하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "중국 회사에 전화하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "방문 약속을 잡다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "공항에서 마중하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "택시를 타다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "호텔에서 체크인하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "거래처와 식사하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "술자리를 갖다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "중국 회사를 방문하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "제품을 설명하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "사업장을 둘러보다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "계약하다 1",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "계약하다 2",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "배웅하다",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "에필로그",
+			"title_b": null,
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7658/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

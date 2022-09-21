@@ -1,0 +1,269 @@
+{
+	"content_lan": "영어",
+	"content_code": 5908,
+	"content_name": "내게는 특별한 NEW TOEIC을 부탁해 RC intensive",
+	"content_sample": "3",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "명사",
+			"title_b": "명사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "형용사",
+			"title_b": "형용사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "부사",
+			"title_b": "부사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "문장의 형식과 동사의 종류",
+			"title_b": "문장의 형식과 동사의 종류",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "명사 어휘 연습 / 복합 지문",
+			"title_b": "명사 어휘 연습과 복합 지문",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "조동사와 여러 가지 타동사",
+			"title_b": "조동사와 여러 가지 타동사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사의 시제",
+			"title_b": "동사의 시제",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "수동태",
+			"title_b": "수동태",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "대명사",
+			"title_b": "대명사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "형용사 어휘 연습 / 복합 지문",
+			"title_b": "형용사 어휘 연습과 복합 지문",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "접속사",
+			"title_b": "접속사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "분사 구문",
+			"title_b": "분사 구문",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "관계 대명사",
+			"title_b": "관계 대명사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "주격 관계 대명사 + be 동사의 생략",
+			"title_b": "주격 관계 대명사와 be 동사의 생략",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "타동사 어휘 연습 / 복합 지문",
+			"title_b": "타동사 어휘 연습과 복합 지문",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "수량 형용사와 수 일치",
+			"title_b": "수량 형용사와 수 일치",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "비교급과 최상급",
+			"title_b": "비교급과 최상급",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "전치사",
+			"title_b": "전치사",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE",
+				"REVIEW"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Actual Test (1)",
+			"title_b": "Actual Test 1",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Actual Test (2)",
+			"title_b": "Actual Test 2",
+			"page_name": [
+				"INTRO",
+				"PREVIEW",
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5908/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,331 @@
+{
+	"content_lan": "일본어",
+	"content_code": 6359,
+	"content_name": "다락원 Biz 일본어 마스터 초급",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "첫인사",
+			"title_b": "첫인사",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "상사 소개",
+			"title_b": "상사 소개",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "일정 협의",
+			"title_b": "일정 협의",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "호텔 안내",
+			"title_b": "호텔 안내",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "마중",
+			"title_b": "마중",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "회사 소개 1",
+			"title_b": "회사 소개 1",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "회사 소개 2",
+			"title_b": "회사 소개 2",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "이동",
+			"title_b": "이동",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "공장 견학 1",
+			"title_b": "공장 견학 1",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "공장 견학 2",
+			"title_b": "공장 견학 2",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "안내 1 (명동)",
+			"title_b": "명동 안내",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "안내 2 (경복궁)",
+			"title_b": "경복궁 안내",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "접대 (식사)",
+			"title_b": "식사 접대",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "접대 (일본식 술집)",
+			"title_b": "술 접대",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "전화 응대 (부재중)",
+			"title_b": "부재중",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "전화 응대 (통화 중)",
+			"title_b": "통화 중",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "전화 응대 (연결하기)",
+			"title_b": "전화 연결하기",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "전화 응대 (문제 발생)",
+			"title_b": "문제 발생 시 전화 응대",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "문의 (자료 청구)",
+			"title_b": "자료 청구에 대한 문의",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "문의 (회사 방문)",
+			"title_b": "회사 방문에 대한 문의",
+			"page_name": [
+				"인트로",
+				"Biz 어휘",
+				"Biz 회화",
+				"Biz 강의",
+				"Biz 톡",
+				"Biz 체크",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6359/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

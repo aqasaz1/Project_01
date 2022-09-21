@@ -1,0 +1,539 @@
+{
+	"content_lan": "영어",
+	"content_code": 8153,
+	"content_name": "750+ 토익 뽀개기 - LC공략 편",
+	"content_sample": "1/20",
+	"content_chasi": "19/21",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Part 1 1인 사진",
+			"title_b": "Part 1 1인 사진",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Part 1 실전 문제 연습 I",
+			"title_b": "Part 1 실전 문제 연습 I",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Part 1 2인 이상 사진",
+			"title_b": "Part 1 2인 이상 사진",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Part 1 실전 문제 연습 II",
+			"title_b": "Part 1 실전 문제 연습 II",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Part 1 사물 및 풍경 사진",
+			"title_b": "Part 1 사물 및 풍경 사진",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Part 1 실전 문제 연습 III",
+			"title_b": "Part 1 실전 문제 연습 III",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Part 2 Who와 Where로 시작하는 의문문 ",
+			"title_b": "Part 2 Who와 Where로 시작하는 의문문 ",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Part 2 When과 Why로 시작하는 의문문 ",
+			"title_b": "Part 2 When과 Why로 시작하는 의문문 ",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Part 2 How로 시작하는 의문문 ",
+			"title_b": "Part 2 How로 시작하는 의문문 ",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Part 2 What과 Which로 시작하는 의문",
+			"title_b": "Part 2 What과 Which로 시작하는 의문문 ",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Part 2 실전 문제 연습 I (1)",
+			"title_b": "Part 2 실전 문제 연습 I 1",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Part 2 실전 문제 연습 I (2)",
+			"title_b": "Part 2 실전 문제 연습 I 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Part 2 간접의문문과 선택의문문",
+			"title_b": "Part 2 간접의문문과 선택의문문",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Part 2 부정의문문과 부가의문문",
+			"title_b": "Part 2 부정의문문과 부가의문문",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Part 2 조동사로 시작하는 의문문",
+			"title_b": "Part 2 조동사로 시작하는 의문문",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Part 2 Be, Do, Have로 시작하는 의문문",
+			"title_b": "Part 2 Be Do Have로 시작하는 의문문",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Part 2 평서문",
+			"title_b": "Part 2 평서문",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Part 2 실전 문제 연습 II (1)",
+			"title_b": "Part 2 실전 문제 연습 II 1",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Part 2 실전 문제 연습 II (2)",
+			"title_b": "Part 2 실전 문제 연습 II 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Part 3 초중반부 내용 문제 I: 대화의 주제, 목적, 이유",
+			"title_b": "Part 3 초중반부 내용 문제 I 대화의 주제, 목적, 이유",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Part 3 초중반부 내용 문제 II: 신분이나 직업",
+			"title_b": "Part 3 초중반부 내용 문제 II 신분이나 직업",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Part 3 초중반부 내용 문제 III: 대화하는 장소",
+			"title_b": "Part 3 초중반부 내용 문제 III 대화하는 장소",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Part 3 중후반부 내용 문제",
+			"title_b": "Part 3 중후반부 내용 문제",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Part 3 세부 사항 문제 (1)",
+			"title_b": "Part 3 세부 사항 문제 1",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Part 3 세부 사항 문제 (2)",
+			"title_b": "Part 3 세부 사항 문제 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Part 3 화자의 의도를 묻는 문제",
+			"title_b": "Part 3 화자의 의도를 묻는 문제",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Part 3 시각 정보 문제 (1)",
+			"title_b": "Part 3 시각 정보 문제 1",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Part 3 시각 정보 문제 (2)",
+			"title_b": "Part 3 시각 정보 문제 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Part 3 실전 문제 연습 (1)",
+			"title_b": "Part 3 실전 문제 연습 1",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Part 3 실전 문제 연습 (2)",
+			"title_b": "Part 3 실전 문제 연습 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Part 3 실전 문제 연습 (3)",
+			"title_b": "Part 3 실전 문제 연습 3",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "Part 4 전화 메시지",
+			"title_b": "Part 4 전화 메시지",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "Part 4 공지 및 방송",
+			"title_b": "Part 4 공지 및 방송",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Part 4 광고",
+			"title_b": "Part 4 광고",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "Part 4 회의 및 연설 (1)",
+			"title_b": "Part 4 회의 및 연설 1",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "Part 4 회의 및 연설 (2)",
+			"title_b": "Part 4 회의 및 연설 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "Part 4 관광 및 견학 안내",
+			"title_b": "Part 4 관광 및 견학 안내",
+			"page_name": [
+				"문제 풀이 팁",
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Part 4 실전 문제 연습 (1)",
+			"title_b": "Part 4 실전 문제 연습 1",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Part 4 실전 문제 연습 (2)",
+			"title_b": "Part 4 실전 문제 연습 2",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Part 4 실전 문제 연습 (3)",
+			"title_b": "Part 4 실전 문제 연습 3",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8153/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

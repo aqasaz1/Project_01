@@ -1,0 +1,331 @@
+{
+	"content_lan": "영어",
+	"content_code": 4727,
+	"content_name": "바로 써먹는 비즈니스 전화 템플릿",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "전화 걸고 받기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "전화 바꿔주기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "통화가 불가능할 때",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "메시지 남기기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "메시지 받기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "약속 정하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "문의하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "문의에 답하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "주문하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "주문 처리하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "항의하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "항의 처리하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "잘못 걸린 전화",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "자동응답기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "국제전화",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "통화하기 어려운 상황",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "축하 및 위로 전화",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "주문 및 예약하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "안부전화",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "응급 상황에서",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

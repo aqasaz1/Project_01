@@ -1,0 +1,611 @@
+{
+	"content_lan": "영어",
+	"content_code": 5679,
+	"content_name": "손에 쥐는 영어 회화 200% 즐기기 - 중급편",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "항공편 예약",
+			"title_b": "항공편 예약",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "탑승 수속",
+			"title_b": "탑승 수속",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "환전소에서",
+			"title_b": "환전소에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "기내에서",
+			"title_b": "기내에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "입국 심사 및 세관 통과 (1)",
+			"title_b": "입국 심사 및 세관 통과 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "입국 심사 및 세관 통과 (2)",
+			"title_b": "입국 심사 및 세관 통과 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "빈방을 구할 때",
+			"title_b": "빈방을 구할 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "호텔 서비스",
+			"title_b": "호텔 서비스",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "관광 정보를 물을 때",
+			"title_b": "관광 정보를 물을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "관광지에서",
+			"title_b": "관광지에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "사진을 찍을 때 (1)",
+			"title_b": "사진을 찍을 때 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "사진을 찍을 때 (2)",
+			"title_b": "사진을 찍을 때 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "둘러볼 때",
+			"title_b": "둘러볼 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "옷을 살 때",
+			"title_b": "옷을 살 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "면세점과 기념품 가게",
+			"title_b": "면세점과 기념품 가게",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "계산할 때",
+			"title_b": "계산할 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "예약 및 자리 요청 (1)",
+			"title_b": "예약 및 자리 요청 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "예약 및 자리 요청 (2)",
+			"title_b": "예약 및 자리 요청 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "주문하기",
+			"title_b": "주문하기",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "패스트푸드점에서",
+			"title_b": "패스트푸드점에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "바에 가서",
+			"title_b": "바에 가서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "길을 물을 때 (1)",
+			"title_b": "길을 물을 때 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "길을 물을 때 (2)",
+			"title_b": "길을 물을 때 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "버스",
+			"title_b": "버스",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "지하철과 기차",
+			"title_b": "지하철과 기차",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "택시",
+			"title_b": "택시",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "교통 체증",
+			"title_b": "교통 체증",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "렌트하기",
+			"title_b": "렌트하기",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "자동차 구입",
+			"title_b": "자동차 구입",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "주유소에서",
+			"title_b": "주유소에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "정비소에서",
+			"title_b": "정비소에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "단속에 걸렸을 때",
+			"title_b": "단속에 걸렸을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "교통사고가 났을 때",
+			"title_b": "교통사고가 났을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "증세를 설명할 때 (1)",
+			"title_b": "증세를 설명할 때 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "증세를 설명할 때 (2)",
+			"title_b": "증세를 설명할 때 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "진료 및 입원",
+			"title_b": "진료 및 입원",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "약국에서",
+			"title_b": "약국에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "부동산에서",
+			"title_b": "부동산에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "집의 상태를 물을 때",
+			"title_b": "집의 상태를 물을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "집에 문제가 생겼을 때",
+			"title_b": "집에 문제가 생겼을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5679/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

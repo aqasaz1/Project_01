@@ -1,0 +1,862 @@
+{
+	"content_lan": "영어",
+	"content_code": 7968,
+	"content_name": "야나두 리얼퍼펙트리스닝",
+	"content_sample": "1/19/38",
+	"content_chasi": "18/19/18",
+	"content_size": "1100*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Get Ready With Me! Parody 1",
+			"title_b": "Get Ready With Me Parody 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Get Ready With Me! Parody 2",
+			"title_b": "Get Ready With Me Parody 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Cute & Easy Summer Hairstyles 1",
+			"title_b": "Cute and Easy Summer Hairstyles 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Cute & Easy Summer Hairstyles 2",
+			"title_b": "Cute and Easy Summer Hairstyles 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Cute & Easy Summer Hairstyles 3",
+			"title_b": "Cute and Easy Summer Hairstyles 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Travel Hacks 1",
+			"title_b": "Travel Hacks 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Travel Hacks 2",
+			"title_b": "Travel Hacks 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "What Is Thanksgiving? 1",
+			"title_b": "What Is Thanksgiving 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "What Is Thanksgiving? 2",
+			"title_b": "What Is Thanksgiving 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Christmas Questions Answered 1",
+			"title_b": "Christmas Questions Answered 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Christmas Questions Answered 2",
+			"title_b": "Christmas Questions Answered 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Kids Manage Money Like Real Grown-Ups 1",
+			"title_b": "Kids Manage Money Like Real Grown Ups 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Kids Manage Money Like Real Grown-Ups 2",
+			"title_b": "Kids Manage Money Like Real Grown Ups 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "The Biggest Shopping Day 1",
+			"title_b": "The Biggest Shopping Day 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "The Biggest Shopping Day 2",
+			"title_b": "The Biggest Shopping Day 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Owning A Supercar: Reality vs Fantasy 1",
+			"title_b": "Owning A Supercar Reality vs Fantasy 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Owning A Supercar: Reality vs Fantasy 2",
+			"title_b": "Owning A Supercar Reality vs Fantasy 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Owning A Supercar: Reality vs Fantasy 3",
+			"title_b": "Owning A Supercar Reality vs Fantasy 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Lucie Fink’s Morning Routine 1",
+			"title_b": "Lucie Fink Morning Routine 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Lucie Fink’s Morning Routine 2",
+			"title_b": "Lucie Fink Morning Routine 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Lucie Fink’s Morning Routine 3",
+			"title_b": "Lucie Fink Morning Routine 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "DIY Tumblr Room Decoration 1",
+			"title_b": "DIY Tumblr Room Decoration 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "DIY Tumblr Room Decoration 2",
+			"title_b": "DIY Tumblr Room Decoration 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "DIY Tumblr Room Decoration 3",
+			"title_b": "DIY Tumblr Room Decoration 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "How To Invest 1",
+			"title_b": "How To Invest 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "How To Invest 2",
+			"title_b": "How To Invest 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "How To Invest 3",
+			"title_b": "How To Invest 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Millennials List Their Daily Challenges 1",
+			"title_b": "Millennials List Their Daily Challenges 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Millennials List Their Daily Challenges 2",
+			"title_b": "Millennials List Their Daily Challenges 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "How To Get Him To Propose 1",
+			"title_b": "How To Get Him To Propose 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "How To Get Him To Propose 2",
+			"title_b": "How To Get Him To Propose 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "How To Get Him To Propose 3",
+			"title_b": "How To Get Him To Propose 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "Trash Me With Rob Greenfield",
+			"title_b": "Trash Me With Rob Greenfield",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Cheap Clothing vs Expensive Clothing 1",
+			"title_b": "Cheap Clothing vs Expensive Clothing 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "Cheap Clothing vs Expensive Clothing 2",
+			"title_b": "Cheap Clothing vs Expensive Clothing 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "Cheap Clothing vs Expensive Clothing 3",
+			"title_b": "Cheap Clothing vs Expensive Clothing 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "Cheap Clothing vs Expensive Clothing 4",
+			"title_b": "Cheap Clothing vs Expensive Clothing 4",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Pilobolus: Art Without Authorship 1",
+			"title_b": "Pilobolus Art Without Authorship 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Pilobolus: Art Without Authorship 2",
+			"title_b": "Pilobolus Art Without Authorship 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Annoying Types Of Customers 1",
+			"title_b": "Annoying Types Of Customers 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "Annoying Types Of Customers 2",
+			"title_b": "Annoying Types Of Customers 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "Annoying Types Of Customers 3",
+			"title_b": "Annoying Types Of Customers 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "Annoying Types Of Customers 4",
+			"title_b": "Annoying Types Of Customers 4",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "Office Wear 10 Looks To Transition From Winter To Spring 1",
+			"title_b": "Office Wear 10 Looks To Transition From Winter To Spring 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "Office Wear 10 Looks To Transition From Winter To Spring 2",
+			"title_b": "Office Wear 10 Looks To Transition From Winter To Spring 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "Office Wear 10 Looks To Transition From Winter To Spring 3",
+			"title_b": "Office Wear 10 Looks To Transition From Winter To Spring 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "Nuclear Fire Noodle Challenge",
+			"title_b": "Nuclear Fire Noodle Challenge",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "How To Order Wine At A Restaurant 1",
+			"title_b": "How To Order Wine At A Restaurant 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "How To Order Wine At A Restaurant 2",
+			"title_b": "How To Order Wine At A Restaurant 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "How To Order Wine At A Restaurant 3",
+			"title_b": "How To Order Wine At A Restaurant 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "Jack Daniel’s Old No. 7 - Whiskey Review 1",
+			"title_b": "Jack Daniel Old No 7 Whiskey Review 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "Jack Daniel’s Old No. 7 - Whiskey Review 2",
+			"title_b": "Jack Daniel Old No 7 Whiskey Review 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "The World’s Largest Fruits 1",
+			"title_b": "The World Largest Fruits 1",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "The World’s Largest Fruits 2",
+			"title_b": "The World Largest Fruits 2",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "The World’s Largest Fruits 3",
+			"title_b": "The World Largest Fruits 3",
+			"page_name": [
+				"인트로",
+				"리얼 영상",
+				"리얼 강의",
+				"리얼 말하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7968/mp4_bind/z1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 62,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 63,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 64,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 65,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 66,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 67,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 68,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 69,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 70,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 71,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 72,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,187 @@
+{
+	"content_lan": "일본어",
+	"content_code": 8155,
+	"content_name": "일본어의 정석! 다이나믹 일본어 고급",
+	"content_sample": "8",
+	"content_chasi": "16",
+	"content_size": "1000*650",
+	"content_cm": "신재민",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "恋愛 ",
+			"title_b": "연애",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "ストレス",
+			"title_b": "스트레스",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "お酒",
+			"title_b": "술",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "ダイエット",
+			"title_b": "다이어트",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "携帯電話",
+			"title_b": "휴대전화",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "ペット",
+			"title_b": "반려동물",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "友情",
+			"title_b": "우정",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "インターネット",
+			"title_b": "인터넷",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "就職",
+			"title_b": "취직",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "結婚生活",
+			"title_b": "결혼생활",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "年中行事",
+			"title_b": "연중행사",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "伝統芸能",
+			"title_b": "전통예능",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "冠婚葬祭",
+			"title_b": "관혼상제",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "教育",
+			"title_b": "교육",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "環境問題",
+			"title_b": "환경문제",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "高齢化社会",
+			"title_b": "고령화사회",
+			"page_name": [
+				"다이나믹 회화 1",
+				"다이나믹 회화 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8155/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

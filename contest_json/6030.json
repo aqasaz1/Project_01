@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 6030,
+	"content_name": "입 모양으로 배우는 기초 영어 2탄",
+	"content_sample": "5",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "My phone number is 345-6789.",
+			"title_b": "My phone number is 345 6789",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "I’m bored.",
+			"title_b": "I am bored",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "I’m playing tennis.",
+			"title_b": "I am playing tennis",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "I have a headache.",
+			"title_b": "I have a headache",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "I like cooking.",
+			"title_b": "I like cooking",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "I want to travel.",
+			"title_b": "I want to travel",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "I have to get up early.",
+			"title_b": "I have to get up early",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "She has curly hair.",
+			"title_b": "She has curly hair",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "He does the laundry on Tuesdays.",
+			"title_b": "He does the laundry on Tuesdays",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "My cell phone is bigger than yours.",
+			"title_b": "My cell phone is bigger than yours",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "The train is the fastest of all.",
+			"title_b": "The train is the fastest of all",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "What time is it now?",
+			"title_b": "What time is it now",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "When is your birthday?",
+			"title_b": "When is your birthday",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Where is the lamp?",
+			"title_b": "Where is the lamp",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "How much is this apple?",
+			"title_b": "How much is this apple",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "It was cloudy yesterday.",
+			"title_b": "It was cloudy yesterday",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "I wasn’t talkative.",
+			"title_b": "I was not talkative",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "I listened to music.",
+			"title_b": "I listened to music",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "I made chicken soup.",
+			"title_b": "I made chicken soup",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "I will be a teacher.",
+			"title_b": "I will be a teacher",
+			"page_name": [
+				"Intro",
+				"미리 보기",
+				"수업하기",
+				"따라 하기",
+				"확인하기",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6030/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

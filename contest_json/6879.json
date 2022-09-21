@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": 6879,
+	"content_name": "[영화영어] Olive Green A2",
+	"content_sample": "1",
+	"content_chasi": "12",
+	"content_size": "1200*650",
+	"content_cm": "김영실",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "SCENE 13 외딴 곳",
+			"title_b": "SCENE 13 외딴 곳",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "SCENE 14 협박의 기술",
+			"title_b": "SCENE 14 협박의 기술",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "SCENE 15 데이비드의 거짓말",
+			"title_b": "SCENE 15 데이비드의 거짓말",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "SCENE 16 은밀한 거래",
+			"title_b": "SCENE 16 은밀한 거래",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "SCENE 17 탐문 시작",
+			"title_b": "SCENE 17 탐문 시작",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "SCENE 18 어둠의 해결사, 알피",
+			"title_b": "SCENE 18 어둠의 해결사 알피",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "SCENE 19 덫에 걸린 데이비드",
+			"title_b": "SCENE 19 덫에 걸린 데이비드",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "SCENE 20 정면 대결",
+			"title_b": "SCENE 20 정면 대결",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "SCENE 21 제 무덤 파기",
+			"title_b": "SCENE 21 제 무덤 파기",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "SCENE 22 또 다른 대결",
+			"title_b": "SCENE 22 또 다른 대결",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "SCENE 23 감금",
+			"title_b": "SCENE 23 감금",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking ",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "SCENE 24 데이비드의 선택",
+			"title_b": "SCENE 24 데이비드의 선택",
+			"page_name": [
+				"Intro ",
+				"Play ",
+				"Commentary ",
+				"Scene Selection ",
+				"Listening&Speaking",
+				"Next"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6879/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,199 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 7844,
+	"content_name": "New 싸왓디 태국어 첫걸음",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "태국어의 특징",
+			"title_b": "태국어의 특징",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "태국어의 성조",
+			"title_b": "태국어의 성조",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "태국어의 의문문 1",
+			"title_b": "태국어의 의문문 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "태국어의 의문문 2",
+			"title_b": "태국어의 의문문 2",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "가능과 능력의 조동사",
+			"title_b": "가능과 능력의 조동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "시제 조동사",
+			"title_b": "시제 조동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "경험, 당연의 조동사",
+			"title_b": "경험과 당연의 조동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "의지, 개연의 조동사",
+			"title_b": "의지와 개연의 조동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "방향부사",
+			"title_b": "방향부사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "비교급과 최상급",
+			"title_b": "비교급과 최상급",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "복합명사",
+			"title_b": "복합명사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "전치사 1",
+			"title_b": "전치사 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "전치사 2",
+			"title_b": "전치사 2",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "접속사 1",
+			"title_b": "접속사 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "접속사 2",
+			"title_b": "접속사 2",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5433/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

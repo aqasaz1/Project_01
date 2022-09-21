@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 4691,
+	"content_name": "OPIc Punch to IH 기본 전략편",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "유상아",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "회사 연수 프로그램 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "동료들과의 점심시간 묘사하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "한국의 대중 교통 묘사하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "한국 경찰관의 역할 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "치과와 관련된 일반적인 경험 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "자주 가는 은행 묘사하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "좋아하는 영화 관람기 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "주거 문화의 변화에 대해 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "콘서트에 갔던 경험 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "춤추기를 좋아하게 된 계기 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "마지막 해외출장 이야기 및 목적 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "대한민국 신분증 발급 과정 설명하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "기억에 남는 점심시간 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "가장 기억에 남는 하이킹 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "경찰관과의 에피소드 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "치과와 관련된 특별한 경험 이야기하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "노래교실 등록관련 롤플레이하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "파티를 여는 친구에게 질문하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "헬스클럽 등록에 관해 질문하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "집안일 관련 롤플레이하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"IH Speaking Task",
+				"Question",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,607 @@
+{
+	"content_lan": "중국어",
+	"content_code": 5579,
+	"content_name": "왕초보를 위한 속성 중국어 회화 - 초급탈출 편",
+	"content_sample": "2/22",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "하마터면 잊을 뻔했어",
+			"title_b": "하마터면 잊을 뻔했어",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "영어로 교류해",
+			"title_b": "영어로 교류해",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "독서를 습관으로 만드세요",
+			"title_b": "독서를 습관으로 만드세요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "만두 빚어서 먹어요",
+			"title_b": "만두 빚어서 먹어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "맵고 짜요",
+			"title_b": "맵고 짜요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "매우 유명한 라면 가게",
+			"title_b": "매우 유명한 라면 가게",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "누구와 약속이야?",
+			"title_b": "누구와 약속이야",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "너를 믿어",
+			"title_b": "너를 믿어",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "후회할 필요 없어요",
+			"title_b": "후회할 필요 없어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습(1)",
+			"title_b": "복습1",
+			"page_name": [
+				"인트로",
+				"말하기 문제풀이1",
+				"해설 강의",
+				"말하기 문제풀이2",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "다이어트는 너무 힘들어요",
+			"title_b": "다이어트는 너무 힘들어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "좋은 생각이야",
+			"title_b": "좋은 생각이야",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "반드시 유지해야 해요",
+			"title_b": "반드시 유지해야 해요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "너는 어떤 남자를 좋아하니?",
+			"title_b": "너는 어떤 남자를 좋아하니",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "일을 매우 성실하게 해요",
+			"title_b": "일을 매우 성실하게 해요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "더 좋은 성적을 얻습니다",
+			"title_b": "더 좋은 성적을 얻습니다",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "내일 나는 출장을 가야 해요",
+			"title_b": "내일 나는 출장을 가야 해요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "백 위안을 주웠어요",
+			"title_b": "백 위안을 주웠어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "그 역시 낭비의 일종이예요",
+			"title_b": "그 역시 낭비의 일종이예요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습(2)",
+			"title_b": "복습2",
+			"page_name": [
+				"인트로",
+				"말하기 문제풀이1",
+				"해설 강의",
+				"말하기 문제풀이2",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "30분을 미뤘어요",
+			"title_b": "30분을 미뤘어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "수고했어요",
+			"title_b": "수고했어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "올바른 선택",
+			"title_b": "올바른 선택",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "우리 집 고양이가 한 거예요",
+			"title_b": "우리 집 고양이가 한 거예요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "여기저기 함부로 버리지 말거라",
+			"title_b": "여기저기 함부로 버리지 말거라",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "플라스틱 쓰레기",
+			"title_b": "플라스틱 쓰레기",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "버리게 되면 너무 아깝잖아",
+			"title_b": "버리게 되면 너무 아깝잖아",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "흡연은 건강에 안 좋아요",
+			"title_b": "흡연은 건강에 안 좋아요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "좋은 습관은 성공의 열쇠입니다",
+			"title_b": "좋은 습관은 성공의 열쇠입니다",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "복습(3)",
+			"title_b": "복습3",
+			"page_name": [
+				"인트로",
+				"말하기 문제풀이1",
+				"해설 강의",
+				"말하기 문제풀이2",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "팩스로 보내줘 봐",
+			"title_b": "팩스로 보내줘 봐",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "요즘 너 뭐가 그리 바쁜 거야?",
+			"title_b": "요즘 너 뭐가 그리 바쁜 거야",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "민족 마을을 참관하다",
+			"title_b": "민족 마을을 참관하다",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "거의 다 되었어요",
+			"title_b": "거의 다 되었어요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "너 절대 늦지 마",
+			"title_b": "너 절대 늦지 마",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "자기 자신을 이해하기",
+			"title_b": "자기 자신을 이해하기",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5579/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "제 시간에 갈 수 있나요?",
+			"title_b": "제 시간에 갈 수 있나요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "우리 쓸데없이 기다리는 거 아니야?",
+			"title_b": "우리 쓸데없이 기다리는 거 아니야",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "충분히 생각한 후에 말하세요",
+			"title_b": "충분히 생각한 후에 말하세요",
+			"page_name": [
+				"인트로",
+				"단어 학습",
+				"문장 따라 말하기",
+				"본문 강의",
+				"반복 말하기",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "복습(4)",
+			"title_b": "복습4",
+			"page_name": [
+				"인트로",
+				"말하기 문제풀이1",
+				"해설 강의",
+				"말하기 문제풀이2",
+				"정리하기"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

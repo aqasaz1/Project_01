@@ -1,0 +1,446 @@
+{
+	"content_lan": "영어",
+	"content_code": 8121,
+	"content_name": "미국 영어 회화 문법 2 - 동사와 시제 편 (2)",
+	"content_sample": "1",
+	"content_chasi": "17",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "must 함부로 쓰지 마라",
+			"title_b": "must 함부로 쓰지 마라",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "may와 can을 구분 가능? 가능!",
+			"title_b": "may와 can을 구분하자",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "would보다 used to",
+			"title_b": "would보다 used to",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "미래의 과거도 있어?",
+			"title_b": "미래의 과거도 있어",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "읽는 척과 읽은 척, 영어로?",
+			"title_b": "읽는 척과 읽은 척을 영어로",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "조동사에 완료 시제를 더하면?",
+			"title_b": "조동사에 완료 시제를 더하면",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "직접화법, 참 쉽죠?",
+			"title_b": "직접화법 참 쉽죠",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "간접화법, 걱정하지 않아도 된다",
+			"title_b": "간접화법 걱정하지 않아도 된다",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "간접화법, 차근차근 남의 말을 옮겨 보자",
+			"title_b": "간접화법 차근차근 남의 말을 옮겨 보자",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "의문문과 명령문을 간접화법으로",
+			"title_b": "의문문과 명령문을 간접화법으로",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "‘얼음에 열을 가하면 녹는다’를 영어로?",
+			"title_b": "얼음에 열을 가하면 녹는다를 영어로",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "‘내가 너라면’을 영어로?",
+			"title_b": "내가 너라면을 영어로",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "‘미리 주의를 줬다면’을 영어로?",
+			"title_b": "미리 주의를 줬다면을 영어로",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "if가 없는데 가정법이야?",
+			"title_b": "if가 없는데 가정법이야",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "분사가 도대체 뭐야?",
+			"title_b": "분사가 도대체 뭐야",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "완료분사구문? 긴장하지 마세요",
+			"title_b": "완료분사구문 긴장하지 마세요",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "he being absent는 맞는 표현일까?",
+			"title_b": "he being absent는 맞는 표현일까",
+			"page_name": [
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8121/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

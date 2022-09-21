@@ -1,0 +1,331 @@
+{
+	"content_lan": "영어",
+	"content_code": 4726,
+	"content_name": "바로 써먹는 비즈니스 이메일 템플릿",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "이메일 첫인사",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "답장 보내기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "수신 확인 및 회신 요청",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "맺는글",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "약속 및 회의 일정",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "사업 제안 및 거절",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "정보 및 협조 요청",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "파일 첨부하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "이메일 주소 확인",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "문의하기 / 문의에 응대하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "부재중 알리기 / 자동 회신",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "이직 통보 / 후임자 소개",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "축하 / 감사 이메일",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "경축 / 위로의 표현",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "사과 이메일",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "초대하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "보고서",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "기획서",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "공문(부서간 협조문)",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "사내 메모 / 게시판",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"템플릿 미리보기",
+				"족집게 표현 미리보기",
+				"오늘의 강의",
+				"바로 써먹는 표현",
+				"바로 써먹는 템플릿",
+				"Summary"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

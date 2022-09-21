@@ -1,0 +1,254 @@
+{
+	"content_lan": "영어",
+	"content_code": 6537,
+	"content_name": "야나두 왕기초 이론 영어",
+	"content_sample": "13",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "영어 훈민정음 - 모음 훈련",
+			"title_b": "영어 훈민정음 모음 훈련",
+			"page_name": [
+				"인트로",
+				"영어 훈민정음",
+				"모음 훈련 1",
+				"모음 훈련 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "영어 훈민정음 - 자음 훈련",
+			"title_b": "영어 훈민정음 자음 훈련",
+			"page_name": [
+				"인트로",
+				"자음 훈련 1",
+				"자음 훈련 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "명사1 (단수, 복수)",
+			"title_b": "명사1 단수 복수",
+			"page_name": [
+				"인트로",
+				"준비운동",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "명사2 (수량)",
+			"title_b": "명사2 수량",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "대명사1 (인칭)",
+			"title_b": "대명사1 인칭",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "대명사2 (지시)",
+			"title_b": "대명사2 지시",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사1 (인칭)",
+			"title_b": "동사1 인칭",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "동사2 (시제)",
+			"title_b": "동사2 시제",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "동사3 (조동사)",
+			"title_b": "동사3 조동사",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "형용사1 (위치)",
+			"title_b": "형용사1 위치",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "형용사2 (비교, 최상)",
+			"title_b": "형용사2 비교 최상",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "부사 (위치, 종류)",
+			"title_b": "부사 위치 종류",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "전치사1 (위치)",
+			"title_b": "전치사1 위치",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "전치사2 (장소, 시간)",
+			"title_b": "전치사2 장소 시간",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "접속사",
+			"title_b": "접속사",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "평서문",
+			"title_b": "평서문",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "부정문",
+			"title_b": "부정문",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "의문문",
+			"title_b": "의문문",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "의문사 의문문",
+			"title_b": "의문사 의문문",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "의문문 대답",
+			"title_b": "의문문 대답",
+			"page_name": [
+				"인트로",
+				"권필 필살기",
+				"필살기 훈련",
+				"최종 목표"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6537/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

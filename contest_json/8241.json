@@ -1,0 +1,352 @@
+{
+	"content_lan": "영어",
+	"content_code": 8241,
+	"content_name": "나의 첫 영어 명작 읽기 - 빨간 머리 앤",
+	"content_sample": "12/16",
+	"content_chasi": "15/16",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Day 01",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Day 02",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Day 03",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Day 04",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Day 05",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Day 06",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Day 07",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Day 08",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Day 09",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Day 10",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Day 11",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Day 12",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Day 13",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Day 14",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Day 15",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Day 16",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Day 17",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Day 18",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Day 19",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Day 20",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Day 21",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Day 22",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Day 23",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Day 24",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Day 25",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Day 26",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Day 27",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Day 28",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Day 29",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Day 30",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Day 31",
+			"title_b": null,
+			"page_name": [
+				"Line by line",
+				"Speak up"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8241/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

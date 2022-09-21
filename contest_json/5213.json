@@ -1,0 +1,271 @@
+{
+	"content_lan": "영어",
+	"content_code": 5213,
+	"content_name": "영어 잘하는 사람들의 7가지 습관",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "습관 1: 동사에 to를 붙인다",
+			"title_b": "습관 1 동사에 to를 붙인다",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "(트레이닝 편) 습관 1: 동사에 to를 붙인다",
+			"title_b": "트레이닝 편 습관 1 동사에 to를 붙인다",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "습관 2: 동사에 ing를 붙인다 (1)",
+			"title_b": "습관 2 동사에 ing를 붙인다1",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "(트레이닝 편) 습관 2: 동사에 ing를 붙인다 (1)",
+			"title_b": "트레이닝 편 습관 2 동사에 ing를 붙인다1",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "습관 3: 동사에 ing를 붙인다 (2)",
+			"title_b": "습관 3 동사에 ing를 붙인다2",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "(트레이닝 편) 습관 3: 동사에 ing를 붙인다 (2)",
+			"title_b": "트레이닝 편 습관 3 동사에 ing를 붙인다2",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "습관 4: 동사에 ed를 붙인다",
+			"title_b": "습관 4 동사에 ed를 붙인다",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "(트레이닝 편) 습관 4: 동사에 ed를 붙인다",
+			"title_b": "트레이닝 편 습관 4 동사에 ed를 붙인다",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "습관 5: who/which/whose로 문장을 늘인다",
+			"title_b": "습관 5 who which whose로 문장을 늘인다",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "(트레이닝 편) 습관 5: who/which/whose로 문장을 늘인다",
+			"title_b": "트레이닝 편 습관 5 who which whose로 문장을 늘인다",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "습관 6: that으로 문장을 늘인다",
+			"title_b": "습관 6 that으로 문장을 늘인다",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "(트레이닝 편) 습관 6: that으로 문장을 늘인다",
+			"title_b": "트레이닝 편 습관 6 that으로 문장을 늘인다",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "습관 7: 전치사를 활용한다",
+			"title_b": "습관 7 전치사를 활용한다",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "(트레이닝 편) 습관 7: 전치사를 활용한다",
+			"title_b": "트레이닝 편 습관 7 전치사를 활용한다",
+			"page_name": [
+				"인트로",
+				"습관 워밍업",
+				"습관 트레이닝",
+				"습관 강화 훈련"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "7가지 습관 순법 퍼즐 맞추기",
+			"title_b": "7가지 습관 순법 퍼즐 맞추기",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "비밀 1: 시제",
+			"title_b": "비밀 1 시제",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "비밀 2: 접속사",
+			"title_b": "비밀 2 접속사",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "비밀 3: 조동사",
+			"title_b": "비밀 3 조동사",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "비밀 4: 비교 표현",
+			"title_b": "비밀 4 비교 표현",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "비밀 5: 기본 동사",
+			"title_b": "비밀 5 기본 동사",
+			"page_name": [
+				"인트로",
+				"습관 키워드",
+				"습관 정복하기",
+				"습관 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5213/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

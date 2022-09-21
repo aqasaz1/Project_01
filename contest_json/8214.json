@@ -1,0 +1,451 @@
+{
+	"content_lan": "영어",
+	"content_code": 8214,
+	"content_name": "[야나두] 미국에서 한 달 살기 - 현지 생활 편 1",
+	"content_sample": "1/24",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "두근두근 존슨 가족과의 첫 만남",
+			"title_b": "두근두근 존슨 가족과의 첫 만남",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "한 달 동안 지낼 집 구경",
+			"title_b": "한 달 동안 지낼 집 구경",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "리나를 깨우는 미국식 아침 식사",
+			"title_b": "리나를 깨우는 미국식 아침 식사",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "침대 정리로 여는 상쾌한 아침",
+			"title_b": "침대 정리로 여는 상쾌한 아침",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "제시카와 함께 동네 한 바퀴",
+			"title_b": "제시카와 함께 동네 한 바퀴",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "시원한 아침 스트레칭",
+			"title_b": "시원한 아침 스트레칭",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "제시카와 함께 화장하기",
+			"title_b": "제시카와 함께 화장하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "쇼핑한 물건 구경하기",
+			"title_b": "쇼핑한 물건 구경하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "마이클의 아침 식사 준비",
+			"title_b": "마이클의 아침 식사 준비",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "리나가 준비한 한국식 아침 식사",
+			"title_b": "리나가 준비한 한국식 아침 식사",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "PB&J 샌드위치 만들기",
+			"title_b": "땅콩버터 젤리 샌드위치 만들기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "출근하는 애나 배웅하기",
+			"title_b": "출근하는 애나 배웅하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "온라인 자기계발 수업 듣기",
+			"title_b": "온라인 자기계발 수업 듣기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "미국식 ‘3분 요리’ 만들어 먹기",
+			"title_b": "미국식 3분 요리 만들어 먹기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "샘이 알려주는 식기세척기 사용법",
+			"title_b": "샘이 알려주는 식기세척기 사용법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "제시카와 보내는 주말 아침",
+			"title_b": "제시카와 보내는 주말 아침",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "치아 건강을 위한 양치 습관",
+			"title_b": "치아 건강을 위한 양치 습관",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "시험공부 하러 가는 샘",
+			"title_b": "시험공부 하러 가는 샘",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "마이클과 샘의 정원 관리",
+			"title_b": "마이클과 샘의 정원 관리",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "애나와 함께 하는 홈트",
+			"title_b": "애나와 함께 하는 홈트",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "리나와 제시카의 재테크 토크",
+			"title_b": "리나와 제시카의 재테크 토크",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "한적하게 동네 거닐기",
+			"title_b": "한적하게 동네 거닐기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "존슨 남매의 방 청소",
+			"title_b": "존슨 남매의 방 청소",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "콘비프 샌드위치 만들기",
+			"title_b": "콘비프 샌드위치 만들기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "온 가족과 함께 하는 저녁 식사",
+			"title_b": "온 가족과 함께 하는 저녁 식사",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "티격태격 채널권 싸움",
+			"title_b": "티격태격 채널권 싸움",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "굿나잇 인사하기",
+			"title_b": "굿나잇 인사하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "제시카의 저녁 루틴",
+			"title_b": "제시카의 저녁 루틴",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "감사 일기를 쓰며 마무리하는 하루",
+			"title_b": "감사 일기를 쓰며 마무리하는 하루",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "모바일 게임에 빠진 제시카",
+			"title_b": "모바일 게임에 빠진 제시카",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "휴대폰 보며 시간 보내기",
+			"title_b": "휴대폰 보며 시간 보내기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "리나의 미국 생활 근황 토크",
+			"title_b": "리나의 미국 생활 근황 토크",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "샘과 제시카의 거래",
+			"title_b": "샘과 제시카의 거래",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "어질러진 방 정리하기",
+			"title_b": "어질러진 방 정리하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "서재 가구 재배치하기",
+			"title_b": "서재 가구 재배치하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "친구에게 차 빌리기",
+			"title_b": "친구에게 차 빌리기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "피곤한 샘과 마이클의 잔소리",
+			"title_b": "피곤한 샘과 마이클의 잔소리",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "3분이면 뚝딱! 전구 교체하기",
+			"title_b": "3분이면 뚝딱 전구 교체하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "다재다능 존슨 남매",
+			"title_b": "다재다능 존슨 남매",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "비 소식과 피크닉 계획",
+			"title_b": "비 소식과 피크닉 계획",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8214/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

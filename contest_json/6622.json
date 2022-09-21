@@ -1,0 +1,270 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6622,
+	"content_name": "(New) 新HSK 한권으로 끝내기 3급 쓰기",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "품사와 문장성분",
+			"title_b": "품사와 문장성분",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "제1부분 명사, 대사",
+			"title_b": "제1부분 명사 대사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "제1부분 동사, 형용사, 조동사",
+			"title_b": "제1부분 동사 형용사 조동사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "제1부분 수사, 양사",
+			"title_b": "제1부분 수사 양사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "제1부분 연동문, 겸어문",
+			"title_b": "제1부분 연동문 겸어문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "제1부분 연동문, 겸어문",
+			"title_b": "제1부분 연동문 겸어문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "제1부분 존현문",
+			"title_b": "제1부분 존현문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "제1부분 '是'자문, '有'자문",
+			"title_b": "제1부분 shi자문 you자문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "제1부분 '是'자문, '有'자문",
+			"title_b": "제1부분 shi자문 you자문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "제1부분 보어",
+			"title_b": "제1부분 보어",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "제1부분 보어",
+			"title_b": "제1부분 보어",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "제1부분 부사",
+			"title_b": "제1부분 부사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "제1부분 개사",
+			"title_b": "제1부분 개사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "제1부분 '把'자문, '被'자문, 비교문",
+			"title_b": "제1부분 ba자문 bei자문 비교문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "제1부분 '把'자문, '被'자문, 비교문",
+			"title_b": "제1부분 ba자문 bei자문 비교문",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "제1부분 구조조사",
+			"title_b": "제1부분 구조조사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "제1부분 동태조사, 어기조사",
+			"title_b": "제1부분 동태조사 어기조사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "제1부분 동태조사, 어기조사",
+			"title_b": "제1부분 동태조사 어기조사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "제2부분 빈칸에 한자 쓰기",
+			"title_b": "제2부분 빈칸에 한자 쓰기",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "제2부분 빈칸에 한자 쓰기",
+			"title_b": "제2부분 빈칸에 한자 쓰기",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"실력 다지기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6622/mp4/d1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

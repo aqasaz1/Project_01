@@ -1,0 +1,479 @@
+{
+	"content_lan": "일본어",
+	"content_code": 4383,
+	"content_name": "다락원 뉴코스 일본어 회화 초급 뛰어넘기",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*680",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "휴일에 한국에 돌아가려고 합니다 (1)",
+			"title_b": "휴일에 한국에 돌아가려고 합니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "휴일에 한국에 돌아가려고 합니다 (2)",
+			"title_b": "휴일에 한국에 돌아가려고 합니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "봄이 되면 벚꽃이 핍니다 (1)",
+			"title_b": "봄이 되면 벚꽃이 핍니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "봄이 되면 벚꽃이 핍니다 (2)",
+			"title_b": "봄이 되면 벚꽃이 핍니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "오늘은 비가 내릴 것 같습니다 (1)",
+			"title_b": "오늘은 비가 내릴 것 같습니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "오늘은 비가 내릴 것 같습니다 (2)",
+			"title_b": "오늘은 비가 내릴 것 같습니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "오늘 아침 비가 내렸던 것 같습니다 (1)",
+			"title_b": "오늘 아침 비가 내렸던 것 같습니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "오늘 아침 비가 내렸던 것 같습니다 (2)",
+			"title_b": "오늘 아침 비가 내렸던 것 같습니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "창문이 열려 있습니다 (1)",
+			"title_b": "창문이 열려 있습니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "창문이 열려 있습니다 (2)",
+			"title_b": "창문이 열려 있습니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "아이들은 엄마에게 혼났습니다 (1)",
+			"title_b": "아이들은 엄마에게 혼났습니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "아이들은 엄마에게 혼났습니다 (2)",
+			"title_b": "아이들은 엄마에게 혼났습니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "코치는 선수를 달리게 했습니다 (1)",
+			"title_b": "코치는 선수를 달리게 했습니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "코치는 선수를 달리게 했습니다 (2)",
+			"title_b": "코치는 선수를 달리게 했습니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "무엇을 드십니까? (1)",
+			"title_b": "무엇을 드십니까 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "무엇을 드십니까? (2)",
+			"title_b": "무엇을 드십니까 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "박이라고 합니다 (1)",
+			"title_b": "박이라고 합니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "박이라고 합니다 (2)",
+			"title_b": "박이라고 합니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "참가자에게는 기념품을 드립니다 (1)",
+			"title_b": "참가자에게는 기념품을 드립니다 1",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "참가자에게는 기념품을 드립니다 (2)",
+			"title_b": "참가자에게는 기념품을 드립니다 2",
+			"page_name": [
+				"인트로",
+				"포인트 문법",
+				"본문회화",
+				"뉴코스 레슨",
+				"문장 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/4383/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": null,
+			"title_b": null,
+			"page_name": [],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

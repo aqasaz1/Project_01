@@ -1,0 +1,555 @@
+{
+	"content_lan": "일본어",
+	"content_code": 6092,
+	"content_name": "New 다이나믹 일본어 회화 초급",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "진의연",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "이제 곧 올 것이라 생각합니다 1",
+			"title_b": "이제 곧 올 것이라 생각합니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "이제 곧 올 것이라 생각합니다 2",
+			"title_b": "이제 곧 올 것이라 생각합니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "일본어가 능숙해졌군요 1",
+			"title_b": "일본어가 능숙해졌군요 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "일본어가 능숙해졌군요 2",
+			"title_b": "일본어가 능숙해졌군요 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "복습 1",
+			"title_b": "복습 1",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "내 취미는 영화를 보는 것입니다 1",
+			"title_b": "내 취미는 영화를 보는 것입니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "내 취미는 영화를 보는 것입니다 2",
+			"title_b": "내 취미는 영화를 보는 것입니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "병원에 가는 편이 좋아요 1",
+			"title_b": "병원에 가는 편이 좋아요 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "병원에 가는 편이 좋아요 2",
+			"title_b": "병원에 가는 편이 좋아요 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습 2",
+			"title_b": "복습 2",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "오사카에 있는 친구가 준 것입니다 1",
+			"title_b": "오사카에 있는 친구가 준 것입니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "오사카에 있는 친구가 준 것입니다 2",
+			"title_b": "오사카에 있는 친구가 준 것입니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "피곤해서 빨리 잤습니다 1",
+			"title_b": "피곤해서 빨리 잤습니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "피곤해서 빨리 잤습니다 2",
+			"title_b": "피곤해서 빨리 잤습니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "복습 3",
+			"title_b": "복습 3",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "한국의 매운 요리는 먹을 수 있습니까? 1",
+			"title_b": "한국의 매운 요리는 먹을 수 있습니까 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "한국의 매운 요리는 먹을 수 있습니까? 2",
+			"title_b": "한국의 매운 요리는 먹을 수 있습니까 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "창문이 열려 있네요 1",
+			"title_b": "창문이 열려 있네요 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "창문이 열려 있네요 2",
+			"title_b": "창문이 열려 있네요 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습 4",
+			"title_b": "복습 4",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "조금 늦게 온다고 합니다 1",
+			"title_b": "조금 늦게 온다고 합니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "조금 늦게 온다고 합니다 2",
+			"title_b": "조금 늦게 온다고 합니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "오늘은 휴일인 것 같습니다 1",
+			"title_b": "오늘은 휴일인 것 같습니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "오늘은 휴일인 것 같습니다 2",
+			"title_b": "오늘은 휴일인 것 같습니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "복습 5",
+			"title_b": "복습 5",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "같이 여행을 할 생각입니다 1",
+			"title_b": "같이 여행을 할 생각입니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "같이 여행을 할 생각입니다 2",
+			"title_b": "같이 여행을 할 생각입니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "가능한 한 일본어로 말하려고 합니다 1",
+			"title_b": "가능한 한 일본어로 말하려고 합니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "가능한 한 일본어로 말하려고 합니다 2",
+			"title_b": "가능한 한 일본어로 말하려고 합니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "복습 6",
+			"title_b": "복습 6",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "비를 맞아서 젖어버렸어요 1",
+			"title_b": "비를 맞아서 젖어버렸어요 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "비를 맞아서 젖어버렸어요 2",
+			"title_b": "비를 맞아서 젖어버렸어요 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "집안 일을 도와야 했습니다 1",
+			"title_b": "집안 일을 도와야 했습니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "집안 일을 도와야 했습니다 2",
+			"title_b": "집안 일을 도와야 했습니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "복습 7",
+			"title_b": "복습 7",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "선생님은 무엇으로 하시겠습니까? 1",
+			"title_b": "선생님은 무엇으로 하시겠습니까 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "선생님은 무엇으로 하시겠습니까? 2",
+			"title_b": "선생님은 무엇으로 하시겠습니까 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "다시 전화하겠습니다 1",
+			"title_b": "다시 전화하겠습니다 1",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "다시 전화하겠습니다 2",
+			"title_b": "다시 전화하겠습니다 2",
+			"page_name": [
+				"인트로",
+				"워밍업",
+				"오늘의 강의",
+				"구문 연습",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4_bind_part/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "복습 8",
+			"title_b": "복습 8",
+			"page_name": [
+				"인트로",
+				"오늘의 강의",
+				"확인 학습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6092/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

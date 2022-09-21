@@ -1,0 +1,291 @@
+{
+	"content_lan": "영어",
+	"content_code": 7275,
+	"content_name": "[개정판] OPIc Punch to IH&AL 고급 전략편",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "김영실",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Problem solving / 환불 관련 문제 상황 해결하기",
+			"title_b": "Problem solving 환불 관련 문제 상황 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Problem solving / 수리 업체와의 문제 해결하기",
+			"title_b": "Problem solving 수리 업체와의 문제 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Problem solving / 노래교실 등록 관련 문제 해결하기",
+			"title_b": "Problem solving 노래교실 등록 관련 문제 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Problem solving / 댄스 수업 수강 관련 문제 해결하기",
+			"title_b": "Problem solving 댄스 수업 수강 관련 문제 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Problem solving / 파티 음식에 생긴 문제 해결하기",
+			"title_b": "Problem solving 파티 음식에 생긴 문제 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Problem solving / 약속을 지킬 수 없는 상황 해결하기",
+			"title_b": "Problem solving 약속을 지킬 수 없는 상황 해결하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Comparative speaking / 개인 연수 VS. 팀 연수 비교하기",
+			"title_b": "Comparative speaking 개인 연수와 팀 연수 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Comparative speaking / 조깅(걷기)의 장점 & 비교하기",
+			"title_b": "Comparative speaking 조깅의 장점과 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Comparative speaking / 여행 패턴 현재와 과거 비교하기",
+			"title_b": "Comparative speaking 여행 패턴 현재와 과거 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Comparative speaking / 한국 대중교통의 장단점 비교하기",
+			"title_b": "Comparative speaking 한국 대중교통의 장단점 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Comparative speaking / 한국의 은행 과거와 현재 비교하기",
+			"title_b": "Comparative speaking 한국의 은행 과거와 현재 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Comparative speaking / 도구,기술이 음악에 미친 영향 비교하기",
+			"title_b": "Comparative speaking 도구와 기술이 음악에 미친 영향 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Comparative speaking / 커뮤니케이션 방법의 과거와 현재 비교하기",
+			"title_b": "Comparative speaking 커뮤니케이션 방법의 과거와 현재 비교하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Storytelling / 주택 시장의 문제점 이야기하기",
+			"title_b": "Storytelling 주택 시장의 문제점 이야기하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Storytelling / 좋아하는 영화 배우를 만난다면 어떨지 설명하기",
+			"title_b": "Storytelling 좋아하는 영화 배우를 만난다면 어떨지 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Storytelling / 조깅(걷기)할 때 부상을 방지하는 방법 설명하기",
+			"title_b": "Storytelling 조깅할 때 부상을 방지하는 방법 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Storytelling / 국내 출장 이야기 및 어려움 설명하기",
+			"title_b": "Storytelling 국내 출장 이야기 및 어려움 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Storytelling / 해외여행을 좋아하는 이유 & 고려할 점 설명하기",
+			"title_b": "Storytelling 해외여행을 좋아하는 이유와 고려할 점 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Storytelling / 일하고 싶은 분야에 관해 설명하기",
+			"title_b": "Storytelling 일하고 싶은 분야에 관해 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Storytelling / 테크놀로지 사용법에 관해 설명하기",
+			"title_b": "Storytelling 테크놀로지 사용법에 관해 설명하기",
+			"page_name": [
+				"Intro",
+				"OPIc Speaking Task",
+				"Lecture",
+				"Punch!",
+				"Sum-up CARD"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7275/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

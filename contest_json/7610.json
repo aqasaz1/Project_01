@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 7610,
+	"content_name": "톡투미, 특급패턴101",
+	"content_sample": "8",
+	"content_chasi": "30",
+	"content_size": "1100*650",
+	"content_cm": "김영실",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "\"내가 잘 들을게.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_02h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "\"난 이 맥주를 정말 좋아해.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_04h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "\"난 낮잠을 자고 있었어.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_06h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "\"난 아침에 일찍 일어나는 게 힘들어.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_08h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "\"난 단것을 안 좋아해.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_10h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "\"난 선약이 있어.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_12h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "\"내가 너 태워줄 수 있어.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_14h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "\"나 요즘 걱정돼서 죽겠어.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_16h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "\"난 네가 알고 있다고 생각했어.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_18h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "\"나 중국 음식에 질렸어.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_20h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "\"여기에서 담배 피우지 말라고 했잖아.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_22h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "\"우리 내일 뭐 할까?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_24h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "\"너 지금 뭔가 하고 있어?\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_26h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "\"너 왜 회사 안 갔어?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_28h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "\"너 언제 올 거야?\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7610/mobile/z1_30h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "\"너 살은 어떻게 뺄 거야?\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "\"좀 먹어볼래?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "\"너 잊어버리지 않는 게 좋을 거야.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "\"그는 네 또래야.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "\"너 다이어트는 잘 돼?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "\"꼭 제시간에 와.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "\"징징대지 좀 마.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "\"그게 그렇게 간단하지 않아.\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "\"뻔한 거 아니야?\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "\"그건 돈이 아깝지 않아.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "\"거긴 몇 시야?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "\"그건 왜 이렇게 비싼 거야?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "\"너는 언제가 쉬는 날이야?\" 외 패턴 3개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "\"그거 때문에 정말 죽겠어.\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "\"이거 설치하는 데 얼마나 걸려?\" 외 패턴 2개",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": null,
+			"mp4_bind_time": ""
+		}
+	]
+}

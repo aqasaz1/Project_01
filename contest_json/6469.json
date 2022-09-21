@@ -1,0 +1,291 @@
+{
+	"content_lan": "영어",
+	"content_code": 6469,
+	"content_name": "7단계 영어문장 자동생산 프로젝트 - Advanced",
+	"content_sample": "1/12",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "help 돕다",
+			"title_b": "help 돕다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "keep 유지하다",
+			"title_b": "keep 유지하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "see 보다",
+			"title_b": "see 보다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "find 발견하다",
+			"title_b": "find 발견하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "leave 그대로 두다",
+			"title_b": "leave 그대로 두다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "call 부르다",
+			"title_b": "call 부르다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "make 만들다",
+			"title_b": "make 만들다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "expect 기대하다",
+			"title_b": "expect 기대하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "allow 허락하다",
+			"title_b": "allow 허락하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "let ~하게 하다",
+			"title_b": "let 무엇을 하게 시키다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트",
+				"출고"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Pattern 1: 생각을 물을 때",
+			"title_b": "Pattern 1 생각을 물을 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Pattern 2: 생각을 말할 때",
+			"title_b": "Pattern 2 생각을 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Pattern 3: 강조할 때",
+			"title_b": "Pattern 3 강조할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Pattern 4: 확신할 때",
+			"title_b": "Pattern 4 확신할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Pattern 5: 사실을 말할 때",
+			"title_b": "Pattern 5 사실을 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Pattern 6: 감정을 말할 때",
+			"title_b": "Pattern 6 감정을 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Pattern 7: 추측과 가능성에 관해 말할 때",
+			"title_b": "Pattern 7 추측과 가능성에 관해 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Pattern 8: 제안이나 의무에 관해 말할 때",
+			"title_b": "Pattern 8 제안이나 의무에 관해 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Pattern 9: 의사나 의도에 관해 말할 때",
+			"title_b": "Pattern 9 의사나 의도에 관해 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Pattern 10: 추가 표현을 붙여 말할 때",
+			"title_b": "Pattern 10 추가 표현을 붙여 말할 때",
+			"page_name": [
+				"Intro",
+				"오늘의 패턴",
+				"패턴 자동화 공장",
+				"패턴 생산",
+				"패턴 정리"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/6469/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

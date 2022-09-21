@@ -1,0 +1,571 @@
+{
+	"content_lan": "영어",
+	"content_code": 7188,
+	"content_name": "영어 말하기 실수 완벽 가이드",
+	"content_sample": "2/22",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "나는 야식을 좋아해.",
+			"title_b": "나는 야식을 좋아해",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "처음에 1대 0으로 이기다가 결국 3대 4로 역전패했어.",
+			"title_b": "처음에 1대 0으로 이기다가 결국 3대 4로 역전패했어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "그렇게 말한 적 없는데.",
+			"title_b": "그렇게 말한 적 없는데",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "나 그 문제 틀렸어.",
+			"title_b": "나 그 문제 틀렸어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "아직도 시차 적응이 안 된 거 같아.",
+			"title_b": "아직도 시차 적응이 안 된 거 같아",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "어제저녁에 우리 팀 회식이 있었어.",
+			"title_b": "어제저녁에 우리 팀 회식이 있었어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "그 남자는 소심한 A형이야.",
+			"title_b": "그 남자는 소심한 A형이야",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "의사가 내게 6개월 시한부를 선고했어.",
+			"title_b": "의사가 내게 6개월 시한부를 선고했어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "구두 뒤축이 닳았어요.",
+			"title_b": "구두 뒤축이 닳았어요",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "갑자기 가스레인지를 안 끄고 나온 것 같은 생각이 들었어.",
+			"title_b": "갑자기 가스레인지를 안 끄고 나온 것 같은 생각이 들었어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "몸매 좋은 사람이 부러워요.",
+			"title_b": "몸매 좋은 사람이 부러워요",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "추리닝 반바지 중간 사이즈 하나를 여기서 구입했는데 너무 작아요.",
+			"title_b": "추리닝 반바지 중간 사이즈 하나를 여기서 구입했는데 너무 작아요",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "더위가 한풀 꺾여서 좋아.",
+			"title_b": "더위가 한풀 꺾여서 좋아",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "두 사람 사귀는 줄 알았어.",
+			"title_b": "두 사람 사귀는 줄 알았어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "바람이 엄청 세게 불고 있어.",
+			"title_b": "바람이 엄청 세게 불고 있어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "새로 나온 해리 포터 시리즈예요.",
+			"title_b": "새로 나온 해리 포터 시리즈예요",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "어디서 빵 굽는 냄새가 나네.",
+			"title_b": "어디서 빵 굽는 냄새가 나네",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "(숙취가 너무 심해서 오늘 아침) 링거주사를 맞았어.",
+			"title_b": "숙취가 너무 심해서 오늘 아침 링거주사를 맞았어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "내 가방 좀 가지고 올게.",
+			"title_b": "내 가방 좀 가지고 올게",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "난 그것을 내 다이어리에 적어 놨어.",
+			"title_b": "난 그것을 내 다이어리에 적어 놨어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "그 사람 살 좀 찐 거 같아.",
+			"title_b": "그 사람 살 좀 찐 거 같아",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "(프로젝트가) 추진이 잘 안 되고 있어.",
+			"title_b": "프로젝트가 추진이 잘 안 되고 있어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "할 말을 다 하니 속이 후련해.",
+			"title_b": "할 말을 다 하니 속이 후련해",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "(정신 차리고) 고2 때부터 공부를 열심히 하기 시작했어.",
+			"title_b": "정신 차리고 고2 때부터 공부를 열심히 하기 시작했어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "그 집 잘 못해.",
+			"title_b": "그 집 잘 못해",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "교수님이 내게 질문했을 때 난 아주 긴장했어.",
+			"title_b": "교수님이 내게 질문했을 때 난 아주 긴장했어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "(컴퓨터를 오래 했더니) 목이 뻐근하고 눈알이 튀어나올 것처럼 아파.",
+			"title_b": "컴퓨터를 오래 했더니 목이 뻐근하고 눈알이 튀어나올 것처럼 아파",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "나도 그렇게 생각해.",
+			"title_b": "나도 그렇게 생각해",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "(제임스 처음 봤을 때) 별로 인상이 안 좋더라.",
+			"title_b": "제임스 처음 봤을 때 별로 인상이 안 좋더라",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "(그 식당) 내 네비에 안 나와.",
+			"title_b": "그 식당 내 네비에 안 나와",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "걔가 그동안 나한테 잘해 줬어.",
+			"title_b": "걔가 그동안 나한테 잘해 줬어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "3년 전부터 수지와 사귀고 있어.",
+			"title_b": "3년 전부터 수지와 사귀고 있어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "이번 달부터 월급이 올랐어.",
+			"title_b": "이번 달부터 월급이 올랐어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "그 배우는 『오피스(The Office)』라고 하는 미드에 나왔어.",
+			"title_b": "그 배우는 오피스The Office라고 하는 미드에 나왔어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "대장암 4기 진단을 받았어.",
+			"title_b": "대장암 4기 진단을 받았어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "우리는 스파게티 두 개와 샐러드 하나를 주문했어.",
+			"title_b": "우리는 스파게티 두 개와 샐러드 하나를 주문했어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "책을 정가보다 최고 40%까지 싸게 살 수 있어.",
+			"title_b": "책을 정가보다 최고 40퍼센트까지 싸게 살 수 있어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "강원도에 갔다가 폭설이 내려 도로에 갇힌 적이 있어.",
+			"title_b": "강원도에 갔다가 폭설이 내려 도로에 갇힌 적이 있어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "집에 오는데 눈이 심하게 왔어.",
+			"title_b": "집에 오는데 눈이 심하게 왔어",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "저 사람은 내가 데리고 있는 직원이야.",
+			"title_b": "저 사람은 내가 데리고 있는 직원이야",
+			"page_name": [
+				"인트로",
+				"기본기 체크",
+				"원리 들여다보기",
+				"실력 점검",
+				"문장 트레이닝"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/7188/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

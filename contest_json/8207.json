@@ -1,0 +1,506 @@
+{
+	"content_lan": "중국어",
+	"content_code": 8207,
+	"content_name": "친절한 차이티의 중국어 비밀과외 패턴",
+	"content_sample": "1/24",
+	"content_chasi": "23/22",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "觉得~ ~라고 생각해요",
+			"title_b": "라고 생각해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "对~来说，~ ~에게(는),~",
+			"title_b": "에게는",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "以为~ ~라고 생각했어요",
+			"title_b": "라고 생각했어요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "只是~ 단지~",
+			"title_b": "단지",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "想~ ~하고 싶어요",
+			"title_b": "하고 싶어요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "喜欢~~을/를 좋아해요",
+			"title_b": "을 좋아해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "请~ ~해주세요",
+			"title_b": "해주세요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "能~吗？ ~할 수 있나요?",
+			"title_b": "할 수 있나요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "要不要~？ ~할 건가요?/~할까요?",
+			"title_b": "할 건가요 할까요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "~，怎么样？ ~어때요?",
+			"title_b": "어때요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "~，好吗？ ~할래요?",
+			"title_b": "할래요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "还是~吧 아무래도 ~이/가 낫겠어요",
+			"title_b": "아무래도 가 낫겠어요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "不要~ ~하지 마세요",
+			"title_b": "하지 마세요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "别~ ~하지 마세요",
+			"title_b": "하지 마세요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "不用~ ~일/할 필요 없어요",
+			"title_b": "할 필요 없어요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "不是~吗？ ~아닌가요?",
+			"title_b": "아닌가요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "是不是~？ ~아닌가요?",
+			"title_b": "아닌가요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "怎么~？ 어떻게~?",
+			"title_b": "어떻게",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "谁~？ 누가~?",
+			"title_b": "누가",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "哪儿有~？ 어디~?",
+			"title_b": "어디",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "一点儿也不~ 조금도 ~하지 않아요",
+			"title_b": "조금도 하지 않아요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "不~也不~ ~하지도 않고, ~하지도 않아요",
+			"title_b": "하지도 않고 하지도 않아요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "~，就是~ ~, 단지~",
+			"title_b": "단지",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "有的~，有的~ 어떤~, 어떤~",
+			"title_b": "어떤 어떤",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "又~，又~ ~(하)기도 하고, ~(하)기도 해요",
+			"title_b": "하기도 하고 하기도 해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "一边~，一边~ ~하면서, ~해요",
+			"title_b": "하면서 해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "不但~，而且~ ~일/할 뿐만 아니라, 그리고~",
+			"title_b": "할 뿐만 아니라 그리고",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "连~也/都~~조차도~",
+			"title_b": "조차도",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "先~，然后~ 먼저 ~하고, 그런 다음에 ~해요",
+			"title_b": "먼저 하고그런 다음에 해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "~的时候，~ ~일/할 때, ~",
+			"title_b": "할 때",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "要~了 곧 ~해요",
+			"title_b": "곧 해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "~还是~？ ~아니면~?",
+			"title_b": "아니면",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "不是~，就是~ ~이/가 아니면, ~예요",
+			"title_b": "가 아니면 예요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "与其~，不如~ ~할 바엔 (차라리) ~하는 게 나아요",
+			"title_b": "할 바엔 차라리 하는 게 나아요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "只要~，就~ ~하기만 하면, ~",
+			"title_b": "하기만 하면",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "只有~，才能~ ~해야만, 비로소 ~할 수 있어요",
+			"title_b": "해야만 비로소 할 수 있어요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "不管~，都~ ~에 관계없이, ~",
+			"title_b": "에 관계없이",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "就算~，也~ ~라 해도, ~",
+			"title_b": "라 해도",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "因为~，所以~ ~때문에, 그래서~",
+			"title_b": "때문에 그래서",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "既然~，就~ 기왕~, ~",
+			"title_b": "기왕",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "虽然~，但是~ 비록~, 그러나~",
+			"title_b": "비록 그러나",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "不是~，而是~ ~이/가 아니라, ~예요",
+			"title_b": "가 아니라 예요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "如果~的话，~ 만약 ~면, ~",
+			"title_b": "만약 라면",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "除了~以外，~ ~외에, ~",
+			"title_b": "외에",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "一~，就~ ~하면, (바로)~해요",
+			"title_b": "하면 바로 해요",
+			"page_name": [
+				"강의",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8207/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

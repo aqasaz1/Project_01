@@ -1,0 +1,319 @@
+{
+	"content_lan": "일본어",
+	"content_code": 5127,
+	"content_name": "다락원 新일본어 회화 중급 도약하기",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "목이 아프고, 열이 있습니다 (1)",
+			"title_b": "목이 아프고 열이 있습니다 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "목이 아프고, 열이 있습니다 (2)",
+			"title_b": "목이 아프고 열이 있습니다 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "전철에서 발을 밟혔다 (1)",
+			"title_b": "전철에서 발을 밟혔다 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "전철에서 발을 밟혔다 (2)",
+			"title_b": "전철에서 발을 밟혔다 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "친구끼리 쓰는 말도 쓸 수 있게 되었습니다 (1)",
+			"title_b": "친구끼리 쓰는 말도 쓸 수 있게 되었습니다 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "친구끼리 쓰는 말도 쓸 수 있게 되었습니다 (2)",
+			"title_b": "친구끼리 쓰는 말도 쓸 수 있게 되었습니다 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "가부키에 대한 답례입니다 (1)",
+			"title_b": "가부키에 대한 답례입니다 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "가부키에 대한 답례입니다 (2)",
+			"title_b": "가부키에 대한 답례입니다 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "버스 여행 (1)",
+			"title_b": "버스 여행 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "버스 여행 (2)",
+			"title_b": "버스 여행 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "타지 않는 쓰레기는 매주 수요일에만 (1)",
+			"title_b": "타지 않는 쓰레기는 매주 수요일에만 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "타지 않는 쓰레기는 매주 수요일에만 (2)",
+			"title_b": "타지 않는 쓰레기는 매주 수요일에만 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "송별회 (1)",
+			"title_b": "송별회 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "송별회 (2)",
+			"title_b": "송별회 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "헤어질 때의 인사 (1)",
+			"title_b": "헤어질 때의 인사 1",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "헤어질 때의 인사 (2)",
+			"title_b": "헤어질 때의 인사 2",
+			"page_name": [
+				"인트로",
+				"어휘력-레벨테스트",
+				"어휘력-오늘의 강의",
+				"어휘력-마무리 연습",
+				"문장력-레벨테스트",
+				"문장력-오늘의 강의",
+				"문장력-마무리 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/5127/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
