@@ -95,7 +95,7 @@ function get_json_paser(code,step)  {
           newContent += '<tr class = ' +arry_cod+ ' >'
           newContent += '  <td>'+'no'+'</td>'//no
           newContent += '  <td>'+content_lan+'</td>'//구분
-          newContent += '  <td class="cp_code"><input type="text" style="width:80px" name="cp_code" value = ""></td>'//과정코드
+          newContent += '  <td class="cp_code"><input type="text" style="width:100px" name="cp_code" value = ""></td>'//과정코드
           newContent += '  <td>'+content_code+'</td>'//내부코드
           newContent += '  <td>'+content_step_set +'</td>'//step
           newContent += '  <td class="cp_name"><input type="text" style="width:290px" name="cp_name" value = "'+content_name+'"></td>'//과정명
@@ -273,7 +273,7 @@ function content_xls_download(file_name){
     $(this).html('<input type="text" style="width:290px" name="cp_name" value = "'+$(this).text()+'">')
   });
   $.each($('.cp_code'), function( key, item ){
-    $(this).html('<input type="text" style="width:80px" name="cp_code" value = "'+$(this).text()+'">')
+    $(this).html('<input type="text" style="width:100px" name="cp_code" value = "'+$(this).text()+'">')
   });
 }
 
@@ -400,9 +400,13 @@ function rowMoveEvent(direction, row){
   row_num_set()
 }
 
-function popup(name){
-  if(name=="bind"){
-    open01 = window.open("popup.html",name,'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, hotkey=0, width=800, height=380, left=0, top=0',false)
+function popup(type){
+  if(type=="bind"){
+    open01 = window.open("popup.html",type,'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, hotkey=0, width=800, height=380, left=0, top=0',false)
+  }else if(type=="code"){
+    open01 = window.open("popup.html",type,'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, hotkey=0, width=300, height=380, left=0, top=0',false)
+  }else if(type=="name"){
+    open01 = window.open("popup.html",type,'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, hotkey=0, width=500, height=380, left=0, top=0',false)
   }else{
     alert("업데이트 예정입니다.")
   }

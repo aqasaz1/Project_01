@@ -11,11 +11,49 @@
 	<!-- <textarea name="" id="up_txt" cols="23" rows="23"></textarea> -->
 	<!-- <input type="button" value="변경" onclick="#"> -->
 	<script>
+		var html_obj = ''
 		if(this.name=='bind'){
-			$('body').html('<textarea name="" id="up_txt" cols="109" rows="23"></textarea>')
+			html_obj += '<textarea name="" id="up_txt" cols="109" rows="23"></textarea>'
+			$('body').html(html_obj)
 			$("#up_txt").text(opener.bind_path_all_data());
+		}else if(this.name=='code'){
+			html_obj += '<textarea name="" id="up_txt" cols="37" rows="22"></textarea></br>'
+			html_obj += '<input type="button" value="update" onclick="opener_update('+'\'code\''+')">'
+			$('body').html(html_obj)
+			$("#up_txt").text("CODE1111\nCODE2222\nCODE3333\nCODE4444\nCODE5555\n");
+		}else if(this.name=='name'){
+			html_obj += '<textarea name="" id="up_txt" cols="66" rows="22"></textarea></br>'
+			html_obj += '<input type="button" value="update" onclick="opener_update('+'\'name\''+')">'
+			$('body').html(html_obj)
+			$("#up_txt").text("(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (1)\n(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (2)\n(rename)미드영어 발음에서 회화까지 (1)\n(rename)미드영어 발음에서 회화까지 (2)\n(rename)미드영어 발음에서 회화까지 (3)\n");
+		}else{
+
 		}
-		
+		function opener_update(type){
+			let this_txt = ""
+			if(type=='code'){
+				this_txt = $("#up_txt").val().trim().split("\n")
+				console.log("s", this_txt)
+				$.each(opener.$('input[name=cp_code]'), function( key, item ){
+					$(this).parent().text(this_txt[key])
+				});
+				$.each(opener.$('.cp_code'), function( key, item ){
+					console.log(key, item)
+					$(this).html('<input type="text" style="width:100px" name="cp_code" value = "'+$(this).text()+'">')
+				});
+			}else if(type=='name'){
+				this_txt = $("#up_txt").val().trim().split("\n")
+				console.log("s", this_txt)
+				$.each(opener.$('input[name=cp_name]'), function( key, item ){
+					$(this).parent().text(this_txt[key])
+				});
+				$.each(opener.$('.cp_name'), function( key, item ){
+					console.log(key, item)
+					$(this).html('<input type="text" style="width:290px" name="cp_name" value = "'+$(this).text()+'">')
+				});				
+			}
+			self.close()
+		}
 	</script>	
 </body>
 </html>

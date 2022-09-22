@@ -14,7 +14,7 @@
 
 </head>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> -->
 <script type="text/javascript" src="./common/jquery-3.6.1.min.js"></script>
 <script type="text/javascript" src="./common/xlsx.core.min.js"></script>
 <script type="text/javascript" src="./common/FileSaver.min.js"></script>
@@ -25,7 +25,7 @@
 <link type="text/css" href="./common/common.css" rel="stylesheet" />
 <body>
     
-    <input type="text" id="con_cod" value="8243">
+    <input type="text" id="con_cod" value="8243 8131">
     <input type="button" id="on_click" class = "btn" value="[+] 추가">
     <input type="button" id="on_click_copy" class = "btn" value="전체과정 내려받기">
     <input type="button" id="on_click_reset" class = "btn" value="새로고침" onclick="javascript:window.location.reload()">
@@ -34,10 +34,10 @@
         <tr>
           <th style="width: 20px;">No</th>
           <th style="width: 60px;">구분</th>
-          <th style="width: 120px;">업체코드<button onclick="popup()">update</button></th>
+          <th style="width: 120px;">업체코드<button onclick="popup('code')">update</button></th>
           <th style="width: 60px;">과정코드</th>
           <th style="width: 40px;">step</th>
-          <th style="width: 300px;">과정명<button onclick="popup()">update</button></th>
+          <th style="width: 300px;">과정명<button onclick="popup('name')">update</button></th>
           <th style="width: 60px;">샘플차시</th>
           <th style="width: 60px;">차시수</th>
           <th style="width: 60px;">페이지수</th>
