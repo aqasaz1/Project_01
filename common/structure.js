@@ -6,18 +6,6 @@ var con_cod_arr = [] // 여러개 입력시
 var con_cod_taget = 0
 
 function get_json_paser(code, step) {
-  // var overlap_condition = true
-  // arry_cod = code + "_" + step
-  // content_code_array_blank.push(arry_cod)
-
-  // content_code_array_blank.forEach((element) => { //코드가 중복되는지 확인
-  //   if (!content_code_array.includes(element)) {
-  //     content_code_array.push(element);
-  //     overlap_condition = true  //처음으로 입력된 상태
-  //   } else {
-  //     overlap_condition = false //중복으로 입력된 상태
-  //   }
-  // });
 
   var serverAddress = 'contest_json/' + code + '.json';
 
@@ -78,164 +66,6 @@ function get_json_paser(code, step) {
         })
       }
 
-
-      // //스텝의 맛보기 확인
-      // var content_sample_set = "";
-      // var content_chasi_prev = 0;
-      // for (i = 0; i < step; i++) {
-      //   content_chasi_prev += Number(content_chasi[i])  // step2 이상일 경우, 이전 step 차시의 총 합  
-      // }
-
-      // if (step == 0) {
-      //   content_sample_set = content_sample[step]
-      //   content_sample_set2 = content_sample_set
-      // } else {
-      //   content_sample_set = content_sample[step] - content_chasi_prev; // 1, 2, 3...
-      //   content_sample_set2 = content_sample[step] - content_chasi_prev + "(" + content_sample[step] + ")"; // 1(21), 2(22), 3(23)...  
-      // }
-
-      // //스텝의 번호 확인
-      // var content_step_set = ""
-      // if (content_chasi.length > 1) {
-      //   content_step_set = "step" + Number(step + 1)
-      // } else {
-      //   content_step_set = "step0"
-      // }
-
-      // //스텝의 정보 확인
-      // var content_data_step = new Array();
-      // var content_chasi_page = 0; //과정(step)별 총 페이지 수
-      // var set_cod_step = content_code + "_" + content_step_set  //코드_step$
-
-      // if (step == 0) {
-      //   for (i = 0; i < Number(content_chasi[step]); i++) {
-      //     content_data_step.push(content_data[i])
-      //     content_chasi_page += content_data[i]['page_name'].length
-      //   }
-      // } else {
-      //   for (i = content_chasi_prev; i < content_chasi_prev + Number(content_chasi[step]); i++) {
-      //     content_data_step.push(content_data[i])
-      //     content_chasi_page += content_data[i]['page_name'].length
-      //   }
-      // }
-
-      // content_data_step_obj[set_cod_step] = []
-      // data.content_code = set_cod_step
-      // data.content_sample = String(content_sample_set)
-      // data.content_chasi = content_chasi[step]
-      // data.content_data = content_data_step
-
-      // /**************** 코드_스텝 별 데이터 ****************/
-      // content_data_step_obj[set_cod_step] = data
-      // /**************** 코드_스텝 별 데이터 ****************/
-
-      // if ($("." + arry_cod).length < 1) {
-
-      //   var newContent = '';
-
-      //   newContent += '<tr class = ' + arry_cod + ' >'
-      //   newContent += '  <td>' + 'no' + '</td>'//no
-      //   newContent += '  <td>' + content_lan + '</td>'//구분
-      //   newContent += '  <td class="cp_code"><input type="text" style="width:100px" name="cp_code" value = ""></td>'//과정코드
-      //   newContent += '  <td>' + content_code + '</td>'//내부코드
-      //   newContent += '  <td>' + content_step_set + '</td>'//step
-      //   newContent += '  <td class="cp_name"><input type="text" style="width:290px" name="cp_name" value = "' + content_name + '"></td>'//과정명
-      //   newContent += '  <td>' + content_sample_set2 + '</td>'//샘플차시
-      //   newContent += '  <td>' + content_chasi[step] + '</td>'//차시수
-      //   newContent += '  <td>' + content_chasi_page + '</td>'//페이지수
-      //   newContent += '  <td>' + content_size + '</td>'//사이즈
-      //   newContent += '  <td>' + content_cm + '</td>'//컨텐츠 담당자
-      //   newContent += '  <td><input type="button" onclick="content_xls_down2(' + content_code + ", " + '\'' + content_step_set + '\')" value="download"></td>'
-      //   newContent += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" value="bind_path"></td>'
-      //   newContent += '  <td><input type="button" onclick="row_remove(this, \'' + arry_cod + '\')" value="-"></td>'
-      //   newContent += '  <td><input type="button" onclick="xls_set_hunet_index(this.name)" name="' + set_cod_step + '" value="index"> <input type="button" onclick="xls_set_hunet_frame(this.name)" name="' + set_cod_step + '" value="frame"></td>'
-      //   newContent += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" name="' + set_cod_step + '" value="KG에듀원"></td>'
-      //   newContent += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" name="' + set_cod_step + '" value="메가넥스트"></td>'
-      //   newContent += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" name="' + set_cod_step + '" value="도서관"></td>'
-      //   newContent += '  <td><input type="button" onClick="rowMoveEvent(\'up\', $(this));" value="▲" style="width:30px;"/>'
-      //   newContent += '  <input type="button" onClick="rowMoveEvent(\'down\', $(this));" value="▼" style="width:30px;"/></td>'
-      //   newContent += '</tr>'
-
-      //   $("#content_list").append(newContent);
-
-      //   row_num_set();
-
-      //   //////////////////////////////////////////////////////////////////////////////////////////////////
-
-      //   var content_seq = '<table class="main_contable hidden ' + set_cod_step + '" >' //style="display:none"
-
-      //   content_seq += '	<thead>'
-      //   content_seq += '		<tr>'
-      //   content_seq += '			<th>구분</th>'
-      //   content_seq += '			<th>과정코드</th>'
-      //   content_seq += '			<th>과정명</th>'
-      //   content_seq += '			<th>샘플차시</th>'
-      //   content_seq += '			<th>페이지수</th>'
-      //   content_seq += '			<th>사이즈</th>'
-      //   content_seq += '			<th>담당자</th>'
-      //   content_seq += '		</tr>'
-      //   content_seq += '	</thead>'
-      //   content_seq += '	<tbody>'
-      //   content_seq += '		<tr>'
-      //   content_seq += '			<td>' + content_lan + '</td>'
-      //   content_seq += '			<td>' + set_cod_step + '</td>'
-      //   content_seq += '			<td>' + content_name + '</td>'
-      //   content_seq += '			<td>' + content_sample_set + '</td>'
-      //   content_seq += '			<td>' + content_chasi_page + '</td>'
-      //   content_seq += '			<td>' + content_size + '</td>'
-      //   content_seq += '			<td>' + content_cm + '</td>'
-      //   content_seq += '		</tr>'
-      //   content_seq += '	</tbody>'
-
-      //   content_seq += '	<tthead>'
-      //   content_seq += '		<tr>'
-      //   content_seq += '			<th>No</th>'
-      //   content_seq += '			<th>차시명</th>'
-      //   content_seq += '			<th>차시명(특수기호제거)</th>'
-      //   // content_seq += '			<th>맛보기차시</th>'
-      //   var content_data_page_maxnum = 0;
-      //   for (i = 0; i < content_data_step.length; i++) {
-      //     content_data_page_count = content_data_step[i].page_name.length;
-      //     if (content_data_page_maxnum < content_data_page_count) {
-      //       content_data_page_maxnum = content_data_page_count
-      //     }
-      //   }
-      //   for (i = 0; i < content_data_page_maxnum; i++) {
-      //     content_seq += '			<th >' + Number(i + 1) + 'page</th>'
-      //   }
-
-      //   content_seq += '		</tr>'
-      //   content_seq += '	</tthead>'
-      //   content_seq += '	<ttbody>' //id = "'+content_code+'"
-
-      //   $.each(content_data_step, function (idx, value) {
-      //     //console.log(content_data[idx].no)
-      //     content_seq += '		<tr>'
-      //     content_seq += '			<td>' + Number(content_data_step[idx].chasi - content_chasi_prev) + '</td>'//no
-      //     content_seq += '			<td>' + content_data_step[idx].title_a + '</td>'//차시명
-      //     content_seq += '			<td>' + content_data_step[idx].title_b + '</td>'//차시명(특수기호제거)
-      //     // if(content_sample[step] == idx+1+content_chasi_prev){
-      //     //   content_seq += '			<td>'+"Y("+Number(idx+1)+")"+'</td>'//맛보기차시
-      //     // } else{
-      //     //   content_seq += '			<td>N</td>'//맛보기차시
-      //     // }
-      //     $.each(content_data_step[idx].page_name, function (idxx, value) {
-      //       content_seq += '			<td>' + content_data_step[idx].page_name[idxx] + '</td>'//메뉴1
-      //     });
-      //     content_seq += '		</tr>'
-
-      //   })
-      //   content_seq += '	</ttbody>'
-      //   content_seq += '	<tr><td></td></tr>'
-      //   content_seq += '</table>'
-      //   $('body').append(content_seq)
-      // }
-
-      // if (step < content_chasi.length - 1) {
-      //   step++
-      //   get_json_paser(code, step)
-      //   return
-      // }
       if (con_cod_arr.length > 1 && con_cod_arr.length - con_cod_taget != 1) {
         con_cod_taget++
         get_json_paser(con_cod_arr[con_cod_taget], 0)
@@ -272,7 +102,8 @@ function main_display_table() {
       newContent += '  <td>' + val.content_page + '</td>'//페이지수
       newContent += '  <td>' + val.content_size + '</td>'//사이즈
       newContent += '  <td>' + val.content_cm + '</td>'//컨텐츠 담당자
-      newContent += '  <td><input type="button" onclick="content_xls_down2(' + val.content_code + ", " + '\'' + val.content_code.split("_")[1] + '\')" value="download"></td>'
+      // newContent += '  <td><input type="button" onclick="content_xls_down2(' + val.content_code + ", " + '\'' + val.content_code.split("_")[1] + '\')" value="download"></td>'
+      newContent += '  <td><input type="button" onclick="content_xls_down2(\'table_' + val.content_code +'\')" value="download"></td>'
       newContent += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" value="bind_path"></td>'
       newContent += '  <td><input type="button" onclick="row_remove(this, \'' + key + '\')" value="-"></td>'
       newContent += '  <td><input type="button" onclick="xls_set_hunet_index(this.name)" name="' + val.content_code + '" value="index"> <input type="button" onclick="xls_set_hunet_frame(this.name)" name="' + val.content_code + '" value="frame"></td>'
@@ -292,7 +123,7 @@ function main_display_table() {
   $.each(content_data_step_obj, function (key, val) {
     if ($(".table_" + key).length < 1) {
       //   var content_seq = '<table class="main_contable hidden ' + set_cod_step + '" >' //style="display:none"
-      content_seq += '<table class="main_contable hidden table_' + key + '" >' //style="display:none"
+      content_seq += '<table class="main_contable table_' + key + '" >' //style="display:none"
 
       content_seq += '	<thead>'
       content_seq += '		<tr>'
@@ -398,9 +229,8 @@ function export_table() {
 
 }
 
-function content_xls_down2(con_code, con_step) {
-  var file_name = con_code + "_" + con_step;
-  content_xls_download("main_contable")
+function content_xls_down2(con_code) {
+  content_xls_download(con_code)
 }
 
 function content_xls_download(file_name) {

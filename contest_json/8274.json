@@ -1,0 +1,286 @@
+{
+	"content_lan": "영어",
+	"content_code": 8274,
+	"content_name": "[야나두] 써먹는 VOCA - 입문편",
+	"content_sample": "1",
+	"content_chasi": "25",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Play",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Call",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Point",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Hit",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Face",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Back",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Go",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Pass",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Time",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Bill",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Train",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Run",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Change",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Block",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Burn",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Cover",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Move",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Store",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Drop",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Age",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Drink",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Fly",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Right",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Land",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Check",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8274/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

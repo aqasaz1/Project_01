@@ -1,0 +1,895 @@
+{
+	"content_lan": "일본어",
+	"content_code": 8209,
+	"content_name": "야나두 현지 일본어 -  패턴 첫걸음 편",
+	"content_sample": "1/22/49/69",
+	"content_chasi": "20/20/20/21",
+	"content_size": "1000*650",
+	"content_cm": "일본어",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "히라가나 50음도 1",
+			"title_b": "히라가나 50음도 1",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "히라가나 50음도 2",
+			"title_b": "히라가나 50음도 2",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "탁음, 반탁음, 요음",
+			"title_b": "탁음 반탁음 요음",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "촉음, 발음, 장음",
+			"title_b": "촉음 발음 장음",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "가타카나 50음도 1",
+			"title_b": "가타카나 50음도 1",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "가타카나 50음도 2 ",
+			"title_b": "가타카나 50음도 2 ",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "기본 인사말 1",
+			"title_b": "기본 인사말 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "기본 인사말 2",
+			"title_b": "기본 인사말 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "～です",
+			"title_b": "입니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "～じゃないです",
+			"title_b": "가 아닙니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "～でした",
+			"title_b": "였습니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "～じゃなかったです",
+			"title_b": "가 아니었습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "명사 4패턴",
+			"title_b": "명사 4패턴",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "~いです",
+			"title_b": "습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "～くないです",
+			"title_b": "지 않습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "～かったです",
+			"title_b": "였습니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "～くなかったです",
+			"title_b": "지 않았습니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "い형용사 4패턴",
+			"title_b": "이형용사 4패턴",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "～です",
+			"title_b": "합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "～じゃないです",
+			"title_b": "지 않습니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "～でした",
+			"title_b": "했습니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "～じゃなかったです",
+			"title_b": "하지 않았습니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "な형용사 4패턴",
+			"title_b": "나형용사 4패턴",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "동사의 종류, 동사의 ます형",
+			"title_b": "동사의 종류와 동사의 마스형",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "～ます",
+			"title_b": "합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "～ません",
+			"title_b": "하지 않습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "～ました",
+			"title_b": "했습니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "～ませんでした",
+			"title_b": "하지 않았습니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "동사 4패턴",
+			"title_b": "동사 4패턴",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "～く、に",
+			"title_b": "하게",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "~で",
+			"title_b": "하고 해서 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "~くて ",
+			"title_b": "하고 해서 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "～(だ）から",
+			"title_b": "이유를 나타낼 때",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "～けど",
+			"title_b": "지만",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "각종품사의 명사수식",
+			"title_b": "각종품사의 명사수식",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "의문사 정리",
+			"title_b": "의문사 정리",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "가족 호칭",
+			"title_b": "가족 호칭",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "위치, 장소 표현",
+			"title_b": "위치 장소 표현",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "숫자 읽기",
+			"title_b": "숫자 읽기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "조수사 정리",
+			"title_b": "조수사 정리",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "～が います",
+			"title_b": "이 있습니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "～が あります",
+			"title_b": "이 있습니다 2",
+			"page_name": [
+				"Lecture 1",
+				"Lecture 2",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "～が 好きです",
+			"title_b": "를 좋아합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "～は 嫌いです",
+			"title_b": "는 싫어합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "～が 上手です、～が 得意です",
+			"title_b": "을 잘합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "～は 下手です",
+			"title_b": "는 못합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "～に します",
+			"title_b": "로 하겠습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "～が できます",
+			"title_b": "를 할 수 있습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "～が ほしいです",
+			"title_b": "를 갖고 싶습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "~を あげます",
+			"title_b": "를 줍니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "～を くれます",
+			"title_b": "를 줍니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "～を もらいます",
+			"title_b": "를 받습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "~と 思います",
+			"title_b": "라고 생각합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "～ことが できます",
+			"title_b": "하는 것이 가능합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "～から～まで",
+			"title_b": "부터 까지",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "～より～の方が",
+			"title_b": "보다 쪽이",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "こと、もの、の",
+			"title_b": "것",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "~く/になります",
+			"title_b": "해집니다 이 됩니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "～ませんか、～ましょう、ましょうか",
+			"title_b": "하지 않을래요",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "～たいです",
+			"title_b": "하고 싶습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_60h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": "~に 行きます、~に 来ます",
+			"title_b": "하러 갑니다 하러 옵니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_61h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 62,
+			"title_a": "~ながら",
+			"title_b": "하면서",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_62h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 63,
+			"title_a": "~方",
+			"title_b": "방법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_63h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 64,
+			"title_a": "~すぎます",
+			"title_b": "너무 합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_64h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 65,
+			"title_a": "～やすいです、～にくいです",
+			"title_b": "하기 쉽습니다 하기 어렵습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_65h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 66,
+			"title_a": "동사의 て형",
+			"title_b": "동사의 테형",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_66h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 67,
+			"title_a": "～てください",
+			"title_b": "해주세요",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_67h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 68,
+			"title_a": "~ています、～てみます",
+			"title_b": "하고 있습니다 해 보겠습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_68h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 69,
+			"title_a": "～てもいいです、～てはいけません",
+			"title_b": "해도 괜찮습니다 해서는 안 됩니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_69h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 70,
+			"title_a": "～てしまいます",
+			"title_b": "해버립니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_70h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 71,
+			"title_a": "동사의 た형",
+			"title_b": "동사의 타형",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_71h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 72,
+			"title_a": "～た 後で",
+			"title_b": "한 후에",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_72h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 73,
+			"title_a": "～たことが あります",
+			"title_b": "한 적이 있습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_73h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 74,
+			"title_a": "～たり～たりします",
+			"title_b": "하거나 하거나 합니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_74h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 75,
+			"title_a": "～た方が いいです",
+			"title_b": "하는 편이 좋습니다 하는 편이 낫습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_75h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 76,
+			"title_a": "동사의 ない형",
+			"title_b": "동사의 나이형",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4/a1_76h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 77,
+			"title_a": "~ないでください",
+			"title_b": "하지 말아주세요",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_77h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 78,
+			"title_a": "～ない方が いいです",
+			"title_b": "하지 않는 편이 좋습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_78h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 79,
+			"title_a": "~なくても いいです",
+			"title_b": "하지 않아도 괜찮습니다",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_79h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 80,
+			"title_a": "~てくれます",
+			"title_b": "를 해줍니다 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_80h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 81,
+			"title_a": "~てもらいます",
+			"title_b": "를 해줍니다 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8209/mp4_bind_part/z1_81h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
