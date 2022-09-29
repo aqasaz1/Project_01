@@ -1,19 +1,22 @@
+.main_table { border-spacing: 0; border-collapse: collapse; text-align: center; vertical-align: middle; font-size: 12px; }
+.main_table th { border: 1px solid; text-align: center; background-color: #002060; color: #FFFFFF; font-weight: normal; }
 
-.main_table {border-spacing: 0; border-collapse: collapse; text-align: center; vertical-align:middle; font-size: 12px;}
-.main_table th{border: 1px solid; text-align: center; background-color:#002060; color:#FFFFFF; font-weight:normal;}
-.main_table td{border: 1px solid; text-align: center;}
+.main_table td { border: 1px solid; text-align: center; }
+
 /* .odd{border: 1px solid; text-align: center; background-color:#f0f0f0;} */
 /* .even{border: 1px solid; text-align: center; background-color:#ffffff;} */
-.cname{border: 1px solid; text-align: left;}
 
-.h_btn{display: none;}
+.cname { border: 1px solid; text-align: left; }
 
-.hunet th{text-align: center; background-color:#F2DCDB;}
-.hunet td{text-align: center; }
+.h_btn { display: none; }
 
-.main_contable th{text-align: center; background-color:#002060; color:#FFFFFF; }
-.main_contable td{text-align: left; }
-.main_contable tbody th{text-align: center; background-color:#FFFF00; color:#000000; }
+.hunet th { text-align: center; background-color: #F2DCDB; }
+.hunet td { text-align: center; }
+
+.main_contable th { text-align: center; background-color: #002060; color: #FFFFFF; }
+.main_contable td { text-align: left; }
+.main_contable tbody th { text-align: center; background-color: #FFFF00; color: #000000; }
+
 .hidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -25,4 +28,44 @@
     padding: 0;
     position: absolute;
     white-space: nowrap;
+}
+
+#loader_div {
+    width: 100%;
+    max-width: 1270px;
+}
+
+.loader {
+    position: relative;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #002060;
+    width: 120px;
+    height: 120px;
+    left: 40%;
+    top: 40px;
+    -webkit-animation: spin 2s linear infinite;
+    /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }

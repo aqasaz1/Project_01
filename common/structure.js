@@ -53,9 +53,9 @@ function get_json_paser(code, step) {
           jsonTxt = JSON.stringify(data, (key, value) => {
             return key === 'content_code' ? value + '_step' + (i + 1)
               : key === 'content_chasi' ? content_chasi[i]
-                : key === 'content_sample' ? content_sample[i] - content_chasi_prev[i]
-                  : key === 'content_data' ? content_data_step
-                    : value;
+              : key === 'content_sample' ? content_sample[i] - content_chasi_prev[i]
+              : key === 'content_data' ? content_data_step
+              : value;
           })
 
           jsonData = JSON.parse(jsonTxt)
@@ -81,6 +81,12 @@ function get_json_paser(code, step) {
       alert("확인되지 않습니다.")
     }
   })
+}
+
+function export_table() {
+  $(".h_loader").attr('class', 'loader')
+  con_cod_arr = $('#con_cod').val().trim().split(" ")
+  get_json_paser(con_cod_arr[0], 0)
 }
 
 function main_display_table() {
@@ -127,7 +133,9 @@ function main_display_table() {
   })
   let total_step = eng_num + jpn_num + chn_num + etc_num
   $("#total_step").text(total_step+"step (영 "+eng_num+", 일 "+jpn_num+", 중 "+chn_num+", 기타 "+etc_num+")")
+  $(".loader").attr('class', 'h_loader')
   $("#content_list").append(mainObj);
+  $(".h_btn").attr('class', 'btn')
   row_num_set();
 }
 
@@ -402,11 +410,6 @@ function key_event() {
     }
   });
 }
-function export_table() {
-  $(".h_btn").attr('class', 'btn')
-  con_cod_arr = $('#con_cod').val().trim().split(" ")
-  get_json_paser(con_cod_arr[0], 0)
-}
 
 function twolength(n) {
   return (n < 10 ? '0' : '') + n
@@ -443,9 +446,9 @@ function rowMoveEvent(direction, row) {
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
+/*
+function xls_set_hunet_index(item) {
 
-function _xls_set_hunet_index(item) {
-  return
   this_step_data = content_data_step_obj[item]
   this_step_chasi = content_data_step_obj[item]["content_data"]
   content_code = this_step_data["content_code"]
@@ -496,8 +499,8 @@ function _xls_set_hunet_index(item) {
   content_xls_download(file_name)
 }
 
-function _xls_set_hunet_frame(item) {
-  return
+function xls_set_hunet_frame(item) {
+
   this_step_data = content_data_step_obj[item]
   this_step_chasi = content_data_step_obj[item]["content_data"]
   content_code = this_step_data["content_code"]
@@ -534,3 +537,4 @@ function _xls_set_hunet_frame(item) {
 
   content_xls_download(file_name)
 }
+*/
