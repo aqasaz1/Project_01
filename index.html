@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=client-width, height=client-height, user-scalable=1, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="viewport"
+    content="width=client-width, height=client-height, user-scalable=1, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta http-equiv='cache-control' content='no-cache'>
@@ -20,52 +22,59 @@
 <script type="text/javascript" src="./common/FileSaver.min.js"></script>
 <script type="text/javascript" src="./common/tableExport.js"></script>
 <script type="text/javascript" src="./common/structure.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/TableDnD/0.9.1/jquery.tablednd.js" integrity="sha256-d3rtug+Hg1GZPB7Y/yTcRixO/wlI78+2m08tosoRn7A=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/TableDnD/0.9.1/jquery.tablednd.js"
+  integrity="sha256-d3rtug+Hg1GZPB7Y/yTcRixO/wlI78+2m08tosoRn7A=" crossorigin="anonymous"></script>
 
 <link type="text/css" href="./common/common.css" rel="stylesheet" />
+
 <body>
-    <!-- 8243 8131 -->
-    <input type="text" id="con_cod" value="8243 8131">
-    <input type="button" id="on_click" class = "btn" value="+ 추가">
-    <input type="button" onclick="content_xls_download('main_table')" value="과정정보 download" >
-    <input type="button" onclick="content_xls_download('main_contable')" value="CA정보 download" >
-    <input type="button" id="on_click_reset" class = "btn" value="새로고침" onclick="javascript:window.location.reload()">
-    <p></p>
-    <table class="main_table" >
-      <thead>
-        <tr>
-          <th style="width: 20px;">No</th>
-          <th style="width: 60px;">구분</th>
-          <th style="width: 120px;">업체코드<button onclick="popup('code')">일괄변경</button></th>
-          <th style="width: 60px;">과정코드</th>
-          <th style="width: 40px;">step</th>
-          <th style="width: 300px;">과정명<button onclick="popup('name')">일괄변경</button></th>
-          <th style="width: 60px;">샘플차시</th>
-          <th style="width: 60px;">차시수</th>
-          <th style="width: 60px;">페이지수</th>
-          <th style="width: 60px;">사이즈</th>
-          <th style="width: 60px;">담당자</th>
-          <!-- <th style="width: 80px;"><input type="button" onclick="content_xls_download('main_contable')" value="과정정보"></th> -->
-          <th style="width: 100px;"><input type="button" onclick="popup('bind')" value="bind_path_all"></th>
-          <th style="width: 30px;">삭제</th>
-          <th style="width: 62px;"><button onclick="window.open('./ca_template/hunet.zip')" style="width: 100%;">휴넷</button></th>
-          <th style="width: 76px;"><button onclick="window.open('./ca_template/kg_eduone.zip')" style="width: 100%;">KG에듀원</button></th>
-          <th style="width: 83px;"><button onclick="window.open('./ca_template/meganext.zip')" style="width: 100%;">메가넥스트</button></th>
-          <!-- <th style="width: 56px;">XLS_04</th> -->
-          <th style="width: 70px;">이동</th>
-        </tr>
-      </thead>
-      <tbody id = "content_list">
-      </tbody>
-    </table>
-    <p></p>
-    <script>
-      $(document).ready(function(){
-        $("#on_click").click(function(){
-          export_table();          
-        });
-        key_event();
+  <!-- 8243 8131 -->
+  <input type="text" id="con_cod" value="8243 8131">
+  <input type="button" id="on_click" class="btn" value="+ 추가">
+  <span id="total_step" ></span>
+  <!-- <input type="button" id="on_click_reset" class="btn" value="새로고침" onclick="javascript:window.location.reload()"> -->
+  <p></p>
+
+  <table class="main_table">
+    <thead>
+      <tr>
+        <th style="width: 20px;">No</th>
+        <th style="width: 60px;">구분</th>
+        <th style="width: 120px;">업체코드<button class="h_btn" onclick="popup('code')">일괄변경</button></th>
+        <th style="width: 60px;">과정코드</th>
+        <th style="width: 40px;">STEP</th>
+        <th style="width: 300px;">과정명<button class="h_btn" onclick="popup('name')">일괄변경</button></th>
+        <th style="width: 60px;">샘플차시</th>
+        <th style="width: 60px;">차시수</th>
+        <th style="width: 60px;">페이지수</th>
+        <th style="width: 60px;">사이즈</th>
+        <th style="width: 60px;">담당자</th>
+        <!-- <th style="width: 80px;"><input type="button" onclick="content_xls_download('main_contable')" value="과정정보"></th> -->
+        <!-- <th style="width: 100px;"><input type="button" onclick="popup('bind')" value="bind_path_all"></th> -->
+        <th style="width: 30px;">삭제</th>
+        <th style="width: 62px;"><button onclick="window.open('./ca_template/hunet.zip')" style="width: 100%;">휴넷</button></th>
+        <th style="width: 76px;"><button onclick="window.open('./ca_template/kg_eduone.zip')" style="width: 100%;">KG에듀원</button></th>
+        <th style="width: 83px;"><button onclick="window.open('./ca_template/meganext.zip')" style="width: 100%;">메가넥스트</button></th>
+        <!-- <th style="width: 56px;">XLS_04</th> -->
+        <th style="width: 70px;">이동</th>
+      </tr>
+    </thead>
+    <tbody id="content_list">
+    </tbody>
+  </table>
+  <p></p>
+  <input type="button" class="h_btn" onclick="content_xls_download('main_table')" value="과정정보 내려받기">
+  <input type="button" class="h_btn" onclick="content_xls_download('main_contable')" value="CA정보 내려받기">
+  <input type="button" class="h_btn" onclick="popup('bind')" value="MP4합본 경로">
+  <p></p>
+  <script>
+    $(document).ready(function () {
+      $("#on_click").click(function () {
+        export_table();
       });
-    </script>
+      key_event();
+    });
+  </script>
 </body>
+
 </html>

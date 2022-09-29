@@ -53,9 +53,9 @@ function get_json_paser(code, step) {
           jsonTxt = JSON.stringify(data, (key, value) => {
             return key === 'content_code' ? value + '_step' + (i + 1)
               : key === 'content_chasi' ? content_chasi[i]
-              : key === 'content_sample' ? content_sample[i] - content_chasi_prev[i]
-              : key === 'content_data' ? content_data_step
-              : value;
+                : key === 'content_sample' ? content_sample[i] - content_chasi_prev[i]
+                  : key === 'content_data' ? content_data_step
+                    : value;
           })
 
           jsonData = JSON.parse(jsonTxt)
@@ -85,13 +85,12 @@ function get_json_paser(code, step) {
 
 function main_display_table() {
   var mainObj = '';
+  let eng_num = jpn_num = chn_num = etc_num = 0;
   $.each(content_data_step_obj, function (key, val) {
     if ($("." + key).length < 1) {
 
       mainObj += '<tr class = ' + key + ' >'
       mainObj += '  <td>' + 'no' + '</td>'//no
-
-
       mainObj += '  <td>' + val.content_lan + '</td>'//구분
       mainObj += '  <td class="cp_code"><input type="text" style="width:100px" name="cp_code" value = ""></td>'//과정코드
       mainObj += '  <td>' + val.content_code.split("_")[0] + '</td>'//내부코드
@@ -104,7 +103,7 @@ function main_display_table() {
       mainObj += '  <td>' + val.content_cm + '</td>'//컨텐츠 담당자
       // mainObj += '  <td><input type="button" onclick="content_xls_down2(' + val.content_code + ", " + '\'' + val.content_code.split("_")[1] + '\')" value="download"></td>'
       // mainObj += '  <td><input type="button" onclick="content_xls_download(\'table_' + val.content_code + '\')" value="download"></td>'
-      mainObj += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" value="bind_path"></td>'
+      // mainObj += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" value="bind_path"></td>'
       mainObj += '  <td><input type="button" onclick="row_remove(this, \'' + key + '\')" value="-"></td>'
       // mainObj += '  <td><input type="button" onclick="xls_set_hunet_index(this.name)" name="' + val.content_code + '" value="index"> <input type="button" onclick="xls_set_hunet_frame(this.name)" name="' + val.content_code + '" value="frame"></td>'
       mainObj += '  <td><input type="button" onclick="popup(' + "\'hunet'" + ',this.name)" name="' + val.content_code + '" value="CA정보"></td>'
@@ -115,11 +114,20 @@ function main_display_table() {
       mainObj += '  <input type="button" onClick="rowMoveEvent(\'down\', $(this));" value="▼" style="width:30px;"/></td>'
 
       mainObj += '</tr>'
+      if (val.content_lan=="영어") {
+        eng_num++
+      } else if (val.content_lan=="일본어") {
+        jpn_num++        
+      } else if (val.content_lan=="중국어") {
+        chn_num++
+      } else if (val.content_lan=="기타외국어") {
+        etc_num++
+      }
     }
   })
-
+  let total_step = eng_num + jpn_num + chn_num + etc_num
+  $("#total_step").text(total_step+"step (영 "+eng_num+", 일 "+jpn_num+", 중 "+chn_num+", 기타 "+etc_num+")")
   $("#content_list").append(mainObj);
-
   row_num_set();
 }
 
@@ -129,7 +137,7 @@ function sub_display_table() {
   $.each(content_data_step_obj, function (key, val) {
     if ($(".table_" + key).length < 1) {
       //   var subObj = '<table class="main_contable hidden ' + set_cod_step + '" >' //style="display:none"
-      subObj += '<table class="main_contable table_' + key + '" >' //style="display:none"
+      subObj += '<table class="main_contable hidden table_' + key + '" >' //style="display:none"
 
       subObj += '	<thead>'
       subObj += '		<tr>'
@@ -189,7 +197,7 @@ function sub_display_table() {
         subObj += '			<td>' + Number(i + 1) + '</td>'//no
         subObj += '			<td>' + value.title_a + '</td>'//차시명
         subObj += '			<td>' + value.title_b + '</td>'//차시명(특수기호제거)
-        subObj += '			<td>/'+key+'/'+twolength(Number(i + 1))+'/01.htm</td>'//차시명(특수기호제거)
+        subObj += '			<td>/' + key + '/' + twolength(Number(i + 1)) + '/01.htm</td>'//차시명(특수기호제거)
         // if(content_sample[step] == idx+1+content_chasi_prev){
         // subObj += '			<td>'+"Y("+Number(idx+1)+")"+'</td>'//맛보기차시
         // } else{
@@ -269,7 +277,7 @@ function popup(name, cod) {
 }
 
 function json_update() {
-  $.each(content_data_step_obj, function(key, item){
+  $.each(content_data_step_obj, function (key, item) {
     // item.content_name = $("." + key + " .cp_name input").val()
     // item.cp_code = $("." + key + " .cp_code input").val()
     content_data_step_obj[key].content_name = $("." + key + " .cp_name input").val()
@@ -308,7 +316,7 @@ function hunet_frame(item) {
   return subObj.trim()
 }
 
-function kg_eduone(item){
+function kg_eduone(item) {
   this_step_data = content_data_step_obj[item]
   this_step_chasi = this_step_data["content_data"]
   content_code = this_step_data["content_code"]
@@ -317,16 +325,16 @@ function kg_eduone(item){
   var subObj = ''
   subObj = 'part\tpage\t학습일\t제목\t모바일 동영상과정 경로\t미지원안내\tPDF경로\t웹경로\t기준시간(초)\tPC 동영상과정 경로' + '\n'
   for (i = 0; i < this_step_chasi.length; i++) {
-    subObj += twolength(i+1) + "0100" + "\t" + "0" + "\t" + (i+1) + "\t" + twolength(i+1) + ". " + this_step_chasi[i]["title_a"] + "\n";
+    subObj += twolength(i + 1) + "0100" + "\t" + "0" + "\t" + (i + 1) + "\t" + twolength(i + 1) + ". " + this_step_chasi[i]["title_a"] + "\n";
     for (j = 0; j < this_step_chasi[i]["page_name"].length; j++) {
-      subObj += twolength(i + 1) + twolength(j + 1) + '01' + '\t' + '0' + twolength(j + 1) + '\t' + (i+1) + '\t' + this_step_chasi[i]["page_name"][j] + '\t' + "5205/cybercampus/" + cp_code + '/' + twolength(i + 1) + "/" + twolength(j + 1) + '.mp4' + '\n'
+      subObj += twolength(i + 1) + twolength(j + 1) + '01' + '\t' + '0' + twolength(j + 1) + '\t' + (i + 1) + '\t' + this_step_chasi[i]["page_name"][j] + '\t' + "5205/cybercampus/" + cp_code + '/' + twolength(i + 1) + "/" + twolength(j + 1) + '.mp4' + '\n'
     }
   }
 
   return subObj.trim()
 }
 
-function meganext(item){
+function meganext(item) {
   this_step_data = content_data_step_obj[item]
   this_step_chasi = this_step_data["content_data"]
   content_code = this_step_data["content_code"]
@@ -336,7 +344,7 @@ function meganext(item){
   subObj = '장번호\t주차명(장)\t절번호\t컨텐츠명(절)\t총학습시간(분)\t경로\t총페이지(절구성)\t완료인정시간\t모바일여부' + '\n'
   for (i = 0; i < this_step_chasi.length; i++) {
     for (j = 0; j < this_step_chasi[i]["page_name"].length; j++) {
-      subObj += twolength(i+1) + "\t" + twolength(i+1) + ". " + this_step_chasi[i]["title_a"] + "\t" + twolength(j+1) + "\t"+this_step_chasi[i]["page_name"][j]+ "\t" + "1" + "\t" + twolength(i+1) + "/index.htm?page=" + twolength(j+1) + "\t" + "1" + "\t" + "1" + "\t" + "Y" + "\n";
+      subObj += twolength(i + 1) + "\t" + twolength(i + 1) + ". " + this_step_chasi[i]["title_a"] + "\t" + twolength(j + 1) + "\t" + this_step_chasi[i]["page_name"][j] + "\t" + "1" + "\t" + twolength(i + 1) + "/index.htm?page=" + twolength(j + 1) + "\t" + "1" + "\t" + "1" + "\t" + "Y" + "\n";
     }
   }
 
@@ -351,8 +359,7 @@ function bind_path_all() {
   var bind_data = ""
   for (var cod in content_data_step_obj) {
     for (i = 0; i < content_data_step_obj[cod]["content_data"].length - 1; i++) {
-      console.log(content_data_step_obj[cod]["content_data"])
-
+      // console.log(content_data_step_obj[cod]["content_data"])
       bind_data += cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
     }
@@ -360,7 +367,6 @@ function bind_path_all() {
   }
   return bind_data.trim()
 }
-
 
 
 
@@ -396,8 +402,8 @@ function key_event() {
     }
   });
 }
-
 function export_table() {
+  $(".h_btn").attr('class', 'btn')
   con_cod_arr = $('#con_cod').val().trim().split(" ")
   get_json_paser(con_cod_arr[0], 0)
 }

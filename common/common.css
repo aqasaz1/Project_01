@@ -6,6 +6,7 @@
 /* .even{border: 1px solid; text-align: center; background-color:#ffffff;} */
 .cname{border: 1px solid; text-align: left;}
 
+.h_btn{display: none;}
 
 .hunet th{text-align: center; background-color:#F2DCDB;}
 .hunet td{text-align: center; }
