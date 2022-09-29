@@ -1,3 +1,8 @@
+#con_cod{
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+}
 .main_table { border-spacing: 0; border-collapse: collapse; text-align: center; vertical-align: middle; font-size: 12px; }
 .main_table th { border: 1px solid; text-align: center; background-color: #002060; color: #FFFFFF; font-weight: normal; }
 

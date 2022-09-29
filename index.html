@@ -3,7 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=client-width, height=client-height, user-scalable=1, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="viewport"
+    content="width=client-width, height=client-height, user-scalable=1, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta http-equiv='cache-control' content='no-cache'>
@@ -31,6 +32,9 @@
   <input type="text" id="con_cod" value="8243 8131">
   <input type="button" id="on_click" class="btn" value="+ 추가">
   <span id="total_step"></span>
+  <input type="button" class="h_btn" onclick="content_xls_download('main_table')" value="과정정보 내려받기">
+  <input type="button" class="h_btn" onclick="content_xls_download('main_contable')" value="CA정보 내려받기">
+  <input type="button" class="h_btn" onclick="popup('bind')" value="MP4합본 경로">
   <!-- <input type="button" id="on_click_reset" class="btn" value="새로고침" onclick="javascript:window.location.reload()"> -->
   <p></p>
   <table class="main_table">
@@ -50,9 +54,12 @@
         <!-- <th style="width: 80px;"><input type="button" onclick="content_xls_download('main_contable')" value="과정정보"></th> -->
         <!-- <th style="width: 100px;"><input type="button" onclick="popup('bind')" value="bind_path_all"></th> -->
         <th style="width: 30px;">삭제</th>
-        <th style="width: 62px;"><button onclick="window.open('./ca_template/hunet.zip')" style="width: 100%;">휴넷</button></th>
-        <th style="width: 76px;"><button onclick="window.open('./ca_template/kg_eduone.zip')" style="width: 100%;">KG에듀원</button></th>
-        <th style="width: 83px;"><button onclick="window.open('./ca_template/meganext.zip')" style="width: 100%;">메가넥스트</button></th>
+        <th style="width: 62px;"><button onclick="window.open('./ca_template/hunet.zip')"
+            style="width: 100%;">휴넷</button></th>
+        <th style="width: 76px;"><button onclick="window.open('./ca_template/kg_eduone.zip')"
+            style="width: 100%;">KG에듀원</button></th>
+        <th style="width: 83px;"><button onclick="window.open('./ca_template/meganext.zip')"
+            style="width: 100%;">메가넥스트</button></th>
         <!-- <th style="width: 56px;">XLS_04</th> -->
         <th style="width: 70px;">이동</th>
       </tr>
@@ -60,19 +67,11 @@
     <tbody id="content_list">
     </tbody>
   </table>
-
   <p></p>
-
-  <input type="button" class="h_btn" onclick="content_xls_download('main_table')" value="과정정보 내려받기">
-  <input type="button" class="h_btn" onclick="content_xls_download('main_contable')" value="CA정보 내려받기">
-  <input type="button" class="h_btn" onclick="popup('bind')" value="MP4합본 경로">
-
   <p></p>
-
   <div id="loader_div">
     <div class="h_loader"></div>
   </div>
-
   <script>
     $(document).ready(function () {
       $("#on_click").click(function () {
@@ -82,5 +81,8 @@
     });
   </script>
 
+  <style>
+  </style>
 </body>
+
 </html>
