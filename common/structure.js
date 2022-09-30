@@ -120,15 +120,15 @@ function main_display_table() {
       mainObj += '  <input type="button" onClick="rowMoveEvent(\'down\', $(this));" value="▼" style="width:30px;"/></td>'
 
       mainObj += '</tr>'
-      if (val.content_lan=="영어") {
-        eng_num++
-      } else if (val.content_lan=="일본어") {
-        jpn_num++        
-      } else if (val.content_lan=="중국어") {
-        chn_num++
-      } else if (val.content_lan=="기타외국어") {
-        etc_num++
-      }
+    }
+    if (val.content_lan=="영어") {
+      eng_num++
+    } else if (val.content_lan=="일본어") {
+      jpn_num++        
+    } else if (val.content_lan=="중국어") {
+      chn_num++
+    } else if (val.content_lan=="기타외국어") {
+      etc_num++
     }
   })
   let total_step = eng_num + jpn_num + chn_num + etc_num
