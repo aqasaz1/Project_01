@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<script type="text/javascript" src="./common/jquery-3.6.1.min.js"></script>
+
+<body>
+	<a>DOWNLOAD JSON</a>
+	<input type="button" id="data_btn" value="예시 지우기">
+	<table>
+		<tr>
+			<th>언어</th>
+			<td>
+				<select name="" id="con_lan">
+					<option value="영어">영어</option>
+					<option value="중국어">중국어</option>
+					<option value="일본어">일본어</option>
+					<option value="기타외국어">기타외국어</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<th>과정코드</th>
+			<td><input type="text" name="" id="con_cod" class="non-data" value=""></td>
+		</tr>
+		<tr>
+			<th>과정명</th>
+			<td><input type="text" name="" id="con_name" class="non-data" value=""></td>
+		</tr>
+		<tr>
+			<th>샘플차시</th>
+			<td><input type="text" name="" id="con_sample" class="non-data" value="1">(Step구분 예: 1/21)</td>
+		</tr>
+		<tr>
+			<th>스텝차시</th>
+			<td><input type="text" name="" id="con_chasi" class="non-data" value="20">(Step구분 예: 20/20)</td>
+		</tr>
+		<tr>
+			<th>사이즈</th>
+			<td><input type="text" name="" id="con_size" class="non-data" value="1000*650"></td>
+		</tr>
+		<tr>
+			<th>담당자</th>
+			<td><input type="text" name="" id="con_cm" class="non-data"></td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<th>차시명</th>
+			<th>차시명(특수기호제거)</th>
+			<th>페이지명</th>
+			<th>합본경로</th>
+		</tr>
+		<tr>
+			<td><textarea name="" id="con_data1" class="non-data" cols="30" rows="30"></textarea></td>
+			<td><textarea name="" id="con_data2" class="non-data" cols="30" rows="30"></textarea></td>
+			<td><textarea name="" id="con_data3" class="non-data" cols="30" rows="30"></textarea></td>
+			<td><textarea name="" id="con_bind" class="non-data" cols="30" rows="30"></textarea></td>
+		</tr>
+	</table>
+	<script>
+		$(document).ready(function () {
+
+			$("#data_btn").click(function () {
+				$(".non-data").val("")
+				$(".non-data").text("")
+			})
+			//기본세팅
+			$("#con_cod").val("8276")
+			$("#con_name").val("[야나두] 비즈니스 영어 스킬업")
+			$("#con_sample").val("1/15")
+			$("#con_chasi").val("14/14")
+			$("#con_size").val("1000*650")
+			$("#con_cm").val("오순정")
+			$("#con_data1").text("[미팅 요청] 미팅 가능하신가요?\n[시간 조율] 다른 시간은 안 될까요?\n")
+			$("#con_data2").text("미팅 요청\n시간 조율\n")
+			$("#con_data3").text("Lecture1\tPractice1\nLecture2\tPractice2\n")
+			$("#con_bind").text("X:/Dropbox/Dropbox (Darakwon)/content/8276/mp4_bind/z1_01h.mp4\nX:/Dropbox/Dropbox (Darakwon)/content/8276/mp4_bind/z1_02h.mp4\n")
+
+
+			$("a").click(function () {
+				var mainJson = {}
+
+				mainJson.content_lan = $("#con_lan").val()
+				mainJson.content_code = $("#con_cod").val()
+				mainJson.content_name = $("#con_name").val()
+				mainJson.content_sample = $("#con_sample").val()
+				mainJson.content_chasi = $("#con_chasi").val()
+				mainJson.content_size = $("#con_size").val()
+				mainJson.content_cm = $("#con_cm").val()
+				mainJson.content_data = []
+
+				var con_data_title_a = $("#con_data1").text().trim().split("\n")
+				var con_data_title_b = $("#con_data2").text().trim().split("\n")
+				var con_data_page_name = $("#con_data3").text().trim().split("\n")
+				var con_data_bine_path = $("#con_bind").text().trim().split("\n")
+
+				$.each(con_data_title_a, function (key, val) {
+					con_data_page_name_bit = con_data_page_name[key].split("\t")
+					mainJson.content_data[key] = {
+						"chasi": key + 1,
+						"title_a": val,
+						"title_b": con_data_title_b[key],
+						"page_name": con_data_page_name_bit,
+						"mp4_bind_path": con_data_bine_path[key],
+						"mp4_bind_time": ""
+					}
+				})
+				console.log(mainJson)
+
+				var data = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mainJson, null, '\t'));
+				this.href = 'data:' + data;
+				this.download = 'data.json';
+			})
+
+
+		});
+	</script>
+	<style>
+		body {
+			font-size: 14px;
+		}
+
+		a {
+			background-color: #1E1E1E;
+			border: none;
+			color: #DCDCAA;
+			padding: 5px 10px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+		}
+		a:hover {
+			background-color: #C77333;
+		}
+
+		th {
+			background-color: #333333;
+			color: #7BDCFE;
+			font-weight: normal;
+			padding: 2px 5px;
+		}
+	</style>
+</body>
+
+</html>
