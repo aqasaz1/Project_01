@@ -10,47 +10,52 @@
 <script type="text/javascript" src="./common/jquery-3.6.1.min.js"></script>
 
 <body>
-	<a>DOWNLOAD JSON</a>
-	<table>
-		<tr>
-			<th>언어</th>
-			<td>
-				<select name="" id="con_lan">
-					<option value="default" selected>선택</option>
-					<option value="영어">영어</option>
-					<option value="중국어">중국어</option>
-					<option value="일본어">일본어</option>
-					<option value="기타외국어">기타외국어</option>
-				</select>
-			</td>
-		</tr>
-		<tr><th>과정코드</th>	<td><input type="text" name="" id="con_cod" 	class="non-data" value=""></td></tr>
-		<tr><th>과정명</th>		<td><input type="text" name="" id="con_name" 	class="non-data" value=""></td></tr>
-		<tr><th>샘플차시</th>	<td><input type="text" name="" id="con_sample"	class="non-data" value="1/21">(Step구분 예: 1/21)</td></tr>
-		<tr><th>스텝차시</th>	<td><input type="text" name="" id="con_chasi" 	class="non-data" value="20/20">(Step구분 예: 20/20)</td></tr>
-		<tr><th>사이즈</th>		<td><input type="text" name="" id="con_size" 	class="non-data" value="1000*650"></td></tr>
-		<tr><th>담당자</th>		<td><input type="text" name="" id="con_cm" 		class="non-data" value=""></td></tr>
-	</table>
-	<table>
-		<tr>
-			<th>차시명</th>
-			<th>차시명(특수기호제거)</th>
-			<th>페이지명</th>
-			<th>합본경로</th>
-		</tr>
-		<tr>
-			<td><textarea name="" id="con_data1" class="non-data" cols="29" rows="30"></textarea></td>
-			<td><textarea name="" id="con_data2" class="non-data" cols="29" rows="30"></textarea></td>
-			<td><textarea name="" id="con_data3" class="non-data" cols="29" rows="30"></textarea></td>
-			<td><textarea name="" id="con_bind"  class="non-data" cols="29" rows="30"></textarea></td>
-		</tr>
-	</table>
+	<div id="main">
+	<a id="json_btn">DOWNLOAD JSON</a>
+	<a id="sample_btn">샘플보기</a>
+		<table>
+			<tr>
+				<th>언어</th>
+				<td>
+					<select name="" id="con_lan">
+						<option value="default" selected>선택</option>
+						<option value="영어">영어</option>
+						<option value="중국어">중국어</option>
+						<option value="일본어">일본어</option>
+						<option value="기타외국어">기타외국어</option>
+					</select>
+				</td>
+			</tr>
+			<tr><th>과정코드</th>	<td><input type="text" name="" id="con_cod" 	class="non-data" value=""></td></tr>
+			<tr><th>과정명</th>		<td><input type="text" name="" id="con_name" 	class="non-data" value=""></td></tr>
+			<tr><th>샘플차시</th>	<td><input type="text" name="" id="con_sample"	class="non-data" value="1/21">(Step구분 예: 1/21)</td></tr>
+			<tr><th>스텝차시</th>	<td><input type="text" name="" id="con_chasi" 	class="non-data" value="20/20">(Step구분 예: 20/20)</td></tr>
+			<tr><th>사이즈</th>		<td><input type="text" name="" id="con_size" 	class="non-data" value="1000*650"></td></tr>
+			<tr><th>담당자</th>		<td><input type="text" name="" id="con_cm" 		class="non-data" value=""></td></tr>
+		</table>
+		<table>
+			<tr>
+				<th>차시명</th>
+				<th>차시명(특수기호제거)</th>
+				<th>페이지명</th>
+				<th>합본경로</th>
+			</tr>
+			<tr>
+				<td><textarea name="" id="con_data1" class="non-data" cols="29" rows="30"></textarea></td>
+				<td><textarea name="" id="con_data2" class="non-data" cols="29" rows="30"></textarea></td>
+				<td><textarea name="" id="con_data3" class="non-data" cols="29" rows="30"></textarea></td>
+				<td><textarea name="" id="con_bind"  class="non-data" cols="29" rows="30"></textarea></td>
+			</tr>
+		</table>
+	</div>
+	<textarea id="display" wrap="off">json data</textarea>
 	<script>
 		$(document).ready(function () {
 
+			var data;
+			var mainJson = {}
 
-			$("a").click(function () {
-				var mainJson = {}
+			function jsos_data(){
 
 				mainJson.content_lan 	= $("#con_lan").val()	//언어
 				mainJson.content_code 	= $("#con_cod").val()	//과정코드
@@ -66,39 +71,91 @@
 				var con_data_page_name	= $("#con_data3").val().trim().split("\n")	//메뉴명
 				var con_data_bine_path	= $("#con_bind").val().replaceAll("\\","/").trim().split("\n")	//합본
 
-				$.each(con_data_title_a, function (key, val) {
-					con_data_page_name_bit = con_data_page_name[key].split("\t")
-					mainJson.content_data[key] = {
-						"chasi": key + 1,
-						"title_a": val,
-						"title_b": con_data_title_b[key],
-						"page_name": con_data_page_name_bit,
-						"mp4_bind_path": con_data_bine_path[key],
-						"mp4_bind_time": ""
-					}
-				})
-				console.log(mainJson)
+					$.each(con_data_title_a, function (key, val) {
+						try{
+							con_data_page_name_bit = con_data_page_name[key].split("\t")
+						}catch(e){}
+						mainJson.content_data[key] = {
+							"chasi": key + 1,
+							"title_a": val,
+							"title_b": con_data_title_b[key],
+							"page_name": con_data_page_name_bit,
+							"mp4_bind_path": con_data_bine_path[key],
+							"mp4_bind_time": ""
+						}
+					})
 
-				var data = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mainJson, null, '\t'));
+				return [mainJson,  mainJson.content_code]
+			}
+
+			$("#json_btn").click(function () {	//DOWNLOAD JSON 버튼
+				data = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(jsos_data()[0], null, '\t'));
 				this.href = 'data:' + data;
-				this.download = mainJson.content_code + '.json';
+				this.download = jsos_data()[1]+'.json';
 			})
 
-			$("#con_lan").change(function() {
+			$("#con_lan").change(function() {	//언어 select
 				$(this).val() === "영어" ? $("#con_cm").val("오순정 이선영 신화정") : ""
 				$(this).val() === "중국어" ? $("#con_cm").val("서혜린 이은진") : ""
 				$(this).val() === "일본어" ? $("#con_cm").val("신재민 변솔기") : ""
 				$(this).val() === "기타외국어" ? $("#con_cm").val("정계영") : ""
 				$(this).val() === "default" ? $("#con_cm").val("") : ""
 			});
-			
+
+			$("body").keyup(function(){	//키업 미리보기
+				$("#display").val(JSON.stringify(jsos_data()[0], null, '\t'))
+			});
+
+			var sampleCondition = true
+			$("#sample_btn").click(function () {	//DOWNLOAD JSON 버튼
+				if(sampleCondition){
+					sampleCondition = false;
+					$(this).text("샘플삭제")
+					$("#con_lan").val('영어')	//언어
+					$("#con_cod").val('8276')	//과정코드
+					$("#con_name").val('[야나두] 비즈니스 영어 스킬업')	//과정명
+					$("#con_sample").val('1/15')//샘플차시
+					$("#con_chasi").val('14/14')	//스텝차시
+					$("#con_size").val('1000*650')	//사이즈
+					$("#con_cm").val('오순정')	//담당자
+
+					$("#con_data1").val('차시명_01\n차시명_02\n차시명_03\n차시명_04\n차시명_05\n')
+					$("#con_data2").val('차시명01\n차시명02\n차시명03\n차시명04\n차시명05\n')
+					$("#con_data3").val('메뉴1-1\t메뉴1-2\n메뉴2-1\t메뉴2-2\n메뉴3-1\t메뉴3-2\n메뉴4-1\t메뉴4-2\n메뉴5-1\t메뉴5-2\n')
+					$("#con_bind").val('x:~z01.mp4\nx:~z02.mp4\nx:~z03.mp4\nx:~z04.mp4\nx:~z05.mp4\n')
+				}else{
+					sampleCondition = true;
+					$(this).text("샘플보기")
+					$("#con_lan").val('default')
+					$("#con_cod, #con_name, #con_sample, #con_chasi, #con_size, #con_cm, #con_data1, #con_data2, #con_data3, #con_bind").val('')					
+				}
+				$("#display").val(JSON.stringify(jsos_data()[0], null, '\t'))
+			})
 		});
+
 	</script>
 	<style>
 		body {
 			font-size: 14px;
 		}
+		div {
+			float: left;
+		}
+		textarea{
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		#display{
+			margin-left: 10px;
+			padding: 10px;
+			width: 500px;
+			height: 680px;
+			border: 1px solid;
+			background-color: #F9F9F9;
 
+		}
+		select{
+			height: 21px;
+		}
 		a {
 			background-color: #F9F9F9;
 			border: 1px solid;
@@ -112,12 +169,16 @@
 			margin: 4px 2px;
 			cursor: pointer;
 		}
-
 		a:hover {
 			background-color: #1E1E1E;
 			font-weight: bold;
 		}
-
+		#sample_btn{
+			background-color: #1E1E1E;
+		}
+		#sample_btn:hover{
+			background-color: #F9F9F9;
+		}
 		th {
 			background-color: #333333;
 			color: #FFFFFF;
