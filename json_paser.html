@@ -73,7 +73,7 @@
 
 					$.each(con_data_title_a, function (key, val) {
 						try{
-							con_data_page_name_bit = con_data_page_name[key].split("\t")
+							con_data_page_name_bit = con_data_page_name[key].trim().split("\t")
 						}catch(e){}
 						mainJson.content_data[key] = {
 							"chasi": key + 1,
