@@ -78,7 +78,7 @@
 						mainJson.content_data[key] = {
 							"chasi": key + 1,
 							"title_a": val,
-							"title_b": con_data_title_b[key],
+							"title_b": con_data_title_b[key] === "" ? null : con_data_title_b[key],
 							"page_name": con_data_page_name_bit,
 							"mp4_bind_path": con_data_bine_path[key],
 							"mp4_bind_time": ""
