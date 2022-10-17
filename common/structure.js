@@ -1,7 +1,7 @@
 
 var content_data_step_obj = {}
 var content_code_array = []
-var content_code_array_blank = []
+// var content_code_array_blank = []
 var con_cod_arr = [] // 여러개 입력시 
 var con_cod_taget = 0
 
@@ -366,7 +366,7 @@ function bind_path_all() {
   // data_obj = Object.keys(content_data_step_obj)
   var bind_data = ""
   for (var cod in content_data_step_obj) {
-    for (i = 0; i < content_data_step_obj[cod]["content_data"].length - 1; i++) {
+    for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
       // console.log(content_data_step_obj[cod]["content_data"])
       bind_data += cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
@@ -396,7 +396,7 @@ function row_remove(obj, cod) {
   }
   // console.log(obj,cod)
   console.log(content_code_array);
-  console.log(content_code_array_blank);
+  // console.log(content_code_array_blank);
   var tr = $(obj).parent().parent();
   tr.remove();
   delete content_data_step_obj[cod]
