@@ -14,7 +14,6 @@ function get_json_paser(code, step) {
     type: 'GET',
     success: function onData(data) {
       // console.log(data)
-
       var content_lan = data.content_lan
       var content_code = data.content_code
       var content_name = data.content_name
@@ -78,7 +77,13 @@ function get_json_paser(code, step) {
       console.error(error);
       // content_code_array.pop()
       // content_code_array_blank.pop()
-      alert("확인되지 않습니다.")
+      alert(con_cod_arr[con_cod_taget]+" 과정은 확인되지 않습니다.")
+      if (con_cod_arr.length > 1 && con_cod_arr.length - con_cod_taget != 1) {
+        con_cod_taget++
+        get_json_paser(con_cod_arr[con_cod_taget], 0)
+        return
+      }
+      main_display_table()
     }
   })
 }
@@ -91,7 +96,7 @@ function export_table() {
 
 function main_display_table() {
   var mainObj = '';
-  let eng_num = jpn_num = chn_num = etc_num = 0;
+  var eng_num = jpn_num = chn_num = etc_num = kor_num = 0;
   $.each(content_data_step_obj, function (key, val) {
     if ($("." + key).length < 1) {
 
@@ -129,10 +134,12 @@ function main_display_table() {
       chn_num++
     } else if (val.content_lan=="기타외국어") {
       etc_num++
+    } else if (val.content_lan=="한국어") {
+      kor_num++
     }
   })
-  let total_step = eng_num + jpn_num + chn_num + etc_num
-  $("#total_step").text(total_step+"step (영 "+eng_num+", 일 "+jpn_num+", 중 "+chn_num+", 기타 "+etc_num+")")
+  let total_step = eng_num + jpn_num + chn_num + etc_num + kor_num
+  $("#total_step").text(total_step+"step (영 "+eng_num+", 일 "+jpn_num+", 중 "+chn_num+", 기타 "+etc_num+", 한국어 "+kor_num+")")
   $(".loader").attr('class', 'h_loader')
   $("#content_list").append(mainObj);
   $(".h_btn").attr('class', 'btn')
@@ -395,7 +402,7 @@ function row_remove(obj, cod) {
     content_code_array.splice(del_arry, 1)
   }
   // console.log(obj,cod)
-  console.log(content_code_array);
+  //console.log(content_code_array);
   // console.log(content_code_array_blank);
   var tr = $(obj).parent().parent();
   tr.remove();
