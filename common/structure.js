@@ -126,6 +126,7 @@ function main_display_table() {
 
       mainObj += '</tr>'
     }
+
     if (val.content_lan=="영어") {
       eng_num++
     } else if (val.content_lan=="일본어") {
@@ -137,6 +138,8 @@ function main_display_table() {
     } else if (val.content_lan=="한국어") {
       kor_num++
     }
+
+
   })
   let total_step = eng_num + jpn_num + chn_num + etc_num + kor_num
   $("#total_step").text(total_step+"step (영 "+eng_num+", 일 "+jpn_num+", 중 "+chn_num+", 기타 "+etc_num+", 한국어 "+kor_num+")")
@@ -274,19 +277,30 @@ function popup(name, cod) {
     open01.close();
   }
 
-  if (name == "bind") {
-    open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=380, left=0, top=0', false)
-  } else if (name == "code") {
-    open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=300, height=380, left=0, top=0', false)
-  } else if (name == "name") {
-    open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=500, height=380, left=0, top=0', false)
-  } else if (name == "hunet") {
-    open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
-  } else if (name == "kg") {
-    open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
-  } else if (name == "meganext") {
-    open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
+  const popupMap = {
+    bind(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=380, left=0, top=0', false)
+    },
+    code(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=300, height=380, left=0, top=0', false)
+    },
+    name(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=500, height=380, left=0, top=0', false)
+    },
+    hunet(){
+      open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
+    },
+    kg(){
+      open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
+    },
+    meganext(){
+      open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
+    }
   }
+
+  const popupFn = (thisName) => popupMap[thisName]()
+  popupFn(name)
+
   // open01.document.write(bind_data)
   // return open01
 }
