@@ -386,10 +386,18 @@ function meganext(item) {
 function bind_path_all() {
   // data_obj = Object.keys(content_data_step_obj)
   var bind_data = ""
+  var list_number = 0
   for (var cod in content_data_step_obj) {
+    list_number++ 
     for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
       // console.log(content_data_step_obj[cod]["content_data"])
-      bind_data += cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
+      dataFolder = twolength(list_number)+"_"+cod
+      dataCount = twolength(Number(i + 1))
+      dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
+      dataPath = dataPath.split("/").join("\\")
+      dataXcopy = "echo f | xcopy \""+ dataPath + "\"" + " " + dataFolder + "\\" + dataCount +".mp4"
+      //bind_data += twolength(list_number)+"_"+cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
+      bind_data += dataFolder + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
     }
     bind_data += "\n"
