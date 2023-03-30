@@ -1,0 +1,211 @@
+{
+	"content_lan": "중국어",
+	"content_code": "8296",
+	"content_name": "최신개정 HSK4급 한권으로 끝내기 - 어법",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "품사·문장성분 / 동사 / 형용사",
+			"title_b": "품사 문장성분 동사 형용사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "조동사 / 명사·대사",
+			"title_b": "조동사 명사 대사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "부사(1)",
+			"title_b": "부사1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "부사(2)",
+			"title_b": "부사2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "부사(3)",
+			"title_b": "부사3",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "접속사",
+			"title_b": "접속사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "수사·양사",
+			"title_b": "수사 양사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "是자문·有자문",
+			"title_b": "기본 문형",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "是……的 강조 구문",
+			"title_b": "강조 구문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "어순",
+			"title_b": "어순",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "보어(1)",
+			"title_b": "보어1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "보어(2)",
+			"title_b": "보어2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "개사(1)",
+			"title_b": "개사1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "개사(2)",
+			"title_b": "개사2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "존현문",
+			"title_b": "존현문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "연동문·겸어문",
+			"title_b": "연동문 겸어문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "비교문",
+			"title_b": "비교문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "把자문 / 被자문",
+			"title_b": "특수 구문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "조사",
+			"title_b": "조사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "관형어·부사어",
+			"title_b": "관형어 부사어",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8296/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
