@@ -1,0 +1,159 @@
+{
+	"content_lan": "영어",
+	"content_code": "8328",
+	"content_name": "[야나두]원어민 사고 훈련 4 - 구동사 편 (1)",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "풀어 말하는 구동사",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "동사+아래에서 위로 up",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "동사+위에서 아래로 down",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "동사+둘러싸는 around",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사+따라가는 after",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사+뒤로 진행되는 back",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사+멀어지는 away",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "동사+안으로 들어가는 into",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "동사+뚫고 지나가는 through",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "구동사 훈련 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "동사+안으로 들어가는 in",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "동사+붙어서 진행되는 on",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "동사+같은 범위에서 서로 영향을 주는 with",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "동사+범위를 따라가는 along",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "구동사 훈련 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8323/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

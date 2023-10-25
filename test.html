@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>게시판</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <div>
+    <input type="text" id="searchInput" placeholder="검색어를 입력하세요">
+    <button id="searchButton">검색</button>
+  </div>
+  <ul id="postList">
+    <li>게시물 1</li>
+    <li>게시물 2</li>
+    <li>게시물 3</li>
+    <li>게시물 4</li>
+    <li>게시물 5</li>
+  </ul>
+  <script>
+    $(document).ready(function() {
+      // 검색 버튼 클릭 이벤트 처리
+      $('#searchButton').click(function() {
+        searchPosts();
+      });
+
+      // 엔터 키 입력 이벤트 처리
+      $('#searchInput').keypress(function(event) {
+        if (event.which === 13) {
+          searchPosts();
+        }
+      });
+      $('#postList li').hide();
+    });
+
+    function searchPosts() {
+      var searchTerm = $('#searchInput').val().toLowerCase();
+
+      // 게시물 목록 숨기기
+      $('#postList li').hide();
+
+      // 검색어와 일치하는 게시물 표시
+      $('#postList li').each(function() {
+        var postText = $(this).text().toLowerCase();
+        if (postText.includes(searchTerm)) {
+          $(this).show();
+        }
+      });
+    }
+  </script>
+</body>
+</html>

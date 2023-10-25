@@ -235,13 +235,80 @@ function sub_display_table() {
   $('body').append(subObj)
 }
 
+function firzzle_display_table() {
+
+  var subObj = ""
+  count = 1
+  $.each(content_data_step_obj, function (key, val) {
+    if ($(".table_" + key).length < 1) {
+      //   var subObj = '<table class="main_contable hidden ' + set_cod_step + '" >' //style="display:none"
+      subObj += '<table class="firzzle_contable hidden table_' + key + '" >' //style="display:none"
+      if(count == 1){
+        subObj += '	<thead>'
+        subObj += '		<tr>'
+        subObj += '			<th>CP CODE</th>'
+        subObj += '			<th>콘텐츠 타입</th>'
+        subObj += '			<th>콘텐츠명</th>'
+        subObj += '			<th>모듈번호</th>'
+        subObj += '			<th>모듈명</th>'
+        subObj += '			<th>차시번호</th>'
+        subObj += '			<th>차시명</th>'
+        subObj += '			<th>HTML 콘텐츠위치</th>'
+        subObj += '			<th>HTML 정렬순서</th>'
+        //      subObj += '			<td>' + key + '</td>'
+        //      subObj += '			<td>' + val.content_lan + '</td>'
+        //      subObj += '			<td>' + val.content_name + '</td>'
+        //      subObj += '			<td>' + val.content_page + '</td>'
+        //      subObj += '			<td>' + val.content_sample + '</td>'
+        //      subObj += '			<td>' + val.content_cm + '</td>'
+        //      subObj += '			<td>' + val.content_size + '</td>'
+        subObj += '		</tr>'
+        subObj += '	</thead>'
+
+        subObj += '	<ttbody>' //id = "'+content_code+'"
+      }
+      $.each(val.content_data, function (i, value) {
+        subObj += '		<tr>'
+        subObj += '			<td>C008</td>'//no
+        subObj += '			<td>VIDEO</td>'//no
+        subObj += '			<td>' + val.content_name + '</td>'//no
+        subObj += '			<td>1</td>'//no
+        subObj += '			<td>' + val.content_name + '</td>'//no
+        subObj += '			<td>' + Number(i + 1) + '</td>'//no
+        subObj += '			<td>' + value.title_a + '</td>'//차시명
+        //subObj += '			<td>' + value.title_b + '</td>'//차시명(특수기호제거)
+        //subObj += '			<td>/' + key + '/' + twolength(Number(i + 1)) + '/01.htm</td>'//차시명(특수기호제거)
+        // if(content_sample[step] == idx+1+content_chasi_prev){
+        // subObj += '			<td>'+"Y("+Number(idx+1)+")"+'</td>'//맛보기차시
+        // } else{
+        // subObj += '			<td>N</td>'//맛보기차시
+        // }
+        //$.each(value.page_name, function (j, title) {
+        //  subObj += '			<td>' + title + '</td>'//메뉴1
+        //});
+        subObj += '		</tr>'
+
+      })
+      subObj += '	</ttbody>'
+      subObj += '</table>'
+    }
+    count++
+  })
+  $('body').append(subObj)
+}
+
 function porting_xls_setting(item, cp) {
   alert("작업예정")
 }
 
 function content_xls_download(file_name) {
   json_update()
-  sub_display_table()
+  if(file_name == "main_contable"){
+    sub_display_table()
+  }else if(file_name == "firzzle_contable"){
+    firzzle_display_table()
+  }
+  
   // console.log("s")
   // $(".main_contable").css("height","10")
   $.each($('input[name=cp_name]'), function (key, item) {
@@ -276,10 +343,16 @@ function popup(name, cod) {
   if (open01) {
     open01.close();
   }
-
+  
   const popupMap = {
     bind(){
       open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=380, left=0, top=0', false)
+    },
+    firb(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1500, height=510, left=0, top=0', false)
+    },
+    firb_CA(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1500, height=510, left=0, top=0', false)
     },
     code(){
       open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=300, height=380, left=0, top=0', false)
@@ -405,7 +478,50 @@ function bind_path_all() {
   return bind_data.trim()
 }
 
+function bind_path_firb() {
+  // data_obj = Object.keys(content_data_step_obj)
+  var bind_data = ""
+  var list_number = 0
+  for (var cod in content_data_step_obj) {
+    list_number++ 
+    for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
+      // console.log(content_data_step_obj[cod]["content_data"])
+      dataConCode = $("."+cod+">.cp_code>input[name=cp_code]").val()
+      dataFolder = twolength(list_number)+"_"+cod + "_" + dataConCode
+      dataCount = twolength(Number(i + 1))
+      dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
+      dataPath = dataPath.split("/").join("\\")
+      dataXcopy = "echo f | xcopy \""+ dataPath + "\"" + " " + dataFolder + "\\" + "00000"+ dataConCode + "_M01_0" + dataCount +".mp4"
+      //bind_data += twolength(list_number)+"_"+cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
+      bind_data += dataFolder + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
+      // console.log(cod,_this[bind_count]["mp4_bind_path"])
+    }
+    bind_data += "\n"
+  }
+  return bind_data.trim()
+}
 
+function bind_path_firb_CA() {
+  // data_obj = Object.keys(content_data_step_obj)
+  var bind_data = ""
+  var list_number = 0
+  for (var cod in content_data_step_obj) {
+    list_number++ 
+    for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
+      // console.log(content_data_step_obj[cod]["content_data"])
+      dataConCode = $("."+cod+">.cp_code>input[name=cp_code]").val()
+      dataConName = $("."+cod+">.cp_name>input[name=cp_name]").val()
+      dataCPCode = "C008"
+      dataConType = "VIDEO"
+      dataConChasiName = content_data_step_obj[cod]["content_data"][i]["title_a"]
+      dataCount = Number(i + 1)
+      
+      bind_data += dataCPCode +"\t"+ dataConType +"\t"+ dataConName +"\t"+ "1" +"\t"+ dataConName+"\t"+ dataCount +"\t"+ dataConChasiName + "\n"
+
+    }
+  }
+  return bind_data.trim()
+}
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////

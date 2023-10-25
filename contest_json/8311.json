@@ -1,0 +1,354 @@
+{
+	"content_lan": "영어",
+	"content_code": "8311",
+	"content_name": "미국 영어 발음 단기 완성 프로젝트",
+	"content_sample": "1/19",
+	"content_chasi": "18/20",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "[ g ], [ h ], [ k ]",
+			"title_b": null,
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[ m ], [ n ], [ t ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[ b ] vs. [ v ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[ d ] vs. [ ð ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[ f ] vs. [ p ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[ l ] vs. [ r ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[ s ] vs. [ θ ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[ z ] vs. [ dʒ ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[ ʃ ], [ ʒ ], [ tʃ ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[ ŋ ], [ w ], [ j ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "a [ ɑ: ], a [ æ ], a [ ei ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "a [ ɔ: ], a [ ə ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "e [ e ], e [ i ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "e [ iː ], 음가 없는 e",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "i [ ai ], i [ i ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "o [ ɑ: ], o [ ou ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "o [ ɔ: ], o [ u: ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "u [ ʌ ], u [ juː ], u [ u: ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "끝소리 자음과 첫소리 모음이 만날 때",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "[ t ]가 모음을 만나 [ㄹ] 소리로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "같은 자음이 나란히 이어질 때",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "겹쳐 나올 때 탈락되는 받침소리",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "-nd/-nt/-nk로 끝나는 단어가 자음을 만날 때",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "-st로 끝나는 단어가 자음을 만날 때",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "묵음도 아닌데 사라지는 첫소리 [ h ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "앞선 자음 [ d ]/[ t ]를 변화시키는 [ j ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "앞선 자음 [ s ]/[ z ]를 변화시키는 [ j ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "뒤의 모음을 변화시키는 끝소리 [ u ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "언어 습관 속에서 변화된 [ t ]",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "dr-/tr-의 [ d ]/[ t ]는 [쥬]/[츄]로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "s 뒤의 [ k ]/[ p ]/[ t ]는 된소리로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "s가 몰고 나오는 3개짜리 복자음",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "[ tn ]은 소리 끊김이 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "-ts/-ths는 [ㅉ]로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "-ks/-sks는 [읔ㅆ]/[슼ㅆ]로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "-dly/-tly는 [을리]로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "조동사/be동사의 축약, 부정어 not의 축약",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "단어의 강세, 문장의 리듬",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8311/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

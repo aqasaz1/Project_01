@@ -1,0 +1,158 @@
+{
+	"content_lan": "영어",
+	"content_code": "8324",
+	"content_name": "[야나두] 스르르 학습지-원어민 사고 편 5",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "동사+대상을 향해 나아가는 for",
+			"title_b": null,
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "동사+대상의 옆에 있는 by",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "동사+대상들과 같이 있는 together",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "구동사 훈련 3",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사+떨어져 나온 off",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사+밖으로 나간 out",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사+넘어가는 over",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "동사+상태를 알려주는 형용사",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "구동사 훈련 4",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "전치사+명사로 바꿔 말하기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "착용을 with+명사로 바꿔 말하기",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "수단을 by+명사로 바꿔 말하기",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "목적을 for+명사로 바꿔 말하기",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "원인을 at+명사로 바꿔 말하기",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "전치사+명사로 바꿔 말하기 훈련",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8324/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

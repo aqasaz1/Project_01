@@ -22,6 +22,10 @@
 .main_contable td { text-align: left; }
 .main_contable tbody th { text-align: center; background-color: #FFFF00; color: #000000; }
 
+.firzzle_contable th { text-align: center; background-color: #002060; color: #FFFFFF; }
+.firzzle_contable td { text-align: left; }
+.firzzle_contable tbody th { text-align: center; background-color: #FFFF00; color: #000000; }
+
 .hidden {
     border: 0;
     clip: rect(0 0 0 0);

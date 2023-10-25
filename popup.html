@@ -23,6 +23,16 @@
 				$('body').html(html_obj)
 				$("#up_txt").text(opener.bind_path_all());
 			},
+			firb() {
+				html_obj += '<textarea name="" id="up_txt" cols="209" rows="32"></textarea>'
+				$('body').html(html_obj)
+				$("#up_txt").text(opener.bind_path_firb());
+			},
+			firb_CA() {
+				html_obj += '<textarea name="" id="up_txt" cols="209" rows="32"></textarea>'
+				$('body').html(html_obj)
+				$("#up_txt").text(opener.bind_path_firb_CA());
+			},
 			code() {
 				html_obj += '<textarea name="" id="up_txt" cols="37" rows="22"></textarea></br>'
 				html_obj += '<input type="button" value="update" onclick="opener_update(' + '\'code\'' + ')">'

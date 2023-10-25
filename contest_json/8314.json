@@ -1,0 +1,341 @@
+{
+	"content_lan": "일본어",
+	"content_code": "8314",
+	"content_name": "NEW JPT 한권으로 끝내기 450 - 청해",
+	"content_sample": "1/17",
+	"content_chasi": "16/14",
+	"content_size": "1000*650",
+	"content_cm": "변솔기",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "PART 1 사진묘사 - 사람 동물1",
+			"title_b": "PART 1 사진묘사 사람 동물1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "PART 1 사진묘사 - 사람 동물2",
+			"title_b": "PART 1 사진묘사 사람 동물2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "PART 1 사진묘사 - 실내 장면1",
+			"title_b": "PART 1 사진묘사 실내 장면1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "PART 1 사진묘사 - 실내 장면2",
+			"title_b": "PART 1 사진묘사 실내 장면2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "PART 1 사진묘사 - 실외 풍경1",
+			"title_b": "PART 1 사진묘사 실외 풍경1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "PART 1 사진묘사 - 실외 풍경2",
+			"title_b": "PART 1 사진묘사 실외 풍경2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "PART 2 질의응답 - 의문사가 있는 경우1",
+			"title_b": "PART 2 질의응답 의문사가 있는 경우1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "PART 2 질의응답 - 의문사가 있는 경우2",
+			"title_b": "PART 2 질의응답 의문사가 있는 경우2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "PART 2 질의응답 - 의문사가 없는 경우1",
+			"title_b": "PART 2 질의응답 의문사가 없는 경우1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "PART 2 질의응답 - 의문사가 없는 경우2",
+			"title_b": "PART 2 질의응답 의문사가 없는 경우2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "PART 2 질의응답 - 시사 비즈니스1",
+			"title_b": "PART 2 질의응답 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "PART 2 질의응답 - 시사 비즈니스2",
+			"title_b": "PART 2 질의응답 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "PART 3 회화문 - 일상생활1",
+			"title_b": "PART 3 회화문 일상생활1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "PART 3 회화문 - 일상생활2",
+			"title_b": "PART 3 회화문 일상생활2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "PART 3 회화문 - 일상생활3",
+			"title_b": "PART 3 회화문 일상생활3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "PART 3 회화문 - 일상생활4",
+			"title_b": "PART 3 회화문 일상생활4",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "PART 3 회화문 - 관용어 속담1",
+			"title_b": "PART 3 회화문 관용어 속담1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "PART 3 회화문 - 관용어 속담2",
+			"title_b": "PART 3 회화문 관용어 속담2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "PART 3 회화문 - 관용어 속담3",
+			"title_b": "PART 3 회화문 관용어 속담3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "PART 3 회화문 - 관용어 속담4",
+			"title_b": "PART 3 회화문 관용어 속담4",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "PART 3 회화문 - 시사 비즈니스1",
+			"title_b": "PART 3 회화문 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "PART 3 회화문 - 시사 비즈니스2",
+			"title_b": "PART 3 회화문 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "PART 3 회화문 - 시사 비즈니스3",
+			"title_b": "PART 3 회화문 시사 비즈니스3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "PART 3 회화문 - 시사 비즈니스4",
+			"title_b": "PART 3 회화문 시사 비즈니스4",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "PART 4 설명문 - 일상생활1",
+			"title_b": "PART 4 설명문 일상생활1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "PART 4 설명문 - 일상생활2",
+			"title_b": "PART 4 설명문 일상생활2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "PART 4 설명문 - 일상생활3",
+			"title_b": "PART 4 설명문 일상생활3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "PART 4 설명문 - 시사 비즈니스1",
+			"title_b": "PART 4 설명문 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "PART 4 설명문 - 시사 비즈니스2",
+			"title_b": "PART 4 설명문 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "PART 4 설명문 - 시사 비즈니스3",
+			"title_b": "PART 4 설명문 시사 비즈니스3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8314/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
