@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "Play",
-			"title_b": null,
+			"title_b": "Play",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -21,7 +21,7 @@
 		{
 			"chasi": 2,
 			"title_a": "Call",
-			"title_b": null,
+			"title_b": "Call",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -32,7 +32,7 @@
 		{
 			"chasi": 3,
 			"title_a": "Point",
-			"title_b": null,
+			"title_b": "Point",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -43,7 +43,7 @@
 		{
 			"chasi": 4,
 			"title_a": "Hit",
-			"title_b": null,
+			"title_b": "Hit",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -54,7 +54,7 @@
 		{
 			"chasi": 5,
 			"title_a": "Face",
-			"title_b": null,
+			"title_b": "Face",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -65,7 +65,7 @@
 		{
 			"chasi": 6,
 			"title_a": "Back",
-			"title_b": null,
+			"title_b": "Back",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -76,7 +76,7 @@
 		{
 			"chasi": 7,
 			"title_a": "Go",
-			"title_b": null,
+			"title_b": "Go",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -87,7 +87,7 @@
 		{
 			"chasi": 8,
 			"title_a": "Pass",
-			"title_b": null,
+			"title_b": "Pass",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -98,7 +98,7 @@
 		{
 			"chasi": 9,
 			"title_a": "Time",
-			"title_b": null,
+			"title_b": "Time",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -109,7 +109,7 @@
 		{
 			"chasi": 10,
 			"title_a": "Bill",
-			"title_b": null,
+			"title_b": "Bill",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -120,7 +120,7 @@
 		{
 			"chasi": 11,
 			"title_a": "Train",
-			"title_b": null,
+			"title_b": "Train",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -131,7 +131,7 @@
 		{
 			"chasi": 12,
 			"title_a": "Run",
-			"title_b": null,
+			"title_b": "Run",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -142,7 +142,7 @@
 		{
 			"chasi": 13,
 			"title_a": "Change",
-			"title_b": null,
+			"title_b": "Change",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -153,7 +153,7 @@
 		{
 			"chasi": 14,
 			"title_a": "Block",
-			"title_b": null,
+			"title_b": "Block",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -164,7 +164,7 @@
 		{
 			"chasi": 15,
 			"title_a": "Burn",
-			"title_b": null,
+			"title_b": "Burn",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -175,7 +175,7 @@
 		{
 			"chasi": 16,
 			"title_a": "Cover",
-			"title_b": null,
+			"title_b": "Cover",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -186,7 +186,7 @@
 		{
 			"chasi": 17,
 			"title_a": "Move",
-			"title_b": null,
+			"title_b": "Move",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -197,7 +197,7 @@
 		{
 			"chasi": 18,
 			"title_a": "Store",
-			"title_b": null,
+			"title_b": "Store",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -208,7 +208,7 @@
 		{
 			"chasi": 19,
 			"title_a": "Drop",
-			"title_b": null,
+			"title_b": "Drop",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -219,7 +219,7 @@
 		{
 			"chasi": 20,
 			"title_a": "Age",
-			"title_b": null,
+			"title_b": "Age",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -230,7 +230,7 @@
 		{
 			"chasi": 21,
 			"title_a": "Drink",
-			"title_b": null,
+			"title_b": "Drink",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -241,7 +241,7 @@
 		{
 			"chasi": 22,
 			"title_a": "Fly",
-			"title_b": null,
+			"title_b": "Fly",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -252,7 +252,7 @@
 		{
 			"chasi": 23,
 			"title_a": "Right",
-			"title_b": null,
+			"title_b": "Right",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -263,7 +263,7 @@
 		{
 			"chasi": 24,
 			"title_a": "Land",
-			"title_b": null,
+			"title_b": "Land",
 			"page_name": [
 				"Lecture",
 				"Practice"
@@ -274,7 +274,7 @@
 		{
 			"chasi": 25,
 			"title_a": "Check",
-			"title_b": null,
+			"title_b": "Check",
 			"page_name": [
 				"Lecture",
 				"Practice"

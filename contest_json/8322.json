@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "원어민들의 필수 기본동사",
-			"title_b": null,
+			"title_b": "원어민들의 필수 기본동사",
 			"page_name": [
 				"Lecture"
 			],
@@ -20,6 +20,7 @@
 		{
 			"chasi": 2,
 			"title_a": "내가 한 거라고 어필하는 do",
+			"title_b": "내가 한 거라고 어필하는 do",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -30,6 +31,7 @@
 		{
 			"chasi": 3,
 			"title_a": "숨김없이 보여주는 show",
+			"title_b": "숨김없이 보여주는 show",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -40,6 +42,7 @@
 		{
 			"chasi": 4,
 			"title_a": "나와 함께 가져오는 bring",
+			"title_b": "나와 함께 가져오는 bring",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -50,6 +53,7 @@
 		{
 			"chasi": 5,
 			"title_a": "변함없이 유지하는 keep",
+			"title_b": "변함없이 유지하는 keep",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -60,6 +64,7 @@
 		{
 			"chasi": 6,
 			"title_a": "내 마음대로 옮겨 놓는 put",
+			"title_b": "내 마음대로 옮겨 놓는 put",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -70,6 +75,7 @@
 		{
 			"chasi": 7,
 			"title_a": "거침없이 나아가는 run",
+			"title_b": "거침없이 나아가는 run",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -80,6 +86,7 @@
 		{
 			"chasi": 8,
 			"title_a": "꽉 잡고 놓지 않는 hold",
+			"title_b": "꽉 잡고 놓지 않는 hold",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -90,6 +97,7 @@
 		{
 			"chasi": 9,
 			"title_a": "기본동사 훈련 1",
+			"title_b": "기본동사 훈련 1",
 			"page_name": [
 				"Lecture"
 			],
@@ -99,6 +107,7 @@
 		{
 			"chasi": 10,
 			"title_a": "목적지에 가까워지는 come to",
+			"title_b": "목적지에 가까워지는 come to",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -109,6 +118,7 @@
 		{
 			"chasi": 11,
 			"title_a": "나의 목표를 마주하는 meet",
+			"title_b": "나의 목표를 마주하는 meet",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -119,6 +129,7 @@
 		{
 			"chasi": 12,
 			"title_a": "어떠한 결과를 얻은 get",
+			"title_b": "어떠한 결과를 얻은 get",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -129,6 +140,7 @@
 		{
 			"chasi": 13,
 			"title_a": "내가 가진 걸 건네 주는 give",
+			"title_b": "내가 가진 걸 건네 주는 give",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -139,6 +151,7 @@
 		{
 			"chasi": 14,
 			"title_a": "상대에게 이동시켜서 보내는 send",
+			"title_b": "상대에게 이동시켜서 보내는 send",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -149,6 +162,7 @@
 		{
 			"chasi": 15,
 			"title_a": "기본동사 훈련 2",
+			"title_b": "기본동사 훈련 2",
 			"page_name": [
 				"Lecture"
 			],

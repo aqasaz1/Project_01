@@ -19,7 +19,7 @@
 		
 		const nameMap = {
 			bind() {
-				html_obj += '<textarea name="" id="up_txt" cols="109" rows="23"></textarea>'
+				html_obj += '<textarea name="" id="up_txt" cols="222" rows="23"></textarea>'
 				$('body').html(html_obj)
 				$("#up_txt").text(opener.bind_path_all());
 			},
@@ -37,7 +37,7 @@
 				html_obj += '<textarea name="" id="up_txt" cols="37" rows="22"></textarea></br>'
 				html_obj += '<input type="button" value="update" onclick="opener_update(' + '\'code\'' + ')">'
 				$('body').html(html_obj)
-				$("#up_txt").text("CODE1111\nCODE2222\nCODE3333\nCODE4444\nCODE5555\n");
+				$("#up_txt").text("CODE1111\nCODE2222\n");
 			},
 			name() {
 				html_obj += '<textarea name="" id="up_txt" cols="66" rows="22"></textarea></br>'

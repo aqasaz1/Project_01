@@ -1,0 +1,229 @@
+{
+	"content_lan": "영어",
+	"content_code": "8333",
+	"content_name": "[야나두]스르르 학습지 - 스피치 편 1",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "수영하듯이 호흡하는 영어",
+			"title_b": "수영하듯이 호흡하는 영어",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "소리 단위 구분하는 법",
+			"title_b": "소리 단위 구분하는 법",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "단어 강세의 규칙",
+			"title_b": "단어 강세의 규칙",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "강세에 따라 품사/뜻이 변하는 단어",
+			"title_b": "강세에 따라 품사 뜻이 변하는 단어",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "주의해야 할 명사의 강세",
+			"title_b": "주의해야 할 명사의 강세",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "강하게 리듬 타는 내용어",
+			"title_b": "강하게 리듬 타는 내용어",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "약하게 리듬 타는 기능어",
+			"title_b": "약하게 리듬 타는 기능어",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "기능어라도 강하게 리듬 타는 경우",
+			"title_b": "기능어라도 강하게 리듬 타는 경우",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "계단식 오르락내리락 영어 억양",
+			"title_b": "계단식 오르락내리락 영어 억양",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "영어 문장 리듬 타기",
+			"title_b": "영어 문장 리듬 타기",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "원어민 영어 소리의 비밀 - 모음/자음",
+			"title_b": "원어민 영어 소리의 비밀 모음 자음",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[æ]와 [e] 소리",
+			"title_b": "애와 에 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[i:]와 [ɪ] 소리",
+			"title_b": "장음 이와 단음 이 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[ɔ:]와 [oʊ] 소리",
+			"title_b": "오와 오우 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[u:]와 [ʊ] 소리",
+			"title_b": "장음 우와 단음 우 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "[ɑ:]와 [ʌ] 소리",
+			"title_b": "아와 어 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "[a:r]과 [ə:r] 소리",
+			"title_b": "아r와 어r 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "반모음 [j]와 [w] 소리",
+			"title_b": "반모음 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "약화 모음 [ə] 소리",
+			"title_b": "약화 모음 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "이중모음 [eɪ], [aɪ], [ɔɪ], [aʊ] 소리",
+			"title_b": "이중모음 소리",
+			"page_name": [
+				"Lecture",
+				"Training"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8333/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

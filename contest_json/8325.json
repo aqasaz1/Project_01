@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "한국인 사고 vs. 원어민 사고",
-			"title_b": null,
+			"title_b": "한국인 사고 vs 원어민 사고",
 			"page_name": [
 				"Lecture"
 			],
@@ -20,6 +20,7 @@
 		{
 			"chasi": 2,
 			"title_a": "원어민 사고의 특징 3가지",
+			"title_b": "원어민 사고의 특징 3가지",
 			"page_name": [
 				"Lecture"
 			],
@@ -29,6 +30,7 @@
 		{
 			"chasi": 3,
 			"title_a": "주어 사고 전환",
+			"title_b": "주어 사고 전환",
 			"page_name": [
 				"Lecture"
 			],
@@ -38,6 +40,7 @@
 		{
 			"chasi": 4,
 			"title_a": "올바른 주어 찾기",
+			"title_b": "올바른 주어 찾기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -48,6 +51,7 @@
 		{
 			"chasi": 5,
 			"title_a": "사람 주어 1: 대상 묘사하기",
+			"title_b": "사람 주어 1 대상 묘사하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -58,6 +62,7 @@
 		{
 			"chasi": 6,
 			"title_a": "사람 주어 2: 상황 묘사하기",
+			"title_b": "사람 주어 2 상황 묘사하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -68,6 +73,7 @@
 		{
 			"chasi": 7,
 			"title_a": "사람 주어 3: 의견 제시하기",
+			"title_b": "사람 주어 3 의견 제시하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -78,6 +84,7 @@
 		{
 			"chasi": 8,
 			"title_a": "사물 주어 1: 사람처럼 소유하기",
+			"title_b": "사물 주어 1 사람처럼 소유하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -88,6 +95,7 @@
 		{
 			"chasi": 9,
 			"title_a": "사물 주어 2: 사람처럼 행동하기",
+			"title_b": "사물 주어 2 사람처럼 행동하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -98,6 +106,7 @@
 		{
 			"chasi": 10,
 			"title_a": "사물 주어 3: 사람처럼 감정/영향 주기",
+			"title_b": "사물 주어 3 사람처럼 감정 영향 주기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -108,6 +117,7 @@
 		{
 			"chasi": 11,
 			"title_a": "이유/원인을 주어로 말하기",
+			"title_b": "이유 원인을 주어로 말하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -118,6 +128,7 @@
 		{
 			"chasi": 12,
 			"title_a": "불가능의 원인을 주어로 말하기",
+			"title_b": "불가능의 원인을 주어로 말하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -128,6 +139,7 @@
 		{
 			"chasi": 13,
 			"title_a": "조건을 주어로 말하기",
+			"title_b": "조건을 주어로 말하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -138,6 +150,7 @@
 		{
 			"chasi": 14,
 			"title_a": "동작을 주어로 말하기",
+			"title_b": "동작을 주어로 말하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -148,6 +161,7 @@
 		{
 			"chasi": 15,
 			"title_a": "it/this/that 알맞게 활용하기",
+			"title_b": "it this that 알맞게 활용하기",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -158,6 +172,7 @@
 		{
 			"chasi": 16,
 			"title_a": "주어 설정 훈련",
+			"title_b": "주어 설정 훈련",
 			"page_name": [
 				"Lecture"
 			],
@@ -167,6 +182,7 @@
 		{
 			"chasi": 17,
 			"title_a": "사람, 사물 경계 허물기 1",
+			"title_b": "사람 사물 경계 허물기 1",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -177,6 +193,7 @@
 		{
 			"chasi": 18,
 			"title_a": "사람, 사물 경계 허물기 2",
+			"title_b": "사람 사물 경계 허물기 2",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -187,6 +204,7 @@
 		{
 			"chasi": 19,
 			"title_a": "사람 주어 vs. 사물 주어",
+			"title_b": "사람 주어 vs 사물 주어",
 			"page_name": [
 				"Lecture",
 				"Training"
@@ -197,6 +215,7 @@
 		{
 			"chasi": 20,
 			"title_a": "사람 주어 vs. 사물 주어 훈련",
+			"title_b": "사람 주어 vs 사물 주어 훈련",
 			"page_name": [
 				"Lecture"
 			],

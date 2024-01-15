@@ -24,7 +24,7 @@
 		{
 			"chasi": 2,
 			"title_a": "I’m dying to ~. 외 4개 패턴",
-			"title_b": "I’m dying to외 4개 패턴",
+			"title_b": "I am dying to외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -50,7 +50,7 @@
 		{
 			"chasi": 4,
 			"title_a": "I’m not in the mood for ~. 외 4개 패턴",
-			"title_b": "I’m not in the mood for외 4개 패턴",
+			"title_b": "I am not in the mood for외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -90,7 +90,7 @@
 		{
 			"chasi": 7,
 			"title_a": "I can’t wait to ~. 외 4개 패턴",
-			"title_b": "I can’t wait to 외 4개 패턴",
+			"title_b": "I can not wait to 외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -130,7 +130,7 @@
 		{
 			"chasi": 10,
 			"title_a": "I can’t help -ing ~. 외 4개 패턴",
-			"title_b": "I can’t help ing 외 4개 패턴",
+			"title_b": "I can not help ing 외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -144,7 +144,7 @@
 		{
 			"chasi": 11,
 			"title_a": "I’m used to -ing ~. 외 4개 패턴",
-			"title_b": "I’m used to ing 외 4개 패턴",
+			"title_b": "I am used to ing 외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -290,7 +290,7 @@
 		{
 			"chasi": 22,
 			"title_a": "I’m itching to ~. 외 4개 패턴",
-			"title_b": "I’m itching to 외 4개 패턴",
+			"title_b": "I am itching to 외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",
@@ -344,7 +344,7 @@
 		{
 			"chasi": 26,
 			"title_a": "I’d rather die than ~. 외 4개 패턴",
-			"title_b": "I’d rather die than 외 4개 패턴",
+			"title_b": "I would rather die than 외 4개 패턴",
 			"page_name": [
 				"패턴1",
 				"패턴2",

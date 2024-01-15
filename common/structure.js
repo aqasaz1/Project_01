@@ -155,33 +155,34 @@ function sub_display_table() {
   $.each(content_data_step_obj, function (key, val) {
     if ($(".table_" + key).length < 1) {
       //   var subObj = '<table class="main_contable hidden ' + set_cod_step + '" >' //style="display:none"
-      subObj += '<table class="main_contable hidden table_' + key + '" >' //style="display:none"
+      subObj += '<table class="main_contable hidden table_' + key + '" >' //style="display:none" 
 
       subObj += '	<thead>'
       subObj += '		<tr>'
       subObj += '		</tr>'
       subObj += '		<tr>'
-      subObj += '			<th>과정코드</th>'
-      subObj += '			<td>' + key + '</td>'
+      subObj += '			<th>CP코드</th>'
+      subObj += '			<td>' + val.cp_code + '</td>'
       subObj += '			<th>구분</th>'
       subObj += '			<td>' + val.content_lan + '</td>'
       subObj += '		</tr>'
       subObj += '		<tr>'
-      subObj += '			<th>과정명</th>'
-      subObj += '			<td>' + val.content_name + '</td>'
+      subObj += '			<th>과정코드</th>'
+      subObj += '			<td>' + key + '</td>'
       subObj += '			<th>페이지수</th>'
       subObj += '			<td>' + val.content_page + '</td>'
       subObj += '		</tr>'
       subObj += '		<tr>'
-      subObj += '			<th>샘플차시</th>'
-      subObj += '			<td>' + val.content_sample + '</td>'
+      subObj += '			<th>과정명</th>'
+      subObj += '			<td>' + val.content_name + '</td>'
       subObj += '			<th>담당자</th>'
       subObj += '			<td>' + val.content_cm + '</td>'
       subObj += '		</tr>'
       subObj += '		<tr>'
       subObj += '			<th>사이즈</th>'
       subObj += '			<td>' + val.content_size + '</td>'
-
+      subObj += '			<th>샘플차시</th>'
+      subObj += '			<td>' + val.content_sample + '</td>'
       subObj += '		</tr>'
       subObj += '	</thead>'
       // subObj += '	<tbody>'
@@ -194,6 +195,7 @@ function sub_display_table() {
       subObj += '			<th>No</th>'
       subObj += '			<th>차시명</th>'
       subObj += '			<th>차시명(특수기호제거)</th>'
+      subObj += '			<th>시작파일</th>'
       subObj += '			<th>시작파일</th>'
       // subObj += '			<th>맛보기차시</th>'
       var content_data_page_maxnum = 0;
@@ -221,6 +223,7 @@ function sub_display_table() {
         // } else{
         // subObj += '			<td>N</td>'//맛보기차시
         // }
+        subObj += '			<td>' + value.mp4_bind_path.split("/")[value.mp4_bind_path.split("/").length-1] + '</td>'//차시명(특수기호제거)
         $.each(value.page_name, function (j, title) {
           subObj += '			<td>' + title + '</td>'//메뉴1
         });
@@ -346,7 +349,7 @@ function popup(name, cod) {
   
   const popupMap = {
     bind(){
-      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=380, left=0, top=0', false)
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1600, height=380, left=0, top=0', false)
     },
     firb(){
       open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1500, height=510, left=0, top=0', false)
@@ -464,13 +467,16 @@ function bind_path_all() {
     list_number++ 
     for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
       // console.log(content_data_step_obj[cod]["content_data"])
-      dataFolder = twolength(list_number)+"_"+cod
+      dataConNum = $("."+cod+" td:nth-child(1)").text()
+      dataConLan = $("."+cod+" td:nth-child(2)").text()
+      dataConCode = $("."+cod+">.cp_code>input[name=cp_code]").val()
+      dataFolder = cod
+      dataConName = $("."+cod+">.cp_name>input[name=cp_name]").val()
       dataCount = twolength(Number(i + 1))
       dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
       dataPath = dataPath.split("/").join("\\")
-      dataXcopy = "echo f | xcopy \""+ dataPath + "\"" + " " + dataFolder + "\\" + dataCount +".mp4"
-      //bind_data += twolength(list_number)+"_"+cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
-      bind_data += dataFolder + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
+      dataXcopy = "echo f | xcopy \""+ dataPath + "\""
+      bind_data += twolength(dataConNum) + "\t" + dataConLan + "\t" + dataConCode + "\t" + dataFolder + "\t" + dataConName + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
     }
     bind_data += "\n"
@@ -491,7 +497,7 @@ function bind_path_firb() {
       dataCount = twolength(Number(i + 1))
       dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
       dataPath = dataPath.split("/").join("\\")
-      dataXcopy = "echo f | xcopy \""+ dataPath + "\"" + " " + dataFolder + "\\" + "00000"+ dataConCode + "_M01_0" + dataCount +".mp4"
+      dataXcopy = "echo f | xcopy \""+ dataPath + "\"" + " " + dataFolder + "\\" + "0000"+ dataConCode + "_M01_0" + dataCount +".mp4"
       //bind_data += twolength(list_number)+"_"+cod + "\t" + twolength(Number(i + 1)) + "\t" + content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"] + "\n"
       bind_data += dataFolder + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
