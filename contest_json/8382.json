@@ -1,0 +1,441 @@
+﻿{
+	"content_lan": "영어",
+	"content_code": "8382",
+	"content_name": "[야나두] 오드리의 버디톡",
+	"content_sample": "1/20",
+	"content_chasi": "19/20",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "나는 평소 __해.",
+			"title_b": "나는 평소 무엇을 해",
+			"page_name": [
+				"OT",
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "나 __했어.",
+			"title_b": "나 무엇을 했어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "나 __할 거야.",
+			"title_b": "나 무엇을 할 거야",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "이거 __해도 돼.",
+			"title_b": "이거 무엇을 해도 돼",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "너 __하는 게 좋겠어.",
+			"title_b": "너 무엇을 하는 게 좋겠어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "나 __할까?",
+			"title_b": "나 무엇을 할까",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "너한테 __할걸.",
+			"title_b": "너한테 무엇을 할걸",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "너 __하겠다.",
+			"title_b": "너 무엇 하겠다",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "대화문으로 훈련하기 1",
+			"title_b": "대화문으로 훈련하기 1",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "내가 __했나 봐.",
+			"title_b": "내가 무엇 했나 봐",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "나라면 __할 거 같아.",
+			"title_b": "나라면 무엇 할 거 같아",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "도착하면 __해.",
+			"title_b": "도착하면 무엇 해",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "나 __ 먹었어.",
+			"title_b": "나 무언가를 먹었어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "시간이 __ 걸려.",
+			"title_b": "시간이 얼마 걸려",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "나 __에 갈 수 있어.",
+			"title_b": "나 어디에 갈 수 있어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "__가 잘 돼.",
+			"title_b": "무언가가 잘 돼",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "__가 잘 되어가.",
+			"title_b": "무언가가 잘 되어가",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "나 __ 다 했어.",
+			"title_b": "나 무언가를 다 했어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "대화문으로 훈련하기 2",
+			"title_b": "대화문으로 훈련하기 2",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "나 __하려던 참이었어.",
+			"title_b": "나 무엇 하려던 참이었어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "근처에 __ 있어?",
+			"title_b": "근처에 무언가 있어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "금요일에 __할래?",
+			"title_b": "금요일에 무엇 할래",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "내가 __할까?",
+			"title_b": "내가 무엇을 할까",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "나 __가 당겨.",
+			"title_b": "나 무언가가 당겨",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "나 __할까 생각 중이야.",
+			"title_b": "나 어떤 걸 할까 생각 중이야",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "나 전에 __했었어.",
+			"title_b": "나 전에 무엇을 했었어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "나 __가 익숙해.",
+			"title_b": "나 무언가가 익숙해",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "너 __해본 적 있어?",
+			"title_b": "너 무언가를 해본 적 있어",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "대화문으로 훈련하기 3",
+			"title_b": "대화문으로 훈련하기 3",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "내일 __ 어때?",
+			"title_b": "내일 무언가 어때",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "나 __ 좀 갖다줄래?",
+			"title_b": "나 무엇을 좀 갖다줄래",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "내가 __해도 될까?",
+			"title_b": "내가 무언가를 해도 될까",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "나 __가 필요해.",
+			"title_b": "나 무언가가 필요해",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "그거 하는 김에 __해줘.",
+			"title_b": "그거 하는 김에 무엇을 해줘",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "내가 __할게.",
+			"title_b": "내가 무엇을 할게",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "너 __하면 알려줘.",
+			"title_b": "너 무엇 하면 알려줘",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "나 __해야 해.",
+			"title_b": "나 무엇 해야 해",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "너 __하기로 했잖아.",
+			"title_b": "너 무엇 하기로 했잖아",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "대화문으로 훈련하기 4",
+			"title_b": "대화문으로 훈련하기 4",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8382/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

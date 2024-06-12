@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "공항에서 기계로 체크인하기",
-			"title_b": null,
+			"title_b": "공항에서 기계로 체크인하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -21,7 +21,7 @@
 		{
 			"chasi": 2,
 			"title_a": "공항에서 짐 부치기",
-			"title_b": null,
+			"title_b": "공항에서 짐 부치기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -32,7 +32,7 @@
 		{
 			"chasi": 3,
 			"title_a": "공항 보안 검색대 통과하기",
-			"title_b": null,
+			"title_b": "공항 보안 검색대 통과하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -43,7 +43,7 @@
 		{
 			"chasi": 4,
 			"title_a": "공항 내 터미널 찾기",
-			"title_b": null,
+			"title_b": "공항 내 터미널 찾기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -54,7 +54,7 @@
 		{
 			"chasi": 5,
 			"title_a": "호텔 체크인하기",
-			"title_b": null,
+			"title_b": "호텔 체크인하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -65,7 +65,7 @@
 		{
 			"chasi": 6,
 			"title_a": "호텔을 내 집처럼 이용해 보기",
-			"title_b": null,
+			"title_b": "호텔을 내 집처럼 이용해 보기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -76,7 +76,7 @@
 		{
 			"chasi": 7,
 			"title_a": "호텔에서 발생한 문제 해결하기",
-			"title_b": null,
+			"title_b": "호텔에서 발생한 문제 해결하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -87,7 +87,7 @@
 		{
 			"chasi": 8,
 			"title_a": "호텔 체크아웃하기",
-			"title_b": null,
+			"title_b": "호텔 체크아웃하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -98,7 +98,7 @@
 		{
 			"chasi": 9,
 			"title_a": "편리하게 택시 이용하기",
-			"title_b": null,
+			"title_b": "편리하게 택시 이용하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -109,7 +109,7 @@
 		{
 			"chasi": 10,
 			"title_a": "망설이지 않고 길 묻기",
-			"title_b": null,
+			"title_b": "망설이지 않고 길 묻기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -120,7 +120,7 @@
 		{
 			"chasi": 11,
 			"title_a": "지하철 타기",
-			"title_b": null,
+			"title_b": "지하철 타기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -131,7 +131,7 @@
 		{
 			"chasi": 12,
 			"title_a": "카페에서 커피 주문하기",
-			"title_b": null,
+			"title_b": "카페에서 커피 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -142,7 +142,7 @@
 		{
 			"chasi": 13,
 			"title_a": "카페에서 WiFi 비밀번호 묻기",
-			"title_b": null,
+			"title_b": "카페에서 WiFi 비밀번호 묻기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -153,7 +153,7 @@
 		{
 			"chasi": 14,
 			"title_a": "딱 맞는 옷 고르기",
-			"title_b": null,
+			"title_b": "딱 맞는 옷 고르기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -164,7 +164,7 @@
 		{
 			"chasi": 15,
 			"title_a": "옷 환불하기",
-			"title_b": null,
+			"title_b": "옷 환불하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -175,7 +175,7 @@
 		{
 			"chasi": 16,
 			"title_a": "전화로 식당 예약하기",
-			"title_b": null,
+			"title_b": "전화로 식당 예약하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -186,7 +186,7 @@
 		{
 			"chasi": 17,
 			"title_a": "전화로 식당 예약 변경하기",
-			"title_b": null,
+			"title_b": "전화로 식당 예약 변경하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -197,7 +197,7 @@
 		{
 			"chasi": 18,
 			"title_a": "원하는 자리 요청하기",
-			"title_b": null,
+			"title_b": "원하는 자리 요청하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -208,7 +208,7 @@
 		{
 			"chasi": 19,
 			"title_a": "음식 주문하기",
-			"title_b": null,
+			"title_b": "음식 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -219,7 +219,7 @@
 		{
 			"chasi": 20,
 			"title_a": "음식 주문 전 특이사항 체크하기",
-			"title_b": null,
+			"title_b": "음식 주문 전 특이사항 체크하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -230,7 +230,7 @@
 		{
 			"chasi": 21,
 			"title_a": "음료 주문하기",
-			"title_b": null,
+			"title_b": "음료 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -241,7 +241,7 @@
 		{
 			"chasi": 22,
 			"title_a": "취향에 맞게 스테이크 먹기",
-			"title_b": null,
+			"title_b": "취향에 맞게 스테이크 먹기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -252,7 +252,7 @@
 		{
 			"chasi": 23,
 			"title_a": "식당에서 항의하기",
-			"title_b": null,
+			"title_b": "식당에서 항의하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -263,7 +263,7 @@
 		{
 			"chasi": 24,
 			"title_a": "식당에서 계산하기",
-			"title_b": null,
+			"title_b": "식당에서 계산하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -274,7 +274,7 @@
 		{
 			"chasi": 25,
 			"title_a": "바에서 칵테일 주문하기",
-			"title_b": null,
+			"title_b": "바에서 칵테일 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -285,7 +285,7 @@
 		{
 			"chasi": 26,
 			"title_a": "디저트 주문하기",
-			"title_b": null,
+			"title_b": "디저트 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -296,7 +296,7 @@
 		{
 			"chasi": 27,
 			"title_a": "패스트푸드 주문하기",
-			"title_b": null,
+			"title_b": "패스트푸드 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -307,7 +307,7 @@
 		{
 			"chasi": 28,
 			"title_a": "전화로 배달 음식 주문하기",
-			"title_b": null,
+			"title_b": "전화로 배달 음식 주문하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -318,7 +318,7 @@
 		{
 			"chasi": 29,
 			"title_a": "마트와 슈퍼마켓 이용하기",
-			"title_b": null,
+			"title_b": "마트와 슈퍼마켓 이용하기",
 			"page_name": [
 				"강의",
 				"따라 말하기"
@@ -329,7 +329,7 @@
 		{
 			"chasi": 30,
 			"title_a": "시장에서 신선한 물건 사기",
-			"title_b": null,
+			"title_b": "시장에서 신선한 물건 사기",
 			"page_name": [
 				"강의",
 				"따라 말하기"

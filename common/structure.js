@@ -473,10 +473,11 @@ function bind_path_all() {
       dataFolder = cod
       dataConName = $("."+cod+">.cp_name>input[name=cp_name]").val()
       dataCount = twolength(Number(i + 1))
+      dataChasiName = content_data_step_obj[cod]["content_data"][i]["title_b"]
       dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
       dataPath = dataPath.split("/").join("\\")
       dataXcopy = "echo f | xcopy \""+ dataPath + "\""
-      bind_data += twolength(dataConNum) + "\t" + dataConLan + "\t" + dataConCode + "\t" + dataFolder + "\t" + dataConName + "\t" + dataCount + "\t" + dataPath + "\t" + dataXcopy + "\n"
+      bind_data += twolength(dataConNum) + "\t" + dataConLan + "\t" + dataConCode + "\t" + dataFolder + "\t" + dataConName + "\t" + dataCount + "\t" + dataChasiName + "\t" + dataPath + "\t" + dataXcopy + "\n"
       // console.log(cod,_this[bind_count]["mp4_bind_path"])
     }
     bind_data += "\n"
