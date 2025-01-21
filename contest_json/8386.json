@@ -1,0 +1,121 @@
+﻿{
+	"content_lan": "일본어",
+	"content_code": "8386",
+	"content_name": "2주 완성 JLPT 한자 어휘 특강 N3",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": "박진솔",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "필수 한자 行, 来, 休 외",
+			"title_b": "필수 한자 갈 행 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "필수 한자 果, 菓, 課 외",
+			"title_b": "필수 한자 열매 과 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "필수 한자 待, 持, 時 외",
+			"title_b": "필수 한자 기다릴 대 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "필수 한자 売, 続, 楽 외",
+			"title_b": "필수 한자 팔 매 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "필수 한자 険, 験, 検 외",
+			"title_b": "필수 한자 험할 험 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "필수 한자 類, 数, 度 외",
+			"title_b": "필수 한자 무리 류 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "필수 한자 腹, 復, 複 외",
+			"title_b": "필수 한자 배 복 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "필수 한자 青, 晴, 静 외",
+			"title_b": "필수 한자 푸를 청 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "필수 한자 義, 議, 儀 외",
+			"title_b": "필수 한자 옳을 의 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "필수 한자 官, 館, 管 외",
+			"title_b": "필수 한자 벼슬 관 외",
+			"page_name": [
+				"한자강의",
+				"JLPT퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8386/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

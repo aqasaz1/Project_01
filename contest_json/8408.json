@@ -1,0 +1,161 @@
+﻿{
+	"content_lan": "영어",
+	"content_code": "8408",
+	"content_name": "회사에서 가장 많이 쓰는 비즈니스 영어 - 미팅 편",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "INTRO - 효율적인 미팅",
+			"title_b": "INTRO  효율적인 미팅",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "업무상 가장 많이 쓰는 표현 중 하나입니다.",
+			"title_b": "업무상 가장 많이 쓰는 표현 중 하나입니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "긴 설명이 필요 없다.",
+			"title_b": "긴 설명이 필요 없다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "미루고 당기는 미팅 시간",
+			"title_b": "미루고 당기는 미팅 시간",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "미팅 까먹은 거 같은데….",
+			"title_b": "미팅 까먹은 거 같은데",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "긴급!",
+			"title_b": "긴급",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "마이크 넘기기",
+			"title_b": "마이크 넘기기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "다시 시작합시다.",
+			"title_b": "다시 시작합시다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "미국인들의 큰 리액션",
+			"title_b": "미국인들의 큰 리액션",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "요약의 달인",
+			"title_b": "요약의 달인",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "안건을 벗어난 이야기 끊기",
+			"title_b": "안건을 벗어난 이야기 끊기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "참고로!",
+			"title_b": "참고로",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "P-O-I-N-T",
+			"title_b": "POINT",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "발언권을 챙겨주는 따뜻한 리더십",
+			"title_b": "발언권을 챙겨주는 따뜻한 리더십",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "늦었다. 여기까지 하자!",
+			"title_b": "늦었다 여기까지 하자",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8408/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

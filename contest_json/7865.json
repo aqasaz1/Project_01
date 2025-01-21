@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "모집",
-			"title_b": null,
+			"title_b": "모집",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -22,7 +22,7 @@
 		{
 			"chasi": 2,
 			"title_a": "자기소개서",
-			"title_b": null,
+			"title_b": "자기소개서",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -34,7 +34,7 @@
 		{
 			"chasi": 3,
 			"title_a": "채용 조건",
-			"title_b": null,
+			"title_b": "채용 조건",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -46,7 +46,7 @@
 		{
 			"chasi": 4,
 			"title_a": "거시 경제학",
-			"title_b": null,
+			"title_b": "거시 경제학",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -58,7 +58,7 @@
 		{
 			"chasi": 5,
 			"title_a": "회사 소개",
-			"title_b": null,
+			"title_b": "회사 소개",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -70,7 +70,7 @@
 		{
 			"chasi": 6,
 			"title_a": "문제",
-			"title_b": null,
+			"title_b": "문제",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -82,7 +82,7 @@
 		{
 			"chasi": 7,
 			"title_a": "출장",
-			"title_b": null,
+			"title_b": "출장",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -94,7 +94,7 @@
 		{
 			"chasi": 8,
 			"title_a": "투자",
-			"title_b": null,
+			"title_b": "투자",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -106,7 +106,7 @@
 		{
 			"chasi": 9,
 			"title_a": "제품 소개",
-			"title_b": null,
+			"title_b": "제품 소개",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -118,7 +118,7 @@
 		{
 			"chasi": 10,
 			"title_a": "마케팅 및 광고 1",
-			"title_b": null,
+			"title_b": "마케팅 및 광고 1",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -130,7 +130,7 @@
 		{
 			"chasi": 11,
 			"title_a": "마케팅 및 광고 2",
-			"title_b": null,
+			"title_b": "마케팅 및 광고 2",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -142,7 +142,7 @@
 		{
 			"chasi": 12,
 			"title_a": "회의",
-			"title_b": null,
+			"title_b": "회의",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -154,7 +154,7 @@
 		{
 			"chasi": 13,
 			"title_a": "협상 1",
-			"title_b": null,
+			"title_b": "협상 1",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -166,7 +166,7 @@
 		{
 			"chasi": 14,
 			"title_a": "협상 2",
-			"title_b": null,
+			"title_b": "협상 2",
 			"page_name": [
 				"인트로",
 				"강의 듣기",
@@ -178,7 +178,7 @@
 		{
 			"chasi": 15,
 			"title_a": "무역",
-			"title_b": null,
+			"title_b": "무역",
 			"page_name": [
 				"인트로",
 				"강의 듣기",

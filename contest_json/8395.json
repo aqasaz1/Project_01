@@ -1,0 +1,351 @@
+﻿{
+	"content_lan": "영어",
+	"content_code": "8395",
+	"content_name": "영어 회화 패턴 훈련 - 1인칭 일반 동사",
+	"content_sample": "1/18",
+	"content_chasi": "17/17",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "나는 꼭 ~합니다",
+			"title_b": "나는 꼭 oo합니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "난 ~라는 데 동의합니다",
+			"title_b": "난 oo라는 데 동의합니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "내가 이미 ~를 처리했어요",
+			"title_b": "내가 이미 oo를 처리했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "~에 대해 사과드립니다",
+			"title_b": "oo에 대해 사과드립니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "난 시간 내에 도착해서 ~했어요",
+			"title_b": "난 시간 내에 도착해서 oo했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "난 ~하기로 결정했어요",
+			"title_b": "난 oo하기로 결정했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "난 ~인지 의심스러워요",
+			"title_b": "난 oo인지 의심스러워요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "난 결국 ~하게 되고 말았습니다",
+			"title_b": "난 결국 oo하게 되고 말았습니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "난 양해를 구하고 ~를 빠졌어요",
+			"title_b": "난 양해를 구하고 oo를 빠졌어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "난 ~같은 기분이 들어요",
+			"title_b": "난 oo같은 기분이 들어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "난 ~할 때면 화가 나요",
+			"title_b": "난 oo할 때면 화가 나요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "우리는 사용 가능한 ~가 없어요",
+			"title_b": "우리는 사용 가능한 oo가 없어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "~하는 것 외에는 선택의 여지가 없었어요",
+			"title_b": "oo하는 것 외에는 선택의 여지가 없었어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "~하는 게 힘들어요 / ~하는 데 애를 먹어요",
+			"title_b": "oo하는 게 힘들어요 oo하는 데 애를 먹어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "난 당신이 ~하는 방식이 마음에 들어요",
+			"title_b": "난 당신이 oo하는 방식이 마음에 들어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "난 ~할 때가 정말 좋아요",
+			"title_b": "난 oo할 때가 정말 좋아요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "난 ~가 좀 필요해요",
+			"title_b": "난 oo가 좀 필요해요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "난 밀린 ~를 따라잡아야 해요",
+			"title_b": "난 밀린 oo를 따라잡아야 해요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "우리는 번갈아 ~를 해요",
+			"title_b": "우리는 번갈아 oo를 해요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "~하지 말라고 했잖아요",
+			"title_b": "oo하지 말라고 했잖아요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "난 ~를 당연하다고 생각했어요",
+			"title_b": "난 oo를 당연하다고 생각했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "난 ~에 참여했어요",
+			"title_b": "난 oo에 참여했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "난 ~하려고 열심히 노력했어요",
+			"title_b": "난 oo하려고 열심히 노력했어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "당신과 ~에 대해 얘기를 나눠 보고 싶습니다",
+			"title_b": "당신과 oo에 대해 얘기를 나눠 보고 싶습니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "난 ~에 일역을 담당하고 싶어요",
+			"title_b": "난 oo에 일역을 담당하고 싶어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "난 당신이 ~하길 바라요",
+			"title_b": "난 당신이 oo하길 바라요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "난 ~가 상관없어요",
+			"title_b": "난 oo가 상관없어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "난 ~하고 싶지 않습니다",
+			"title_b": "난 oo하고 싶지 않습니다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "난 ~할 마음이 안 내켜요",
+			"title_b": "난 oo할 마음이 안 내켜요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "난 ~할 시간이 충분치 않아요",
+			"title_b": "난 oo할 시간이 충분치 않아요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "난 ~하는 법을 몰라요",
+			"title_b": "난 oo하는 법을 몰라요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "난 당신이 ~하리라고 기대하지 않았어요",
+			"title_b": "난 당신이 oo하리라고 기대하지 않았어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "~할 의도는 아니었어요",
+			"title_b": "oo할 의도는 아니었어요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "내가 ~에 대해 말했던가요?",
+			"title_b": "내가 oo에 대해 말했던가요",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8395/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

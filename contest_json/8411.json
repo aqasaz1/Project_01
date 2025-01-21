@@ -1,0 +1,451 @@
+﻿{
+	"content_lan": "일본어",
+	"content_code": "8411",
+	"content_name": "NEW 일본어 상용한자 기초마스터 1026 - 3,4학년 한자",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "박진솔",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "3학년 한자 反 対 軽 외",
+			"title_b": "3학년 한자 돌이킬 반 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "3학년 한자 写 真 旅 외",
+			"title_b": "3학년 한자 베낄 사 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "3학년 한자 駅 始 発 외",
+			"title_b": "3학년 한자 역 역 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "3학년 한자 局 号 全 외",
+			"title_b": "3학년 한자 판 국 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "3학년 한자 練 習 勝 외",
+			"title_b": "3학년 한자 익힐 련 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "3학년 한자 列 島 受 외",
+			"title_b": "3학년 한자 벌일 렬 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "3학년 한자 鉄 橋 乗 외",
+			"title_b": "3학년 한자 쇠 철 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "3학년 한자 転 向 研 외",
+			"title_b": "3학년 한자 구를 전 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "3학년 한자 意 味 委 외",
+			"title_b": "3학년 한자 뜻 의 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "3학년 한자 礼 式 使 외",
+			"title_b": "3학년 한자 예도 례 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "3학년 한자 指 皮 歯 외",
+			"title_b": "3학년 한자 가리킬 지 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "3학년 한자 助 拾 持 외",
+			"title_b": "3학년 한자 도울 조 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "3학년 한자 波 庫 荷 외",
+			"title_b": "3학년 한자 물결 파 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "3학년 한자 想 炭 畑 외",
+			"title_b": "3학년 한자 생각 상 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "3학년 한자 予 代 申 외",
+			"title_b": "3학년 한자 미리 예 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "3학년 한자 具 第 洋 외",
+			"title_b": "3학년 한자 갖출 구 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "3학년 한자 世 界 両 외",
+			"title_b": "3학년 한자 인간 세 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "3학년 한자 州 県 都 외",
+			"title_b": "3학년 한자 고을 주 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "3학년 한자 族 守 昔 외",
+			"title_b": "3학년 한자 겨레 족 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "3학년 한자 調 整 様 외",
+			"title_b": "3학년 한자 고를 조 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "4학년 한자 加 街 各 외",
+			"title_b": "4학년 한자 더할 가 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "4학년 한자 欠 結 径 외",
+			"title_b": "4학년 한자 이지러질 결 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "4학년 한자 共 果 課 외",
+			"title_b": "4학년 한자 한가지 공 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "4학년 한자 群 極 給 외",
+			"title_b": "4학년 한자 무리 군 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "4학년 한자 念 努 単 외",
+			"title_b": "4학년 한자 생각 념 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "4학년 한자 冷 良 量 외",
+			"title_b": "4학년 한자 찰 랭 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "4학년 한자 料 類 陸 외",
+			"title_b": "4학년 한자 헤아릴 료 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "4학년 한자 牧 無 未 외",
+			"title_b": "4학년 한자 칠 목 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "4학년 한자 兵 夫 付 외",
+			"title_b": "4학년 한자 군사 병 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "4학년 한자 辞 産 散 외",
+			"title_b": "4학년 한자 말씀 사 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "4학년 한자 笑 巣 焼 외",
+			"title_b": "4학년 한자 웃을 소 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "4학년 한자 試 臣 信 외",
+			"title_b": "4학년 한자 시험할 시 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "4학년 한자 養 漁 億 외",
+			"title_b": "4학년 한자 기를 양 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "4학년 한자 要 浴 勇 외",
+			"title_b": "4학년 한자 요긴할 요 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "4학년 한자 以 印 茨 외",
+			"title_b": "4학년 한자 써 이 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "4학년 한자 的 積 伝 외",
+			"title_b": "4학년 한자 과녁 적 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "4학년 한자 照 卒 種 외",
+			"title_b": "4학년 한자 비칠 조 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "4학년 한자 参 倉 唱 외",
+			"title_b": "4학년 한자 참여할 참 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "4학년 한자 側 治 置 외",
+			"title_b": "4학년 한자 곁 측 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "4학년 한자 必 賀 害 외",
+			"title_b": "4학년 한자 반드시 필 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8411/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

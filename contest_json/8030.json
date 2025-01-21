@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "예비과 1",
-			"title_b": null,
+			"title_b": "예비과 1",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -20,7 +20,7 @@
 		{
 			"chasi": 2,
 			"title_a": "예비과 2",
-			"title_b": null,
+			"title_b": "예비과 2",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -30,7 +30,7 @@
 		{
 			"chasi": 3,
 			"title_a": "안녕!",
-			"title_b": null,
+			"title_b": "안녕",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -40,7 +40,7 @@
 		{
 			"chasi": 4,
 			"title_a": "어떻게 지내니?",
-			"title_b": null,
+			"title_b": "어떻게 지내니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -50,7 +50,7 @@
 		{
 			"chasi": 5,
 			"title_a": "이름이 뭐니?",
-			"title_b": null,
+			"title_b": "이름이 뭐니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -60,7 +60,7 @@
 		{
 			"chasi": 6,
 			"title_a": "얘가 내 친구 보라예요.",
-			"title_b": null,
+			"title_b": "얘가 내 친구 보라예요",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -70,7 +70,7 @@
 		{
 			"chasi": 7,
 			"title_a": "너의 집은 어디야?",
-			"title_b": null,
+			"title_b": "너의 집은 어디야",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -80,7 +80,7 @@
 		{
 			"chasi": 8,
 			"title_a": "스페인어를 할 줄 아니?",
-			"title_b": null,
+			"title_b": "스페인어를 할 줄 아니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -90,7 +90,7 @@
 		{
 			"chasi": 9,
 			"title_a": "어디 가니?",
-			"title_b": null,
+			"title_b": "어디 가니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -100,7 +100,7 @@
 		{
 			"chasi": 10,
 			"title_a": "너무 추워.",
-			"title_b": null,
+			"title_b": "너무 추워",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -110,7 +110,7 @@
 		{
 			"chasi": 11,
 			"title_a": "너를 사랑해.",
-			"title_b": null,
+			"title_b": "너를 사랑해",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -120,7 +120,7 @@
 		{
 			"chasi": 12,
 			"title_a": "오늘 날씨가 좋아요.",
-			"title_b": null,
+			"title_b": "오늘 날씨가 좋아요",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -130,7 +130,7 @@
 		{
 			"chasi": 13,
 			"title_a": "몇 시입니까?",
-			"title_b": null,
+			"title_b": "몇 시입니까",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -140,7 +140,7 @@
 		{
 			"chasi": 14,
 			"title_a": "어떤 게 더 좋아?",
-			"title_b": null,
+			"title_b": "어떤 게 더 좋아",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -150,7 +150,7 @@
 		{
 			"chasi": 15,
 			"title_a": "머리가 아파요.",
-			"title_b": null,
+			"title_b": "머리가 아파요",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -160,7 +160,7 @@
 		{
 			"chasi": 16,
 			"title_a": "몇 시에 일어나니?",
-			"title_b": null,
+			"title_b": "몇 시에 일어나니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -170,7 +170,7 @@
 		{
 			"chasi": 17,
 			"title_a": "뭐하고 있어?",
-			"title_b": null,
+			"title_b": "뭐하고 있어",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -180,7 +180,7 @@
 		{
 			"chasi": 18,
 			"title_a": "제가 스페인어를 할 수 있게 될까요?",
-			"title_b": null,
+			"title_b": "제가 스페인어를 할 수 있게 될까요",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -190,7 +190,7 @@
 		{
 			"chasi": 19,
 			"title_a": "어제 뭐 했니?",
-			"title_b": null,
+			"title_b": "어제 뭐 했니",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -200,7 +200,7 @@
 		{
 			"chasi": 20,
 			"title_a": "예전에는 바르셀로나에서 살았어.",
-			"title_b": null,
+			"title_b": "예전에는 바르셀로나에서 살았어",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -210,7 +210,7 @@
 		{
 			"chasi": 21,
 			"title_a": "지갑을 집에 두고 왔어.",
-			"title_b": null,
+			"title_b": "지갑을 집에 두고 왔어",
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -220,7 +220,7 @@
 		{
 			"chasi": 22,
 			"title_a": "조금 더 먹어.",
-			"title_b": null,
+			"title_b": "조금 더 먹어",
 			"page_name": [
 				"오늘의 강의"
 			],

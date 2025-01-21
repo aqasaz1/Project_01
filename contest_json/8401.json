@@ -1,0 +1,501 @@
+﻿{
+	"content_lan": "영어",
+	"content_code": "8401",
+	"content_name": "토익 스피드런 스타트 RC 550+",
+	"content_sample": "2/27",
+	"content_chasi": "26/23",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "OT",
+			"title_b": "OT",
+			"page_name": [
+				"OT"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[이론] Parts 5, 6 문장의 구조 (1)",
+			"title_b": "이론 Parts 5 6 문장의 구조 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[이론] Parts 5, 6 문장의 구조 (2)",
+			"title_b": "이론 Parts 5 6 문장의 구조 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[실전] Parts 5, 6 문장의 구조 문제풀이",
+			"title_b": "실전 Parts 5 6 문장의 구조 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[이론] Parts 5, 6 명사",
+			"title_b": "이론 Parts 5 6 명사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[이론] Parts 5, 6 대명사",
+			"title_b": "이론 Parts 5 6 대명사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[실전] Parts 5, 6 명사와 대명사 문제풀이",
+			"title_b": "실전 Parts 5 6 명사와 대명사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[이론] Parts 5, 6 형용사",
+			"title_b": "이론 Parts 5 6 형용사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[이론] Parts 5, 6 부사",
+			"title_b": "이론 Parts 5 6 부사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[이론] Parts 5, 6 비교 구문",
+			"title_b": "이론 Parts 5 6 비교 구문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[실전] Parts 5, 6 형용사와 부사 문제풀이",
+			"title_b": "실전 Parts 5 6 형용사와 부사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[이론] Parts 5, 6 시제: 현재, 과거, 미래, 진행",
+			"title_b": "이론 Parts 5 6 시제: 현재 과거 미래 진행",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[이론] Parts 5, 6 시제: 완료",
+			"title_b": "이론 Parts 5 6 시제: 완료",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[실전] Parts 5, 6 시제 문제풀이",
+			"title_b": "실전 Parts 5 6 시제 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[이론] Parts 5, 6 수동태의 형태",
+			"title_b": "이론 Parts 5 6 수동태의 형태",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "[이론] Parts 5, 6 주의해야 할 수동태",
+			"title_b": "이론 Parts 5 6 주의해야 할 수동태",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "[실전] Parts 5, 6 수동태 문제풀이",
+			"title_b": "실전 Parts 5 6 수동태 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "[이론] Parts 5, 6 to부정사 (1)",
+			"title_b": "이론 Parts 5 6 to부정사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "[이론] Parts 5, 6 to부정사 (2)",
+			"title_b": "이론 Parts 5 6 to부정사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "[실전] Parts 5, 6 to부정사 문제풀이",
+			"title_b": "실전 Parts 5 6 to부정사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "[이론] Parts 5, 6 동명사 (1)",
+			"title_b": "이론 Parts 5 6 동명사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "[이론] Parts 5, 6 동명사 (2)",
+			"title_b": "이론 Parts 5 6 동명사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "[실전] Parts 5, 6 동명사 문제풀이",
+			"title_b": "실전 Parts 5 6 동명사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "[이론] Parts 5, 6 분사",
+			"title_b": "이론 Parts 5 6 분사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "[이론] Parts 5, 6 분사 구문",
+			"title_b": "이론 Parts 5 6 분사 구문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "[실전] Parts 5, 6 분사 문제풀이",
+			"title_b": "실전 Parts 5 6 분사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "[이론] Parts 5, 6 접속사 (1)",
+			"title_b": "이론 Parts 5 6 접속사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "[이론] Parts 5, 6 접속사 (2)",
+			"title_b": "이론 Parts 5 6 접속사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "[실전] Parts 5, 6 접속사 문제풀이",
+			"title_b": "실전 Parts 5 6 접속사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "[이론] Parts 5, 6 전치사 (1)",
+			"title_b": "이론 Parts 5 6 전치사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "[이론] Parts 5, 6 전치사 (2)",
+			"title_b": "이론 Parts 5 6 전치사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "[실전] Parts 5, 6 전치사 문제풀이",
+			"title_b": "실전 Parts 5 6 전치사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "[이론] Parts 5, 6 관계사 (1)",
+			"title_b": "이론 Parts 5 6 관계사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "[이론] Parts 5, 6 관계사 (2)",
+			"title_b": "이론 Parts 5 6 관계사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "[실전] Parts 5, 6 관계사 문제풀이",
+			"title_b": "실전 Parts 5 6 관계사 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "[이론] Parts 5, 6 가정법 (1)",
+			"title_b": "이론 Parts 5 6 가정법 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "[이론] Parts 5, 6 가정법 (2)",
+			"title_b": "이론 Parts 5 6 가정법 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "[실전] Parts 5, 6 가정법 문제풀이",
+			"title_b": "실전 Parts 5 6 가정법 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "[이론] Parts 5, 6 일치 (1)",
+			"title_b": "이론 Parts 5 6 일치 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "[이론] Parts 5, 6 일치 (2)",
+			"title_b": "이론 Parts 5 6 일치 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "[실전] Parts 5, 6 일치 문제풀이",
+			"title_b": "실전 Parts 5 6 일치 문제풀이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "[이론] Part 7 주제/목적 찾기, 육하원칙",
+			"title_b": "이론 Part 7 주제목적 찾기 육하원칙",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "[이론] Part 7 True/Not true, 추론",
+			"title_b": "이론 Part 7 TrueNot true 추론",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "[이론] Part 7 동의어 찾기, 인용",
+			"title_b": "이론 Part 7 동의어 찾기 인용",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "[이론] Part 7 문장 삽입",
+			"title_b": "이론 Part 7 문장 삽입",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "[이론] Part 7 편지, 이메일, 공지, 회람",
+			"title_b": "이론 Part 7 편지 이메일 공지 회람",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "[이론] Part 7 광고, 송장, 일정, 메시지, 채팅",
+			"title_b": "이론 Part 7 광고 송장 일정 메시지 채팅",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "[이론] Part 7 복수 지문 (이중 지문)",
+			"title_b": "이론 Part 7 이중 지문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "[이론] Part 7 복수 지문 (삼중 지문)",
+			"title_b": "이론 Part 7 삼중 지문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Dropbox/Dropbox (Darakwon)/content/8401/mp4/a1_49h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
