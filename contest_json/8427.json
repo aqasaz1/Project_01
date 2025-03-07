@@ -1,0 +1,611 @@
+﻿{
+	"content_lan": "영어",
+	"content_code": "8427",
+	"content_name": "영어로 문장 만들기 훈련 1차 임계점",
+	"content_sample": "1/15/29/41",
+	"content_chasi": "14/14/12/20",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "뼈대 문장에서 확장 문장으로 - 기본",
+			"title_b": "뼈대 문장에서 확장 문장으로 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "뼈대 문장에서 확장 문장으로 - 응용",
+			"title_b": "뼈대 문장에서 확장 문장으로 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "뼈대 문장에 보충어를 더해 확장 문장으로 1 - 기본",
+			"title_b": "뼈대 문장에 보충어를 더해 확장 문장으로 1 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "뼈대 문장에 보충어를 더해 확장 문장으로 1 - 응용",
+			"title_b": "뼈대 문장에 보충어를 더해 확장 문장으로 1 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "뼈대 문장에 보충어를 더해 확장 문장으로 2 - 기본",
+			"title_b": "뼈대 문장에 보충어를 더해 확장 문장으로 2 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "뼈대 문장에 보충어를 더해 확장 문장으로 2 - 응용",
+			"title_b": "뼈대 문장에 보충어를 더해 확장 문장으로 2 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "뼈대 문장에서 대상어를 더해 확장 문장으로 - 기본",
+			"title_b": "뼈대 문장에서 대상어를 더해 확장 문장으로 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "뼈대 문장에서 대상어를 더해 확장 문장으로 - 응용",
+			"title_b": "뼈대 문장에서 대상어를 더해 확장 문장으로 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "뼈대 문장에서 남에게 퍼 주는 문장으로 - 기본",
+			"title_b": "뼈대 문장에서 남에게 퍼 주는 문장으로 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "뼈대 문장에서 남에게 퍼 주는 문장으로 - 응용",
+			"title_b": "뼈대 문장에서 남에게 퍼 주는 문장으로 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "뼈대 문장에서 대상어를 명확히 하는 문장으로 1 - 기본",
+			"title_b": "뼈대 문장에서 대상어를 명확히 하는 문장으로 1 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "뼈대 문장에서 대상어를 명확히 하는 문장으로 1 - 응용",
+			"title_b": "뼈대 문장에서 대상어를 명확히 하는 문장으로 1 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "뼈대 문장에서 대상어를 명확히 하는 문장으로 2 - 기본",
+			"title_b": "뼈대 문장에서 대상어를 명확히 하는 문장으로 2 기본",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "뼈대 문장에서 대상어를 명확히 하는 문장으로 2 - 응용",
+			"title_b": "뼈대 문장에서 대상어를 명확히 하는 문장으로 2 응용",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "현재 시제",
+			"title_b": "현재 시제",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "과거 시제",
+			"title_b": "과거 시제",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "미래 시제 1",
+			"title_b": "미래 시제 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "미래 시제 2",
+			"title_b": "미래 시제 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "현재진행 1",
+			"title_b": "현재진행 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "현재진행 2",
+			"title_b": "현재진행 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "과거 진행",
+			"title_b": "과거 진행",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "현재완료 1",
+			"title_b": "현재완료 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "현재완료 2",
+			"title_b": "현재완료 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "현재완료진행",
+			"title_b": "현재완료진행",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "조동사 can",
+			"title_b": "조동사 can",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "조동사 could",
+			"title_b": "조동사 could",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "조동사 should / had better",
+			"title_b": "조동사 should와 had better",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "조동사 have to",
+			"title_b": "조동사 have to",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "명사 + 전치사구 (형용사구) 1",
+			"title_b": "명사를 꾸며주는 전치사구 형용사구 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "명사 + 전치사구 (형용사구) 2",
+			"title_b": "명사 꾸며주는 전치사구 형용사구 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "명사 + 현재분사",
+			"title_b": "명사 꾸며주는 현재분사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "명사 + 과거분사",
+			"title_b": "명사 꾸며주는 과거분사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "명사 + to부정사구",
+			"title_b": "명사 꾸며주는 to부정사구",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "명사 + 관계대명사절 1",
+			"title_b": "명사 꾸며주는 관계대명사절 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "명사 + 관계대명사절 2",
+			"title_b": "명사 꾸며주는 관계대명사절 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "명사 + 관계부사절",
+			"title_b": "명사 꾸며주는 관계부사절",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "전치사구 (부사구)",
+			"title_b": "전치사구 부사구",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "to부정사구 1",
+			"title_b": "to부정사구 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "to부정사구 2",
+			"title_b": "to부정사구 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "현재분사 (동시동작)",
+			"title_b": "현재분사 동시동작",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "명사구 1 (동명사구)",
+			"title_b": "명사구 1 동명사구",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "명사구 2 (to부정사구 1)",
+			"title_b": "명사구 2 to부정사구 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "명사구 3 (to부정사구 2)",
+			"title_b": "명사구 3 to부정사구 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "명사구 4 (to부정사의 의미상 주어)",
+			"title_b": "명사구 4 to부정사의 의미상 주어",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "명사구 5 (의문사+to부정사구)",
+			"title_b": "명사구 5 의문사 to부정사구",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "명사절 1",
+			"title_b": "명사절 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "명사절 2",
+			"title_b": "명사절 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "명사절 3",
+			"title_b": "명사절 3",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "의문사가 이끄는 명사절 1",
+			"title_b": "의문사가 이끄는 명사절 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "의문사가 이끄는 명사절 2",
+			"title_b": "의문사가 이끄는 명사절 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "의문사가 이끄는 명사절 3",
+			"title_b": "의문사가 이끄는 명사절 3",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "시간 접속사 1",
+			"title_b": "시간 접속사 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "시간 접속사 2",
+			"title_b": "시간 접속사 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "조건 접속사",
+			"title_b": "조건 접속사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "이유 접속사",
+			"title_b": "이유 접속사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "양보 접속사 1",
+			"title_b": "양보 접속사 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "양보 접속사 2",
+			"title_b": "양보 접속사 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "분사구문 1",
+			"title_b": "분사구문 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "분사구문 2",
+			"title_b": "분사구문 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "분사구문 3",
+			"title_b": "분사구문 3",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8427/mp4/a1_60h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

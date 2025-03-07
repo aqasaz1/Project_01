@@ -1,0 +1,429 @@
+{
+	"content_lan": "일본어",
+	"content_code": "8428",
+	"content_name": "NEW 일본어 상용한자 기초마스터 1026 - 5,6학년 한자",
+	"content_sample": "1/20",
+	"content_chasi": "19/19",
+	"content_size": "1000*650",
+	"content_cm": "박진솔",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "5학년 한자 可 仮 価 외",
+			"title_b": "5학년 한자 옳을 가 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "5학년 한자 検 格 潔 외",
+			"title_b": "5학년 한자 검사할 검 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "5학년 한자 鉱 久 句 외",
+			"title_b": "5학년 한자 쇳돌 광 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "5학년 한자 紀 寄 基 외",
+			"title_b": "5학년 한자 벼리 기 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "5학년 한자 独 銅 得 외",
+			"title_b": "5학년 한자 홀로 독 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "5학년 한자 墓 武 務 외",
+			"title_b": "5학년 한자 무덤 묘 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "5학년 한자 復 複 婦 외",
+			"title_b": "5학년 한자 회복할 복 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "5학년 한자 貧 士 史 외",
+			"title_b": "5학년 한자 가난할 빈 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "5학년 한자 殺 状 常 외",
+			"title_b": "5학년 한자 죽일 살 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "5학년 한자 勢 素 属 외",
+			"title_b": "5학년 한자 형세 세 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "5학년 한자 示 識 眼 외",
+			"title_b": "5학년 한자 보일 시 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "5학년 한자 演 燃 永 외",
+			"title_b": "5학년 한자 펼 연 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "5학년 한자 移 益 因 외",
+			"title_b": "5학년 한자 옮길 이 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "5학년 한자 財 貯 適 외",
+			"title_b": "5학년 한자 재물 재 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "5학년 한자 精 制 提 외",
+			"title_b": "5학년 한자 정할 정 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "5학년 한자 証 増 支 외",
+			"title_b": "5학년 한자 증거 증 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "5학년 한자 責 妻 招 외",
+			"title_b": "5학년 한자 꾸짖을 책 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "5학년 한자 判 版 編 외",
+			"title_b": "5학년 한자 판단할 판 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "5학년 한자 許 険 現 외",
+			"title_b": "5학년 한자 허락할 허 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "6학년 한자 刻 閣 干 외",
+			"title_b": "6학년 한자 새길 각 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "6학년 한자 警 系 届 외",
+			"title_b": "6학년 한자 경계할 경 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "6학년 한자 机 貴 劇 외",
+			"title_b": "6학년 한자 책상 궤 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "6학년 한자 段 担 党 외",
+			"title_b": "6학년 한자 층계 단 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "6학년 한자 裏 臨 幕 외",
+			"title_b": "6학년 한자 속 리 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "6학년 한자 密 班 訪 외",
+			"title_b": "6학년 한자 빽빽할 밀 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "6학년 한자 棒 否 奮 외",
+			"title_b": "6학년 한자 막대 봉 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "6학년 한자 署 宣 善 외",
+			"title_b": "6학년 한자 마을 서 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "6학년 한자 熟 純 承 외",
+			"title_b": "6학년 한자 익을 숙 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "6학년 한자 染 映 預 외",
+			"title_b": "6학년 한자 물들 염 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "6학년 한자 胃 幼 乳 외",
+			"title_b": "6학년 한자 밥통 위 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "6학년 한자 賃 姿 磁 외",
+			"title_b": "6학년 한자 품삯 임 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "6학년 한자 裁 著 敵 외",
+			"title_b": "6학년 한자 마를 재 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "6학년 한자 潮 操 存 외",
+			"title_b": "6학년 한자 밀물 조 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "6학년 한자 株 衆 蒸 외",
+			"title_b": "6학년 한자 그루 주 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "6학년 한자 尺 泉 庁 외",
+			"title_b": "6학년 한자 자 척 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "6학년 한자 針 誕 探 외",
+			"title_b": "6학년 한자 바늘 침 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "6학년 한자 陛 閉 俵 외",
+			"title_b": "6학년 한자 대궐 섬돌 폐 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "6학년 한자 拡 皇 灰 외",
+			"title_b": "6학년 한자 넓힐 확 외",
+			"page_name": [
+				"오늘의 한자",
+				"오늘의 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8428/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
