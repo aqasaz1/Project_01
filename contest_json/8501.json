@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": "8501",
+	"content_name": "핵심만 콕 집어주는, 무조건 오픽 IH&AL STEP 2",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1170*658",
+	"content_cm": "김태우",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "[돌발주제] 모임",
+			"title_b": "돌발주제  모임",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_01.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[돌발주제] 교통수단",
+			"title_b": "돌발주제  교통수단",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_02.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[돌발주제] 지형",
+			"title_b": "돌발주제  지형",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_03.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[돌발주제] 약속",
+			"title_b": "돌발주제  약속",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_04.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[돌발주제] 날씨",
+			"title_b": "돌발주제  날씨",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_05.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[돌발주제] 전화기",
+			"title_b": "돌발주제  전화기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_06.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[돌발주제] 재활용",
+			"title_b": "돌발주제  재활용",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_07.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[롤플레이] 영화",
+			"title_b": "롤플레이  영화",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_08.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[롤플레이] 은행",
+			"title_b": "롤플레이  은행",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_09.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[롤플레이] MP3 플레이어",
+			"title_b": "롤플레이  MP3 플레이어",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_10.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[롤플레이] 가구",
+			"title_b": "롤플레이  가구",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_11.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[롤플레이] 여행",
+			"title_b": "롤플레이  여행",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_12.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[롤플레이] 부동산",
+			"title_b": "롤플레이  부동산",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_13.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[롤플레이] 호텔",
+			"title_b": "롤플레이  호텔",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_14.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[롤플레이] 의류 매장",
+			"title_b": "롤플레이  의류 매장",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8501/mp4_bind/z1_15.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

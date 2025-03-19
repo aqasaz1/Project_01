@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": "8495",
+	"content_name": "핵심만 콕 집어주는, 무조건 토익스피킹 IM-IH 단기완성 STEP 1",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1170*658",
+	"content_cm": "김태우",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "오리엔테이션",
+			"title_b": "오리엔테이션",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_01.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "토익스피킹 필수 문법",
+			"title_b": "토익스피킹 필수 문법",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_02.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "파트 1 개요, 발음",
+			"title_b": "파트 1 개요  발음",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_03.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "파트 1 억양, 강세",
+			"title_b": "파트 1 억양  강세",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_04.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "파트 1 공지, 안내문, 방송",
+			"title_b": "파트 1 공지  안내문  방송",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_05.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "파트 1 광고, 자동 응답 메시지",
+			"title_b": "파트 1 광고  자동 응답 메시지",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_06.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "파트 2 개요, 위치 묘사",
+			"title_b": "파트 2 개요  위치 묘사",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_07.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "파트 2 동작, 인상 착의 묘사",
+			"title_b": "파트 2 동작  인상 착의 묘사",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_08.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "파트 2 사물 묘사, 느낌 및 의견 묘사",
+			"title_b": "파트 2 사물 묘사  느낌 및 의견 묘사",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_09.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "파트 2 회사, 학교",
+			"title_b": "파트 2 회사  학교",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_10.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "파트 2 시장, 상점, 식당, 호텔",
+			"title_b": "파트 2 시장  상점  식당  호텔",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_11.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "파트 3 개요, 답변 전략",
+			"title_b": "파트 3 개요  답변 전략",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_12.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "파트 3 2개 의문사 문제, 의견 문제",
+			"title_b": "파트 3 2개 의문사 문제  의견 문제",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_13.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "파트 3 7번 의견 문제, 선택형 문제",
+			"title_b": "파트 3 7번 의견 문제  선택형 문제",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_14.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "파트 3 7번 열거 문제, 선호 사항 문제",
+			"title_b": "파트 3 7번 열거 문제  선호 사항 문제",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8495/mp4_bind/z1_15.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
