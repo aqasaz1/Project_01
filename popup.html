@@ -37,13 +37,19 @@
 				html_obj += '<textarea name="" id="up_txt" cols="37" rows="22"></textarea></br>'
 				html_obj += '<input type="button" value="update" onclick="opener_update(' + '\'code\'' + ')">'
 				$('body').html(html_obj)
-				$("#up_txt").text("CODE1111\nCODE2222\n");
+				$.each(opener.$('#content_list tr'), function (key, item) {
+					$("#up_txt").text($("#up_txt").text()+$(this).attr("class")+"\n")
+				});
+				//$("#up_txt").text("CODE1111\nCODE2222\n");
 			},
 			name() {
 				html_obj += '<textarea name="" id="up_txt" cols="66" rows="22"></textarea></br>'
 				html_obj += '<input type="button" value="update" onclick="opener_update(' + '\'name\'' + ')">'
 				$('body').html(html_obj)
-				$("#up_txt").text("(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (1)\n(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (2)\n(rename)미드영어 발음에서 회화까지 (1)\n(rename)미드영어 발음에서 회화까지 (2)\n(rename)미드영어 발음에서 회화까지 (3)\n");
+				$.each(opener.$('.cp_name input'), function (key, item) {
+					$("#up_txt").text($("#up_txt").text()+$(this).val()+"\n")
+				});
+				//$("#up_txt").text("(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (1)\n(rename)나의 첫 영어 명작 읽기 - 셜록 홈즈 (2)\n(rename)미드영어 발음에서 회화까지 (1)\n(rename)미드영어 발음에서 회화까지 (2)\n(rename)미드영어 발음에서 회화까지 (3)\n");
 			},
 			hunet() {
 				html_obj += '휴넷_Index</br><textarea name="" id="up_txt1" cols="108" rows="17"></textarea></br>'
