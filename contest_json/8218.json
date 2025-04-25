@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "내 집 마련",
-			"title_b": null,
+			"title_b": "내 집 마련",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -21,7 +21,7 @@
 		{
 			"chasi": 2,
 			"title_a": "예금",
-			"title_b": null,
+			"title_b": "예금",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -32,7 +32,7 @@
 		{
 			"chasi": 3,
 			"title_a": "주식",
-			"title_b": null,
+			"title_b": "주식",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -43,7 +43,7 @@
 		{
 			"chasi": 4,
 			"title_a": "복권",
-			"title_b": null,
+			"title_b": "복권",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -54,7 +54,7 @@
 		{
 			"chasi": 5,
 			"title_a": "대출",
-			"title_b": null,
+			"title_b": "대출",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -65,7 +65,7 @@
 		{
 			"chasi": 6,
 			"title_a": "층간 소음",
-			"title_b": null,
+			"title_b": "층간 소음",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -76,7 +76,7 @@
 		{
 			"chasi": 7,
 			"title_a": "주택",
-			"title_b": null,
+			"title_b": "주택",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -87,7 +87,7 @@
 		{
 			"chasi": 8,
 			"title_a": "식물 가꾸기",
-			"title_b": null,
+			"title_b": "식물 가꾸기",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -98,7 +98,7 @@
 		{
 			"chasi": 9,
 			"title_a": "이사",
-			"title_b": null,
+			"title_b": "이사",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -109,7 +109,7 @@
 		{
 			"chasi": 10,
 			"title_a": "카펫 청소",
-			"title_b": null,
+			"title_b": "카펫 청소",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -120,7 +120,7 @@
 		{
 			"chasi": 11,
 			"title_a": "취업",
-			"title_b": null,
+			"title_b": "취업",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -131,7 +131,7 @@
 		{
 			"chasi": 12,
 			"title_a": "학원",
-			"title_b": null,
+			"title_b": "학원",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -142,7 +142,7 @@
 		{
 			"chasi": 13,
 			"title_a": "연봉",
-			"title_b": null,
+			"title_b": "연봉",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -153,7 +153,7 @@
 		{
 			"chasi": 14,
 			"title_a": "이직",
-			"title_b": null,
+			"title_b": "이직",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -164,7 +164,7 @@
 		{
 			"chasi": 15,
 			"title_a": "근무 시간과 휴가 제도",
-			"title_b": null,
+			"title_b": "근무 시간과 휴가 제도",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -175,7 +175,7 @@
 		{
 			"chasi": 16,
 			"title_a": "미국 여행",
-			"title_b": null,
+			"title_b": "미국 여행",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -186,7 +186,7 @@
 		{
 			"chasi": 17,
 			"title_a": "여행",
-			"title_b": null,
+			"title_b": "여행",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -197,7 +197,7 @@
 		{
 			"chasi": 18,
 			"title_a": "명절",
-			"title_b": null,
+			"title_b": "명절",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -208,7 +208,7 @@
 		{
 			"chasi": 19,
 			"title_a": "여가",
-			"title_b": null,
+			"title_b": "여가",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -219,7 +219,7 @@
 		{
 			"chasi": 20,
 			"title_a": "어린이와 어르신 시설",
-			"title_b": null,
+			"title_b": "어린이와 어르신 시설",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -230,7 +230,7 @@
 		{
 			"chasi": 21,
 			"title_a": "건강 식품",
-			"title_b": null,
+			"title_b": "건강 식품",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -241,7 +241,7 @@
 		{
 			"chasi": 22,
 			"title_a": "건강 보험",
-			"title_b": null,
+			"title_b": "건강 보험",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -252,7 +252,7 @@
 		{
 			"chasi": 23,
 			"title_a": "민간요법",
-			"title_b": null,
+			"title_b": "민간요법",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -263,7 +263,7 @@
 		{
 			"chasi": 24,
 			"title_a": "해장",
-			"title_b": null,
+			"title_b": "해장",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -274,7 +274,7 @@
 		{
 			"chasi": 25,
 			"title_a": "심리 치료",
-			"title_b": null,
+			"title_b": "심리 치료",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -285,7 +285,7 @@
 		{
 			"chasi": 26,
 			"title_a": "결혼식",
-			"title_b": null,
+			"title_b": "결혼식",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -296,7 +296,7 @@
 		{
 			"chasi": 27,
 			"title_a": "베이비 샤워",
-			"title_b": null,
+			"title_b": "베이비 샤워",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -307,7 +307,7 @@
 		{
 			"chasi": 28,
 			"title_a": "학교",
-			"title_b": null,
+			"title_b": "학교",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -318,7 +318,7 @@
 		{
 			"chasi": 29,
 			"title_a": "이혼",
-			"title_b": null,
+			"title_b": "이혼",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -329,7 +329,7 @@
 		{
 			"chasi": 30,
 			"title_a": "독립",
-			"title_b": null,
+			"title_b": "독립",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -340,7 +340,7 @@
 		{
 			"chasi": 31,
 			"title_a": "음주",
-			"title_b": null,
+			"title_b": "음주",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -351,7 +351,7 @@
 		{
 			"chasi": 32,
 			"title_a": "소울푸드",
-			"title_b": null,
+			"title_b": "소울푸드",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -362,7 +362,7 @@
 		{
 			"chasi": 33,
 			"title_a": "총기",
-			"title_b": null,
+			"title_b": "총기",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -373,7 +373,7 @@
 		{
 			"chasi": 34,
 			"title_a": "지구온난화",
-			"title_b": null,
+			"title_b": "지구온난화",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -384,7 +384,7 @@
 		{
 			"chasi": 35,
 			"title_a": "스테레오타입",
-			"title_b": null,
+			"title_b": "스테레오타입",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -395,7 +395,7 @@
 		{
 			"chasi": 36,
 			"title_a": "호칭",
-			"title_b": null,
+			"title_b": "호칭",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -406,7 +406,7 @@
 		{
 			"chasi": 37,
 			"title_a": "유명 인사",
-			"title_b": null,
+			"title_b": "유명 인사",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -417,7 +417,7 @@
 		{
 			"chasi": 38,
 			"title_a": "음악",
-			"title_b": null,
+			"title_b": "음악",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -428,7 +428,7 @@
 		{
 			"chasi": 39,
 			"title_a": "장례 문화",
-			"title_b": null,
+			"title_b": "장례 문화",
 			"page_name": [
 				"Voca",
 				"Lecture"
@@ -439,7 +439,7 @@
 		{
 			"chasi": 40,
 			"title_a": "몸짓과 손짓",
-			"title_b": null,
+			"title_b": "몸짓과 손짓",
 			"page_name": [
 				"Voca",
 				"Lecture"

@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "호텔 체크인하기",
-			"title_b": null,
+			"title_b": "호텔 체크인하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -21,7 +21,7 @@
 		{
 			"chasi": 2,
 			"title_a": "호텔에 짐 맡기기",
-			"title_b": null,
+			"title_b": "호텔에 짐 맡기기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -32,7 +32,7 @@
 		{
 			"chasi": 3,
 			"title_a": "길 묻기",
-			"title_b": null,
+			"title_b": "길 묻기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -43,7 +43,7 @@
 		{
 			"chasi": 4,
 			"title_a": "식당에서 주문하기",
-			"title_b": null,
+			"title_b": "식당에서 주문하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -54,7 +54,7 @@
 		{
 			"chasi": 5,
 			"title_a": "옷가게에서 쇼핑하기",
-			"title_b": null,
+			"title_b": "옷가게에서 쇼핑하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -65,7 +65,7 @@
 		{
 			"chasi": 6,
 			"title_a": "일본 길거리 음식 사 먹기",
-			"title_b": null,
+			"title_b": "일본 길거리 음식 사 먹기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -76,7 +76,7 @@
 		{
 			"chasi": 7,
 			"title_a": "일본 편의점 탐방하기",
-			"title_b": null,
+			"title_b": "일본 편의점 탐방하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -87,7 +87,7 @@
 		{
 			"chasi": 8,
 			"title_a": "지하철 이용하기",
-			"title_b": null,
+			"title_b": "지하철 이용하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -98,7 +98,7 @@
 		{
 			"chasi": 9,
 			"title_a": "이자카야에서 혼술하기",
-			"title_b": null,
+			"title_b": "이자카야에서 혼술하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -109,7 +109,7 @@
 		{
 			"chasi": 10,
 			"title_a": "기모노 렌털하기",
-			"title_b": null,
+			"title_b": "기모노 렌털하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -120,7 +120,7 @@
 		{
 			"chasi": 11,
 			"title_a": "무한 리필 고깃집에서 먹방하기",
-			"title_b": null,
+			"title_b": "무한 리필 고깃집에서 먹방하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -131,7 +131,7 @@
 		{
 			"chasi": 12,
 			"title_a": "일본 전통술 구매하기",
-			"title_b": null,
+			"title_b": "일본 전통술 구매하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -142,7 +142,7 @@
 		{
 			"chasi": 13,
 			"title_a": "관광지 입장하기",
-			"title_b": null,
+			"title_b": "관광지 입장하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -153,7 +153,7 @@
 		{
 			"chasi": 14,
 			"title_a": "라멘집에서 주문하기",
-			"title_b": null,
+			"title_b": "라멘집에서 주문하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -164,7 +164,7 @@
 		{
 			"chasi": 15,
 			"title_a": "카페에서 음료 주문하기",
-			"title_b": null,
+			"title_b": "카페에서 음료 주문하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -175,7 +175,7 @@
 		{
 			"chasi": 16,
 			"title_a": "스티커 사진 찍기",
-			"title_b": null,
+			"title_b": "스티커 사진 찍기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -186,7 +186,7 @@
 		{
 			"chasi": 17,
 			"title_a": "잡화점에서 기념품 사기",
-			"title_b": null,
+			"title_b": "잡화점에서 기념품 사기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -197,7 +197,7 @@
 		{
 			"chasi": 18,
 			"title_a": "100엔 스시 주문하기",
-			"title_b": null,
+			"title_b": "100엔 스시 주문하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"
@@ -208,7 +208,7 @@
 		{
 			"chasi": 19,
 			"title_a": "드러그스토어에서 물건 구매하기",
-			"title_b": null,
+			"title_b": "드러그스토어에서 물건 구매하기",
 			"page_name": [
 				"Lecture",
 				"Shadowing"

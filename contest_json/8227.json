@@ -10,7 +10,7 @@
 		{
 			"chasi": 1,
 			"title_a": "인사",
-			"title_b": null,
+			"title_b": "인사",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -21,7 +21,7 @@
 		{
 			"chasi": 2,
 			"title_a": "공항",
-			"title_b": null,
+			"title_b": "공항",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -32,7 +32,7 @@
 		{
 			"chasi": 3,
 			"title_a": "택시",
-			"title_b": null,
+			"title_b": "택시",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -43,7 +43,7 @@
 		{
 			"chasi": 4,
 			"title_a": "호텔",
-			"title_b": null,
+			"title_b": "호텔",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -54,7 +54,7 @@
 		{
 			"chasi": 5,
 			"title_a": "전화",
-			"title_b": null,
+			"title_b": "전화",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -65,7 +65,7 @@
 		{
 			"chasi": 6,
 			"title_a": "음식",
-			"title_b": null,
+			"title_b": "음식",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -76,7 +76,7 @@
 		{
 			"chasi": 7,
 			"title_a": "식당",
-			"title_b": null,
+			"title_b": "식당",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -87,7 +87,7 @@
 		{
 			"chasi": 8,
 			"title_a": "대중교통",
-			"title_b": null,
+			"title_b": "대중교통",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -98,7 +98,7 @@
 		{
 			"chasi": 9,
 			"title_a": "쇼핑 1",
-			"title_b": null,
+			"title_b": "쇼핑 1",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -109,7 +109,7 @@
 		{
 			"chasi": 10,
 			"title_a": "쇼핑 2",
-			"title_b": null,
+			"title_b": "쇼핑 2",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -120,7 +120,7 @@
 		{
 			"chasi": 11,
 			"title_a": "시내에서",
-			"title_b": null,
+			"title_b": "시내에서",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -131,7 +131,7 @@
 		{
 			"chasi": 12,
 			"title_a": "약국",
-			"title_b": null,
+			"title_b": "약국",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -142,7 +142,7 @@
 		{
 			"chasi": 13,
 			"title_a": "여행",
-			"title_b": null,
+			"title_b": "여행",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -153,7 +153,7 @@
 		{
 			"chasi": 14,
 			"title_a": "선물",
-			"title_b": null,
+			"title_b": "선물",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"
@@ -164,7 +164,7 @@
 		{
 			"chasi": 15,
 			"title_a": "친구",
-			"title_b": null,
+			"title_b": "친구",
 			"page_name": [
 				"강의 듣기",
 				"정리하기"

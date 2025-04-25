@@ -20,6 +20,7 @@
 		{
 			"chasi": 2,
 			"title_a": "I am Jane.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -29,6 +30,7 @@
 		{
 			"chasi": 3,
 			"title_a": "Who is this?",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -38,6 +40,7 @@
 		{
 			"chasi": 4,
 			"title_a": "Exercise 1",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -47,6 +50,7 @@
 		{
 			"chasi": 5,
 			"title_a": "Exercise 2",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -56,6 +60,7 @@
 		{
 			"chasi": 6,
 			"title_a": "What time do you get up?",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -65,6 +70,7 @@
 		{
 			"chasi": 7,
 			"title_a": "What's the date of today?",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -74,6 +80,7 @@
 		{
 			"chasi": 8,
 			"title_a": "Exercise 3",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -83,6 +90,7 @@
 		{
 			"chasi": 9,
 			"title_a": "Exercise 4",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -92,6 +100,7 @@
 		{
 			"chasi": 10,
 			"title_a": "There is a book and a notebook in the bag.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -101,6 +110,7 @@
 		{
 			"chasi": 11,
 			"title_a": "I study in the library.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -110,6 +120,7 @@
 		{
 			"chasi": 12,
 			"title_a": "Go to the right.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -119,6 +130,7 @@
 		{
 			"chasi": 13,
 			"title_a": "Exercise 5",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -128,6 +140,7 @@
 		{
 			"chasi": 14,
 			"title_a": "Exercise 6",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -137,6 +150,7 @@
 		{
 			"chasi": 15,
 			"title_a": "I will take a walk.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -146,6 +160,7 @@
 		{
 			"chasi": 16,
 			"title_a": "I am going to see a movie.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -155,6 +170,7 @@
 		{
 			"chasi": 17,
 			"title_a": "I want to go traveling.",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -164,6 +180,7 @@
 		{
 			"chasi": 18,
 			"title_a": "Exercise 7",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -173,6 +190,7 @@
 		{
 			"chasi": 19,
 			"title_a": "Exercise 8",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
@@ -182,6 +200,7 @@
 		{
 			"chasi": 20,
 			"title_a": "Culture",
+			"title_b": null,
 			"page_name": [
 				"오늘의 강의"
 			],
