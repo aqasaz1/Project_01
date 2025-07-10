@@ -489,7 +489,7 @@ function bind_path_all() {
 }
 
 function bind_500k_path_all() {
-  // data_obj = Object.keys(content_data_step_obj)
+  // data_obj = Object.keys(content_data_step_obj) 
   var bind_data = ""
   var list_number = 0
   for (var cod in content_data_step_obj) {
