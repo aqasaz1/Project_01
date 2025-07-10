@@ -120,6 +120,7 @@ function main_display_table() {
       mainObj += '  <td><input type="button" onclick="popup(' + "\'hunet'" + ',this.name)" name="' + val.content_code + '" value="CA정보"></td>'
       mainObj += '  <td><input type="button" onclick="popup(' + "\'kg'" + ',this.name)" name="' + val.content_code + '" value="CA정보"></td>'
       mainObj += '  <td><input type="button" onclick="popup(' + "\'meganext'" + ',this.name)" name="' + val.content_code + '" value="CA정보"></td>'
+      mainObj += '  <td><input type="button" onclick="popup(' + "\'sk'" + ',this.name)" name="' + val.content_code + '" value="CA정보"></td>'
       // mainObj += '  <td><input type="button" onclick="porting_xls_setting(this.name, this.value)" name="' + val.content_code + '" value="도서관"></td>'
       mainObj += '  <td><input type="button" onClick="rowMoveEvent(\'up\', $(this));" value="▲" style="width:30px;"/>'
       mainObj += '  <input type="button" onClick="rowMoveEvent(\'down\', $(this));" value="▼" style="width:30px;"/></td>'
@@ -374,6 +375,9 @@ function popup(name, cod) {
     },
     meganext(){
       open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
+    },
+    sk(){
+      open01 = window.open("popup.html?cod=" + cod, name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=800, height=600, left=0, top=0', false)
     }
   }
 
@@ -453,6 +457,28 @@ function meganext(item) {
   for (i = 0; i < this_step_chasi.length; i++) {
     for (j = 0; j < this_step_chasi[i]["page_name"].length; j++) {
       subObj += twolength(i + 1) + "\t" + twolength(i + 1) + ". " + this_step_chasi[i]["title_a"] + "\t" + twolength(j + 1) + "\t" + this_step_chasi[i]["page_name"][j] + "\t" + "1" + "\t" + twolength(i + 1) + "/index.htm?page=" + twolength(j + 1) + "\t" + "1" + "\t" + "1" + "\t" + "Y" + "\n";
+    }
+  }
+
+  return subObj.trim()
+}
+
+function sk(item) {
+  this_step_data = content_data_step_obj[item]
+  this_step_chasi = this_step_data["content_data"]
+  content_code = this_step_data["content_code"]
+  content_sample = this_step_data["content_sample"]
+  cp_code = this_step_data["cp_code"]
+  var con_id = 1
+  var subObj = ''
+  subObj = '목차ID\t목차명\t"목차타입\n[입력코드:콘텐츠(L), 차시(O)]"\t상위목차ID\t"DEPTH\n(깊이)"\t순서\t기준시간\t"미리보기 여부\n[입력코드:사용(Y), 미사용(N)]"\t컨텐츠 시작위치\tPC_FULL경로\tMOBILE_FULL경로\t차시명 사용여부\t차시명' + '\n'
+  for (i = 0; i < this_step_chasi.length; i++) {
+    subObj += con_id + "\t" + this_step_chasi[i]["title_b"] + "\t" + "L" + "\t" + "0" + "\t" + "1" + "\t" + (i + 1) + "\t\t\t\t\t\t" + "N" + "\n";
+    content_sample_con = ((i + 1) == content_sample) ? "Y" : "N";
+    con_id++
+    for (j = 0; j < this_step_chasi[i]["page_name"].length; j++) {
+      subObj += con_id + "\t" + this_step_chasi[i]["page_name"][j] + "\t" + "O" + "\t" + (con_id-(j + 1)) + "\t" + "2" + "\t" + (j + 1) + "\t" + "0" + "\t" + content_sample_con + "\t" + "/" + twolength(i + 1) + "/" + twolength(j + 1) + ".htm" + "\t\t" + "/313/" + cp_code + "/" + twolength(i + 1) + "/" + twolength(j + 1) + "_MHQ.mp4" + "\t" + "N" + "\n";
+      con_id++
     }
   }
 
