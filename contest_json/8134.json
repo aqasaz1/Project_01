@@ -1,174 +1,198 @@
 {
-	"content_lan": "중국어",
-	"content_code": 8134,
-	"content_name": "나의 완벽한 중국생활 중국어",
-	"content_sample": "1",
-	"content_chasi": "12",
-	"content_size": "1000*650",
-	"content_cm": "서혜린",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "부동산에서 집 구하기 외",
-			"title_b": "부동산에서 집 구하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "집 계약 전 꼼꼼히 요구하기 외",
-			"title_b": "집 계약 전 꼼꼼히 요구하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "주숙등기 하기 외",
-			"title_b": "주숙등기 하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "중국어 선생님 찾기 외",
-			"title_b": "중국어 선생님 찾기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "청소 도우미 구하기 외",
-			"title_b": "청소 도우미 구하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "수리센터에 전화하기 외",
-			"title_b": "수리센터에 전화하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "변기가 막혔을 때 수리 요청하기 외",
-			"title_b": "변기가 막혔을 때 수리 요청하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "휴대전화 구매하기 외",
-			"title_b": "휴대전화 구매하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "은행계좌 개설하기 외",
-			"title_b": "은행계좌 개설하기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "상점에서 옷 사기 외",
-			"title_b": "상점에서 옷 사기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "약국에서 약 사기 외",
-			"title_b": "약국에서 약 사기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "계약만료 시 보증금 환급받기 외",
-			"title_b": "계약만료 시 보증금 환급받기 외",
-			"page_name": [
-				"에피소드 1",
-				"에피소드 2",
-				"에피소드 3",
-				"에피소드 4",
-				"에피소드 5"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 8134,
+  "content_name": "나의 완벽한 중국생활 중국어",
+  "content_sample": "1",
+  "content_chasi": "12",
+  "content_size": "1000*650",
+  "content_cm": "서혜린",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "부동산에서 집 구하기 외",
+      "title_b": "부동산에서 집 구하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "집 계약 전 꼼꼼히 요구하기 외",
+      "title_b": "집 계약 전 꼼꼼히 요구하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "주숙등기 하기 외",
+      "title_b": "주숙등기 하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "중국어 선생님 찾기 외",
+      "title_b": "중국어 선생님 찾기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "청소 도우미 구하기 외",
+      "title_b": "청소 도우미 구하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "수리센터에 전화하기 외",
+      "title_b": "수리센터에 전화하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "변기가 막혔을 때 수리 요청하기 외",
+      "title_b": "변기가 막혔을 때 수리 요청하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "휴대전화 구매하기 외",
+      "title_b": "휴대전화 구매하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "은행계좌 개설하기 외",
+      "title_b": "은행계좌 개설하기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "상점에서 옷 사기 외",
+      "title_b": "상점에서 옷 사기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "약국에서 약 사기 외",
+      "title_b": "약국에서 약 사기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "계약만료 시 보증금 환급받기 외",
+      "title_b": "계약만료 시 보증금 환급받기 외",
+      "page_name": [
+        "에피소드 1",
+        "에피소드 2",
+        "에피소드 3",
+        "에피소드 4",
+        "에피소드 5"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8134/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8134/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

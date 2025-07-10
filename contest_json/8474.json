@@ -1,401 +1,479 @@
 {
-	"content_lan": "영어",
-	"content_code": "8474",
-	"content_name": "동사 X 전치사 도감 - 기본 동사 편",
-	"content_sample": "1/20",
-	"content_chasi": "19/20",
-	"content_size": "1000*650",
-	"content_cm": "서혜린",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "무엇이든 알려주는 be동사",
-			"title_b": "무엇이든 알려주는 be동사",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "be동사+전치사 (1)",
-			"title_b": "be동사와 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "be동사+전치사 (2)",
-			"title_b": "be동사와 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "be동사+전치사 (3)",
-			"title_b": "be동사와 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "be동사+전치사 (4)",
-			"title_b": "be동사와 전치사 4",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "일단 잡고 보는 get",
-			"title_b": "일단 잡고 보는 get",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "get+전치사 (1)",
-			"title_b": "get과 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "get+전치사 (2)",
-			"title_b": "get과 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "get+전치사 (3)",
-			"title_b": "get과 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "get+전치사 (4)",
-			"title_b": "get과 전치사 4",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "어디든 놓을 수 있는 put",
-			"title_b": "어디든 놓을 수 있는 put",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "put+전치사 (1)",
-			"title_b": "put과 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "put+전치사 (2)",
-			"title_b": "put과 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "put+전치사 (3)",
-			"title_b": "put과 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "put+전치사 (4)",
-			"title_b": "put과 전치사 4",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "선택해서 잡아 오는 take",
-			"title_b": "선택해서 잡아 오는 take",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "take+전치사 (1)",
-			"title_b": "take와 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "take+전치사 (2)",
-			"title_b": "take와 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "take+전치사 (3)",
-			"title_b": "take와 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "이리 오너라 come",
-			"title_b": "이리 오너라 come",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "come+전치사 (1)",
-			"title_b": "come과 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "come+전치사 (2)",
-			"title_b": "come과 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "come+전치사 (3)",
-			"title_b": "come과 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "저리 가! go",
-			"title_b": "저리 가 go",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "go+전치사 (1)",
-			"title_b": "go와 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "go+전치사 (2)",
-			"title_b": "go와 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "go+전치사 (3)",
-			"title_b": "go와 전치사 3",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "go+전치사 (4)",
-			"title_b": "go와 전치사 4",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "무엇이든 가지고 있는 have",
-			"title_b": "무엇이든 가지고 있는 have",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "have+전치사 (1)",
-			"title_b": "have와 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "have+전치사 (2)",
-			"title_b": "have와 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "無에서 有를 만들어내는 make",
-			"title_b": "무에서 유를 만들어내는 make",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "make+전치사",
-			"title_b": "make와 전치사",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "가져오는 bring",
-			"title_b": "가져오는 bring",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "bring+전치사 (1)",
-			"title_b": "bring과 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "bring+전치사 (2)",
-			"title_b": "bring과 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "쭈~욱 유지하는 keep",
-			"title_b": "쭈욱 유지하는 keep",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "keep+전치사 (1)",
-			"title_b": "keep과 전치사 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "keep+전치사 (2)",
-			"title_b": "keep과 전치사 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_39h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8474",
+  "content_name": "동사 X 전치사 도감 - 기본 동사 편",
+  "content_sample": "1/20",
+  "content_chasi": "19/20",
+  "content_size": "1000*650",
+  "content_cm": "서혜린",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "무엇이든 알려주는 be동사",
+      "title_b": "무엇이든 알려주는 be동사",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "be동사+전치사 (1)",
+      "title_b": "be동사와 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "be동사+전치사 (2)",
+      "title_b": "be동사와 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "be동사+전치사 (3)",
+      "title_b": "be동사와 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "be동사+전치사 (4)",
+      "title_b": "be동사와 전치사 4",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "일단 잡고 보는 get",
+      "title_b": "일단 잡고 보는 get",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "get+전치사 (1)",
+      "title_b": "get과 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "get+전치사 (2)",
+      "title_b": "get과 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "get+전치사 (3)",
+      "title_b": "get과 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "get+전치사 (4)",
+      "title_b": "get과 전치사 4",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "어디든 놓을 수 있는 put",
+      "title_b": "어디든 놓을 수 있는 put",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "put+전치사 (1)",
+      "title_b": "put과 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "put+전치사 (2)",
+      "title_b": "put과 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "put+전치사 (3)",
+      "title_b": "put과 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "put+전치사 (4)",
+      "title_b": "put과 전치사 4",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "선택해서 잡아 오는 take",
+      "title_b": "선택해서 잡아 오는 take",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "take+전치사 (1)",
+      "title_b": "take와 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "take+전치사 (2)",
+      "title_b": "take와 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "take+전치사 (3)",
+      "title_b": "take와 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step1/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "이리 오너라 come",
+      "title_b": "이리 오너라 come",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "come+전치사 (1)",
+      "title_b": "come과 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "come+전치사 (2)",
+      "title_b": "come과 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "come+전치사 (3)",
+      "title_b": "come과 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "저리 가! go",
+      "title_b": "저리 가 go",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "go+전치사 (1)",
+      "title_b": "go와 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "go+전치사 (2)",
+      "title_b": "go와 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "go+전치사 (3)",
+      "title_b": "go와 전치사 3",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "go+전치사 (4)",
+      "title_b": "go와 전치사 4",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "무엇이든 가지고 있는 have",
+      "title_b": "무엇이든 가지고 있는 have",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "have+전치사 (1)",
+      "title_b": "have와 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "have+전치사 (2)",
+      "title_b": "have와 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "無에서 有를 만들어내는 make",
+      "title_b": "무에서 유를 만들어내는 make",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "make+전치사",
+      "title_b": "make와 전치사",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "가져오는 bring",
+      "title_b": "가져오는 bring",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "bring+전치사 (1)",
+      "title_b": "bring과 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "bring+전치사 (2)",
+      "title_b": "bring과 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "쭈~욱 유지하는 keep",
+      "title_b": "쭈욱 유지하는 keep",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "keep+전치사 (1)",
+      "title_b": "keep과 전치사 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "keep+전치사 (2)",
+      "title_b": "keep과 전치사 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8474/mp4/a1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8474/mobile_500k/step2/a1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

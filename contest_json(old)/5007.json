@@ -1,0 +1,571 @@
+{
+	"content_lan": "영어",
+	"content_code": 5007,
+	"content_name": "랩으로 배우는 영어, MC 조앤의 영단어 배틀",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "ROUND 01 일어나다 | ROUND 02 요리하다",
+			"title_b": "ROUND 01 일어나다 ROUND 02 요리하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "ROUND 03 먹다 | ROUND 04 오다",
+			"title_b": "ROUND 03 먹다 ROUND 04 오다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "ROUND 05 가다 | ROUND 06 걷다",
+			"title_b": "ROUND 05 가다 ROUND 06 걷다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "ROUND 07 일하다 | ROUND 08 사다",
+			"title_b": "ROUND 07 일하다 ROUND 08 사다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "ROUND 09 기다리다 | ROUND 10 씻다",
+			"title_b": "ROUND 09 기다리다 ROUND 10 씻다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "ROUND 11 자다 | ROUND 12 치다",
+			"title_b": "ROUND 11 자다 ROUND 12 치다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "ROUND 13 던지다 | ROUND 14 잡다",
+			"title_b": "ROUND 13 던지다 ROUND 14 잡다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "ROUND 15 옮기다 | ROUND 16 고르다",
+			"title_b": "ROUND 15 옮기다 ROUND 16 고르다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "ROUND 17 놓다 | ROUND 18 뛰다",
+			"title_b": "ROUND 17 놓다 ROUND 18 뛰다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "ROUND 19 돌다 | ROUND 20 당기다",
+			"title_b": "ROUND 19 돌다 ROUND 20 당기다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "ROUND 21 밀다 | ROUND 22 뛰어오르다",
+			"title_b": "ROUND 21 밀다 ROUND 22 뛰어오르다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "ROUND 23 숨다 | ROUND 24 받다",
+			"title_b": "ROUND 23 숨다 ROUND 24 받다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "ROUND 25 주다 | ROUND 26 섞다",
+			"title_b": "ROUND 25 주다 ROUND 26 섞다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "ROUND 27 만들다 | ROUND 28 듣다",
+			"title_b": "ROUND 27 만들다 ROUND 28 듣다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "ROUND 29 보다 | ROUND 30 냄새 맡다",
+			"title_b": "ROUND 29 보다 ROUND 30 냄새 맡다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "ROUND 31 느끼다 | ROUND 32 알려주다",
+			"title_b": "ROUND 31 느끼다 ROUND 32 알려주다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "ROUND 33 찾다 | ROUND 34 말하다",
+			"title_b": "ROUND 33 찾다 ROUND 34 말하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "ROUND 35 부르다 | ROUND 36 응답하다",
+			"title_b": "ROUND 35 부르다 ROUND 36 응답하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "ROUND 37 시작하다 | ROUND 38 끝나다",
+			"title_b": "ROUND 37 시작하다 ROUND 38 끝나다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "ROUND 39 시도하다 | ROUND 40 부탁하다",
+			"title_b": "ROUND 39 시도하다 ROUND 40 부탁하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "ROUND 41 얻다 | ROUND 42 돕다",
+			"title_b": "ROUND 41 얻다 ROUND 42 돕다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "ROUND 43 연결하다 | ROUND 44 가지다",
+			"title_b": "ROUND 43 연결하다 ROUND 44 가지다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "ROUND 45 살다 | ROUND 46 자라다",
+			"title_b": "ROUND 45 살다 ROUND 46 자라다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "ROUND 47 뜻하다 | ROUND 48 바라다",
+			"title_b": "ROUND 47 뜻하다 ROUND 48 바라다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "ROUND 49 생각하다 | ROUND 50 좋아하다",
+			"title_b": "ROUND 49 생각하다 ROUND 50 좋아하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "ROUND 51 싫어하다 | ROUND 52 속상하다",
+			"title_b": "ROUND 51 싫어하다 ROUND 52 속상하다",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "ROUND 53 울다 | ROUND 54 재미있는",
+			"title_b": "ROUND 53 울다 ROUND 54 재미있는",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "ROUND 55 행복한 | ROUND 56 혼란스러운",
+			"title_b": "ROUND 55 행복한 ROUND 56 혼란스러운",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "ROUND 57 걱정스러운 | ROUND 58 피곤한",
+			"title_b": "ROUND 57 걱정스러운 ROUND 58 피곤한",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "ROUND 59 친절한 | ROUND 60 아름다운",
+			"title_b": "ROUND 59 친절한 ROUND 60 아름다운",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "ROUND 61 열정적인 | ROUND 62 아픈",
+			"title_b": "ROUND 61 열정적인 ROUND 62 아픈",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "ROUND 63 슬픈 | ROUND 64 두려운",
+			"title_b": "ROUND 63 슬픈 ROUND 64 두려운",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "ROUND 65 오래된 | ROUND 66 새로운",
+			"title_b": "ROUND 65 오래된 ROUND 66 새로운",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "ROUND 67 비싼 | ROUND 68 값싼",
+			"title_b": "ROUND 67 비싼 ROUND 68 값싼",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "ROUND 69 차가운 | ROUND 70 뜨거운",
+			"title_b": "ROUND 69 차가운 ROUND 70 뜨거운",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "ROUND 71 얇은 | ROUND 72 맛있는",
+			"title_b": "ROUND 71 얇은 ROUND 72 맛있는",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "ROUND 73 어려운 | ROUND 74 똑똑한",
+			"title_b": "ROUND 73 어려운 ROUND 74 똑똑한",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "ROUND 75 어리석은 | ROUND 76 뛰어난",
+			"title_b": "ROUND 75 어리석은 ROUND 76 뛰어난",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "ROUND 77 중요한 | ROUND 78 확실한",
+			"title_b": "ROUND 77 중요한 ROUND 78 확실한",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "ROUND 79 옳은 | ROUND 80 틀린",
+			"title_b": "ROUND 79 옳은 ROUND 80 틀린",
+			"page_name": [
+				"Intro",
+				"Volume Up",
+				"Have Fun",
+				"Yo! Quiz",
+				"Outro"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5007/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

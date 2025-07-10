@@ -1,191 +1,221 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 7962,
-	"content_name": "New 할로 왕초보 인도네시아어 회화",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "인도네시아어의 알파벳 및 발음",
-			"title_b": "인도네시아어의 알파벳 및 발음",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "인도네시아어 회화 기술 1",
-			"title_b": "인도네시아어 회화 기술 1",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "인도네시아어 회화 기술 2",
-			"title_b": "인도네시아어 회화 기술 2",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "기초 회화 연습",
-			"title_b": "기초 회화 연습",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "감사합니다.",
-			"title_b": "감사합니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "안녕하세요?",
-			"title_b": "안녕하세요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "제 이름은 황우중입니다.",
-			"title_b": "제 이름은 황우중입니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "숫자 익히기",
-			"title_b": "숫자 익히기",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "지금 몇 시입니까?",
-			"title_b": "지금 몇 시입니까",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "제 취미는 독서입니다.",
-			"title_b": "제 취미는 독서입니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "이것은 무엇입니까?",
-			"title_b": "이것은 무엇입니까",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "직진하세요.",
-			"title_b": "직진하세요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "볶음밥 주세요!",
-			"title_b": "볶음밥 주세요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "평서문과 의문문 읽는 방법",
-			"title_b": "평서문과 의문문 읽는 방법",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "자기소개 연습",
-			"title_b": "자기소개 연습",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 7962,
+  "content_name": "New 할로 왕초보 인도네시아어 회화",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "인도네시아어의 알파벳 및 발음",
+      "title_b": "인도네시아어의 알파벳 및 발음",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "인도네시아어 회화 기술 1",
+      "title_b": "인도네시아어 회화 기술 1",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "인도네시아어 회화 기술 2",
+      "title_b": "인도네시아어 회화 기술 2",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "기초 회화 연습",
+      "title_b": "기초 회화 연습",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "감사합니다.",
+      "title_b": "감사합니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "안녕하세요?",
+      "title_b": "안녕하세요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "제 이름은 황우중입니다.",
+      "title_b": "제 이름은 황우중입니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "숫자 익히기",
+      "title_b": "숫자 익히기",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "지금 몇 시입니까?",
+      "title_b": "지금 몇 시입니까",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "제 취미는 독서입니다.",
+      "title_b": "제 취미는 독서입니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "이것은 무엇입니까?",
+      "title_b": "이것은 무엇입니까",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "직진하세요.",
+      "title_b": "직진하세요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "볶음밥 주세요!",
+      "title_b": "볶음밥 주세요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "평서문과 의문문 읽는 방법",
+      "title_b": "평서문과 의문문 읽는 방법",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "자기소개 연습",
+      "title_b": "자기소개 연습",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6016/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6016/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

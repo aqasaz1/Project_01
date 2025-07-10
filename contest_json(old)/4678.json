@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 4678,
+	"content_name": "스타강사 7인의 초보탈출 영어과외 (01)",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*680",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "[b] vs. [v]",
+			"title_b": "b vs v",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_01h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "음악에 대한 예문 말하기",
+			"title_b": "음악에 대한 예문 말하기",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_02h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[p] vs. [f]",
+			"title_b": "p vs f",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_03h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "가장 좋아하는 가수에 대한 대화",
+			"title_b": "가장 좋아하는 가수에 대한 대화",
+			"page_name": [
+				"인트로",
+				"미리보기-빈칸 채우기/문장별 듣기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_04h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "아리랑",
+			"title_b": "아리랑",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리딩",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_05h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[l] vs. [r]",
+			"title_b": "l vs r",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_06h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "커피에 대한 예문 말하기",
+			"title_b": "커피에 대한 예문 말하기",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_07h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[s] vs. [ʃ]",
+			"title_b": "s vs sh",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_08h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "커피 주문하는 상황의 대화",
+			"title_b": "커피 주문하는 상황의 대화",
+			"page_name": [
+				"인트로",
+				"미리보기-빈칸 채우기/문장별 듣기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_09h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "커피를 좋아하는 이유",
+			"title_b": "커피를 좋아하는 이유",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 라이팅",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_10h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[dƷ] vs. [z] vs. [Ʒ]",
+			"title_b": "g vs z",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_11h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "연애에 대한 예문 말하기",
+			"title_b": "연애에 대한 예문 말하기",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_12h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[d] vs. [ð]",
+			"title_b": "d vs th",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_13h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "애인에게 이별을 통보하는 상황의 대화",
+			"title_b": "애인에게 이별을 통보하는 상황의 대화",
+			"page_name": [
+				"인트로",
+				"미리보기-빈칸 채우기/문장별 듣기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_14h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "남자 vs. 여자",
+			"title_b": "남자 vs 여자",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리딩",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_15h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "[æ] vs. [e]",
+			"title_b": "a vs e",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_16h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "날씨에 대한 예문 말하기",
+			"title_b": "날씨에 대한 예문 말하기",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_17h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "[ɔ:] vs. [ou]",
+			"title_b": "o vs ou",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 리스닝",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_18h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "한국 날씨에 대한 대화",
+			"title_b": "한국 날씨에 대한 대화",
+			"page_name": [
+				"인트로",
+				"미리보기-빈칸 채우기/문장별 듣기",
+				"10분 스피킹",
+				"연습하기-어휘 클릭/말하기 연습",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_19h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "날씨 예보 트위터",
+			"title_b": "날씨 예보 트위터",
+			"page_name": [
+				"인트로",
+				"미리보기",
+				"10분 라이팅",
+				"연습하기",
+				"오늘의 어휘",
+				"아우트로"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4678/mobile/z1_20h_500k.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

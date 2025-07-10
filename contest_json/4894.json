@@ -1,691 +1,771 @@
 {
-	"content_lan": "중국어",
-	"content_code": 4894,
-	"content_name": "新신공략 중국어 프리토킹",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "이희진",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "우리 인사 나눕시다(1)",
-			"title_b": "우리 인사 나눕시다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "우리 인사 나눕시다(2)",
-			"title_b": "우리 인사 나눕시다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "건강이 제일이에요(1)",
-			"title_b": "건강이 제일이에요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "건강이 제일이에요(2)",
-			"title_b": "건강이 제일이에요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "맛있는 것은 모두들 먹고 싶어합니다(1)",
-			"title_b": "맛있는 것은 모두들 먹고 싶어합니다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "맛있는 것은 모두들 먹고 싶어합니다(2)",
-			"title_b": "맛있는 것은 모두들 먹고 싶어합니다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "이런 스타일은 제게 어울리나요?(1)",
-			"title_b": "이런 스타일은 제게 어울리나요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "이런 스타일은 제게 어울리나요?(2)",
-			"title_b": "이런 스타일은 제게 어울리나요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "쇼핑 좋아하세요?(1)",
-			"title_b": "쇼핑 좋아하세요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "쇼핑 좋아하세요?(2)",
-			"title_b": "쇼핑 좋아하세요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "때로는 생활이 번거로워요(1)",
-			"title_b": "때로는 생활이 번거로워요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "때로는 생활이 번거로워요(2)",
-			"title_b": "때로는 생활이 번거로워요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "우리 스트레스 좀 풀어 봅시다(1)",
-			"title_b": "우리 스트레스 좀 풀어 봅시다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "우리 스트레스 좀 풀어 봅시다(2)",
-			"title_b": "우리 스트레스 좀 풀어 봅시다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "계획은 변화를 따라잡지 못해요(1)",
-			"title_b": "계획은 변화를 따라잡지 못해요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "계획은 변화를 따라잡지 못해요(2)",
-			"title_b": "계획은 변화를 따라잡지 못해요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "돈을 흥청망청 쓰세요? 세밀하게 계획하세요?(1)",
-			"title_b": "돈을 흥청망청 쓰세요 세밀하게 계획하세요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "돈을 흥청망청 쓰세요? 세밀하게 계획하세요?(2)",
-			"title_b": "돈을 흥청망청 쓰세요 세밀하게 계획하세요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "좀 여쭤 보겠습니다(1)",
-			"title_b": "좀 여쭤 보겠습니다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "좀 여쭤 보겠습니다(2)",
-			"title_b": "좀 여쭤 보겠습니다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "좋게 얘기합시다(1)",
-			"title_b": "좋게 얘기합시다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_21h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "좋게 얘기합시다(2)",
-			"title_b": "좋게 얘기합시다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_22h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "우리는 사람들 속에서 생활합니다(1)",
-			"title_b": "우리는 사람들 속에서 생활합니다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_23h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "우리는 사람들 속에서 생활합니다(2)",
-			"title_b": "우리는 사람들 속에서 생활합니다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_24h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "특별한 경험(1)",
-			"title_b": "특별한 경험1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_25h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "특별한 경험(2)",
-			"title_b": "특별한 경험2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_26h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "여행을 가고 싶어요(1)",
-			"title_b": "여행을 가고 싶어요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_27h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "여행을 가고 싶어요(2)",
-			"title_b": "여행을 가고 싶어요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_28h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "누가 예술을 좋아하지 않는다고 말할 수 있을까요?(1)",
-			"title_b": "누가 예술을 좋아하지 않는다고 말할 수 있을까요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_29h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "누가 예술을 좋아하지 않는다고 말할 수 있을까요?(2)",
-			"title_b": "누가 예술을 좋아하지 않는다고 말할 수 있을까요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_30h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "손쉽게 큰 돈을 법니다(1)",
-			"title_b": "손쉽게 큰 돈을 법니다1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_31h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "손쉽게 큰 돈을 법니다(2)",
-			"title_b": "손쉽게 큰 돈을 법니다2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_32h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "영원한 사랑 영원한 가정(1)",
-			"title_b": "영원한 사랑 영원한 가정1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_33h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "영원한 사랑 영원한 가정(2)",
-			"title_b": "영원한 사랑 영원한 가정2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_34h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "지구촌(1)",
-			"title_b": "지구촌1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_35h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "지구촌(2)",
-			"title_b": "지구촌2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_36h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "우리의 생활(1)",
-			"title_b": "우리의 생활1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_37h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "우리의 생활(2)",
-			"title_b": "우리의 생활2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_38h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "오늘은 어떤 뉴스거리가 있나요?(1)",
-			"title_b": "오늘은 어떤 뉴스거리가 있나요1",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_39h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "오늘은 어떤 뉴스거리가 있나요?(2)",
-			"title_b": "오늘은 어떤 뉴스거리가 있나요2",
-			"page_name": [
-				"인트로",
-				"단어 배우기",
-				"회화 배우기",
-				"회화 강의",
-				"회화 마스터",
-				"회화 확인",
-				"도전 프리회화",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_40h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 4894,
+  "content_name": "新신공략 중국어 프리토킹",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "이희진",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "우리 인사 나눕시다(1)",
+      "title_b": "우리 인사 나눕시다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "우리 인사 나눕시다(2)",
+      "title_b": "우리 인사 나눕시다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "건강이 제일이에요(1)",
+      "title_b": "건강이 제일이에요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "건강이 제일이에요(2)",
+      "title_b": "건강이 제일이에요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "맛있는 것은 모두들 먹고 싶어합니다(1)",
+      "title_b": "맛있는 것은 모두들 먹고 싶어합니다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "맛있는 것은 모두들 먹고 싶어합니다(2)",
+      "title_b": "맛있는 것은 모두들 먹고 싶어합니다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "이런 스타일은 제게 어울리나요?(1)",
+      "title_b": "이런 스타일은 제게 어울리나요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "이런 스타일은 제게 어울리나요?(2)",
+      "title_b": "이런 스타일은 제게 어울리나요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "쇼핑 좋아하세요?(1)",
+      "title_b": "쇼핑 좋아하세요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "쇼핑 좋아하세요?(2)",
+      "title_b": "쇼핑 좋아하세요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "때로는 생활이 번거로워요(1)",
+      "title_b": "때로는 생활이 번거로워요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "때로는 생활이 번거로워요(2)",
+      "title_b": "때로는 생활이 번거로워요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "우리 스트레스 좀 풀어 봅시다(1)",
+      "title_b": "우리 스트레스 좀 풀어 봅시다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "우리 스트레스 좀 풀어 봅시다(2)",
+      "title_b": "우리 스트레스 좀 풀어 봅시다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "계획은 변화를 따라잡지 못해요(1)",
+      "title_b": "계획은 변화를 따라잡지 못해요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "계획은 변화를 따라잡지 못해요(2)",
+      "title_b": "계획은 변화를 따라잡지 못해요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "돈을 흥청망청 쓰세요? 세밀하게 계획하세요?(1)",
+      "title_b": "돈을 흥청망청 쓰세요 세밀하게 계획하세요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "돈을 흥청망청 쓰세요? 세밀하게 계획하세요?(2)",
+      "title_b": "돈을 흥청망청 쓰세요 세밀하게 계획하세요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "좀 여쭤 보겠습니다(1)",
+      "title_b": "좀 여쭤 보겠습니다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "좀 여쭤 보겠습니다(2)",
+      "title_b": "좀 여쭤 보겠습니다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "좋게 얘기합시다(1)",
+      "title_b": "좋게 얘기합시다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "좋게 얘기합시다(2)",
+      "title_b": "좋게 얘기합시다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "우리는 사람들 속에서 생활합니다(1)",
+      "title_b": "우리는 사람들 속에서 생활합니다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "우리는 사람들 속에서 생활합니다(2)",
+      "title_b": "우리는 사람들 속에서 생활합니다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "특별한 경험(1)",
+      "title_b": "특별한 경험1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "특별한 경험(2)",
+      "title_b": "특별한 경험2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "여행을 가고 싶어요(1)",
+      "title_b": "여행을 가고 싶어요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "여행을 가고 싶어요(2)",
+      "title_b": "여행을 가고 싶어요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "누가 예술을 좋아하지 않는다고 말할 수 있을까요?(1)",
+      "title_b": "누가 예술을 좋아하지 않는다고 말할 수 있을까요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "누가 예술을 좋아하지 않는다고 말할 수 있을까요?(2)",
+      "title_b": "누가 예술을 좋아하지 않는다고 말할 수 있을까요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "손쉽게 큰 돈을 법니다(1)",
+      "title_b": "손쉽게 큰 돈을 법니다1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "손쉽게 큰 돈을 법니다(2)",
+      "title_b": "손쉽게 큰 돈을 법니다2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "영원한 사랑 영원한 가정(1)",
+      "title_b": "영원한 사랑 영원한 가정1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "영원한 사랑 영원한 가정(2)",
+      "title_b": "영원한 사랑 영원한 가정2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "지구촌(1)",
+      "title_b": "지구촌1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "지구촌(2)",
+      "title_b": "지구촌2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "우리의 생활(1)",
+      "title_b": "우리의 생활1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "우리의 생활(2)",
+      "title_b": "우리의 생활2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "오늘은 어떤 뉴스거리가 있나요?(1)",
+      "title_b": "오늘은 어떤 뉴스거리가 있나요1",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "오늘은 어떤 뉴스거리가 있나요?(2)",
+      "title_b": "오늘은 어떤 뉴스거리가 있나요2",
+      "page_name": [
+        "인트로",
+        "단어 배우기",
+        "회화 배우기",
+        "회화 강의",
+        "회화 마스터",
+        "회화 확인",
+        "도전 프리회화",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4894/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

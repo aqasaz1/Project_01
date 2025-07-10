@@ -1,277 +1,317 @@
 {
-	"content_lan": "영어",
-	"content_code": 5948,
-	"content_name": "야나두 기초 영어 1탄-어순 감각·느낌 전달",
-	"content_sample": "7",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "어순 감각 - 주어+be 동사 편",
-			"title_b": "어순 감각 주어 be 동사 편",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2",
-				"강의 3"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "어순 감각 - 주어+일반 동사 편",
-			"title_b": "어순 감각 주어 일반 동사 편",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "어순 감각 훈련 - 동사 편",
-			"title_b": "어순 감각 훈련 동사 편",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2",
-				"강의 3"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "어순 감각 훈련 - 주어 편",
-			"title_b": "어순 감각 훈련 주어 편",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "can으로 말하기",
-			"title_b": "can으로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "could, should로 말하기",
-			"title_b": "could와 should로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"따라 하기 1",
-				"강의 2",
-				"따라 하기 2",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "will로 말하기",
-			"title_b": "will로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "would로 말하기",
-			"title_b": "would로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "may, must로 말하기",
-			"title_b": "may와 must로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"따라 하기 1",
-				"강의 2",
-				"따라 하기 2",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "느낌동사 훈련 1",
-			"title_b": "느낌동사 훈련 1",
-			"page_name": [
-				"Intro",
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "had better, would like to, would rather로 말하기",
-			"title_b": "had better와 would like to 그리고 would rather로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"따라 하기 1",
-				"강의 2",
-				"따라 하기 2",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "gotta, have to, be able to로 말하기",
-			"title_b": "gotta와 have to 그리고 be able to로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"따라 하기 1",
-				"강의 2",
-				"따라 하기 2",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "need to, used to, get used to로 말하기",
-			"title_b": "need to와 used to 그리고 get used to로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"따라 하기 1",
-				"강의 2",
-				"따라 하기 2",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "be supposed to로 말하기",
-			"title_b": "be supposed to로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "느낌동사 훈련 2",
-			"title_b": "느낌동사 훈련 2",
-			"page_name": [
-				"Intro",
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "could have p.p.로 말하기",
-			"title_b": "could have pp로 말하기",
-			"page_name": [
-				"Intro",
-				"강의 1",
-				"강의 2",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "would have p.p.로 말하기",
-			"title_b": "would have pp로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "should have p.p.로 말하기",
-			"title_b": "should have pp로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "must have p.p.로 말하기",
-			"title_b": "must have pp로 말하기",
-			"page_name": [
-				"Intro",
-				"강의",
-				"따라 하기",
-				"도전하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "느낌동사 훈련 3",
-			"title_b": "느낌동사 훈련 3",
-			"page_name": [
-				"Intro",
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 5948,
+  "content_name": "야나두 기초 영어 1탄-어순 감각·느낌 전달",
+  "content_sample": "7",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "어순 감각 - 주어+be 동사 편",
+      "title_b": "어순 감각 주어 be 동사 편",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2",
+        "강의 3"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "어순 감각 - 주어+일반 동사 편",
+      "title_b": "어순 감각 주어 일반 동사 편",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "어순 감각 훈련 - 동사 편",
+      "title_b": "어순 감각 훈련 동사 편",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2",
+        "강의 3"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "어순 감각 훈련 - 주어 편",
+      "title_b": "어순 감각 훈련 주어 편",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "can으로 말하기",
+      "title_b": "can으로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "could, should로 말하기",
+      "title_b": "could와 should로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "따라 하기 1",
+        "강의 2",
+        "따라 하기 2",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "will로 말하기",
+      "title_b": "will로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "would로 말하기",
+      "title_b": "would로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "may, must로 말하기",
+      "title_b": "may와 must로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "따라 하기 1",
+        "강의 2",
+        "따라 하기 2",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "느낌동사 훈련 1",
+      "title_b": "느낌동사 훈련 1",
+      "page_name": [
+        "Intro",
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "had better, would like to, would rather로 말하기",
+      "title_b": "had better와 would like to 그리고 would rather로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "따라 하기 1",
+        "강의 2",
+        "따라 하기 2",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "gotta, have to, be able to로 말하기",
+      "title_b": "gotta와 have to 그리고 be able to로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "따라 하기 1",
+        "강의 2",
+        "따라 하기 2",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "need to, used to, get used to로 말하기",
+      "title_b": "need to와 used to 그리고 get used to로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "따라 하기 1",
+        "강의 2",
+        "따라 하기 2",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "be supposed to로 말하기",
+      "title_b": "be supposed to로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "느낌동사 훈련 2",
+      "title_b": "느낌동사 훈련 2",
+      "page_name": [
+        "Intro",
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "could have p.p.로 말하기",
+      "title_b": "could have pp로 말하기",
+      "page_name": [
+        "Intro",
+        "강의 1",
+        "강의 2",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4_bind_part/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "would have p.p.로 말하기",
+      "title_b": "would have pp로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "should have p.p.로 말하기",
+      "title_b": "should have pp로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "must have p.p.로 말하기",
+      "title_b": "must have pp로 말하기",
+      "page_name": [
+        "Intro",
+        "강의",
+        "따라 하기",
+        "도전하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "느낌동사 훈련 3",
+      "title_b": "느낌동사 훈련 3",
+      "page_name": [
+        "Intro",
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5948/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5948/mobile/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

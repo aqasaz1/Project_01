@@ -1,0 +1,531 @@
+{
+	"content_lan": "영어",
+	"content_code": 8146,
+	"content_name": "New Basic 영문법 파트너 Mr. Grammar",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "문장 - Jack is quiet.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "be 동사 I - There is a dog in the park.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "be 동사 II - She is a writer.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "일반동사 - The bus runs often.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "부정문 - It doesn’t exist.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "의문문 I - Do you like tea?",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "의문문 II - Didn’t you read Harry Potter?",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "의문문 III - What would you like to eat?",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "의문문 IV - Who made this mess?",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "현재시제 I - The post office opens at 9 a.m.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "현재시제 II - It’s getting dark.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "과거시제 - The parcel arrived yesterday.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "미래시제 I - I’ll call you anyway.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "미래시제 II - I’ll be helping her.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "가정법 I - If I were you, I would accept his apology.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "가정법 II - I wish I were a bit taller.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "명사 I - I don’t like fish, but I like fishing.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "명사 II - They bought a piece of furniture.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "관사 I - I planted a tree today.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "관사 II - He has the same bag as mine.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "형용사 I - She is a sweet girl.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "형용사 II - There are a few pens on the table.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "부사 - He did it very well.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "비교급 - English is easier than Chinese.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "최상급 - Anne is the tallest girl in her class.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "대명사 I - I said hello to him.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "대명사 II - It’s raining right now.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "동사의 완료 I - Have you ever seen him?",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "동사의 완료 II - He has been in China since then.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "수동태 - This book is written in Korean.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "명사절 - Tell me what happened last night.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "관계사절 - He is the teacher who changed my life.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "분사 - She ran out of the room crying.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "부정사 - Children like to play.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "동명사 - They avoided talking about money.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "조동사 I - Alex may play with us today.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "조동사 II - It could snow tomorrow.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "접속사 - I am a teacher and writer.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "전치사 I - We’re going to Seattle in July.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "전치사 II - I got on the bus.",
+			"title_b": null,
+			"page_name": [
+				"Mr. Grammar in Sentence",
+				"Mr. Grammar in Lecture",
+				"Mr. Grammar in Conversation",
+				"Mr. Grammar in Context"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8146/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

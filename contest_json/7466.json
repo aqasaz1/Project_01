@@ -1,431 +1,491 @@
 {
-	"content_lan": "영어",
-	"content_code": 7466,
-	"content_name": "돈워리 여행영어",
-	"content_sample": "12/22",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "I would like to ~. / May I see your ~, please?",
-			"title_b": "I would like to OO and May I see your OO please",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Where can I find ~? / What is ~?",
-			"title_b": "Where can I find OO and What is OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "I’m here ~. / How long are you going to ~?",
-			"title_b": "I am here OO and How long are you going to OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Please ~. / Can I ~?",
-			"title_b": "Please OO and Can I OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Would you like ~? / Where is ~?",
-			"title_b": "Would you like OO and Where is OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Please take me to ~. / How long does it take to ~?",
-			"title_b": "Please take me to OO and How long does it take to OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "How much is ~? / I want to ~.",
-			"title_b": "How much is OO and I want to OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "At the Airport",
-			"title_b": "At the Airport",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "On the Plane",
-			"title_b": "On the Plane",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Transportation",
-			"title_b": "Transportation",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "How can I ~? / Here is ~.",
-			"title_b": "How can I OO and Here is OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Do you have a ~? / What time does ~?",
-			"title_b": "Do you have a OO What time does OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "I would like ~. / Could you ~?",
-			"title_b": "I would like OO and Could you OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "How can I get to ~? / Is there a/an ~ around here?",
-			"title_b": "How can I get to OO and Is there a OO around here",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "I lost my ~. / Which ~ do you recommend?",
-			"title_b": "I lost my OO and Which OO do you recommend",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "When does ~ start? / What is this ~ called?",
-			"title_b": "When does OO start and What is this OO called",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "In the Hotel",
-			"title_b": "In the Hotel",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "On the Street",
-			"title_b": "On the Street",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Sightseeing",
-			"title_b": "Sightseeing",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "How late is ~ open? / Does it taste ~?",
-			"title_b": "How late is OO open and Does it taste OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "What kind of ~ do you have? / I’ll have ~.",
-			"title_b": "What kind of OO do you have and I will have OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "Do you mind if I ~? / This ~ is on me.",
-			"title_b": "Do you mind if I OO and This OO is on me",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "I’m looking for ~. / I like ~.",
-			"title_b": "I am looking for OO and I like OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Could you give me ~? / I would like to exchange ~.",
-			"title_b": "Could you give me OO and I would like to exchange OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Where do you ~? / I’m glad to ~.",
-			"title_b": "Where do you OO and I am glad to OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Is this your first trip to ~? / What are your plans for ~?",
-			"title_b": "Is this your first trip to OO and What are your plans for OO",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "At a Restaurant",
-			"title_b": "At a Restaurant",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "At a Bar",
-			"title_b": "At a Bar",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "Shopping",
-			"title_b": "Shopping",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "Making Friends",
-			"title_b": "Making Friends",
-			"page_name": [
-				"인트로",
-				"여행 준비",
-				"패턴 패키지",
-				"리얼 트립",
-				"여행 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7466,
+  "content_name": "돈워리 여행영어",
+  "content_sample": "12/22",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "I would like to ~. / May I see your ~, please?",
+      "title_b": "I would like to OO and May I see your OO please",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Where can I find ~? / What is ~?",
+      "title_b": "Where can I find OO and What is OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "I’m here ~. / How long are you going to ~?",
+      "title_b": "I am here OO and How long are you going to OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Please ~. / Can I ~?",
+      "title_b": "Please OO and Can I OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Would you like ~? / Where is ~?",
+      "title_b": "Would you like OO and Where is OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Please take me to ~. / How long does it take to ~?",
+      "title_b": "Please take me to OO and How long does it take to OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "How much is ~? / I want to ~.",
+      "title_b": "How much is OO and I want to OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "At the Airport",
+      "title_b": "At the Airport",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "On the Plane",
+      "title_b": "On the Plane",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Transportation",
+      "title_b": "Transportation",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "How can I ~? / Here is ~.",
+      "title_b": "How can I OO and Here is OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Do you have a ~? / What time does ~?",
+      "title_b": "Do you have a OO What time does OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "I would like ~. / Could you ~?",
+      "title_b": "I would like OO and Could you OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "How can I get to ~? / Is there a/an ~ around here?",
+      "title_b": "How can I get to OO and Is there a OO around here",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "I lost my ~. / Which ~ do you recommend?",
+      "title_b": "I lost my OO and Which OO do you recommend",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "When does ~ start? / What is this ~ called?",
+      "title_b": "When does OO start and What is this OO called",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "In the Hotel",
+      "title_b": "In the Hotel",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "On the Street",
+      "title_b": "On the Street",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Sightseeing",
+      "title_b": "Sightseeing",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "How late is ~ open? / Does it taste ~?",
+      "title_b": "How late is OO open and Does it taste OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "What kind of ~ do you have? / I’ll have ~.",
+      "title_b": "What kind of OO do you have and I will have OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "Do you mind if I ~? / This ~ is on me.",
+      "title_b": "Do you mind if I OO and This OO is on me",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "I’m looking for ~. / I like ~.",
+      "title_b": "I am looking for OO and I like OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Could you give me ~? / I would like to exchange ~.",
+      "title_b": "Could you give me OO and I would like to exchange OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Where do you ~? / I’m glad to ~.",
+      "title_b": "Where do you OO and I am glad to OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Is this your first trip to ~? / What are your plans for ~?",
+      "title_b": "Is this your first trip to OO and What are your plans for OO",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "At a Restaurant",
+      "title_b": "At a Restaurant",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "At a Bar",
+      "title_b": "At a Bar",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "Shopping",
+      "title_b": "Shopping",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "Making Friends",
+      "title_b": "Making Friends",
+      "page_name": [
+        "인트로",
+        "여행 준비",
+        "패턴 패키지",
+        "리얼 트립",
+        "여행 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7466/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7466/mobile/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

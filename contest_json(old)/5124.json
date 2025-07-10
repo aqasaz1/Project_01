@@ -1,0 +1,271 @@
+{
+	"content_lan": "일본어",
+	"content_code": 5124,
+	"content_name": "다락원 新일본어 회화 입문",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "일본어 문자와 발음 익히기 - 청음 (1)",
+			"title_b": "일본어 문자와 발음 청음 익히기 1",
+			"page_name": [
+				"인트로",
+				"가나 맛보기",
+				"오늘의 강의",
+				"발음 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "일본어 문자와 발음 익히기 - 청음 (2)",
+			"title_b": "일본어 문자와 발음 청음 익히기 2",
+			"page_name": [
+				"인트로",
+				"가나 맛보기",
+				"오늘의 강의",
+				"발음 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "일본어 문자와 발음 익히기 - 탁음, 반탁음, 요음 외",
+			"title_b": "일본어 문자와 발음 탁음 등 익히기",
+			"page_name": [
+				"인트로",
+				"가나 맛보기",
+				"오늘의 강의",
+				"발음 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "일본어 문자와 발음 익히기 - 가타카나 익히기",
+			"title_b": "일본어 문자와 발음 가타카나 익히기",
+			"page_name": [
+				"인트로",
+				"가나 맛보기",
+				"오늘의 강의",
+				"발음 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "일본어 문자와 발음 익히기 - 총정리",
+			"title_b": "일본어 문자와 발음 총정리",
+			"page_name": [
+				"인트로",
+				"가나 퀴즈",
+				"리스닝 테스트",
+				"마무리 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4/b1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "처음 뵙겠습니다 (1)",
+			"title_b": "처음 뵙겠습니다 1",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "처음 뵙겠습니다 (2)",
+			"title_b": "처음 뵙겠습니다 2",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "이쪽은 스즈키 씨입니다 (1)",
+			"title_b": "이쪽은 스즈키 씨입니다 1",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "이쪽은 스즈키 씨입니다 (2)",
+			"title_b": "이쪽은 스즈키 씨입니다 2",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "지금 몇 시입니까? (1)",
+			"title_b": "지금 몇 시입니까? 1",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "지금 몇 시입니까? (2)",
+			"title_b": "지금 몇 시입니까? 2",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "저기에 은행이 있군요 (1)",
+			"title_b": "저기에 은행이 있군요 1",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "저기에 은행이 있군요 (2)",
+			"title_b": "저기에 은행이 있군요 2",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "그럼, 그걸 주십시오 (1)",
+			"title_b": "그럼 그걸 주십시오 1",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "그럼, 그걸 주십시오 (2)",
+			"title_b": "그럼 그걸 주십시오 2",
+			"page_name": [
+				"인트로",
+				"레벨테스트",
+				"오늘의 강의",
+				"마무리 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습강의",
+			"title_b": "복습강의",
+			"page_name": [
+				"인트로",
+				"구문 연습",
+				"회화 연습",
+				"롤플레이 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5124/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

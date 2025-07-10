@@ -1,351 +1,391 @@
 {
-	"content_lan": "영어",
-	"content_code": 6414,
-	"content_name": "5분 카드 영어 3단계 말하기 - 문장 편",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "How are you doing?",
-			"title_b": "How are you doing 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "I’m very busy.",
-			"title_b": "I am very busy 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Bye.",
-			"title_b": "Bye 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "I think so, too.",
-			"title_b": "I think so too 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "I got it.",
-			"title_b": "I got it 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "You’re so wrong!",
-			"title_b": "You are so wrong 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "It’s terrible.",
-			"title_b": "It is terrible 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Mind your own business.",
-			"title_b": "Mind your own business 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "I’m with you.",
-			"title_b": "I am with you 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Are you free Saturday night?",
-			"title_b": "Are you free Saturday night 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Dinner’s ready!",
-			"title_b": "Dinner is ready 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Be careful!",
-			"title_b": "Be careful 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Help yourself.",
-			"title_b": "Help yourself 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Do you want something to eat?",
-			"title_b": "Do you want something to eat 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "How about a beer?",
-			"title_b": "How about a beer 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "I’m sick.",
-			"title_b": "I am sick 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "She’s pregnant.",
-			"title_b": "She is pregnant 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Where’s the nearest subway station?",
-			"title_b": "Where is the nearest subway station 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "It’s too big.",
-			"title_b": "It is too big 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Can I talk to Tommy?",
-			"title_b": "Can I talk to Tommy 외",
-			"page_name": [
-				"intro",
-				"5분 카드 강의 1",
-				"5분 카드 강의 2",
-				"5분 카드 강의 3",
-				"5분 카드 강의 4",
-				"5분 카드 강의 5",
-				"3단계 말하기",
-				"4분 영작문"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 6414,
+  "content_name": "5분 카드 영어 3단계 말하기 - 문장 편",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "How are you doing?",
+      "title_b": "How are you doing 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "I’m very busy.",
+      "title_b": "I am very busy 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Bye.",
+      "title_b": "Bye 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "I think so, too.",
+      "title_b": "I think so too 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "I got it.",
+      "title_b": "I got it 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "You’re so wrong!",
+      "title_b": "You are so wrong 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "It’s terrible.",
+      "title_b": "It is terrible 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Mind your own business.",
+      "title_b": "Mind your own business 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "I’m with you.",
+      "title_b": "I am with you 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Are you free Saturday night?",
+      "title_b": "Are you free Saturday night 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Dinner’s ready!",
+      "title_b": "Dinner is ready 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Be careful!",
+      "title_b": "Be careful 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Help yourself.",
+      "title_b": "Help yourself 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Do you want something to eat?",
+      "title_b": "Do you want something to eat 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "How about a beer?",
+      "title_b": "How about a beer 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "I’m sick.",
+      "title_b": "I am sick 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "She’s pregnant.",
+      "title_b": "She is pregnant 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Where’s the nearest subway station?",
+      "title_b": "Where is the nearest subway station 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "It’s too big.",
+      "title_b": "It is too big 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Can I talk to Tommy?",
+      "title_b": "Can I talk to Tommy 외",
+      "page_name": [
+        "intro",
+        "5분 카드 강의 1",
+        "5분 카드 강의 2",
+        "5분 카드 강의 3",
+        "5분 카드 강의 4",
+        "5분 카드 강의 5",
+        "3단계 말하기",
+        "4분 영작문"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6414/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6414/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

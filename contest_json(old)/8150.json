@@ -1,0 +1,381 @@
+{
+	"content_lan": "영어",
+	"content_code": 8150,
+	"content_name": "영어 회화의 결정적 패턴들",
+	"content_sample": "1/16",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "pattern 001~003",
+			"title_b": "pattern 001 002 003",
+			"page_name": [
+				"pattern 001",
+				"pattern 002",
+				"pattern 003"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "pattern 004~006",
+			"title_b": "pattern 004 005 006",
+			"page_name": [
+				"pattern 004",
+				"pattern 005",
+				"pattern 006"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "pattern 007~010",
+			"title_b": "pattern 007 008 009 010",
+			"page_name": [
+				"pattern 007",
+				"pattern 008",
+				"pattern 009",
+				"pattern 010"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "pattern 011~013",
+			"title_b": "pattern 011 012 013",
+			"page_name": [
+				"pattern 011",
+				"pattern 012",
+				"pattern 013"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "pattern 014~016",
+			"title_b": "pattern 014 015 016",
+			"page_name": [
+				"pattern 014",
+				"pattern 015",
+				"pattern 016"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "pattern 017~020",
+			"title_b": "pattern 017 018 019 020",
+			"page_name": [
+				"pattern 017",
+				"pattern 018",
+				"pattern 019",
+				"pattern 020"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "pattern 021~023",
+			"title_b": "pattern 021 022 023",
+			"page_name": [
+				"pattern 021",
+				"pattern 022",
+				"pattern 023"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "pattern 024~026",
+			"title_b": "pattern 024 025 026",
+			"page_name": [
+				"pattern 024",
+				"pattern 025",
+				"pattern 026"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "pattern 027~030",
+			"title_b": "pattern 027 028 029 030",
+			"page_name": [
+				"pattern 027",
+				"pattern 028",
+				"pattern 029",
+				"pattern 030"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "pattern 031~033",
+			"title_b": "pattern 031 032 033",
+			"page_name": [
+				"pattern 031",
+				"pattern 032",
+				"pattern 033"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "pattern 034~036",
+			"title_b": "pattern 034 035 036",
+			"page_name": [
+				"pattern 034",
+				"pattern 035",
+				"pattern 036"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "pattern 037~039",
+			"title_b": "pattern 037 038 039",
+			"page_name": [
+				"pattern 037",
+				"pattern 038",
+				"pattern 039"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "pattern 040~042",
+			"title_b": "pattern 040 041 042",
+			"page_name": [
+				"pattern 040",
+				"pattern 041",
+				"pattern 042"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "pattern 043~046",
+			"title_b": "pattern 043 044 045 046",
+			"page_name": [
+				"pattern 043",
+				"pattern 044",
+				"pattern 045",
+				"pattern 046"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "pattern 047~050",
+			"title_b": "pattern 047 048 049 050",
+			"page_name": [
+				"pattern 047",
+				"pattern 048",
+				"pattern 049",
+				"pattern 050"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "pattern 051~053",
+			"title_b": "pattern 051 052 053",
+			"page_name": [
+				"pattern 051",
+				"pattern 052",
+				"pattern 053"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "pattern 054~056",
+			"title_b": "pattern 054 055 056",
+			"page_name": [
+				"pattern 054",
+				"pattern 055",
+				"pattern 056"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "pattern 057~059",
+			"title_b": "pattern 057 058 059",
+			"page_name": [
+				"pattern 057",
+				"pattern 058",
+				"pattern 059"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "pattern 060~062",
+			"title_b": "pattern 060 061 062",
+			"page_name": [
+				"pattern 060",
+				"pattern 061",
+				"pattern 062"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "pattern 063~065",
+			"title_b": "pattern 063 064 065",
+			"page_name": [
+				"pattern 063",
+				"pattern 064",
+				"pattern 065"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "pattern 066~068",
+			"title_b": "pattern 066 067 068",
+			"page_name": [
+				"pattern 066",
+				"pattern 067",
+				"pattern 068"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "pattern 069~072",
+			"title_b": "pattern 069 070 071 072",
+			"page_name": [
+				"pattern 069",
+				"pattern 070",
+				"pattern 071",
+				"pattern 072"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "pattern 073~076",
+			"title_b": "pattern 073 074 075 076",
+			"page_name": [
+				"pattern 073",
+				"pattern 074",
+				"pattern 075",
+				"pattern 076"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "pattern 077~079",
+			"title_b": "pattern 077 078 079",
+			"page_name": [
+				"pattern 077",
+				"pattern 078",
+				"pattern 079"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "pattern 080~082",
+			"title_b": "pattern 080 081 082",
+			"page_name": [
+				"pattern 080",
+				"pattern 081",
+				"pattern 082"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "pattern 083~085",
+			"title_b": "pattern 083 084 085",
+			"page_name": [
+				"pattern 083",
+				"pattern 084",
+				"pattern 085"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "pattern 086~088",
+			"title_b": "pattern 086 087 088",
+			"page_name": [
+				"pattern 086",
+				"pattern 087",
+				"pattern 088"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "pattern 089~092",
+			"title_b": "pattern 089 090 091 092",
+			"page_name": [
+				"pattern 089",
+				"pattern 090",
+				"pattern 091",
+				"pattern 092"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "pattern 093~096",
+			"title_b": "pattern 093 094 095 096",
+			"page_name": [
+				"pattern 093",
+				"pattern 094",
+				"pattern 095",
+				"pattern 096"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "pattern 097~100",
+			"title_b": "pattern 097 098 099 100",
+			"page_name": [
+				"pattern 097",
+				"pattern 098",
+				"pattern 099",
+				"pattern 100"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8150/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

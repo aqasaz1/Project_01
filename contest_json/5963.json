@@ -1,451 +1,531 @@
 {
-	"content_lan": "일본어",
-	"content_code": 5963,
-	"content_name": "New JLPT(일본어능력시험) 한권으로 끝내기 N3",
-	"content_sample": "20/30",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "진의연",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(1)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(2)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(3)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기3",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(4), 한자표기(1)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기4 한자표기1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자표기(2)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자표기2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자표기(3), 문맥규정(1)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자표기3 문맥규정1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(2)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(3)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정3",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(4)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정4",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(5), 교체유의어(1)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정5 교체유의어1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 교체유의어(2), 용법(1)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  교체유의어2 용법1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 용법(2)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  용법2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 용법(3)",
-			"title_b": "언어지식 문자 어휘 기출어휘 확인문제  용법3",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 용법, 한자읽기(1)",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  용법 한자읽기1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 한자읽기(2), 한자표기(1)",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  한자읽기2 한자표기1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 한자표기(2), 문맥규정(1)",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  한자표기2 문맥규정1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 문맥규정(2)",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  문맥규정2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 교체유의어",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  교체유의어",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 용법",
-			"title_b": "언어지식 문자 어휘 예상어휘 확인문제  용법",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "언어지식 1순위 문법 확인문제(1)",
-			"title_b": "언어지식 1순위 문법 확인문제1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "언어지식 1순위 문법 확인문제(2)",
-			"title_b": "언어지식 1순위 문법 확인문제2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "언어지식 1순위 문법 확인문제(3)",
-			"title_b": "언어지식 1순위 문법 확인문제3",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "언어지식 1순위 문법 확인문제(4)",
-			"title_b": "언어지식 1순위 문법 확인문제4",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "언어지식 1순위 문법 확인문제(5), 2순위 문법 확인문제(1)",
-			"title_b": "언어지식 1순위 문법 확인문제5  2순위 문법 확인문제1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "언어지식 2순위 문법 확인문제(2)",
-			"title_b": "언어지식 2순위 문법 확인문제2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "언어지식 2순위 문법 확인문제(3)",
-			"title_b": "언어지식 2순위 문법 확인문제3",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "언어지식 2순위 문법 확인문제(4)",
-			"title_b": "언어지식 2순위 문법 확인문제4",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "언어지식 경어 확인문제",
-			"title_b": "언어지식 경어 확인문제",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "독해 내용 이해 - 단문",
-			"title_b": "독해 내용 이해  단문",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "독해 내용 이해 - 중문(1)",
-			"title_b": "독해 내용 이해  중문1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "독해 내용 이해 - 중문(2)",
-			"title_b": "독해 내용 이해  중문2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "독해 내용 이해 - 장문(1)",
-			"title_b": "독해 내용 이해  장문1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "독해 내용 이해 - 장문(2)",
-			"title_b": "독해 내용 이해  장문2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "독해 정보 검색(1)",
-			"title_b": "독해 정보 검색1",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "독해 정보 검색(2)",
-			"title_b": "독해 정보 검색2",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "청해 과제 이해",
-			"title_b": "청해 과제 이해",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "청해 포인트 이해",
-			"title_b": "청해 포인트 이해",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "청해 개요 이해",
-			"title_b": "청해 개요 이해",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "청해 발화 표현",
-			"title_b": "청해 발화 표현",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "청해 즉시 응답",
-			"title_b": "청해 즉시 응답",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 5963,
+  "content_name": "New JLPT(일본어능력시험) 한권으로 끝내기 N3",
+  "content_sample": "20/30",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "진의연",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(1)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(2)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(3)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기3",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자읽기(4), 한자표기(1)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자읽기4 한자표기1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자표기(2)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자표기2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 한자표기(3), 문맥규정(1)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  한자표기3 문맥규정1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(2)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(3)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정3",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(4)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정4",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 문맥규정(5), 교체유의어(1)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  문맥규정5 교체유의어1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 교체유의어(2), 용법(1)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  교체유의어2 용법1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 용법(2)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  용법2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "언어지식 문자·어휘 기출어휘 확인문제 - 용법(3)",
+      "title_b": "언어지식 문자 어휘 기출어휘 확인문제  용법3",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 용법, 한자읽기(1)",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  용법 한자읽기1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 한자읽기(2), 한자표기(1)",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  한자읽기2 한자표기1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 한자표기(2), 문맥규정(1)",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  한자표기2 문맥규정1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 문맥규정(2)",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  문맥규정2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 교체유의어",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  교체유의어",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "언어지식 문자·어휘 예상어휘 확인문제 - 용법",
+      "title_b": "언어지식 문자 어휘 예상어휘 확인문제  용법",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "언어지식 1순위 문법 확인문제(1)",
+      "title_b": "언어지식 1순위 문법 확인문제1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step1/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "언어지식 1순위 문법 확인문제(2)",
+      "title_b": "언어지식 1순위 문법 확인문제2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "언어지식 1순위 문법 확인문제(3)",
+      "title_b": "언어지식 1순위 문법 확인문제3",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "언어지식 1순위 문법 확인문제(4)",
+      "title_b": "언어지식 1순위 문법 확인문제4",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "언어지식 1순위 문법 확인문제(5), 2순위 문법 확인문제(1)",
+      "title_b": "언어지식 1순위 문법 확인문제5  2순위 문법 확인문제1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "언어지식 2순위 문법 확인문제(2)",
+      "title_b": "언어지식 2순위 문법 확인문제2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "언어지식 2순위 문법 확인문제(3)",
+      "title_b": "언어지식 2순위 문법 확인문제3",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "언어지식 2순위 문법 확인문제(4)",
+      "title_b": "언어지식 2순위 문법 확인문제4",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "언어지식 경어 확인문제",
+      "title_b": "언어지식 경어 확인문제",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "독해 내용 이해 - 단문",
+      "title_b": "독해 내용 이해  단문",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "독해 내용 이해 - 중문(1)",
+      "title_b": "독해 내용 이해  중문1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "독해 내용 이해 - 중문(2)",
+      "title_b": "독해 내용 이해  중문2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "독해 내용 이해 - 장문(1)",
+      "title_b": "독해 내용 이해  장문1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "독해 내용 이해 - 장문(2)",
+      "title_b": "독해 내용 이해  장문2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "독해 정보 검색(1)",
+      "title_b": "독해 정보 검색1",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "독해 정보 검색(2)",
+      "title_b": "독해 정보 검색2",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "청해 과제 이해",
+      "title_b": "청해 과제 이해",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "청해 포인트 이해",
+      "title_b": "청해 포인트 이해",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "청해 개요 이해",
+      "title_b": "청해 개요 이해",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "청해 발화 표현",
+      "title_b": "청해 발화 표현",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "청해 즉시 응답",
+      "title_b": "청해 즉시 응답",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5963/mp4/a1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5963/mobile/step2/a1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

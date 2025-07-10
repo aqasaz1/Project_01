@@ -1,611 +1,691 @@
 {
-	"content_lan": "영어",
-	"content_code": 6914,
-	"content_name": "15초 따라 하기 비즈니스 영어",
-	"content_sample": "4/22",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "This is...from…",
-			"title_b": "This is",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Could you tell her that...?",
-			"title_b": "Could you tell her that",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "He won’t be back until...",
-			"title_b": "He will not be back until",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Did you say...?",
-			"title_b": "Did you say",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "I’m here to...",
-			"title_b": "I am here to",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Let me...",
-			"title_b": "Let me",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "I’ll show you...",
-			"title_b": "I will show you",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Have you ever tried...?",
-			"title_b": "Have you ever tried",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "How is...going?",
-			"title_b": "How is",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Do you want me to...?",
-			"title_b": "Do you want me to",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "You deserve...",
-			"title_b": "You deserve",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "I’ll be...",
-			"title_b": "I will be",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "This product is designed to...",
-			"title_b": "This product is designed to",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "We should focus on...",
-			"title_b": "We should focus on",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "I’m against...because...",
-			"title_b": "I am against",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Could you be more specific about...?",
-			"title_b": "Could you be more specific about",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Is there a fee for...?",
-			"title_b": "Is there a fee for",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "I still haven’t received...",
-			"title_b": "I still have not received",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "There seems to be...",
-			"title_b": "There seems to be",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "I should have p.p.",
-			"title_b": "I should have pp",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "We are going to have...",
-			"title_b": "We are going to have",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "I’m sorry, but can we...?",
-			"title_b": "I am sorry but can we",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "What do you think about...?",
-			"title_b": "What do you think about",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "As far as I know, ...",
-			"title_b": "As far as I know",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "It’s...than I thought",
-			"title_b": "than I thought",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Please, give me...to...",
-			"title_b": "Please give me",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "I’m still hesitant to...",
-			"title_b": "I am still hesitant to",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Have you considered...?",
-			"title_b": "Have you considered",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "We have concluded that...",
-			"title_b": "We have concluded that",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "We are in...",
-			"title_b": "We are in",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "My name is...and I...",
-			"title_b": "My name is",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "On behalf of...",
-			"title_b": "On behalf of",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "As you requested, I have attached...",
-			"title_b": "As you requested I have attached",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "Let me congratulate you on...",
-			"title_b": "Let me congratulate you on",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "It is hard to...",
-			"title_b": "It is hard to",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "I am in charge of...",
-			"title_b": "I am in charge of",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "The purpose of my presentation is...",
-			"title_b": "The purpose of my presentation is",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "What is interesting here is...",
-			"title_b": "What is interesting here is",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "The figures demonstrate...",
-			"title_b": "The figures demonstrate",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "For example, ...",
-			"title_b": "For example",
-			"page_name": [
-				"Intro",
-				"패턴 매치",
-				"특급 Biz 패턴",
-				"15초 따라 하기",
-				"Biz 토크",
-				"Outro"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 6914,
+  "content_name": "15초 따라 하기 비즈니스 영어",
+  "content_sample": "4/22",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "This is...from…",
+      "title_b": "This is",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Could you tell her that...?",
+      "title_b": "Could you tell her that",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "He won’t be back until...",
+      "title_b": "He will not be back until",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Did you say...?",
+      "title_b": "Did you say",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "I’m here to...",
+      "title_b": "I am here to",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Let me...",
+      "title_b": "Let me",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "I’ll show you...",
+      "title_b": "I will show you",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Have you ever tried...?",
+      "title_b": "Have you ever tried",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "How is...going?",
+      "title_b": "How is",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Do you want me to...?",
+      "title_b": "Do you want me to",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "You deserve...",
+      "title_b": "You deserve",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "I’ll be...",
+      "title_b": "I will be",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "This product is designed to...",
+      "title_b": "This product is designed to",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "We should focus on...",
+      "title_b": "We should focus on",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "I’m against...because...",
+      "title_b": "I am against",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Could you be more specific about...?",
+      "title_b": "Could you be more specific about",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Is there a fee for...?",
+      "title_b": "Is there a fee for",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "I still haven’t received...",
+      "title_b": "I still have not received",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "There seems to be...",
+      "title_b": "There seems to be",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "I should have p.p.",
+      "title_b": "I should have pp",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "We are going to have...",
+      "title_b": "We are going to have",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "I’m sorry, but can we...?",
+      "title_b": "I am sorry but can we",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "What do you think about...?",
+      "title_b": "What do you think about",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "As far as I know, ...",
+      "title_b": "As far as I know",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "It’s...than I thought",
+      "title_b": "than I thought",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Please, give me...to...",
+      "title_b": "Please give me",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "I’m still hesitant to...",
+      "title_b": "I am still hesitant to",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Have you considered...?",
+      "title_b": "Have you considered",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "We have concluded that...",
+      "title_b": "We have concluded that",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "We are in...",
+      "title_b": "We are in",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "My name is...and I...",
+      "title_b": "My name is",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "On behalf of...",
+      "title_b": "On behalf of",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "As you requested, I have attached...",
+      "title_b": "As you requested I have attached",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "Let me congratulate you on...",
+      "title_b": "Let me congratulate you on",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "It is hard to...",
+      "title_b": "It is hard to",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "I am in charge of...",
+      "title_b": "I am in charge of",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "The purpose of my presentation is...",
+      "title_b": "The purpose of my presentation is",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "What is interesting here is...",
+      "title_b": "What is interesting here is",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "The figures demonstrate...",
+      "title_b": "The figures demonstrate",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "For example, ...",
+      "title_b": "For example",
+      "page_name": [
+        "Intro",
+        "패턴 매치",
+        "특급 Biz 패턴",
+        "15초 따라 하기",
+        "Biz 토크",
+        "Outro"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6914/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6914/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

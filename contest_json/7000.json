@@ -1,815 +1,935 @@
 {
-	"content_lan": "일본어",
-	"content_code": 7000,
-	"content_name": "100% 현지 영상으로 배우는 일본어 첫걸음",
-	"content_sample": "6/24/56",
-	"content_chasi": "20/20/20",
-	"content_size": "1100*650",
-	"content_cm": "한정현",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "특강 - 일본어 문자와 발음 (1)",
-			"title_b": "특강 일본어 문자와 발음 1",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "특강 - 일본어 문자와 발음 (2)",
-			"title_b": "특강 일본어 문자와 발음 2",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "특강 - 일본어 문자와 발음 (3)",
-			"title_b": "특강 일본어 문자와 발음 3",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "특강 - 일본어 문자와 발음 복습",
-			"title_b": "특강 일본어 문자와 발음 복습",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "특강 - 일본어 문장의 기본 구조와 인사 표현",
-			"title_b": "특강 일본어 문장의 기본 구조와 인사 표현",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "패턴 - 나는 학생입니다 (1)",
-			"title_b": "패턴 나는 학생입니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "패턴 - 나는 학생입니다 (2)",
-			"title_b": "패턴 나는 학생입니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "회화 - 나는 학생입니다 (3)",
-			"title_b": "회화 나는 학생입니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "패턴 - 몇 시입니까? (1)",
-			"title_b": "패턴 몇 시입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "패턴 - 몇 시입니까? (2)",
-			"title_b": "패턴 몇 시입니까 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "회화 - 몇 시입니까? (3)",
-			"title_b": "회화 몇 시입니까 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "특강 - 일본어의 조수사",
-			"title_b": "특강 일본어의 조수사",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "패턴 - 생일은 어제였습니다. (1)",
-			"title_b": "패턴 생일은 어제였습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "패턴 - 생일은 어제였습니다. (2)",
-			"title_b": "패턴 생일은 어제였습니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "회화 - 생일은 어제였습니다. (3)",
-			"title_b": "회화 생일은 어제였습니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "특강 - 일본어의 형용사",
-			"title_b": "특강 일본어의 형용사",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "특강 - な형용사의 기본 활용",
-			"title_b": "특강 나형용사의 기본 활용",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "패턴 - 성실한 사람입니다. (1)",
-			"title_b": "패턴 성실한 사람입니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "패턴 - 성실한 사람입니다. (2)",
-			"title_b": "패턴 성실한 사람입니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "회화 - 성실한 사람입니다. (3)",
-			"title_b": "회화 성실한 사람입니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "특강 - い형용사의 기본 활용",
-			"title_b": "특강 이형용사의 기본 활용",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "패턴 - 저 빨간 가방, 예쁘네요. (1)",
-			"title_b": "패턴 저 빨간 가방 예쁘네요 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "패턴 - 저 빨간 가방, 예쁘네요. (2)",
-			"title_b": "패턴 저 빨간 가방 예쁘네요 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "회화 - 저 빨간 가방, 예쁘네요. (3)",
-			"title_b": "회화 저 빨간 가방 예쁘네요 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "특강 - な형용사의 연결형과 부사형",
-			"title_b": "특강 나형용사의 연결형과 부사형",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "특강 - い형용사의 연결형과 부사형",
-			"title_b": "특강 이형용사의 연결형과 부사형",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "패턴 - 바다가 예쁘고 더운 곳입니다. (1)",
-			"title_b": "패턴 바다가 예쁘고 더운 곳입니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "패턴 - 바다가 예쁘고 더운 곳입니다. (2)",
-			"title_b": "패턴 바다가 예쁘고 더운 곳입니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "회화 - 바다가 예쁘고 더운 곳입니다. (3)",
-			"title_b": "회화 바다가 예쁘고 더운 곳입니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "특강 - な형용사의 과거 활용",
-			"title_b": "특강 나형용사의 과거 활용",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "특강 - い형용사의 과거 활용",
-			"title_b": "특강 이형용사의 과거 활용",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "패턴 - 굉장히 즐거웠습니다. (1)",
-			"title_b": "패턴 굉장히 즐거웠습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "패턴 - 굉장히 즐거웠습니다. (2)",
-			"title_b": "패턴 굉장히 즐거웠습니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "회화 - 굉장히 즐거웠습니다. (3)",
-			"title_b": "회화 굉장히 즐거웠습니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "패턴 - 테이블 위에 있습니다. (1)",
-			"title_b": "패턴 테이블 위에 있습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "패턴 - 테이블 위에 있습니다. (2)",
-			"title_b": "패턴 테이블 위에 있습니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "패턴 - 테이블 위에 있습니다. (3)",
-			"title_b": "패턴 테이블 위에 있습니다 3",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "회화 - 테이블 위에 있습니다. (4)",
-			"title_b": "회화 테이블 위에 있습니다 4",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "특강 - 일본어의 동사",
-			"title_b": "특강 일본어의 동사",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "특강 - 동사의 ます형과 부정형",
-			"title_b": "특강 동사의 정중형과 부정형",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_40h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 41,
-			"title_a": "패턴 - 주말에는 주로 무엇을 합니까? (1)",
-			"title_b": "패턴 주말에는 주로 무엇을 합니까 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_41h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 42,
-			"title_a": "회화 - 주말에는 주로 무엇을 합니까? (2)",
-			"title_b": "회화 주말에는 주로 무엇을 합니까 2",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_42h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 43,
-			"title_a": "특강 - 동사의 과거형",
-			"title_b": "특강 동사의 과거형",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_43h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 44,
-			"title_a": "패턴 - 집에서 공부를 했습니다. (1)",
-			"title_b": "패턴 집에서 공부를 했습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_44h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 45,
-			"title_a": "패턴 - 집에서 공부를 했습니다. (2)",
-			"title_b": "패턴 집에서 공부를 했습니다 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_45h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 46,
-			"title_a": "회화 - 집에서 공부를 했습니다. (3)",
-			"title_b": "회화 집에서 공부를 했습니다 3",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_46h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 47,
-			"title_a": "특강 - 일본어의 조사",
-			"title_b": "특강 일본어의 조사",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_47h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 48,
-			"title_a": "패턴 - 식사하러 가지 않겠습니까? (1)",
-			"title_b": "패턴 식사하러 가지 않겠습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_48h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 49,
-			"title_a": "패턴 - 식사하러 가지 않겠습니까? (2)",
-			"title_b": "패턴 식사하러 가지 않겠습니까 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_49h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 50,
-			"title_a": "패턴 - 식사하러 가지 않겠습니까? (3)",
-			"title_b": "패턴 식사하러 가지 않겠습니까 3",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_50h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 51,
-			"title_a": "회화 - 식사하러 가지 않겠습니까? (4)",
-			"title_b": "회화 식사하러 가지 않겠습니까 4",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_51h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 52,
-			"title_a": "특강 - 동사의 て형과 た형",
-			"title_b": "특강 동사의 테형과 타형",
-			"page_name": [
-				"인트로",
-				"기초 일본어 특강",
-				"실력 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_52h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 53,
-			"title_a": "패턴 - 빨리 준비해 주세요. (1)",
-			"title_b": "패턴 빨리 준비해 주세요 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_53h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 54,
-			"title_a": "회화 - 빨리 준비해 주세요. (2)",
-			"title_b": "회화 빨리 준비해 주세요 2",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_54h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 55,
-			"title_a": "패턴 - 오다이바에 간 적이 있습니까? (1)",
-			"title_b": "패턴 오다이바에 간 적이 있습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_55h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 56,
-			"title_a": "회화 - 오다이바에 간 적이 있습니까? (2)",
-			"title_b": "회화 오다이바에 간 적이 있습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_56h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 57,
-			"title_a": "패턴 - 칼을 사용해도 되나요? (1)",
-			"title_b": "패턴 칼을 사용해도 되나요 1",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_57h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 58,
-			"title_a": "패턴 - 칼을 사용해도 되나요? (2)",
-			"title_b": "패턴 칼을 사용해도 되나요 2",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_58h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 59,
-			"title_a": "패턴 - 칼을 사용해도 되나요? (3)",
-			"title_b": "패턴 칼을 사용해도 되나요 3",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"패턴 강의",
-				"리얼 인터뷰",
-				"패턴 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_59h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 60,
-			"title_a": "회화 - 칼을 사용해도 되나요? (4)",
-			"title_b": "회화 칼을 사용해도 되나요 4",
-			"page_name": [
-				"인트로",
-				"회화 무비",
-				"회화 강의",
-				"회화 연습",
-				"회화 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_60h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 7000,
+  "content_name": "100% 현지 영상으로 배우는 일본어 첫걸음",
+  "content_sample": "6/24/56",
+  "content_chasi": "20/20/20",
+  "content_size": "1100*650",
+  "content_cm": "한정현",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "특강 - 일본어 문자와 발음 (1)",
+      "title_b": "특강 일본어 문자와 발음 1",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "특강 - 일본어 문자와 발음 (2)",
+      "title_b": "특강 일본어 문자와 발음 2",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "특강 - 일본어 문자와 발음 (3)",
+      "title_b": "특강 일본어 문자와 발음 3",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "특강 - 일본어 문자와 발음 복습",
+      "title_b": "특강 일본어 문자와 발음 복습",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "특강 - 일본어 문장의 기본 구조와 인사 표현",
+      "title_b": "특강 일본어 문장의 기본 구조와 인사 표현",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "패턴 - 나는 학생입니다 (1)",
+      "title_b": "패턴 나는 학생입니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "패턴 - 나는 학생입니다 (2)",
+      "title_b": "패턴 나는 학생입니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "회화 - 나는 학생입니다 (3)",
+      "title_b": "회화 나는 학생입니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "패턴 - 몇 시입니까? (1)",
+      "title_b": "패턴 몇 시입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "패턴 - 몇 시입니까? (2)",
+      "title_b": "패턴 몇 시입니까 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "회화 - 몇 시입니까? (3)",
+      "title_b": "회화 몇 시입니까 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "특강 - 일본어의 조수사",
+      "title_b": "특강 일본어의 조수사",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "패턴 - 생일은 어제였습니다. (1)",
+      "title_b": "패턴 생일은 어제였습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "패턴 - 생일은 어제였습니다. (2)",
+      "title_b": "패턴 생일은 어제였습니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "회화 - 생일은 어제였습니다. (3)",
+      "title_b": "회화 생일은 어제였습니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "특강 - 일본어의 형용사",
+      "title_b": "특강 일본어의 형용사",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "특강 - な형용사의 기본 활용",
+      "title_b": "특강 나형용사의 기본 활용",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "패턴 - 성실한 사람입니다. (1)",
+      "title_b": "패턴 성실한 사람입니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "패턴 - 성실한 사람입니다. (2)",
+      "title_b": "패턴 성실한 사람입니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "회화 - 성실한 사람입니다. (3)",
+      "title_b": "회화 성실한 사람입니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "특강 - い형용사의 기본 활용",
+      "title_b": "특강 이형용사의 기본 활용",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "패턴 - 저 빨간 가방, 예쁘네요. (1)",
+      "title_b": "패턴 저 빨간 가방 예쁘네요 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "패턴 - 저 빨간 가방, 예쁘네요. (2)",
+      "title_b": "패턴 저 빨간 가방 예쁘네요 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "회화 - 저 빨간 가방, 예쁘네요. (3)",
+      "title_b": "회화 저 빨간 가방 예쁘네요 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "특강 - な형용사의 연결형과 부사형",
+      "title_b": "특강 나형용사의 연결형과 부사형",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "특강 - い형용사의 연결형과 부사형",
+      "title_b": "특강 이형용사의 연결형과 부사형",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "패턴 - 바다가 예쁘고 더운 곳입니다. (1)",
+      "title_b": "패턴 바다가 예쁘고 더운 곳입니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "패턴 - 바다가 예쁘고 더운 곳입니다. (2)",
+      "title_b": "패턴 바다가 예쁘고 더운 곳입니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "회화 - 바다가 예쁘고 더운 곳입니다. (3)",
+      "title_b": "회화 바다가 예쁘고 더운 곳입니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "특강 - な형용사의 과거 활용",
+      "title_b": "특강 나형용사의 과거 활용",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "특강 - い형용사의 과거 활용",
+      "title_b": "특강 이형용사의 과거 활용",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "패턴 - 굉장히 즐거웠습니다. (1)",
+      "title_b": "패턴 굉장히 즐거웠습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "패턴 - 굉장히 즐거웠습니다. (2)",
+      "title_b": "패턴 굉장히 즐거웠습니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "회화 - 굉장히 즐거웠습니다. (3)",
+      "title_b": "회화 굉장히 즐거웠습니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "패턴 - 테이블 위에 있습니다. (1)",
+      "title_b": "패턴 테이블 위에 있습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "패턴 - 테이블 위에 있습니다. (2)",
+      "title_b": "패턴 테이블 위에 있습니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "패턴 - 테이블 위에 있습니다. (3)",
+      "title_b": "패턴 테이블 위에 있습니다 3",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "회화 - 테이블 위에 있습니다. (4)",
+      "title_b": "회화 테이블 위에 있습니다 4",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "특강 - 일본어의 동사",
+      "title_b": "특강 일본어의 동사",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "특강 - 동사의 ます형과 부정형",
+      "title_b": "특강 동사의 정중형과 부정형",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step2/a1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 41,
+      "title_a": "패턴 - 주말에는 주로 무엇을 합니까? (1)",
+      "title_b": "패턴 주말에는 주로 무엇을 합니까 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_41h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_41h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 42,
+      "title_a": "회화 - 주말에는 주로 무엇을 합니까? (2)",
+      "title_b": "회화 주말에는 주로 무엇을 합니까 2",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_42h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_42h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 43,
+      "title_a": "특강 - 동사의 과거형",
+      "title_b": "특강 동사의 과거형",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_43h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/a1_43h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 44,
+      "title_a": "패턴 - 집에서 공부를 했습니다. (1)",
+      "title_b": "패턴 집에서 공부를 했습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_44h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_44h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 45,
+      "title_a": "패턴 - 집에서 공부를 했습니다. (2)",
+      "title_b": "패턴 집에서 공부를 했습니다 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_45h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_45h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 46,
+      "title_a": "회화 - 집에서 공부를 했습니다. (3)",
+      "title_b": "회화 집에서 공부를 했습니다 3",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_46h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_46h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 47,
+      "title_a": "특강 - 일본어의 조사",
+      "title_b": "특강 일본어의 조사",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_47h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/a1_47h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 48,
+      "title_a": "패턴 - 식사하러 가지 않겠습니까? (1)",
+      "title_b": "패턴 식사하러 가지 않겠습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_48h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_48h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 49,
+      "title_a": "패턴 - 식사하러 가지 않겠습니까? (2)",
+      "title_b": "패턴 식사하러 가지 않겠습니까 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_49h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_49h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 50,
+      "title_a": "패턴 - 식사하러 가지 않겠습니까? (3)",
+      "title_b": "패턴 식사하러 가지 않겠습니까 3",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_50h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_50h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 51,
+      "title_a": "회화 - 식사하러 가지 않겠습니까? (4)",
+      "title_b": "회화 식사하러 가지 않겠습니까 4",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_51h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_51h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 52,
+      "title_a": "특강 - 동사의 て형과 た형",
+      "title_b": "특강 동사의 테형과 타형",
+      "page_name": [
+        "인트로",
+        "기초 일본어 특강",
+        "실력 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4/a1_52h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/a1_52h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 53,
+      "title_a": "패턴 - 빨리 준비해 주세요. (1)",
+      "title_b": "패턴 빨리 준비해 주세요 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_53h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_53h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 54,
+      "title_a": "회화 - 빨리 준비해 주세요. (2)",
+      "title_b": "회화 빨리 준비해 주세요 2",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_54h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_54h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 55,
+      "title_a": "패턴 - 오다이바에 간 적이 있습니까? (1)",
+      "title_b": "패턴 오다이바에 간 적이 있습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_55h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_55h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 56,
+      "title_a": "회화 - 오다이바에 간 적이 있습니까? (2)",
+      "title_b": "회화 오다이바에 간 적이 있습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_56h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_56h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 57,
+      "title_a": "패턴 - 칼을 사용해도 되나요? (1)",
+      "title_b": "패턴 칼을 사용해도 되나요 1",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_57h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_57h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 58,
+      "title_a": "패턴 - 칼을 사용해도 되나요? (2)",
+      "title_b": "패턴 칼을 사용해도 되나요 2",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_58h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_58h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 59,
+      "title_a": "패턴 - 칼을 사용해도 되나요? (3)",
+      "title_b": "패턴 칼을 사용해도 되나요 3",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "패턴 강의",
+        "리얼 인터뷰",
+        "패턴 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_59h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_59h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 60,
+      "title_a": "회화 - 칼을 사용해도 되나요? (4)",
+      "title_b": "회화 칼을 사용해도 되나요 4",
+      "page_name": [
+        "인트로",
+        "회화 무비",
+        "회화 강의",
+        "회화 연습",
+        "회화 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7000/mp4_bind_part/z1_60h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7000/mobile/step3/z1_60h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

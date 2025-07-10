@@ -1,426 +1,486 @@
 {
-	"content_lan": "영어",
-	"content_code": 5387,
-	"content_name": "디바 제시카의 왕초보 영어 따라잡기 - 기초편",
-	"content_sample": "4/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "영어로 인사해 봐요",
-			"title_b": "영어로 인사해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "내가 누구인지, 내 기분이 어떤지 말해 봐요",
-			"title_b": "내가 누구인지 내 기분이 어떤지 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "상대방과 제삼자에 관해 말해 봐요",
-			"title_b": "상대방과 제삼자에 관해 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "상대방과 제삼자의 상태가 궁금할 때 물어봐요",
-			"title_b": "상대방과 제삼자의 상태가 궁금할 때 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "‘~가 있다’라고 말해 봐요",
-			"title_b": "무엇이 있다고 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "be 동사 복습하기",
-			"title_b": "be 동사 복습하기",
-			"page_name": [
-				"Intro",
-				"open your ears",
-				"open your mouth",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "영어는 대명사를 좋아해요",
-			"title_b": "영어는 대명사를 좋아해요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "‘내 것’, ‘네 것’을 확실히 해 봐요",
-			"title_b": "내 것과 네 것을 확실히 해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "‘이것, 이것들’에 관해 물어봐요",
-			"title_b": "이것과 이것들에 관해 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "대명사 복습하기",
-			"title_b": "대명사 복습하기",
-			"page_name": [
-				"Intro",
-				"open your ears",
-				"open your mouth",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "할 수 있는 일과 할 수 없는 일을 말해 봐요",
-			"title_b": "할 수 있는 일과 할 수 없는 일을 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "‘~해라’라고 명령해 봐요",
-			"title_b": "무엇을 하라고 명령해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "내 행동과 상태를 말해 봐요",
-			"title_b": "내 행동과 상태를 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "다른 사람이 하는 행동을 말해 봐요",
-			"title_b": "다른 사람이 하는 행동을 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "앞에 있는 사람에게 물어봐요",
-			"title_b": "앞에 있는 사람에게 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "다른 사람의 상태나 동작을 물어봐요",
-			"title_b": "다른 사람의 상태나 동작을 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "지금 하는 동작을 말해 봐요",
-			"title_b": "지금 하는 동작을 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "to 부정사와 동명사로 말해 봐요",
-			"title_b": "to 부정사와 동명사로 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "동사 복습하기",
-			"title_b": "동사 복습하기",
-			"page_name": [
-				"Intro",
-				"open your ears",
-				"open your mouth",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "‘무엇’이 궁금하면 What으로 물어봐요",
-			"title_b": "무엇이 궁금하면 What으로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "‘몇, 어떤’이 궁금하면 What으로 물어봐요",
-			"title_b": "몇과 어떤이 궁금하면 What으로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "‘언제’가 궁금하면 When으로 물어봐요",
-			"title_b": "언제가 궁금하면 When으로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "‘누구’가 궁금하면 Who로 물어봐요",
-			"title_b": "누구가 궁금하면 Who로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "‘어떻게, 얼마나’가 궁금하면 How로 물어봐요",
-			"title_b": "어떻게와 얼마나가 궁금하면 How로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "‘어디서, 왜’가 궁금하면 Where과 Why로 물어봐요",
-			"title_b": "어디서와 왜가 궁금하면 Where과 Why로 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "의문사 복습하기",
-			"title_b": "의문사 복습하기",
-			"page_name": [
-				"Intro",
-				"open your ears",
-				"open your mouth",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "과거에 한 일을 말해 봐요",
-			"title_b": "과거에 한 일을 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "과거에 한 일을 물어봐요",
-			"title_b": "과거에 한 일을 물어봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "미래에 할 일을 말해 봐요",
-			"title_b": "미래에 할 일을 말해 봐요",
-			"page_name": [
-				"Intro",
-				"open your eyes",
-				"open your mouth",
-				"open your workbook",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "시제 복습하기",
-			"title_b": "시제 복습하기",
-			"page_name": [
-				"Intro",
-				"open your ears",
-				"open your mouth",
-				"open your notebook"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 5387,
+  "content_name": "디바 제시카의 왕초보 영어 따라잡기 - 기초편",
+  "content_sample": "4/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "영어로 인사해 봐요",
+      "title_b": "영어로 인사해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "내가 누구인지, 내 기분이 어떤지 말해 봐요",
+      "title_b": "내가 누구인지 내 기분이 어떤지 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "상대방과 제삼자에 관해 말해 봐요",
+      "title_b": "상대방과 제삼자에 관해 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "상대방과 제삼자의 상태가 궁금할 때 물어봐요",
+      "title_b": "상대방과 제삼자의 상태가 궁금할 때 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "‘~가 있다’라고 말해 봐요",
+      "title_b": "무엇이 있다고 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "be 동사 복습하기",
+      "title_b": "be 동사 복습하기",
+      "page_name": [
+        "Intro",
+        "open your ears",
+        "open your mouth",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/b1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "영어는 대명사를 좋아해요",
+      "title_b": "영어는 대명사를 좋아해요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "‘내 것’, ‘네 것’을 확실히 해 봐요",
+      "title_b": "내 것과 네 것을 확실히 해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "‘이것, 이것들’에 관해 물어봐요",
+      "title_b": "이것과 이것들에 관해 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "대명사 복습하기",
+      "title_b": "대명사 복습하기",
+      "page_name": [
+        "Intro",
+        "open your ears",
+        "open your mouth",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/b1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "할 수 있는 일과 할 수 없는 일을 말해 봐요",
+      "title_b": "할 수 있는 일과 할 수 없는 일을 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "‘~해라’라고 명령해 봐요",
+      "title_b": "무엇을 하라고 명령해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "내 행동과 상태를 말해 봐요",
+      "title_b": "내 행동과 상태를 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "다른 사람이 하는 행동을 말해 봐요",
+      "title_b": "다른 사람이 하는 행동을 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "앞에 있는 사람에게 물어봐요",
+      "title_b": "앞에 있는 사람에게 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step1/c1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "다른 사람의 상태나 동작을 물어봐요",
+      "title_b": "다른 사람의 상태나 동작을 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "지금 하는 동작을 말해 봐요",
+      "title_b": "지금 하는 동작을 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "to 부정사와 동명사로 말해 봐요",
+      "title_b": "to 부정사와 동명사로 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "동사 복습하기",
+      "title_b": "동사 복습하기",
+      "page_name": [
+        "Intro",
+        "open your ears",
+        "open your mouth",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/b1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "‘무엇’이 궁금하면 What으로 물어봐요",
+      "title_b": "무엇이 궁금하면 What으로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "‘몇, 어떤’이 궁금하면 What으로 물어봐요",
+      "title_b": "몇과 어떤이 궁금하면 What으로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "‘언제’가 궁금하면 When으로 물어봐요",
+      "title_b": "언제가 궁금하면 When으로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "‘누구’가 궁금하면 Who로 물어봐요",
+      "title_b": "누구가 궁금하면 Who로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "‘어떻게, 얼마나’가 궁금하면 How로 물어봐요",
+      "title_b": "어떻게와 얼마나가 궁금하면 How로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "‘어디서, 왜’가 궁금하면 Where과 Why로 물어봐요",
+      "title_b": "어디서와 왜가 궁금하면 Where과 Why로 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "의문사 복습하기",
+      "title_b": "의문사 복습하기",
+      "page_name": [
+        "Intro",
+        "open your ears",
+        "open your mouth",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/b1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "과거에 한 일을 말해 봐요",
+      "title_b": "과거에 한 일을 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "과거에 한 일을 물어봐요",
+      "title_b": "과거에 한 일을 물어봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "미래에 할 일을 말해 봐요",
+      "title_b": "미래에 할 일을 말해 봐요",
+      "page_name": [
+        "Intro",
+        "open your eyes",
+        "open your mouth",
+        "open your workbook",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/c1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/c1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "시제 복습하기",
+      "title_b": "시제 복습하기",
+      "page_name": [
+        "Intro",
+        "open your ears",
+        "open your mouth",
+        "open your notebook"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5387/mp4/b1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5387/mobile/step2/b1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

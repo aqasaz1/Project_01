@@ -1,0 +1,220 @@
+{
+	"content_lan": "중국어",
+	"content_code": 8211,
+	"content_name": "야나두 현지 중국어 입문 편",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "중국어란? / 성조",
+			"title_b": "중국어란 성조",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "단운모 / 성모 1",
+			"title_b": "단운모 성모 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "성모 2",
+			"title_b": "성모 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "복운모 / 권설운모",
+			"title_b": "복운모 권설운모",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "결합운모",
+			"title_b": "결합운모",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "발음 규칙",
+			"title_b": "발음 규칙",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "성조 변화",
+			"title_b": "성조 변화",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "인사하기 1",
+			"title_b": "인사하기 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "숫자 읽기 1",
+			"title_b": "숫자 읽기 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "인사하기 2",
+			"title_b": "인사하기 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "숫자 읽기 2",
+			"title_b": "숫자 읽기 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "양사 익히기",
+			"title_b": "양사 익히기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "대사 익히기",
+			"title_b": "대사 익히기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "형용사로 말하기 1",
+			"title_b": "형용사로 말하기 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "형용사로 말하기 2",
+			"title_b": "형용사로 말하기 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "동사로 말하기 1",
+			"title_b": "동사로 말하기 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "동사로 말하기 2",
+			"title_b": "동사로 말하기 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "특수 동사로 말하기 1 (是)",
+			"title_b": "특수 동사로 말하기 1",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "특수 동사로 말하기 2 (有)",
+			"title_b": "특수 동사로 말하기 2",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "시간 말하기",
+			"title_b": "시간 말하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8211/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

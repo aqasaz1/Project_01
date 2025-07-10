@@ -1,0 +1,491 @@
+{
+	"content_lan": "중국어",
+	"content_code": 4998,
+	"content_name": "발전한어 듣기 초급 1",
+	"content_sample": "1/17",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "안녕하세요?(1)",
+			"title_b": "안녕하세요1",
+			"page_name": [
+				"학습 포인트",
+				"성모와 운모 연습",
+				"성조 연습",
+				"성조 구별 연습",
+				"주요 음절 연습",
+				"발음 구별 연습",
+				"발음과 성조 구별 연습",
+				"단어 연습",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_01h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "안녕하세요?(2)",
+			"title_b": "안녕하세요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_02h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "당신은 어느 나라 사람입니까?(1)",
+			"title_b": "당신은 어느 나라 사람입니까1",
+			"page_name": [
+				"학습 포인트",
+				"성모와 운모 연습",
+				"성조 연습",
+				"성조 구별 연습",
+				"주요 음절 연습",
+				"음절 구별 연습",
+				"발음과 성조 구별 연습",
+				"단어 연습",
+				"단어 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_03h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "당신은 어느 나라 사람입니까?(2)",
+			"title_b": "당신은 어느 나라 사람입니까2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_04h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "당신 이름은 무엇입니까?(1)",
+			"title_b": "당신 이름은 무엇입니까1",
+			"page_name": [
+				"학습 포인트",
+				"성모와 운모 연습",
+				"성조 연습",
+				"성조 구별 연습",
+				"주요 음절 연습",
+				"음절 구별 연습",
+				"발음과 성조 구별 연습",
+				"단어 연습",
+				"단어 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드 ①",
+				"그림 카드 ②",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_05h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "당신 이름은 무엇입니까?(2)",
+			"title_b": "당신 이름은 무엇입니까2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_06h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "이것은 무엇입니까?(1)",
+			"title_b": "이것은 무엇입니까1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"주요 음절 연습",
+				"단어 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_07h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "이것은 무엇입니까?(2)",
+			"title_b": "이것은 무엇입니까2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_08h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "너는 몇 권의 사전이 있니?(1)",
+			"title_b": "너는 몇 권의 사전이 있니1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"주요 표현 연습",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"그림 카드 ①",
+				"그림 카드 ②",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_09h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "너는 몇 권의 사전이 있니?(2)",
+			"title_b": "너는 몇 권의 사전이 있니2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_10h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "사과는 한 근에 얼마인가요?(1)",
+			"title_b": "사과는 한 근에 얼마인가요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"주요 단어 연습",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"구와 문장 연습",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_11h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "사과는 한 근에 얼마인가요?(2)",
+			"title_b": "사과는 한 근에 얼마인가요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_12h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "유학생 건물은 어디에 있나요?(1)",
+			"title_b": "유학생 건물은 어디에 있나요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_13h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "유학생 건물은 어디에 있나요?(2)",
+			"title_b": "유학생 건물은 어디에 있나요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_14h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "오늘은 무슨 요일 인가요?(1)",
+			"title_b": "오늘은 무슨 요일 인가요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"단어 찾기 퀴즈",
+				"운모와 성조 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step1/z1_15h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "오늘은 무슨 요일 인가요?(2)",
+			"title_b": "오늘은 무슨 요일 인가요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_16h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "당신은 매일 몇 시에 일어나요?(1)",
+			"title_b": "당신은 매일 몇 시에 일어나요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"그림 카드 ①",
+				"그림 카드 ②",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_17h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "당신은 매일 몇 시에 일어나요?(2)",
+			"title_b": "당신은 매일 몇 시에 일어나요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_18h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "당신네 단지는 정말 예쁘네요.(1)",
+			"title_b": "당신네 단지는 정말 예쁘네요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 연습",
+				"발음과 성조 구별 연습",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"운모와 성조 찾기 퀴즈",
+				"주요 표현 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_19h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "당신네 단지는 정말 예쁘네요.(2)",
+			"title_b": "당신네 단지는 정말 예쁘네요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_20h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "당신은 여기에서 무엇을 사나요?(1)",
+			"title_b": "당신은 여기에서 무엇을 사나요1",
+			"page_name": [
+				"학습 포인트",
+				"음절 찾기 퀴즈",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"한어병음 찾기 퀴즈",
+				"주요 표현 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_21h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "당신은 여기에서 무엇을 사나요?(2)",
+			"title_b": "당신은 여기에서 무엇을 사나요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_22h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "자동차를 타는 게 좋을까요, 아니면 자전거를 타는 게 좋을까요?(1)",
+			"title_b": "자동차를 타는 게 좋을까요 아니면 자전거를 타는 게 좋을까요1",
+			"page_name": [
+				"학습 포인트",
+				"음절 찾기 퀴즈",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"주요 표현 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_23h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "자동차를 타는 게 좋을까요, 아니면 자전거를 타는 게 좋을까요?(2)",
+			"title_b": "자동차를 타는 게 좋을까요 아니면 자전거를 타는 게 좋을까요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_24h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "당신 일어났어요?(1)",
+			"title_b": "당신 일어났어요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 찾기 퀴즈",
+				"성모 찾기 퀴즈",
+				"운모와 성조 찾기 퀴즈",
+				"주요 단어 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_25h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "당신 일어났어요?(2)",
+			"title_b": "당신 일어났어요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_26h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "11월이 되면 바로 추워져요.(1)",
+			"title_b": "11월이 되면 바로 추워져요1",
+			"page_name": [
+				"학습 포인트",
+				"단어 찾기 퀴즈",
+				"운모와 성조 찾기 퀴즈",
+				"한어병음 찾기 퀴즈",
+				"주요 단어 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_27h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "11월이 되면 바로 추워져요.(2)",
+			"title_b": "11월이 되면 바로 추워져요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_28h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "제가 들어가도 될까요?(1)",
+			"title_b": "제가 들어가도 될까요1",
+			"page_name": [
+				"학습 포인트",
+				"음절 찾기 퀴즈",
+				"단어 찾기 퀴즈",
+				"성조 찾기 퀴즈",
+				"한어병음 찾기 퀴즈",
+				"주요 표현 연습",
+				"그림 카드",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_29h_500k.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "제가 들어가도 될까요?(2)",
+			"title_b": "제가 들어가도 될까요2",
+			"page_name": [
+				"학습 포인트",
+				"새 단어 익히기",
+				"구와 문장 익히기",
+				"문장 찾기 퀴즈",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4998/mobile/step2/z1_30h_500k.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

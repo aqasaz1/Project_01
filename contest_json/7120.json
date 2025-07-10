@@ -1,371 +1,431 @@
 {
-	"content_lan": "영어",
-	"content_code": 7120,
-	"content_name": "야나두 리얼영단어",
-	"content_sample": "4/18",
-	"content_chasi": "15/15",
-	"content_size": "1100*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "듣다, 보다, 눈을 깜빡이다",
-			"title_b": "듣다 보다 눈을 깜빡이다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "말하다1, 말하다2, 숨쉬다",
-			"title_b": "말하다1 말하다2 숨쉬다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "다치게 하다, 싸우다, 때리다",
-			"title_b": "다치게 하다 싸우다 때리다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "입다, 자다, 잠 깨다",
-			"title_b": "입다 자다 잠 깨다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "앉다, 잡다, 미끄러지다",
-			"title_b": "앉다 잡다 미끄러지다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "가져오다/가다, 오다/가다, 오르다",
-			"title_b": "가져오다 오고 가다 오르다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "울다1, 울다2, 멈추다",
-			"title_b": "울다1 울다2 멈추다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "걷다1, 걷다2, 여행1",
-			"title_b": "걷다1 걷다2 여행1",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "웃다1, 웃다2, 공부하다",
-			"title_b": "웃다1 웃다2 공부하다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "빌리다, 바꾸다, 밀다",
-			"title_b": "빌리다 바꾸다 밀다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "자르다1, 자르다2, 지우다",
-			"title_b": "자르다1 자르다2 지우다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "먹다1, 먹다2, 마시다",
-			"title_b": "먹다1 먹다2 마시다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "굽다1, 굽다2, 저장하다",
-			"title_b": "굽다1 굽다2 저장하다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "휴식, 여행2, 사진, 바다",
-			"title_b": "휴식 여행2 사진 바다",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "요금, 손님, 짐",
-			"title_b": "요금 손님 짐",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "외모, 수염, 옷",
-			"title_b": "외모 수염 옷",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "집, 계단, 가게, 화장실",
-			"title_b": "집 계단 가게 화장실",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "직업1, 직업2, 급여, 보너스",
-			"title_b": "직업1 직업2 급여 보너스",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "딱지, 사인, 도로",
-			"title_b": "딱지 사인 도로",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "매너, 요리, 잔치, 요리사",
-			"title_b": "매너 요리 잔치 요리사",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "양념, 식사, 접시, 냄비",
-			"title_b": "양념 식사 접시 냄비",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "매출, 떨어짐, 기회, 천국",
-			"title_b": "매출 떨어짐 기회 천국",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "시험, 수업, 숙제, 상",
-			"title_b": "시험 수업 숙제 상",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "쥐, 질병, 약",
-			"title_b": "쥐 질병 약",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "맛, 광고, 포장물",
-			"title_b": "맛 광고 포장물",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "친구, 일행, 국가",
-			"title_b": "친구 일행 국가",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "작은, 모두, 너무, 조금",
-			"title_b": "작은 모두 너무 조금",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "부정, 전에, 언젠가, 마지막의",
-			"title_b": "부정 전에 언젠가 마지막의",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "날씬한, 깨끗한, 부드러운, 무르익은",
-			"title_b": "날씬한 깨끗한 부드러운 무르익은",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "빠른, 외로운, 아이 같은, 창피한",
-			"title_b": "빠른 외로운 아이 같은 창피한",
-			"page_name": [
-				"INTRO",
-				"뉘앙스 이해하기",
-				"문장 만들기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7120,
+  "content_name": "야나두 리얼영단어",
+  "content_sample": "4/18",
+  "content_chasi": "15/15",
+  "content_size": "1100*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "듣다, 보다, 눈을 깜빡이다",
+      "title_b": "듣다 보다 눈을 깜빡이다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "말하다1, 말하다2, 숨쉬다",
+      "title_b": "말하다1 말하다2 숨쉬다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "다치게 하다, 싸우다, 때리다",
+      "title_b": "다치게 하다 싸우다 때리다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "입다, 자다, 잠 깨다",
+      "title_b": "입다 자다 잠 깨다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "앉다, 잡다, 미끄러지다",
+      "title_b": "앉다 잡다 미끄러지다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "가져오다/가다, 오다/가다, 오르다",
+      "title_b": "가져오다 오고 가다 오르다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "울다1, 울다2, 멈추다",
+      "title_b": "울다1 울다2 멈추다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "걷다1, 걷다2, 여행1",
+      "title_b": "걷다1 걷다2 여행1",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "웃다1, 웃다2, 공부하다",
+      "title_b": "웃다1 웃다2 공부하다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "빌리다, 바꾸다, 밀다",
+      "title_b": "빌리다 바꾸다 밀다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "자르다1, 자르다2, 지우다",
+      "title_b": "자르다1 자르다2 지우다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "먹다1, 먹다2, 마시다",
+      "title_b": "먹다1 먹다2 마시다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "굽다1, 굽다2, 저장하다",
+      "title_b": "굽다1 굽다2 저장하다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "휴식, 여행2, 사진, 바다",
+      "title_b": "휴식 여행2 사진 바다",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "요금, 손님, 짐",
+      "title_b": "요금 손님 짐",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "외모, 수염, 옷",
+      "title_b": "외모 수염 옷",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "집, 계단, 가게, 화장실",
+      "title_b": "집 계단 가게 화장실",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "직업1, 직업2, 급여, 보너스",
+      "title_b": "직업1 직업2 급여 보너스",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "딱지, 사인, 도로",
+      "title_b": "딱지 사인 도로",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "매너, 요리, 잔치, 요리사",
+      "title_b": "매너 요리 잔치 요리사",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "양념, 식사, 접시, 냄비",
+      "title_b": "양념 식사 접시 냄비",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "매출, 떨어짐, 기회, 천국",
+      "title_b": "매출 떨어짐 기회 천국",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "시험, 수업, 숙제, 상",
+      "title_b": "시험 수업 숙제 상",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "쥐, 질병, 약",
+      "title_b": "쥐 질병 약",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "맛, 광고, 포장물",
+      "title_b": "맛 광고 포장물",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "친구, 일행, 국가",
+      "title_b": "친구 일행 국가",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "작은, 모두, 너무, 조금",
+      "title_b": "작은 모두 너무 조금",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "부정, 전에, 언젠가, 마지막의",
+      "title_b": "부정 전에 언젠가 마지막의",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "날씬한, 깨끗한, 부드러운, 무르익은",
+      "title_b": "날씬한 깨끗한 부드러운 무르익은",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "빠른, 외로운, 아이 같은, 창피한",
+      "title_b": "빠른 외로운 아이 같은 창피한",
+      "page_name": [
+        "INTRO",
+        "뉘앙스 이해하기",
+        "문장 만들기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7120/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7120/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

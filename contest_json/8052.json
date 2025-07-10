@@ -1,191 +1,221 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 8052,
-	"content_name": "New 쁘리벳 러시아어 회화 초급 뛰어넘기",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "날씨와 계절",
-			"title_b": "날씨와 계절",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "식당에서",
-			"title_b": "식당에서",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "호텔에서",
-			"title_b": "호텔에서",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "시간 및 날짜",
-			"title_b": "시간 및 날짜",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "쇼핑",
-			"title_b": "쇼핑",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "병원 및 약국에서",
-			"title_b": "병원 및 약국에서",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "공연장 및 관광",
-			"title_b": "공연장 및 관광",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "교통",
-			"title_b": "교통",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "가족 소개",
-			"title_b": "가족 소개",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "취미, 여가",
-			"title_b": "취미와 여가",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "직장",
-			"title_b": "직장",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "긴급 요청 사항",
-			"title_b": "긴급 요청 사항",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "안부 및 근황",
-			"title_b": "안부 및 근황",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "감정 표현",
-			"title_b": "감정 표현",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "일상생활",
-			"title_b": "일상생활",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 8052,
+  "content_name": "New 쁘리벳 러시아어 회화 초급 뛰어넘기",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "날씨와 계절",
+      "title_b": "날씨와 계절",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "식당에서",
+      "title_b": "식당에서",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "호텔에서",
+      "title_b": "호텔에서",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "시간 및 날짜",
+      "title_b": "시간 및 날짜",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "쇼핑",
+      "title_b": "쇼핑",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "병원 및 약국에서",
+      "title_b": "병원 및 약국에서",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "공연장 및 관광",
+      "title_b": "공연장 및 관광",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "교통",
+      "title_b": "교통",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "가족 소개",
+      "title_b": "가족 소개",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "취미, 여가",
+      "title_b": "취미와 여가",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "직장",
+      "title_b": "직장",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "긴급 요청 사항",
+      "title_b": "긴급 요청 사항",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "안부 및 근황",
+      "title_b": "안부 및 근황",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "감정 표현",
+      "title_b": "감정 표현",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "일상생활",
+      "title_b": "일상생활",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5851/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5851/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

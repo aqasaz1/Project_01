@@ -1,291 +1,331 @@
 {
-	"content_lan": "영어",
-	"content_code": 7273,
-	"content_name": "[개정판] OPIc Punch to IM2 내공 다지기",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "김영실",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Listening to Music 음악 감상하기",
-			"title_b": "Listening to Music 음악 감상하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Singing 혼자 노래 부르거나 합창하기",
-			"title_b": "Singing 혼자 노래 부르거나 합창하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Watching Movies 1 영화보기 1 (시간의 흐름)",
-			"title_b": "Watching Movies 1 영화보기 1",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Watching Movies 2 영화보기 2 (인물 설명)",
-			"title_b": "Watching Movies 2 영화보기 2",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Hiking 하이킹 (처음 시작한 시기와 좋은 이유)",
-			"title_b": "Hiking 하이킹",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Jogging & Walking 1 조깅 & 걷기 1 (기억에 남는 사건)",
-			"title_b": "Jogging and Walking 1 조깅과 걷기 1",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Jogging & Walking 2 조깅 & 걷기 2 (어디서 누구와 함께 하는지)",
-			"title_b": "Jogging and Walking 2 조깅과 걷기 2",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Park 1 공원 1 (공원 묘사)",
-			"title_b": "Park 1 공원 1",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Park 2 공원 2 (기억에 남는 사건)",
-			"title_b": "Park 2 공원 2",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Domestic Travel 국내 여행 (한국에 대한 소개)",
-			"title_b": "Domestic Travel 국내 여행",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Overseas Travel 해외 여행 (여행 준비물)",
-			"title_b": "Overseas Travel 해외 여행",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Role-Playing Questions 직접 질문하기",
-			"title_b": "RolePlaying Questions 직접 질문하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Role-Playing Questions 단순 정보 질문하기",
-			"title_b": "RolePlaying Questions 단순 정보 질문하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Role-Playing Questions 항의하기 및 환불 요청하기",
-			"title_b": "RolePlaying Questions 항의하기 및 환불 요청하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Role-Playing Questions 상황 설명 및 대안 제시하기",
-			"title_b": "RolePlaying Questions 상황 설명 및 대안 제시하기",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Random Questions 한국의 계절과 날씨",
-			"title_b": "Random Questions 한국의 계절과 날씨",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Random Questions 한국의 명절",
-			"title_b": "Random Questions 한국의 명절",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Random Questions 옷차림",
-			"title_b": "Random Questions 옷차림",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Random Questions 약속 문화",
-			"title_b": "Random Questions 약속 문화",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Random Questions 자주 사용하는 애플리케이션",
-			"title_b": "Random Questions 자주 사용하는 애플리케이션",
-			"page_name": [
-				"Question",
-				"Talk",
-				"Lecture",
-				"Punch!",
-				"Sum-up CARD"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7273,
+  "content_name": "[개정판] OPIc Punch to IM2 내공 다지기",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "김영실",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Listening to Music 음악 감상하기",
+      "title_b": "Listening to Music 음악 감상하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Singing 혼자 노래 부르거나 합창하기",
+      "title_b": "Singing 혼자 노래 부르거나 합창하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Watching Movies 1 영화보기 1 (시간의 흐름)",
+      "title_b": "Watching Movies 1 영화보기 1",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Watching Movies 2 영화보기 2 (인물 설명)",
+      "title_b": "Watching Movies 2 영화보기 2",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Hiking 하이킹 (처음 시작한 시기와 좋은 이유)",
+      "title_b": "Hiking 하이킹",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Jogging & Walking 1 조깅 & 걷기 1 (기억에 남는 사건)",
+      "title_b": "Jogging and Walking 1 조깅과 걷기 1",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Jogging & Walking 2 조깅 & 걷기 2 (어디서 누구와 함께 하는지)",
+      "title_b": "Jogging and Walking 2 조깅과 걷기 2",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Park 1 공원 1 (공원 묘사)",
+      "title_b": "Park 1 공원 1",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Park 2 공원 2 (기억에 남는 사건)",
+      "title_b": "Park 2 공원 2",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Domestic Travel 국내 여행 (한국에 대한 소개)",
+      "title_b": "Domestic Travel 국내 여행",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Overseas Travel 해외 여행 (여행 준비물)",
+      "title_b": "Overseas Travel 해외 여행",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Role-Playing Questions 직접 질문하기",
+      "title_b": "RolePlaying Questions 직접 질문하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Role-Playing Questions 단순 정보 질문하기",
+      "title_b": "RolePlaying Questions 단순 정보 질문하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Role-Playing Questions 항의하기 및 환불 요청하기",
+      "title_b": "RolePlaying Questions 항의하기 및 환불 요청하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Role-Playing Questions 상황 설명 및 대안 제시하기",
+      "title_b": "RolePlaying Questions 상황 설명 및 대안 제시하기",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Random Questions 한국의 계절과 날씨",
+      "title_b": "Random Questions 한국의 계절과 날씨",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Random Questions 한국의 명절",
+      "title_b": "Random Questions 한국의 명절",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Random Questions 옷차림",
+      "title_b": "Random Questions 옷차림",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Random Questions 약속 문화",
+      "title_b": "Random Questions 약속 문화",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Random Questions 자주 사용하는 애플리케이션",
+      "title_b": "Random Questions 자주 사용하는 애플리케이션",
+      "page_name": [
+        "Question",
+        "Talk",
+        "Lecture",
+        "Punch!",
+        "Sum-up CARD"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7273/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7273/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

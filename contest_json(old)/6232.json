@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 6232,
+	"content_name": "Biz English skill up - General",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Making and Answering a Call",
+			"title_b": "Making and Answering a Call",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Leaving and Taking Messages",
+			"title_b": "Leaving and Taking Messages",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Wrong Calls & Answering Machine",
+			"title_b": "Wrong Calls and Answering Machine",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Problems with the Phone & International Calls",
+			"title_b": "Problems with the Phone and International Calls",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Making an Arrangement for Meeting",
+			"title_b": "Making an Arrangement for Meeting",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Greeting at Work & Asking for Leave",
+			"title_b": "Greeting at Work and Asking for Leave",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Expressing Appreciation & Encouragement",
+			"title_b": "Expressing Appreciation and Encouragement",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Dealing with Office Equipment",
+			"title_b": "Dealing with Office Equipment",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Greeting Visitors at the Airport",
+			"title_b": "Greeting Visitors at the Airport",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Before Starting the Business Meeting",
+			"title_b": "Before Starting the Business Meeting",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Introduction of the Company & Tour of the Plant",
+			"title_b": "Introduction of the Company and Tour of the Plant",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Introducing Korean Culture",
+			"title_b": "Introducing Korean Culture",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Using the Airport",
+			"title_b": "Using the Airport",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Using Transportation",
+			"title_b": "Using Transportation",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Attending a Trade Show",
+			"title_b": "Attending a Trade Show",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Using Hotels and Restaurants",
+			"title_b": "Using Hotels and Restaurants",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Sending a Business E-mail for the First Time",
+			"title_b": "Sending a Business Email for the First Time",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Enclosing an Attachment",
+			"title_b": "Enclosing an Attachment",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Setting up an Appointment for Meeting",
+			"title_b": "Setting up an Appointment for Meeting",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "A Social E-mail Between Colleagues",
+			"title_b": "A Social Email Between Colleagues",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6232/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

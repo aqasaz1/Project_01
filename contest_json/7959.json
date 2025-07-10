@@ -1,191 +1,221 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 7959,
-	"content_name": "New 바구스 인도네시아어 회화 중급",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "택시",
-			"title_b": "택시",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "숙박 1",
-			"title_b": "숙박 1",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "숙박 2",
-			"title_b": "숙박 2",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "식당 1",
-			"title_b": "식당 1",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "식당 2",
-			"title_b": "식당 2",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "쇼핑 1",
-			"title_b": "쇼핑 1",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "쇼핑 2",
-			"title_b": "쇼핑 2",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "전화",
-			"title_b": "전화",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "관광",
-			"title_b": "관광",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "관공서",
-			"title_b": "관공서",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "위급/응급 상황",
-			"title_b": "위급 응급 상황",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "배달 주문 전화",
-			"title_b": "배달 주문 전화",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "개인기사와의 대화",
-			"title_b": "개인기사와의 대화",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "가정부와의 대화",
-			"title_b": "가정부와의 대화",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "언어 & 의사소통",
-			"title_b": "언어와 의사소통",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 7959,
+  "content_name": "New 바구스 인도네시아어 회화 중급",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "택시",
+      "title_b": "택시",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "숙박 1",
+      "title_b": "숙박 1",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "숙박 2",
+      "title_b": "숙박 2",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "식당 1",
+      "title_b": "식당 1",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "식당 2",
+      "title_b": "식당 2",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "쇼핑 1",
+      "title_b": "쇼핑 1",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "쇼핑 2",
+      "title_b": "쇼핑 2",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "전화",
+      "title_b": "전화",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "관광",
+      "title_b": "관광",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "관공서",
+      "title_b": "관공서",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "위급/응급 상황",
+      "title_b": "위급 응급 상황",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "배달 주문 전화",
+      "title_b": "배달 주문 전화",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "개인기사와의 대화",
+      "title_b": "개인기사와의 대화",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "가정부와의 대화",
+      "title_b": "가정부와의 대화",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "언어 & 의사소통",
+      "title_b": "언어와 의사소통",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5669/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5669/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

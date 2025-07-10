@@ -1,0 +1,611 @@
+{
+	"content_lan": "영어",
+	"content_code": 4941,
+	"content_name": "반복의 힘: 쉬운 영어 말하기",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "What is this?",
+			"title_b": "What is this",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Why do you say that?",
+			"title_b": "Why do you say that",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Who is your best friend?",
+			"title_b": "Who is your best friend",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "When is your birthday?",
+			"title_b": "When is your birthday",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Where are you from?",
+			"title_b": "Where are you from",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Which is your bag?",
+			"title_b": "Which is your bag",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "How is your mother?",
+			"title_b": "How is your mother",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "How tall are you?",
+			"title_b": "How tall are you",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "May I ask you a favor?",
+			"title_b": "May I ask you a favor",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Can I have some water, please?",
+			"title_b": "Can I have some water please",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Can you help me out?",
+			"title_b": "Can you help me out",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Will you excuse me?",
+			"title_b": "Will you excuse me",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Would you do me a favor?",
+			"title_b": "Would you do me a favor",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Shall I close the door?",
+			"title_b": "Shall I close the door",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Should I leave now?",
+			"title_b": "Should I leave now",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Are you Korean?",
+			"title_b": "Are you Korean",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Do you have time?",
+			"title_b": "Do you have time",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Have you ever been to Paris?",
+			"title_b": "Have you ever been to Paris",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Is there a restroom nearby?",
+			"title_b": "Is there a restroom nearby",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Do you know how to do this?",
+			"title_b": "Do you know how to do this",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "I’m glad to meet you.",
+			"title_b": "I am glad to meet you",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "I will be there on time.",
+			"title_b": "I will be there on time",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "I must do it myself.",
+			"title_b": "I must do it myself",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "You should do this now.",
+			"title_b": "You should do this now",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "I can do it by myself.",
+			"title_b": "I can do it by myself",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "I would like that.",
+			"title_b": "I would like that",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "I want an MP3 player.",
+			"title_b": "I want an MP3 player",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "I like you very much.",
+			"title_b": "I like you very much",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "I have a headache.",
+			"title_b": "I have a headache",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "I know the answer to this question.",
+			"title_b": "I know the answer to this question",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "I think blue is better.",
+			"title_b": "I think blue is better",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "I wonder what that is.",
+			"title_b": "I wonder what that is",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "I need to talk to you.",
+			"title_b": "I need to talk to you",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "It feels very soft.",
+			"title_b": "It feels very soft",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "It seems cloudy today.",
+			"title_b": "It seems cloudy today",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "There is a drugstore on the corner.",
+			"title_b": "There is a drugstore on the corner",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "That’s enough.",
+			"title_b": "That is enough",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Let me help you.",
+			"title_b": "Let me help you",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Let’s go outside.",
+			"title_b": "Let us go outside",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Give it a try.",
+			"title_b": "Give it a try",
+			"page_name": [
+				"Intro",
+				"Get started",
+				"Repeat by yourself",
+				"Take your role",
+				"Go into real life",
+				"Outro "
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4941/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"content_lan": "영어",
+	"content_code": 8183,
+	"content_name": "영어로 자동 변환 - 한국인의 습관 표현",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "~하기 힘들 것 같아",
+			"title_b": "힘들 것 같아",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "그럴 수도 있겠다/그럴 수도 있지",
+			"title_b": "그럴 수도 있겠다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "무슨 말인지 알아/무슨 말인지 모르겠어",
+			"title_b": "무슨 말인지 알아",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "하필이면",
+			"title_b": "하필이면",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "고민하다",
+			"title_b": "고민하다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "만만하다/만만치 않다",
+			"title_b": "만만하다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "손이 많이 가다",
+			"title_b": "손이 많이 가다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "오른쪽, 왼쪽/상단, 하단/~번째 (것)",
+			"title_b": "오른쪽 왼쪽",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "피해를 주다/피해를 보다",
+			"title_b": "피해를 주다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "실감이 나다",
+			"title_b": "실감이 나다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "돌려서 말하다",
+			"title_b": "돌려서 말하다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "멍하니 있다",
+			"title_b": "멍하니 있다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "약 올리다",
+			"title_b": "약 올리다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "센스 있다",
+			"title_b": "센스 있다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "발이 넓다",
+			"title_b": "발이 넓다",
+			"page_name": [
+				"LECTURE",
+				"READ ALOUD"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8183/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

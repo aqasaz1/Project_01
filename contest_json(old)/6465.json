@@ -1,0 +1,271 @@
+{
+	"content_lan": "영어",
+	"content_code": 6465,
+	"content_name": "7단계 영어문장 자동생산 프로젝트 - Basic",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "talk 말하다",
+			"title_b": "talk 말하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "eat 먹다",
+			"title_b": "eat 먹다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "work 일하다",
+			"title_b": "work 일하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "go 가다",
+			"title_b": "go 가다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "come 오다",
+			"title_b": "come 오다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "cook 요리하다",
+			"title_b": "cook 요리하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "walk 걷다",
+			"title_b": "walk 걷다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "study 공부하다",
+			"title_b": "study 공부하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "live 살다",
+			"title_b": "live 살다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "matter 중요하다",
+			"title_b": "matter 중요하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "look ~처럼 보이다",
+			"title_b": "look 무엇처럼 보이다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "feel ~한 느낌이 들다",
+			"title_b": "feel 어떠한 느낌이 들다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "become ~이 되다",
+			"title_b": "become 무엇이 되다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "be ~이다",
+			"title_b": "be 무엇이다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "seem ~한 것 같다",
+			"title_b": "seem 어떠한 것 같다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "taste ~한 맛이 나다",
+			"title_b": "taste 어떠한 맛이 나다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "smell ~한 냄새가 나다",
+			"title_b": "smell 어떠한 냄새가 나다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "sound ~처럼 들리다",
+			"title_b": "sound 무엇처럼 들리다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "turn ~하게 변하다",
+			"title_b": "turn 어떻게 변하다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "get ~하게 되다",
+			"title_b": "get 어떻게 되다",
+			"page_name": [
+				"Intro",
+				"오늘의 재료",
+				"7단계 영어 공장",
+				"품질 테스트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6465/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,551 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6626,
+	"content_name": "(New) 新HSK 한권으로 끝내기 4급 쓰기",
+	"content_sample": "2/22",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "제1부분 품사",
+			"title_b": "제1부분 품사",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "제1부분 문장성분",
+			"title_b": "제1부분 문장성분",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "제1부분 동사, 제2부분 동사로 동작 표현하기",
+			"title_b": "제1부분 동사 제2부분 동사로 동작 표현하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "제1부분 형용사, 제2부분 동사로 동작 표현하기",
+			"title_b": "제1부분 형용사 제2부분 동사로 동작 표현하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "제1부분 조동사, 제2부분 동사로 동작 표현하기",
+			"title_b": "제1부분 조동사 제2부분 동사로 동작 표현하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "제1부분 명사",
+			"title_b": "제1부분 명사",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "제1부분 대사",
+			"title_b": "제1부분 대사",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "제1부분 부사(1) 위치·종류",
+			"title_b": "제1부분 부사 1 위치 종류",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "제1부분 부사(2) 정도부사, 제2부분 형용사로 상태 형용하기",
+			"title_b": "제1부분 부사 2 정도부사 제2부분 형용사로 상태 형용하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "제1부분 부사(3) 시간부사, 제2부분 형용사로 상태 형용하기",
+			"title_b": "제1부분 부사 3 시간부사 제2부분 형용사로 상태 형용하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "제1부분 부사(4) 부정부사, 제2부분 형용사로 상태 형용하기",
+			"title_b": "제1부분 부사 4 부정부사 제2부분 형용사로 상태 형용하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "제1부분 부사(5) 빈도부사",
+			"title_b": "제1부분 부사 5 빈도부사",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "제1부분 부사(6) 상태부사",
+			"title_b": "제1부분 부사 6 상태부사",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "제1부분 부사(7) 어기부사",
+			"title_b": "제1부분 부사 7 어기부사",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "제1부분 수사·양사, 제2부분 명사로 대상 설명하기",
+			"title_b": "제1부분 수사 양사 제2부분 명사로 대상 설명하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "제1부분 접속사(1) 병렬·점층·전환, 제2부분 명사로 대상 설명하기",
+			"title_b": "제1부분 접속사 1 병렬 점층 전환 제2부분 명사로 대상 설명하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "제1부분 접속사(2) 가설·조건·인과, 제2부분 명사로 대상 설명하기",
+			"title_b": "제1부분 접속사 2 가설 조건 인과 제2부분 명사로 대상 설명하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "제1부분 접속사(3) 선택·목적·연속",
+			"title_b": "제1부분 접속사 3 선택 목적 연속",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Mini 모의고사 1",
+			"title_b": "Mini 모의고사 1",
+			"page_name": [
+				"인트로",
+				"모의고사",
+				"강의 듣기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Mini 모의고사 1",
+			"title_b": "Mini 모의고사 1",
+			"page_name": [
+				"인트로",
+				"모의고사",
+				"강의 듣기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "제1부분 어순",
+			"title_b": "제1부분 어순",
+			"page_name": [
+				"인트로",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "제1부분 비교문",
+			"title_b": "제1부분 비교문",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "제1부분 보어(1) 위치·종류, 제2부분 동사로 동작 표현하기",
+			"title_b": "제1부분 보어 1 위치 종류 제2부분 동사로 동작 표현하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "제1부분 보어(2) 정도보어, 제2부분 동사로 동작 표현하기",
+			"title_b": "제1부분 보어 2 정도보어 제2부분 동사로 동작 표현하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "제1부분 보어(3) 결과보어",
+			"title_b": "제1부분 보어 3 결과보어",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "제1부분 보어(4) 방향보어",
+			"title_b": "제1부분 보어 4 방향보어",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "제1부분 보어(5) 가능보어",
+			"title_b": "제1부분 보어 5 가능보어",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "제1부분 보어(6) 수량보어",
+			"title_b": "제1부분 보어 6 수량보어",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "제1부분 개사(1) 역할·위치, 제2부분 형용사로 상태 형용하기",
+			"title_b": "제1부분 개사 1 역할 위치 제2부분 형용사로 상태 형용하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "제1부분 개사(2) 시간·장소, 제2부분 형용사로 상태 형용하기",
+			"title_b": "제1부분 개사 2 시간 장소 제2부분 형용사로 상태 형용하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "제1부분 개사(3) 대상",
+			"title_b": "제1부분 개사 3 대상",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "제1부분 개사(4) 방향",
+			"title_b": "제1부분 개사 4 방향",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "제1부분 개사(5) 근거",
+			"title_b": "제1부분 개사 5 근거",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "제1부분 '把'자문",
+			"title_b": "제1부분 ba자문",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "제1부분 '被'자문, 제2부분 명사로 대상 설명하기",
+			"title_b": "제1부분 bei자문 제2부분 명사로 대상 설명하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "제1부분 조사, 제2부분 명사로 대상 설명하기",
+			"title_b": "제1부분 조사 제2부분 명사로 대상 설명하기",
+			"page_name": [
+				"인트로",
+				"실력 다지기 1",
+				"강의 듣기 1",
+				"실력 다지기 2",
+				"강의 듣기 2",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4_bind_part/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "제1부분 연동문·겸어문",
+			"title_b": "제1부분 연동문 겸어문",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "제1부분 관형어·부사어",
+			"title_b": "제1부분 관형어 부사어",
+			"page_name": [
+				"인트로",
+				"실력 다지기",
+				"강의듣기",
+				"단어 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Mini 모의고사 2",
+			"title_b": "Mini 모의고사 2",
+			"page_name": [
+				"인트로",
+				"모의고사",
+				"강의 듣기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Mini 모의고사 2",
+			"title_b": "Mini 모의고사 2",
+			"page_name": [
+				"인트로",
+				"모의고사",
+				"강의 듣기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6626/mp4/d1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

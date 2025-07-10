@@ -1,152 +1,178 @@
-﻿{
-	"content_lan": "일본어",
-	"content_code": "8381",
-	"content_name": "유튜버 민조엥과 떠나는 여행 일본어",
-	"content_sample": "2",
-	"content_chasi": "13",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "일본인과 이야기해 보기",
-			"title_b": "일본인과 이야기해 보기",
-			"page_name": [
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "라멘집에서 돈코츠 라멘 주문하기",
-			"title_b": "라멘집에서 돈코츠 라멘 주문하기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "카페에서 한정판 메뉴 주문하기",
-			"title_b": "카페에서 한정판 메뉴 주문하기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "대중교통 타고 신주쿠 가보기",
-			"title_b": "대중교통 타고 신주쿠 가보기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "편의점에서 과자와 음료 사기",
-			"title_b": "편의점에서 과자와 음료 사기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "전통 료칸에서 숙박하기 1",
-			"title_b": "전통 료칸에서 숙박하기 1",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "전통 료칸에서 숙박하기 2",
-			"title_b": "전통 료칸에서 숙박하기 2",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "이자카야에서 술 마시기",
-			"title_b": "이자카야에서 술 마시기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "쇼핑센터에서 기념품 사기",
-			"title_b": "쇼핑센터에서 기념품 사기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "도쿄타워에서 야경 보기",
-			"title_b": "도쿄타워에서 야경 보기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "아키하바라에서 굿즈 사기",
-			"title_b": "아키하바라에서 굿즈 사기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "아사쿠사에서 기모노 대여하기",
-			"title_b": "아사쿠사에서 기모노 대여하기",
-			"page_name": [
-				"리얼 영상 보기",
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "물건을 잃어버렸을 때, 갑자기 몸이 아플 때",
-			"title_b": "물건을 잃어버렸을 때 갑자기 몸이 아플 때",
-			"page_name": [
-				"강의 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "일본어",
+  "content_code": "8381",
+  "content_name": "유튜버 민조엥과 떠나는 여행 일본어",
+  "content_sample": "2",
+  "content_chasi": "13",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "일본인과 이야기해 보기",
+      "title_b": "일본인과 이야기해 보기",
+      "page_name": [
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "라멘집에서 돈코츠 라멘 주문하기",
+      "title_b": "라멘집에서 돈코츠 라멘 주문하기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "카페에서 한정판 메뉴 주문하기",
+      "title_b": "카페에서 한정판 메뉴 주문하기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "대중교통 타고 신주쿠 가보기",
+      "title_b": "대중교통 타고 신주쿠 가보기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "편의점에서 과자와 음료 사기",
+      "title_b": "편의점에서 과자와 음료 사기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "전통 료칸에서 숙박하기 1",
+      "title_b": "전통 료칸에서 숙박하기 1",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "전통 료칸에서 숙박하기 2",
+      "title_b": "전통 료칸에서 숙박하기 2",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "이자카야에서 술 마시기",
+      "title_b": "이자카야에서 술 마시기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "쇼핑센터에서 기념품 사기",
+      "title_b": "쇼핑센터에서 기념품 사기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "도쿄타워에서 야경 보기",
+      "title_b": "도쿄타워에서 야경 보기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "아키하바라에서 굿즈 사기",
+      "title_b": "아키하바라에서 굿즈 사기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "아사쿠사에서 기모노 대여하기",
+      "title_b": "아사쿠사에서 기모노 대여하기",
+      "page_name": [
+        "리얼 영상 보기",
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "물건을 잃어버렸을 때, 갑자기 몸이 아플 때",
+      "title_b": "물건을 잃어버렸을 때 갑자기 몸이 아플 때",
+      "page_name": [
+        "강의 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8381/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8381/mobile_500k/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

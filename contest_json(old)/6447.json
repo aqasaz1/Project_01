@@ -1,0 +1,291 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6447,
+	"content_name": "세상에서 제일 쉬운 신개념 중국어 중급",
+	"content_sample": "13",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "첫 번째 운전",
+			"title_b": "첫 번째 운전",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "무슨 일로 저를 부르셨나요?",
+			"title_b": "무슨 일로 저를 부르셨나요",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "파란 나뭇잎 하나",
+			"title_b": "파란 나뭇잎 하나",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "그림자",
+			"title_b": "그림자",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "초상화 그리기",
+			"title_b": "초상화 그리기",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "울고 싶으면 우세요.",
+			"title_b": "울고 싶으면 우세요",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "사진은 제가 찍었어요.",
+			"title_b": "사진은 제가 찍었어요",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "인터뷰하기",
+			"title_b": "인터뷰하기",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "위앤룽핑",
+			"title_b": "위앤룽핑",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "행복은 뷔페와 같습니다.",
+			"title_b": "행복은 뷔페와 같습니다",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "수성",
+			"title_b": "수성",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "초 선물하기",
+			"title_b": "초 선물하기",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "부채 팔기",
+			"title_b": "부채 팔기",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "소리 찾기",
+			"title_b": "소리 찾기",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "되돌아온 편지 한 통",
+			"title_b": "되돌아온 편지 한 통",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "자동차의 색깔과 안전",
+			"title_b": "자동차의 색깔과 안전",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "내일은 나오지 마세요.",
+			"title_b": "내일은 나오지 마세요",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "거우부리",
+			"title_b": "거우부리",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "말할 용기가 없어요.",
+			"title_b": "말할 용기가 없어요",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "숫자로 보는 중국",
+			"title_b": "숫자로 보는 중국",
+			"page_name": [
+				"인트로",
+				"문장 듣기",
+				"강의 듣기",
+				"연습 하기",
+				"학습 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6447/mp4/b1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8222",
+	"content_name": "New 나마스떼 힌디어 패턴 회화",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "평서문, 단순의문문",
+			"title_b": "평서문과 단순의문문",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "의문사를 이용한 의문문",
+			"title_b": "의문사를 이용한 의문문",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "명사의 성과 수를 이용한 문장",
+			"title_b": "명사의 성과 수를 이용한 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "형용사를 이용한 문장",
+			"title_b": "형용사를 이용한 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사를 이용한 문장 (1)",
+			"title_b": "동사를 이용한 문장 1",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사를 이용한 문장 (2)",
+			"title_b": "동사를 이용한 문장 2",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사를 이용한 문장 (3)",
+			"title_b": "동사를 이용한 문장 3",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "동사를 이용한 문장 (4)",
+			"title_b": "동사를 이용한 문장 4",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "동사를 이용한 문장 (5)",
+			"title_b": "동사를 이용한 문장 5",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "의문사를 활용한 의문문 (동사 활용)",
+			"title_b": "의문사를 활용한 의문문 동사 활용",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "바람, 가능성에 대한 문장 (조동사)",
+			"title_b": "바람과 가능성에 대한 문장 조동사",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "수동태 문장",
+			"title_b": "수동태 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "관계대명사를 활용한 문장",
+			"title_b": "관계대명사를 활용한 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "가정법을 활용한 문장",
+			"title_b": "가정법을 활용한 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "명령형 문장",
+			"title_b": "명령형 문장",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8222/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,271 +1,321 @@
-﻿{
-	"content_lan": "일본어",
-	"content_code": "8412",
-	"content_name": "나의 첫 도전 일본어 회화 1 : 기초부터 탄탄하게",
-	"content_sample": "4",
-	"content_chasi": "25",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "히라가나 오십음도",
-			"title_b": "히라가나 오십음도",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "가타카나 오십음도",
-			"title_b": "가타카나 오십음도",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "탁음, 반탁음, 장음, 요음, 촉음, 발음",
-			"title_b": "탁음 반탁음 장음 요음 촉음 발음",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "김 씨는 한국인입니다. ",
-			"title_b": "김 씨는 한국인입니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "이 씨는 모델입니까?",
-			"title_b": "이 씨는 모델입니까",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "이것은 책입니다.",
-			"title_b": "이것은 책입니다",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "나의 이름은 린입니다. ",
-			"title_b": "나의 이름은 린입니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "여행은 즐겁습니다. ",
-			"title_b": "여행은 즐겁습니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "자동차는 편리합니다. ",
-			"title_b": "자동차는 편리합니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "어제는 아주 더웠습니다. ",
-			"title_b": "어제는 아주 더웠습니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "학교는 조용했습니다. ",
-			"title_b": "학교는 조용했습니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "숫자, 가격, 날짜, 가족 호칭",
-			"title_b": "숫자 가격 날짜 가족 호칭",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "달걀 5개 주세요.",
-			"title_b": "달걀 5개 주세요",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "업무는 9시부터 5시까지입니다.",
-			"title_b": "업무는 9시부터 5시까지입니다",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "영화와 책 중 어느 쪽이 재미있습니까?",
-			"title_b": "영화와 책 중 어느 쪽이 재미있습니까",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "여동생은 스무 살이고 학생입니다. ",
-			"title_b": "여동생은 스무 살이고 학생입니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "일본어 동사의 구분",
-			"title_b": "일본어 동사의 구분",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "동사의 정중형",
-			"title_b": "동사의 정중형과 부정형",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "오늘 한국에 갑니다. ",
-			"title_b": "오늘 한국에 갑니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "불꽃축제에 가지 않겠습니까?",
-			"title_b": "불꽃축제에 가지 않겠습니까",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "아이스크림을 먹으러 갑니다. ",
-			"title_b": "아이스크림을 먹으러 갑니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "어제 한국 요리를 만들었습니다. ",
-			"title_b": "어제 한국 요리를 만들었습니다 ",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "음악을 들으면서 집에 돌아갑니다. ",
-			"title_b": "음악을 들으면서 집에 돌아갑니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "교실에 책상이 있습니다. ",
-			"title_b": "교실에 책상이 있습니다 ",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "비행기를 타고 싶습니다.",
-			"title_b": "비행기를 타고 싶습니다",
-			"page_name": [
-				"강의",
-				"일본 문화 엿보기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_25h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "일본어",
+  "content_code": "8412",
+  "content_name": "나의 첫 도전 일본어 회화 1 : 기초부터 탄탄하게",
+  "content_sample": "4",
+  "content_chasi": "25",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "히라가나 오십음도",
+      "title_b": "히라가나 오십음도",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "가타카나 오십음도",
+      "title_b": "가타카나 오십음도",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "탁음, 반탁음, 장음, 요음, 촉음, 발음",
+      "title_b": "탁음 반탁음 장음 요음 촉음 발음",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "김 씨는 한국인입니다. ",
+      "title_b": "김 씨는 한국인입니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "이 씨는 모델입니까?",
+      "title_b": "이 씨는 모델입니까",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "이것은 책입니다.",
+      "title_b": "이것은 책입니다",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "나의 이름은 린입니다. ",
+      "title_b": "나의 이름은 린입니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "여행은 즐겁습니다. ",
+      "title_b": "여행은 즐겁습니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "자동차는 편리합니다. ",
+      "title_b": "자동차는 편리합니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "어제는 아주 더웠습니다. ",
+      "title_b": "어제는 아주 더웠습니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "학교는 조용했습니다. ",
+      "title_b": "학교는 조용했습니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "숫자, 가격, 날짜, 가족 호칭",
+      "title_b": "숫자 가격 날짜 가족 호칭",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "달걀 5개 주세요.",
+      "title_b": "달걀 5개 주세요",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "업무는 9시부터 5시까지입니다.",
+      "title_b": "업무는 9시부터 5시까지입니다",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "영화와 책 중 어느 쪽이 재미있습니까?",
+      "title_b": "영화와 책 중 어느 쪽이 재미있습니까",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "여동생은 스무 살이고 학생입니다. ",
+      "title_b": "여동생은 스무 살이고 학생입니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "일본어 동사의 구분",
+      "title_b": "일본어 동사의 구분",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "동사의 정중형",
+      "title_b": "동사의 정중형과 부정형",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "오늘 한국에 갑니다. ",
+      "title_b": "오늘 한국에 갑니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "불꽃축제에 가지 않겠습니까?",
+      "title_b": "불꽃축제에 가지 않겠습니까",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "아이스크림을 먹으러 갑니다. ",
+      "title_b": "아이스크림을 먹으러 갑니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "어제 한국 요리를 만들었습니다. ",
+      "title_b": "어제 한국 요리를 만들었습니다 ",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "음악을 들으면서 집에 돌아갑니다. ",
+      "title_b": "음악을 들으면서 집에 돌아갑니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "교실에 책상이 있습니다. ",
+      "title_b": "교실에 책상이 있습니다 ",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "비행기를 타고 싶습니다.",
+      "title_b": "비행기를 타고 싶습니다",
+      "page_name": [
+        "강의",
+        "일본 문화 엿보기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8412/mp4_bind_part/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8412/mobile_500k/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

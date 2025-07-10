@@ -1,0 +1,401 @@
+{
+	"content_lan": "일본어",
+	"content_code": 7694,
+	"content_name": "혼공족을 위한 일본어 쌩기초 완전 정복",
+	"content_sample": "1/18",
+	"content_chasi": "15/15",
+	"content_size": "1100*650",
+	"content_cm": "이다빈",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "히라가나 50음도",
+			"title_b": "히라가나 50음도",
+			"page_name": [
+				"인트로",
+				"발음 다지기",
+				"문자 다지기",
+				"실력 다지기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "가타카나 50음도",
+			"title_b": "가타카나 50음도",
+			"page_name": [
+				"인트로",
+				"발음 다지기",
+				"문자 다지기",
+				"실력 다지기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "탁음과 반탁음",
+			"title_b": "탁음과 반탁음",
+			"page_name": [
+				"인트로",
+				"발음 다지기",
+				"문자 다지기",
+				"실력 다지기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "요음과 장음",
+			"title_b": "요음과 장음",
+			"page_name": [
+				"인트로",
+				"발음 다지기",
+				"문자 다지기",
+				"실력 다지기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "촉음과 발음",
+			"title_b": "촉음과 발음",
+			"page_name": [
+				"인트로",
+				"발음 다지기",
+				"문자 다지기",
+				"실력 다지기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "문법 - 처음 뵙겠습니다 (1)",
+			"title_b": "처음 뵙겠습니다 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "회화 - 처음 뵙겠습니다 (2)",
+			"title_b": "처음 뵙겠습니다 2 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "문법 - 제 여동생입니다 (1)",
+			"title_b": "제 여동생입니다 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "문법 - 제 여동생입니다 (2)",
+			"title_b": "제 여동생입니다 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "문법 - 제 여동생입니다 (3)",
+			"title_b": "제 여동생입니다 3 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "회화 - 제 여동생입니다 (4)",
+			"title_b": "제 여동생입니다 4 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "문법 - 무엇을 좋아합니까? (1)",
+			"title_b": "무엇을 좋아합니까 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "회화 - 무엇을 좋아합니까? (2)",
+			"title_b": "무엇을 좋아합니까 2 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "문법 - 어디에 있습니까? (1)",
+			"title_b": "어디에 있습니까 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "문법 - 어디에 있습니까? (2)",
+			"title_b": "어디에 있습니까 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "회화 - 어디에 있습니까? (3)",
+			"title_b": "어디에 있습니까 3 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "문법 - 주말에 무엇을 합니까? (1)",
+			"title_b": "주말에 무엇을 합니까 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "문법 - 주말에 무엇을 합니까? (2)",
+			"title_b": "주말에 무엇을 합니까 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "회화 - 주말에 무엇을 합니까? (3)",
+			"title_b": "주말에 무엇을 합니까 3 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "문법 - 식사를 하러 가지 않을래요? (1)",
+			"title_b": "식사를 하러 가지 않겠습니까 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "문법 - 식사를 하러 가지 않을래요? (2)",
+			"title_b": "식사를 하러 가지 않겠습니까 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "회화 - 식사를 하러 가지 않을래요? (3)",
+			"title_b": "식사를 하러 가지 않겠습니까 3 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "문법 - 하라주쿠에서 만나고 싶어요 (1)",
+			"title_b": "하라주쿠에서 만나고 싶어요 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "회화 - 하라주쿠에서 만나고 싶어요 (2)",
+			"title_b": "하라주쿠에서 만나고 싶어요 2 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "문법 - 좋은 곳이네요 (1)",
+			"title_b": "좋은 곳이네요 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "문법 - 좋은 곳이네요 (2)",
+			"title_b": "좋은 곳이네요 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "회화 - 좋은 곳이네요 (3)",
+			"title_b": "좋은 곳이네요 3 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "문법 - 디즈니랜드는 재미있었습니다 (1)",
+			"title_b": "디즈니랜드는 재미있었습니다 1 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "문법 - 디즈니랜드는 재미있었습니다 (2)",
+			"title_b": "디즈니랜드는 재미있었습니다 2 문법 편",
+			"page_name": [
+				"인트로",
+				"문법 다지기",
+				"실력 다지기",
+				"요점 노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4_bind_part/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "회화 - 디즈니랜드는 재미있었습니다 (3)",
+			"title_b": "디즈니랜드는 재미있었습니다 3 회화 편",
+			"page_name": [
+				"인트로",
+				"단어 다지기",
+				"회화 다지기",
+				"회화 완성하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7694/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

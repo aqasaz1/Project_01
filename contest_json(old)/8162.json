@@ -1,0 +1,131 @@
+{
+	"content_lan": "영어",
+	"content_code": 8162,
+	"content_name": "션 오드리의 IDIOM이 뭔대영",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Let’s hit the gym!",
+			"title_b": "Let us hit the gym",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Oh no! I’m running late.",
+			"title_b": "Oh no I am running late",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Sounds like a plan!",
+			"title_b": "Sounds like a plan",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "I’m craving for pizza!",
+			"title_b": "I am craving for pizza",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "It’s okay, pull yourself together.",
+			"title_b": "It is okay pull yourself together",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Let’s grab a drink!",
+			"title_b": "Let us grab a drink",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Oh no! I’m in over my head!",
+			"title_b": "Oh no I am in over my head",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "I’m sick as a dog!",
+			"title_b": "I am sick as a dog",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "What! It’s out of our control!",
+			"title_b": "What It is out of our control",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Relax~ Take a breather!",
+			"title_b": "Relax Take a breather",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8162/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,731 @@
+{
+	"content_lan": "일본어",
+	"content_code": 7949,
+	"content_name": "100% 현지 영상으로 배우는 기초 패턴 일본어",
+	"content_sample": "1/21/41",
+	"content_chasi": "20/20/20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "나는 ~입니다",
+			"title_b": "기초 패턴 1",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "~이 아닙니다",
+			"title_b": "기초 패턴 2",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "~입니까?",
+			"title_b": "기초 패턴 3",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "이쪽 / 그쪽 / 저쪽 / 어느 쪽",
+			"title_b": "기초 패턴 4",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "~의",
+			"title_b": "기초 패턴 5",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "수 읽기",
+			"title_b": "기초 패턴 6",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "시간 표현",
+			"title_b": "기초 패턴 7",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "요일 읽기",
+			"title_b": "기초 패턴 8",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "~부터 ~까지",
+			"title_b": "기초 패턴 9",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "달력 읽기",
+			"title_b": "기초 패턴 10",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "이것 / 그것 / 저것 / 어느 것",
+			"title_b": "기초 패턴 11",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "~였습니다",
+			"title_b": "기초 패턴 12",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "~이/가 아니었습니다",
+			"title_b": "기초 패턴 13",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "な형용사",
+			"title_b": "기초 패턴 14",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "な형용사의 부정형",
+			"title_b": "기초 패턴 15",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "な형용사의 명사 수식형",
+			"title_b": "기초 패턴 16",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "この · その · あの · どの / 가족호칭",
+			"title_b": "기초 패턴 17",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "い형용사",
+			"title_b": "기초 패턴 18",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "い형용사의 부정형",
+			"title_b": "기초 패턴 19",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "い형용사 + 명사",
+			"title_b": "기초 패턴 20",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "큰 수 읽기",
+			"title_b": "기초 패턴 21",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "な형용사의 연결형",
+			"title_b": "기초 패턴 22",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "い형용사의 연결형",
+			"title_b": "기초 패턴 23",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "~을/를 ~합니다",
+			"title_b": "기초 패턴 24",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "~와 ~중 어느 쪽을 ~합니까",
+			"title_b": "기초 패턴 25",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "~보다 ~쪽을 ~합니다",
+			"title_b": "기초 패턴 26",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "な형용사의 과거형",
+			"title_b": "기초 패턴 27",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "な형용사의 과거 부정형",
+			"title_b": "기초 패턴 28",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "い형용사의 과거형",
+			"title_b": "기초 패턴 29",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "い형용사의 과거 부정형",
+			"title_b": "기초 패턴 30",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "~(중)에서 ~이 가장",
+			"title_b": "기초 패턴 31",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "사물의 존재 표현",
+			"title_b": "기초 패턴 32",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "사람이나 동물의 존재 표현",
+			"title_b": "기초 패턴 33",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "위치를 나타내는 말",
+			"title_b": "기초 패턴 34",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "~층",
+			"title_b": "기초 패턴 35",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "사물을 세는 조수사",
+			"title_b": "기초 패턴 36",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "사람을 세는 조수사",
+			"title_b": "기초 패턴 37",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "동사의 ます형",
+			"title_b": "기초 패턴 38",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "동사의 부정형",
+			"title_b": "기초 패턴 39",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "동사의 과거형",
+			"title_b": "기초 패턴 40",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "동사의 과거 부정형",
+			"title_b": "기초 패턴 41",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "조사 に",
+			"title_b": "기초 패턴 42",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "조사 で",
+			"title_b": "기초 패턴 43",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "~하지 않을래요?",
+			"title_b": "기초 패턴 44",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "~할까요?",
+			"title_b": "기초 패턴 45",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "(동사) ~하러 가다",
+			"title_b": "기초 패턴 46",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "(명사) ~하러 가다",
+			"title_b": "기초 패턴 47",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "~하고 싶다",
+			"title_b": "기초 패턴 48",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "~하면서",
+			"title_b": "기초 패턴 49",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "동사의 て형",
+			"title_b": "기초 패턴 50",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "~하고 있습니다",
+			"title_b": "기초 패턴 51",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "~해 주세요",
+			"title_b": "기초 패턴 52",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "동사의 た형",
+			"title_b": "기초 패턴 53",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "~하거나 ~하거나 합니다",
+			"title_b": "기초 패턴 54",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "~해도 됩니까?",
+			"title_b": "기초 패턴 55",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "~하면 안 됩니다",
+			"title_b": "기초 패턴 56",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "~하고 있다",
+			"title_b": "기초 패턴 57",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "~해 두다",
+			"title_b": "기초 패턴 58",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "~해 보다",
+			"title_b": "기초 패턴 59",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "~하는 편이 좋다",
+			"title_b": "기초 패턴 60",
+			"page_name": [
+				"패턴 미리 보기",
+				"기초 패턴 강의",
+				"패턴 따라 하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7949/mp4_bind/z1_60h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

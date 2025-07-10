@@ -1,271 +1,311 @@
 {
-	"content_lan": "중국어",
-	"content_code": 6620,
-	"content_name": "(New) 新HSK 한권으로 끝내기 3급 듣기",
-	"content_sample": "2",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "이희진",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "성조 구분과 발음·의미 구분",
-			"title_b": "성조 구분과 발음 의미 구분",
-			"page_name": [
-				"인트로",
-				"강의듣기 1",
-				"강의듣기 2",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "제1부분 하루의 시작",
-			"title_b": "제1부분 하루의 시작",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "제1부분 주간활동(1) 업무, 학업",
-			"title_b": "제1부분 주간활동 1 업무 학업",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "제1부분 주간활동(2) 집안활동",
-			"title_b": "제1부분 주간활동 2 집안활동",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "제1부분 주간활동(3) 집밖활동",
-			"title_b": "제1부분 주간활동 3 집밖활동",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "제1부분 하루의 끝",
-			"title_b": "제1부분 하루의 끝",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "제2부분 제시된 문장의 옳고 그름 판단",
-			"title_b": "제2부분 제시된 문장의 옳고 그름 판단",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "제2부분 제시된 문장의 옳고 그름 판단",
-			"title_b": "제2부분 제시된 문장의 옳고 그름 판단",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "제3·4부분 직업, 신분, 관계",
-			"title_b": "제3 4부분 직업 신분 관계",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "제3·4부분 직업, 신분, 관계",
-			"title_b": "제3 4부분 직업 신분 관계",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "제3·4부분 위치, 장소",
-			"title_b": "제3 4부분 위치 장소",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "제3·4부분 위치, 장소",
-			"title_b": "제3 4부분 위치 장소",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "제3·4부분 숫자",
-			"title_b": "제3 4부분 숫자",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "제3·4부분 숫자",
-			"title_b": "제3 4부분 숫자",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "제3·4부분 행동, 처리",
-			"title_b": "제3 4부분 행동 처리",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "제3·4부분 행동, 처리",
-			"title_b": "제3 4부분 행동 처리",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "제3·4부분 원인, 목적",
-			"title_b": "제3 4부분 원인 목적",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "제3·4부분 원인, 목적",
-			"title_b": "제3 4부분 원인 목적",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "제3·4부분 의미 파악",
-			"title_b": "제3 4부분 의미 파악",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "제3·4부분 의미 파악",
-			"title_b": "제3 4부분 의미 파악",
-			"page_name": [
-				"인트로",
-				"강의듣기",
-				"실력 다지기",
-				"단어 학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 6620,
+  "content_name": "(New) 新HSK 한권으로 끝내기 3급 듣기",
+  "content_sample": "2",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "이희진",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "성조 구분과 발음·의미 구분",
+      "title_b": "성조 구분과 발음 의미 구분",
+      "page_name": [
+        "인트로",
+        "강의듣기 1",
+        "강의듣기 2",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "제1부분 하루의 시작",
+      "title_b": "제1부분 하루의 시작",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "제1부분 주간활동(1) 업무, 학업",
+      "title_b": "제1부분 주간활동 1 업무 학업",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "제1부분 주간활동(2) 집안활동",
+      "title_b": "제1부분 주간활동 2 집안활동",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "제1부분 주간활동(3) 집밖활동",
+      "title_b": "제1부분 주간활동 3 집밖활동",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "제1부분 하루의 끝",
+      "title_b": "제1부분 하루의 끝",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "제2부분 제시된 문장의 옳고 그름 판단",
+      "title_b": "제2부분 제시된 문장의 옳고 그름 판단",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "제2부분 제시된 문장의 옳고 그름 판단",
+      "title_b": "제2부분 제시된 문장의 옳고 그름 판단",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "제3·4부분 직업, 신분, 관계",
+      "title_b": "제3 4부분 직업 신분 관계",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "제3·4부분 직업, 신분, 관계",
+      "title_b": "제3 4부분 직업 신분 관계",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "제3·4부분 위치, 장소",
+      "title_b": "제3 4부분 위치 장소",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "제3·4부분 위치, 장소",
+      "title_b": "제3 4부분 위치 장소",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "제3·4부분 숫자",
+      "title_b": "제3 4부분 숫자",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "제3·4부분 숫자",
+      "title_b": "제3 4부분 숫자",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "제3·4부분 행동, 처리",
+      "title_b": "제3 4부분 행동 처리",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "제3·4부분 행동, 처리",
+      "title_b": "제3 4부분 행동 처리",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "제3·4부분 원인, 목적",
+      "title_b": "제3 4부분 원인 목적",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "제3·4부분 원인, 목적",
+      "title_b": "제3 4부분 원인 목적",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "제3·4부분 의미 파악",
+      "title_b": "제3 4부분 의미 파악",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "제3·4부분 의미 파악",
+      "title_b": "제3 4부분 의미 파악",
+      "page_name": [
+        "인트로",
+        "강의듣기",
+        "실력 다지기",
+        "단어 학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6620/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6620/mobile/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

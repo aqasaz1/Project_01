@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 6234,
+	"content_name": "Biz English skill up - International",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Obtaining Information about Products",
+			"title_b": "Obtaining Information about Products",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Requesting a Price Reduction",
+			"title_b": "Requesting a Price Reduction",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Order & Delivery",
+			"title_b": "Order and Delivery",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Dealing with Claims",
+			"title_b": "Dealing with Claims",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Greeting Negotiators",
+			"title_b": "Greeting Negotiators",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Establishing Positions",
+			"title_b": "Establishing Positions",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Making Proposals & Bargaining",
+			"title_b": "Making Proposals and Bargaining",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Handling Conflicts & Closing a Negotiation",
+			"title_b": "Handling Conflicts and Closing a Negotiation",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Launching a Product",
+			"title_b": "Launching a Product",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Pricing Strategies & Target Customers",
+			"title_b": "Pricing Strategies and Target Customers",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Distribution Channels & Market Research",
+			"title_b": "Distribution Channels and Market Research",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Product Promotions & Brainstorming",
+			"title_b": "Product Promotions and Brainstorming",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Mergers & Acquisitions",
+			"title_b": "Mergers and Acquisitions",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Budgets & Inflation",
+			"title_b": "Budgets and Inflation",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Discussing Financial Status",
+			"title_b": "Discussing Financial Status",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Discussing Investment Plans",
+			"title_b": "Discussing Investment Plans",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Questions about Products",
+			"title_b": "Questions about Products",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Placing an Order",
+			"title_b": "Placing an Order",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Invoicing",
+			"title_b": "Invoicing",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Handling Complaints",
+			"title_b": "Handling Complaints",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6234/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

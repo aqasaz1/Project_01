@@ -1,491 +1,571 @@
 {
-	"content_lan": "일본어",
-	"content_code": 6723,
-	"content_name": "NEW JPT 한권으로 끝내기 450",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "한정현",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "청해 - 사진묘사 - 사람, 동물(1) / 독해 - い형용사(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "청해 - 사진묘사 - 사람, 동물(2) / 독해 - い형용사(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "청해 - 사진묘사 - 실내 장면(1) / 독해 - い형용사(3)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "청해 - 사진묘사 - 실내 장면(2) / 독해 - な형용사(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "청해 - 사진묘사 - 실내 장면(3) / 독해 - な형용사(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "청해 - 사진묘사 - 실외 풍경(1) / 독해 - 동사I (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "청해 - 사진묘사 - 실외 풍경(2) / 독해 - 동사I (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "청해 - 사진묘사 - 실외 풍경(3) / 독해 - 동사II (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "청해 - 사진묘사 - 실전모의테스트 / 독해 - 동사II (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "청해 - 질의응답 - 의문사가 있는 경우(1) / 독해 - 동사III (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "청해 - 질의응답 - 의문사가 있는 경우(2) / 독해 - 동사III (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "청해 - 질의응답 - 의문사가 있는 경우(3) / 독해 - 동사III (3)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "청해 - 질의응답 - 의문사가 없는 경우(1) / 독해 - 조사I (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "청해 - 질의응답 - 의문사가 없는 경우(2) / 독해 - 조사I (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "청해 - 질의응답 - 의문사가 없는 경우(3) / 독해 - 조사I (3)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "청해 - 질의응답 - 시사, 비즈니스(1) / 독해 - 조사II (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "청해 - 질의응답 - 시사, 비즈니스(2) / 독해 - 조사II (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "청해 - 질의응답 - 시사, 비즈니스(3) / 독해 - 조동사(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "청해 - 질의응답 - 실전모의테스트 / 독해 - 조동사(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "청해 - 회화문 - 일상생활(1)  / 독해 - 조동사(3)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "청해 - PART3 회화문 - 일상생활(2) / 독해 - 형식명사와 명사(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_21h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "청해 - PART3 회화문 - 일상생활(3) / 독해 - 형식명사와 명사(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_22h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "청해 - PART3 회화문 - 관용어, 속담(1) / 독해 - 부사, 접속사",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_23h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "청해 - PART3 회화문 - 관용어, 속담(2) / 독해 - 경어, 의성어·의태어(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_24h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "청해 - PART3 회화문 - 관용어, 속담(3) / 독해 - 경어, 의성어·의태어(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_25h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "청해 - PART3 회화문 - 시사, 비즈니스(1) / 독해 - 관용구, 속담",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_26h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "청해 - PART3 회화문 - 시사, 비즈니스(2) / 독해 - 조건 표현 (1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_27h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "청해 - PART3 회화문 - 시사, 비즈니스(3) / 독해 - 조건 표현 (2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_28h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "청해 - PART3 회화문 - 실전모의테스트 / 독해 - '수'와 관련된 표현",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_29h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "청해 - PART4 설명문 - 일상생활(1) / 독해 - 실전모의테스트(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_30h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "청해 - PART4 설명문 - 일상생활(2) / 독해 - 실전모의테스트(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_31h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "청해 - PART4 설명문 - 일상생활(3) / 독해 - 일기, 생활문",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_32h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "청해 - PART4 설명문 - 시사, 비즈니스(1) / 독해 - 편지, 팩스",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_33h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "청해 - PART4 설명문 - 시사, 비즈니스(2) / 독해 - 광고, 안내문",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_34h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "청해 - PART4 설명문 - 시사, 비즈니스(3) / 독해 - 실전모의테스트(1)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_35h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "청해 - PART4 설명문 - 실전모의테스트 / 독해 - 실전모의테스트(2)",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_36h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "JPT 실전모의고사 - PART1, 5, 6",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_37h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "JPT 실전모의고사 - PART2, 7",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_38h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "JPT 실전모의고사 - PART3, 8",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_39h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "JPT 실전모의고사 - PART4, 8",
-			"title_b": null,
-			"page_name": [
-				"인트로",
-				"청해",
-				"독해"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_40h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 6723,
+  "content_name": "NEW JPT 한권으로 끝내기 450",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "한정현",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "청해 - 사진묘사 - 사람, 동물(1) / 독해 - い형용사(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "청해 - 사진묘사 - 사람, 동물(2) / 독해 - い형용사(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "청해 - 사진묘사 - 실내 장면(1) / 독해 - い형용사(3)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "청해 - 사진묘사 - 실내 장면(2) / 독해 - な형용사(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "청해 - 사진묘사 - 실내 장면(3) / 독해 - な형용사(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "청해 - 사진묘사 - 실외 풍경(1) / 독해 - 동사I (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "청해 - 사진묘사 - 실외 풍경(2) / 독해 - 동사I (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "청해 - 사진묘사 - 실외 풍경(3) / 독해 - 동사II (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "청해 - 사진묘사 - 실전모의테스트 / 독해 - 동사II (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "청해 - 질의응답 - 의문사가 있는 경우(1) / 독해 - 동사III (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "청해 - 질의응답 - 의문사가 있는 경우(2) / 독해 - 동사III (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "청해 - 질의응답 - 의문사가 있는 경우(3) / 독해 - 동사III (3)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "청해 - 질의응답 - 의문사가 없는 경우(1) / 독해 - 조사I (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "청해 - 질의응답 - 의문사가 없는 경우(2) / 독해 - 조사I (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "청해 - 질의응답 - 의문사가 없는 경우(3) / 독해 - 조사I (3)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "청해 - 질의응답 - 시사, 비즈니스(1) / 독해 - 조사II (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "청해 - 질의응답 - 시사, 비즈니스(2) / 독해 - 조사II (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "청해 - 질의응답 - 시사, 비즈니스(3) / 독해 - 조동사(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "청해 - 질의응답 - 실전모의테스트 / 독해 - 조동사(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "청해 - 회화문 - 일상생활(1)  / 독해 - 조동사(3)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "청해 - PART3 회화문 - 일상생활(2) / 독해 - 형식명사와 명사(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "청해 - PART3 회화문 - 일상생활(3) / 독해 - 형식명사와 명사(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "청해 - PART3 회화문 - 관용어, 속담(1) / 독해 - 부사, 접속사",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "청해 - PART3 회화문 - 관용어, 속담(2) / 독해 - 경어, 의성어·의태어(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "청해 - PART3 회화문 - 관용어, 속담(3) / 독해 - 경어, 의성어·의태어(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "청해 - PART3 회화문 - 시사, 비즈니스(1) / 독해 - 관용구, 속담",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "청해 - PART3 회화문 - 시사, 비즈니스(2) / 독해 - 조건 표현 (1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "청해 - PART3 회화문 - 시사, 비즈니스(3) / 독해 - 조건 표현 (2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "청해 - PART3 회화문 - 실전모의테스트 / 독해 - '수'와 관련된 표현",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "청해 - PART4 설명문 - 일상생활(1) / 독해 - 실전모의테스트(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "청해 - PART4 설명문 - 일상생활(2) / 독해 - 실전모의테스트(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "청해 - PART4 설명문 - 일상생활(3) / 독해 - 일기, 생활문",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "청해 - PART4 설명문 - 시사, 비즈니스(1) / 독해 - 편지, 팩스",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "청해 - PART4 설명문 - 시사, 비즈니스(2) / 독해 - 광고, 안내문",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "청해 - PART4 설명문 - 시사, 비즈니스(3) / 독해 - 실전모의테스트(1)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "청해 - PART4 설명문 - 실전모의테스트 / 독해 - 실전모의테스트(2)",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "JPT 실전모의고사 - PART1, 5, 6",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "JPT 실전모의고사 - PART2, 7",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "JPT 실전모의고사 - PART3, 8",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "JPT 실전모의고사 - PART4, 8",
+      "title_b": null,
+      "page_name": [
+        "인트로",
+        "청해",
+        "독해"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6723/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

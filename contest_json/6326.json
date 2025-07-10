@@ -1,311 +1,351 @@
 {
-	"content_lan": "일본어",
-	"content_code": 6326,
-	"content_name": "다락원 Biz 일본어 마스터 이메일 편",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "한정현",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "신규 거래 제의 (1)",
-			"title_b": "신규 거래 제의 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "신규 거래 제의 (2)",
-			"title_b": "신규 거래 제의 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "신규 거래 승낙 (1)",
-			"title_b": "신규 거래 승낙 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "신규 거래 승낙 (2)",
-			"title_b": "신규 거래 승낙 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "주문하기 (1)",
-			"title_b": "주문하기 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "주문하기 (2)",
-			"title_b": "주문하기 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "가격 변경 교섭 (1)",
-			"title_b": "가격 변경 교섭 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "가격 변경 교섭 (2)",
-			"title_b": "가격 변경 교섭 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "지불 청구 (1)",
-			"title_b": "지불 청구 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "지불 청구 (2)",
-			"title_b": "지불 청구 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "납기 지연에 대한 항의 (1)",
-			"title_b": "납기 지연에 대한 항의 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "납기 지연에 대한 항의 (2)",
-			"title_b": "납기 지연에 대한 항의 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "품절 통지 (1)",
-			"title_b": "품절 통지 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "품절 통지 (2)",
-			"title_b": "품절 통지 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "사양서, 견본 송부 의뢰 (1)",
-			"title_b": "사양서 견본 송부 의뢰 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "사양서, 견본 송부 의뢰 (2)",
-			"title_b": "사양서 견본 송부 의뢰 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "특허권 사용 허가 신청 (1)",
-			"title_b": "특허권 사용 허가 신청 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "특허권 사용 허가 신청 (2)",
-			"title_b": "특허권 사용 허가 신청 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "도착품 수량 부족 문의 (1)",
-			"title_b": "도착품 수량 부족 문의 1",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 미리 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "도착품 수량 부족 문의 (2)",
-			"title_b": "도착품 수량 부족 문의 2",
-			"page_name": [
-				"인트로",
-				"이메일 어휘",
-				"이메일 고쳐 보기",
-				"이메일 특강",
-				"이메일 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 6326,
+  "content_name": "다락원 Biz 일본어 마스터 이메일 편",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "한정현",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "신규 거래 제의 (1)",
+      "title_b": "신규 거래 제의 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "신규 거래 제의 (2)",
+      "title_b": "신규 거래 제의 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "신규 거래 승낙 (1)",
+      "title_b": "신규 거래 승낙 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "신규 거래 승낙 (2)",
+      "title_b": "신규 거래 승낙 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "주문하기 (1)",
+      "title_b": "주문하기 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "주문하기 (2)",
+      "title_b": "주문하기 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "가격 변경 교섭 (1)",
+      "title_b": "가격 변경 교섭 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "가격 변경 교섭 (2)",
+      "title_b": "가격 변경 교섭 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "지불 청구 (1)",
+      "title_b": "지불 청구 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "지불 청구 (2)",
+      "title_b": "지불 청구 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "납기 지연에 대한 항의 (1)",
+      "title_b": "납기 지연에 대한 항의 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "납기 지연에 대한 항의 (2)",
+      "title_b": "납기 지연에 대한 항의 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "품절 통지 (1)",
+      "title_b": "품절 통지 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "품절 통지 (2)",
+      "title_b": "품절 통지 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "사양서, 견본 송부 의뢰 (1)",
+      "title_b": "사양서 견본 송부 의뢰 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "사양서, 견본 송부 의뢰 (2)",
+      "title_b": "사양서 견본 송부 의뢰 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "특허권 사용 허가 신청 (1)",
+      "title_b": "특허권 사용 허가 신청 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "특허권 사용 허가 신청 (2)",
+      "title_b": "특허권 사용 허가 신청 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "도착품 수량 부족 문의 (1)",
+      "title_b": "도착품 수량 부족 문의 1",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 미리 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "도착품 수량 부족 문의 (2)",
+      "title_b": "도착품 수량 부족 문의 2",
+      "page_name": [
+        "인트로",
+        "이메일 어휘",
+        "이메일 고쳐 보기",
+        "이메일 특강",
+        "이메일 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6326/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6326/mobile/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,131 +1,151 @@
 {
-	"content_lan": "영어",
-	"content_code": 8143,
-	"content_name": "원예나의 마법패턴",
-	"content_sample": "1",
-	"content_chasi": "10",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "How are you?",
-			"title_b": "How are you",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Where are you?",
-			"title_b": "Where are you",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "What do you do?",
-			"title_b": "What do you do",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "How old are you?",
-			"title_b": "How old are you",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "What a beautiful day!",
-			"title_b": "What a beautiful day",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Show me the money",
-			"title_b": "Show me the money",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Thank you for helping me",
-			"title_b": "Thank you for helping me",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "I'm sorry to hear that",
-			"title_b": "I am sorry to hear that",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "I know it's hard",
-			"title_b": "I know it is hard",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "I'm a boy",
-			"title_b": "I am a boy",
-			"page_name": [
-				"강의 듣기",
-				"패턴 연습",
-				"문장 확인"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 8143,
+  "content_name": "원예나의 마법패턴",
+  "content_sample": "1",
+  "content_chasi": "10",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "How are you?",
+      "title_b": "How are you",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Where are you?",
+      "title_b": "Where are you",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "What do you do?",
+      "title_b": "What do you do",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "How old are you?",
+      "title_b": "How old are you",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "What a beautiful day!",
+      "title_b": "What a beautiful day",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Show me the money",
+      "title_b": "Show me the money",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Thank you for helping me",
+      "title_b": "Thank you for helping me",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "I'm sorry to hear that",
+      "title_b": "I am sorry to hear that",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "I know it's hard",
+      "title_b": "I know it is hard",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "I'm a boy",
+      "title_b": "I am a boy",
+      "page_name": [
+        "강의 듣기",
+        "패턴 연습",
+        "문장 확인"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8143/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8143/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

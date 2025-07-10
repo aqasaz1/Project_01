@@ -1,431 +1,501 @@
-﻿{
-	"content_lan": "영어",
-	"content_code": "8373",
-	"content_name": "[야나두]영어가 쉬워지는 원예나의 앞자리 영어",
-	"content_sample": "1/22",
-	"content_chasi": "21/14",
-	"content_size": "1000*650",
-	"content_cm": "신화정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "결론부터 말하기",
-			"title_b": "결론부터 말하기",
-			"page_name": [
-				"OT",
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "단수 복수 말하기",
-			"title_b": "단수 복수 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "현재 동작 말하기",
-			"title_b": "현재 동작 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "과거 동작 말하기",
-			"title_b": "과거 동작 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "현재 상태 말하기",
-			"title_b": "현재 상태 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "과거 상태 말하기",
-			"title_b": "과거 상태 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "앞자리 총정리",
-			"title_b": "앞자리 총정리",
-			"page_name": [
-				"Lecture",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "허락 말하기",
-			"title_b": "허락 말하기",
-			"page_name": [
-				"OT",
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "의지 말하기",
-			"title_b": "의지 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "의무 말하기",
-			"title_b": "의무 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "원함 말하기",
-			"title_b": "원함 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "요청 말하기",
-			"title_b": "요청 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "추측 말하기",
-			"title_b": "추측 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "느낌동사 총정리",
-			"title_b": "느낌동사 총정리",
-			"page_name": [
-				"Lecture",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "현재 말하기",
-			"title_b": "현재 말하기",
-			"page_name": [
-				"OT",
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "미래 말하기 1",
-			"title_b": "미래 말하기 1",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "진행 말하기",
-			"title_b": "진행 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "근황 말하기",
-			"title_b": "근황 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "미래 말하기 2",
-			"title_b": "미래 말하기 2",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "경험 말하기",
-			"title_b": "경험 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "시제 총정리",
-			"title_b": "시제 총정리",
-			"page_name": [
-				"Lecture",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "장소 늘려 말하기",
-			"title_b": "장소 늘려 말하기",
-			"page_name": [
-				"OT",
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "시간 늘려 말하기",
-			"title_b": "시간 늘려 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "동시 상황 늘려 말하기",
-			"title_b": "동시 상황 늘려 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "접속사로 늘려 말하기 1",
-			"title_b": "접속사로 늘려 말하기 1",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "접속사로 늘려 말하기 2",
-			"title_b": "접속사로 늘려 말하기 2",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "접속사로 늘려 말하기 3",
-			"title_b": "접속사로 늘려 말하기 3",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "뒷자리 1 총정리",
-			"title_b": "뒷자리 1 총정리",
-			"page_name": [
-				"Lecture",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "to로 늘려 말하기 1",
-			"title_b": "to로 늘려 말하기 1",
-			"page_name": [
-				"OT",
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "to로 늘려 말하기 2",
-			"title_b": "to로 늘려 말하기 2",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "to로 늘려 말하기 3",
-			"title_b": "to로 늘려 말하기 3",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "사람, 사물 늘려 말하기",
-			"title_b": "사람 사물 늘려 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "ing로 늘려 말하기",
-			"title_b": "ing로 늘려 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "pp로 늘려 말하기",
-			"title_b": "pp로 늘려 말하기",
-			"page_name": [
-				"Lecture",
-				"Training",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "뒷자리 2 총정리",
-			"title_b": "뒷자리 2 총정리",
-			"page_name": [
-				"Lecture",
-				"Practice"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "영어",
+  "content_code": "8373",
+  "content_name": "[야나두]영어가 쉬워지는 원예나의 앞자리 영어",
+  "content_sample": "1/22",
+  "content_chasi": "21/14",
+  "content_size": "1000*650",
+  "content_cm": "신화정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "결론부터 말하기",
+      "title_b": "결론부터 말하기",
+      "page_name": [
+        "OT",
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "단수 복수 말하기",
+      "title_b": "단수 복수 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "현재 동작 말하기",
+      "title_b": "현재 동작 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "과거 동작 말하기",
+      "title_b": "과거 동작 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "현재 상태 말하기",
+      "title_b": "현재 상태 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "과거 상태 말하기",
+      "title_b": "과거 상태 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "앞자리 총정리",
+      "title_b": "앞자리 총정리",
+      "page_name": [
+        "Lecture",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "허락 말하기",
+      "title_b": "허락 말하기",
+      "page_name": [
+        "OT",
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "의지 말하기",
+      "title_b": "의지 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "의무 말하기",
+      "title_b": "의무 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "원함 말하기",
+      "title_b": "원함 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "요청 말하기",
+      "title_b": "요청 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "추측 말하기",
+      "title_b": "추측 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "느낌동사 총정리",
+      "title_b": "느낌동사 총정리",
+      "page_name": [
+        "Lecture",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "현재 말하기",
+      "title_b": "현재 말하기",
+      "page_name": [
+        "OT",
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "미래 말하기 1",
+      "title_b": "미래 말하기 1",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "진행 말하기",
+      "title_b": "진행 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "근황 말하기",
+      "title_b": "근황 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "미래 말하기 2",
+      "title_b": "미래 말하기 2",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "경험 말하기",
+      "title_b": "경험 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "시제 총정리",
+      "title_b": "시제 총정리",
+      "page_name": [
+        "Lecture",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step1/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "장소 늘려 말하기",
+      "title_b": "장소 늘려 말하기",
+      "page_name": [
+        "OT",
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "시간 늘려 말하기",
+      "title_b": "시간 늘려 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "동시 상황 늘려 말하기",
+      "title_b": "동시 상황 늘려 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "접속사로 늘려 말하기 1",
+      "title_b": "접속사로 늘려 말하기 1",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "접속사로 늘려 말하기 2",
+      "title_b": "접속사로 늘려 말하기 2",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "접속사로 늘려 말하기 3",
+      "title_b": "접속사로 늘려 말하기 3",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "뒷자리 1 총정리",
+      "title_b": "뒷자리 1 총정리",
+      "page_name": [
+        "Lecture",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "to로 늘려 말하기 1",
+      "title_b": "to로 늘려 말하기 1",
+      "page_name": [
+        "OT",
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "to로 늘려 말하기 2",
+      "title_b": "to로 늘려 말하기 2",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "to로 늘려 말하기 3",
+      "title_b": "to로 늘려 말하기 3",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "사람, 사물 늘려 말하기",
+      "title_b": "사람 사물 늘려 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "ing로 늘려 말하기",
+      "title_b": "ing로 늘려 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "pp로 늘려 말하기",
+      "title_b": "pp로 늘려 말하기",
+      "page_name": [
+        "Lecture",
+        "Training",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "뒷자리 2 총정리",
+      "title_b": "뒷자리 2 총정리",
+      "page_name": [
+        "Lecture",
+        "Practice"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8373/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8373/mobile_500k/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,691 +1,771 @@
 {
-	"content_lan": "영어",
-	"content_code": 7073,
-	"content_name": "네이티브는 쉬운 영어로 말한다 - 1000문장 편",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "네이티브가 입에 달고 사는 한마디 0001~0025",
-			"title_b": "네이티브가 입에 달고 사는 한마디 0001에서 0025까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "네이티브가 입에 달고 사는 한마디 0026~0050",
-			"title_b": "네이티브가 입에 달고 사는 한마디 0026에서 0050까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "네이티브가 입에 달고 사는 한마디 0051~0075",
-			"title_b": "네이티브가 입에 달고 사는 한마디 0051에서 0075까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "네이티브가 입에 달고 사는 한마디 0076~0100",
-			"title_b": "네이티브가 입에 달고 사는 한마디 0076에서 0100까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "네이티브가 리액션할 때 쓰는 표현 0101~0125",
-			"title_b": "네이티브가 리액션할 때 쓰는 표현 0101에서 0125까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "네이티브가 리액션할 때 쓰는 표현 0126~0150",
-			"title_b": "네이티브가 리액션할 때 쓰는 표현 0126에서 0150까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "네이티브가 리액션할 때 쓰는 표현 0151~0175",
-			"title_b": "네이티브가 리액션할 때 쓰는 표현 0151에서 0175까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "네이티브가 리액션할 때 쓰는 표현 0176~0200",
-			"title_b": "네이티브가 리액션할 때 쓰는 표현 0176에서 0200까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0201~0225",
-			"title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0201에서 0225까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0226~0250",
-			"title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0226에서 0250까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0251~0275",
-			"title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0251에서 0275까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0276~0300",
-			"title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0276에서 0300까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0301~0325",
-			"title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0301에서 0325까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0326~0350",
-			"title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0326에서 0350까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0351~0375",
-			"title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0351에서 0375까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0376~0400",
-			"title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0376에서 0400까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0401~0425",
-			"title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0401에서 0425까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0426~0450",
-			"title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0426에서 0450까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0451~0475",
-			"title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0451에서 0475까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0476~0500",
-			"title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0476에서 0500까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0501~0525",
-			"title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0501에서 0525까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0526~0550",
-			"title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0526에서 0550까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0551~0575",
-			"title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0551에서 0575까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0576~0600",
-			"title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0576에서 0600까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0601~0625",
-			"title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0601에서 0625까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0626~0650",
-			"title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0626에서 0650까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0651~0675",
-			"title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0651에서 0675까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0676~0700",
-			"title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0676에서 0700까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0701~0725",
-			"title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0701에서 0725까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0726~0750",
-			"title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0726에서 0750까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0751~0775",
-			"title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0751에서 0775까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0776~0800",
-			"title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0776에서 0800까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "네이티브가 연애할 때 쓰는 표현 0801~0825",
-			"title_b": "네이티브가 연애할 때 쓰는 표현 0801에서 0825까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "네이티브가 연애할 때 쓰는 표현 0826~0850",
-			"title_b": "네이티브가 연애할 때 쓰는 표현 0826에서 0850까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "네이티브가 연애할 때 쓰는 표현 0851~0875",
-			"title_b": "네이티브가 연애할 때 쓰는 표현 0851에서 0875까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "네이티브가 연애할 때 쓰는 표현 0876~0900",
-			"title_b": "네이티브가 연애할 때 쓰는 표현 0876에서 0900까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "네이티브가 직장에서 쓰는 표현 0901~0925",
-			"title_b": "네이티브가 직장에서 쓰는 표현 0901에서 0925까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "네이티브가 직장에서 쓰는 표현 0926~0950",
-			"title_b": "네이티브가 직장에서 쓰는 표현 0926에서 0950까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "네이티브가 직장에서 쓰는 표현 0951~0975",
-			"title_b": "네이티브가 직장에서 쓰는 표현 0951에서 0975까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "네이티브가 직장에서 쓰는 표현 0976~1000",
-			"title_b": "네이티브가 직장에서 쓰는 표현 0976에서 1000까지",
-			"page_name": [
-				"인트로",
-				"강의 1",
-				"강의 2",
-				"강의 3",
-				"강의 4",
-				"강의 5",
-				"퀴즈",
-				"정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7073,
+  "content_name": "네이티브는 쉬운 영어로 말한다 - 1000문장 편",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "네이티브가 입에 달고 사는 한마디 0001~0025",
+      "title_b": "네이티브가 입에 달고 사는 한마디 0001에서 0025까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "네이티브가 입에 달고 사는 한마디 0026~0050",
+      "title_b": "네이티브가 입에 달고 사는 한마디 0026에서 0050까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "네이티브가 입에 달고 사는 한마디 0051~0075",
+      "title_b": "네이티브가 입에 달고 사는 한마디 0051에서 0075까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "네이티브가 입에 달고 사는 한마디 0076~0100",
+      "title_b": "네이티브가 입에 달고 사는 한마디 0076에서 0100까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "네이티브가 리액션할 때 쓰는 표현 0101~0125",
+      "title_b": "네이티브가 리액션할 때 쓰는 표현 0101에서 0125까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "네이티브가 리액션할 때 쓰는 표현 0126~0150",
+      "title_b": "네이티브가 리액션할 때 쓰는 표현 0126에서 0150까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "네이티브가 리액션할 때 쓰는 표현 0151~0175",
+      "title_b": "네이티브가 리액션할 때 쓰는 표현 0151에서 0175까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "네이티브가 리액션할 때 쓰는 표현 0176~0200",
+      "title_b": "네이티브가 리액션할 때 쓰는 표현 0176에서 0200까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0201~0225",
+      "title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0201에서 0225까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0226~0250",
+      "title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0226에서 0250까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0251~0275",
+      "title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0251에서 0275까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "네이티브가 친구끼리 막말할 때 쓰는 표현 0276~0300",
+      "title_b": "네이티브가 친구끼리 막말할 때 쓰는 표현 0276에서 0300까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0301~0325",
+      "title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0301에서 0325까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0326~0350",
+      "title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0326에서 0350까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0351~0375",
+      "title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0351에서 0375까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "네이티브가 감정, 상태를 표현할 때 쓰는 표현 0376~0400",
+      "title_b": "네이티브가 감정 상태를 표현할 때 쓰는 표현 0376에서 0400까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0401~0425",
+      "title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0401에서 0425까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0426~0450",
+      "title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0426에서 0450까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0451~0475",
+      "title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0451에서 0475까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "네이티브가 일상생활에서 자주 쓰는 표현 0476~0500",
+      "title_b": "네이티브가 일상생활에서 자주 쓰는 표현 0476에서 0500까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0501~0525",
+      "title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0501에서 0525까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0526~0550",
+      "title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0526에서 0550까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0551~0575",
+      "title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0551에서 0575까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "네이티브가 개인사를 말할 때 쓰는 표현 0576~0600",
+      "title_b": "네이티브가 개인사를 말할 때 쓰는 표현 0576에서 0600까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0601~0625",
+      "title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0601에서 0625까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0626~0650",
+      "title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0626에서 0650까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0651~0675",
+      "title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0651에서 0675까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "네이티브가 취미, 관심사를 말할 때 쓰는 표현 0676~0700",
+      "title_b": "네이티브가 취미 관심사를 말할 때 쓰는 표현 0676에서 0700까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0701~0725",
+      "title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0701에서 0725까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0726~0750",
+      "title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0726에서 0750까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0751~0775",
+      "title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0751에서 0775까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "네이티브가 스마트폰, SNS에서 쓰는 표현 0776~0800",
+      "title_b": "네이티브가 스마트폰 SNS에서 쓰는 표현 0776에서 0800까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "네이티브가 연애할 때 쓰는 표현 0801~0825",
+      "title_b": "네이티브가 연애할 때 쓰는 표현 0801에서 0825까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "네이티브가 연애할 때 쓰는 표현 0826~0850",
+      "title_b": "네이티브가 연애할 때 쓰는 표현 0826에서 0850까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "네이티브가 연애할 때 쓰는 표현 0851~0875",
+      "title_b": "네이티브가 연애할 때 쓰는 표현 0851에서 0875까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "네이티브가 연애할 때 쓰는 표현 0876~0900",
+      "title_b": "네이티브가 연애할 때 쓰는 표현 0876에서 0900까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "네이티브가 직장에서 쓰는 표현 0901~0925",
+      "title_b": "네이티브가 직장에서 쓰는 표현 0901에서 0925까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "네이티브가 직장에서 쓰는 표현 0926~0950",
+      "title_b": "네이티브가 직장에서 쓰는 표현 0926에서 0950까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "네이티브가 직장에서 쓰는 표현 0951~0975",
+      "title_b": "네이티브가 직장에서 쓰는 표현 0951에서 0975까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "네이티브가 직장에서 쓰는 표현 0976~1000",
+      "title_b": "네이티브가 직장에서 쓰는 표현 0976에서 1000까지",
+      "page_name": [
+        "인트로",
+        "강의 1",
+        "강의 2",
+        "강의 3",
+        "강의 4",
+        "강의 5",
+        "퀴즈",
+        "정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7073/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7073/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

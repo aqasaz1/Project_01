@@ -1,370 +1,432 @@
 {
-	"content_lan": "영어",
-	"content_code": "8283",
-	"content_name": "맨처음 토익 LC 실력편 800+",
-	"content_sample": "1/21",
-	"content_chasi": "15/16",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Part 1 실내 업무 및 실외 작업 관련 사진",
-			"title_b": "Part 1 실내 업무 및 실외 작업 관련 사진",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Part 1 쇼핑, 식당, 숙박, 여가 관련 사진",
-			"title_b": "Part 1 쇼핑 식당 숙박 여가 관련 사진",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Part 1 가사, 주택, 공공장소 관련 사진",
-			"title_b": "Part 1 가사 주택 공공장소 관련 사진",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Part 1 실전 문제 연습",
-			"title_b": "Part 1 실전 문제 연습",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Part 2 질문 I",
-			"title_b": "Part 2 질문 I",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Part 2 질문 II",
-			"title_b": "Part 2 질문 II",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Part 2 연습 문제 I",
-			"title_b": "Part 2 연습 문제 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Part 2 요청, 제안 및 부탁",
-			"title_b": "Part 2 요청 제안 및 부탁",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Part 2 의견 구하기",
-			"title_b": "Part 2 의견 구하기",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Part 2 확인 및 정보의 전달",
-			"title_b": "Part 2 확인 및 정보의 전달",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Part 2 연습 문제 II",
-			"title_b": "Part 2 연습 문제 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Part 2 실전 문제 연습 I",
-			"title_b": "Part 2 실전 문제 연습 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Part 2 실전 문제 연습 II",
-			"title_b": "Part 2 실전 문제 연습 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Part 3 비즈니스 관련 I",
-			"title_b": "Part 3 비즈니스 관련 I",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Part 3 비즈니스 관련 II",
-			"title_b": "Part 3 비즈니스 관련 II",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Part 3 비즈니스 관련 III",
-			"title_b": "Part 3 비즈니스 관련 III",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Part 3 연습 문제 I",
-			"title_b": "Part 3 연습 문제 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Part 3 일상 생활",
-			"title_b": "Part 3 일상 생활",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Part 3 여가 생활 및 기타",
-			"title_b": "Part 3 여가 생활 및 기타",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Part 3 연습 문제 II",
-			"title_b": "Part 3 연습 문제 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "Part 3 실전 문제 연습 I",
-			"title_b": "Part 3 실전 문제 연습 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "Part 3 실전 문제 연습 II",
-			"title_b": "Part 3 실전 문제 연습 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "Part 4 공지 및 안내",
-			"title_b": "Part 4 공지 및 안내",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Part 4 발표 및 소개",
-			"title_b": "Part 4 발표 및 소개",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Part 4 연습 문제 I",
-			"title_b": "Part 4 연습 문제 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Part 4 전화",
-			"title_b": "Part 4 전화",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "Part 4 방송",
-			"title_b": "Part 4 방송",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Part 4 광고 및 기타",
-			"title_b": "Part 4 광고 및 기타",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "Part 4 연습 문제 II",
-			"title_b": "Part 4 연습 문제 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "Part 4 실전 문제 연습 I",
-			"title_b": "Part 4 실전 문제 연습 I",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "Part 4 실전 문제 연습 II",
-			"title_b": "Part 4 실전 문제 연습 II",
-			"page_name": [
-				"문제풀기",
-				"실력다지기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8283",
+  "content_name": "맨처음 토익 LC 실력편 800+",
+  "content_sample": "1/21",
+  "content_chasi": "15/16",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Part 1 실내 업무 및 실외 작업 관련 사진",
+      "title_b": "Part 1 실내 업무 및 실외 작업 관련 사진",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Part 1 쇼핑, 식당, 숙박, 여가 관련 사진",
+      "title_b": "Part 1 쇼핑 식당 숙박 여가 관련 사진",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Part 1 가사, 주택, 공공장소 관련 사진",
+      "title_b": "Part 1 가사 주택 공공장소 관련 사진",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Part 1 실전 문제 연습",
+      "title_b": "Part 1 실전 문제 연습",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Part 2 질문 I",
+      "title_b": "Part 2 질문 I",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Part 2 질문 II",
+      "title_b": "Part 2 질문 II",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Part 2 연습 문제 I",
+      "title_b": "Part 2 연습 문제 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Part 2 요청, 제안 및 부탁",
+      "title_b": "Part 2 요청 제안 및 부탁",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Part 2 의견 구하기",
+      "title_b": "Part 2 의견 구하기",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Part 2 확인 및 정보의 전달",
+      "title_b": "Part 2 확인 및 정보의 전달",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Part 2 연습 문제 II",
+      "title_b": "Part 2 연습 문제 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Part 2 실전 문제 연습 I",
+      "title_b": "Part 2 실전 문제 연습 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Part 2 실전 문제 연습 II",
+      "title_b": "Part 2 실전 문제 연습 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Part 3 비즈니스 관련 I",
+      "title_b": "Part 3 비즈니스 관련 I",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Part 3 비즈니스 관련 II",
+      "title_b": "Part 3 비즈니스 관련 II",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Part 3 비즈니스 관련 III",
+      "title_b": "Part 3 비즈니스 관련 III",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Part 3 연습 문제 I",
+      "title_b": "Part 3 연습 문제 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Part 3 일상 생활",
+      "title_b": "Part 3 일상 생활",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Part 3 여가 생활 및 기타",
+      "title_b": "Part 3 여가 생활 및 기타",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Part 3 연습 문제 II",
+      "title_b": "Part 3 연습 문제 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "Part 3 실전 문제 연습 I",
+      "title_b": "Part 3 실전 문제 연습 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "Part 3 실전 문제 연습 II",
+      "title_b": "Part 3 실전 문제 연습 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "Part 4 공지 및 안내",
+      "title_b": "Part 4 공지 및 안내",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Part 4 발표 및 소개",
+      "title_b": "Part 4 발표 및 소개",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Part 4 연습 문제 I",
+      "title_b": "Part 4 연습 문제 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Part 4 전화",
+      "title_b": "Part 4 전화",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "Part 4 방송",
+      "title_b": "Part 4 방송",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Part 4 광고 및 기타",
+      "title_b": "Part 4 광고 및 기타",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4_bind_part/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "Part 4 연습 문제 II",
+      "title_b": "Part 4 연습 문제 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "Part 4 실전 문제 연습 I",
+      "title_b": "Part 4 실전 문제 연습 I",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "Part 4 실전 문제 연습 II",
+      "title_b": "Part 4 실전 문제 연습 II",
+      "page_name": [
+        "문제풀기",
+        "실력다지기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8283/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8283/mobile_500k/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

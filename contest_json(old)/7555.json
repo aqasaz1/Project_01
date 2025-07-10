@@ -1,0 +1,291 @@
+{
+	"content_lan": "일본어",
+	"content_code": 7555,
+	"content_name": "100% 현지 영상으로 배우는 여행 일본어",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이다빈",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "알아두면 좋은 일본어 기초 표현",
+			"title_b": "알아두면 좋은 일본어 기초 표현",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "출발·도착 (1)",
+			"title_b": "출발 도착 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "출발·도착 (2)",
+			"title_b": "출발 도착 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "교통 (1)",
+			"title_b": "교통 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "교통 (2)",
+			"title_b": "교통 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "교통 (3)",
+			"title_b": "교통 3",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "호텔 (1)",
+			"title_b": "호텔 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "호텔 (2)",
+			"title_b": "호텔 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "식당 (1)",
+			"title_b": "식당 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "식당 (2)",
+			"title_b": "식당 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "식당 (3)",
+			"title_b": "식당 3",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "식당 (4)",
+			"title_b": "식당 4",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "관광 (1)",
+			"title_b": "관광 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "관광 (2)",
+			"title_b": "관광 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "쇼핑 (1)",
+			"title_b": "쇼핑 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "쇼핑 (2)",
+			"title_b": "쇼핑 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "쇼핑 (3)",
+			"title_b": "쇼핑 3",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "비상시 (1)",
+			"title_b": "비상시 1",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "비상시 (2)",
+			"title_b": "비상시 2",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "귀국",
+			"title_b": "귀국",
+			"page_name": [
+				"인트로",
+				"현지 특파원",
+				"일본어 가이드",
+				"초밀착 동행 일본어",
+				"표현 쏘아 올리기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7555/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

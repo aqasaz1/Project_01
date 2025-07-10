@@ -1,0 +1,411 @@
+{
+	"content_lan": "영어",
+	"content_code": 8235,
+	"content_name": "Let's Role-Play! 말하면서 배우는 비즈 영어",
+	"content_sample": "7/26",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "박지혜",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Say that again?",
+			"title_b": "Say that again",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Who’s calling, please?",
+			"title_b": "Who is calling please",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Sorry for the delay.",
+			"title_b": "Sorry for the delay",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "We're targeting single women.",
+			"title_b": "We are targeting single women",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "How was your trip?",
+			"title_b": "How was your trip",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "I don't get it.",
+			"title_b": "I do not get it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "I can't help it.",
+			"title_b": "I can not help it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Are freight costs included?",
+			"title_b": "Are freight costs included",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "The difference is huge.",
+			"title_b": "The difference is huge",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Where shall we start?",
+			"title_b": "Where shall we start",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Can you double-check?",
+			"title_b": "Can you double check",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "The payment is due.",
+			"title_b": "The payment is due",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Well, there's an issue.",
+			"title_b": "Well there is an issue",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Can you make it?",
+			"title_b": "Can you make it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "I'll think about it.",
+			"title_b": "I will think about it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "The numbers look strange.",
+			"title_b": "The numbers look strange",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "We're making no progress.",
+			"title_b": "We are making no progress",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "We'll wait and see.",
+			"title_b": "We will wait and see",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Go on. I'm listening.",
+			"title_b": "Go on I am listening",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "What are the conditions?",
+			"title_b": "What are the conditions",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "The price is fixed.",
+			"title_b": "The price is fixed",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "I'll have it done.",
+			"title_b": "I will have it done",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "When is it over?",
+			"title_b": "When is it over",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Has the invoice been issued?",
+			"title_b": "Has the invoice been issued",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Can you quote the following?",
+			"title_b": "Can you quote the following",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Sorry, I can’t do it.",
+			"title_b": "Sorry I can not do it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Please pay within 2 weeks.",
+			"title_b": "Please pay within 2 weeks",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "We need a down payment.",
+			"title_b": "We need a down payment",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "I'll leave it to you.",
+			"title_b": "I will leave it to you",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Do you have the details?",
+			"title_b": "Do you have the details",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Could you explain in detail?",
+			"title_b": "Could you explain in detail",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "I'm on a tight schedule.",
+			"title_b": "I am on a tight schedule",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "Can we close the deal?",
+			"title_b": "Can we close the deal",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Can you offer a discount?",
+			"title_b": "Can you offer a discount",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "Can I track my order?",
+			"title_b": "Can I track my order",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "That's been taken care of.",
+			"title_b": "That is been taken care of",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "That was not the deal.",
+			"title_b": "That was not the deal",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "I'm looking for Mr. Sanchez.",
+			"title_b": "I am looking for Mr Sanchez",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Let me deal with it.",
+			"title_b": "Let me deal with it",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "The conditions were not met.",
+			"title_b": "The conditions were not met",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8235/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

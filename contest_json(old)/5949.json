@@ -1,0 +1,267 @@
+{
+	"content_lan": "영어",
+	"content_code": 5949,
+	"content_name": "야나두 기초 영어 2탄-느낌 전달",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "기본 동사 get으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의 1",
+				"강의 2",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "기본 동사 have로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "기본 동사 take로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "기본 동사 훈련",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "지각 동사로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "사역동사로 말하기 1",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "사역동사로 말하기 2",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "과거형으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의 1",
+				"강의 2",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "현재형으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "미래형으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "시제 훈련 1",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "과거진행으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "현재진행으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "미래진행으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "시제 훈련 2",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "과거완료로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "현재완료로 말하기 1",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "현재완료로 말하기 2",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "미래완료로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "현재완료진행으로 말하기",
+			"title_b": null,
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5949/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

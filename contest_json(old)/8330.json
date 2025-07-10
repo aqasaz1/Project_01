@@ -1,0 +1,412 @@
+{
+	"content_lan": "영어",
+	"content_code": "8330",
+	"content_name": "영어 낭독 5단계 트레이닝",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "백화점 카드 광고",
+			"title_b": "백화점 카드 광고",
+			"page_name": [
+				"OT",
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "화장품 광고",
+			"title_b": "화장품 광고",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "종이 호일 광고",
+			"title_b": "종이 호일 광고",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "숙박 시설 광고",
+			"title_b": "숙박 시설 광고",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "온라인 쇼핑몰 구매 후기",
+			"title_b": "온라인 쇼핑몰 구매 후기",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "SNS에 남긴 여행 후기",
+			"title_b": "SNS에 남긴 여행 후기",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "파스타 레시피",
+			"title_b": "파스타 레시피",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "제품 설명서",
+			"title_b": "제품 설명서",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "아픈 증상 묘사하기",
+			"title_b": "아픈 증상 묘사하기",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "약 복용법",
+			"title_b": "약 복용법",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "호텔 취소 약관",
+			"title_b": "호텔 취소 약관",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "고객만족도 설문 조사",
+			"title_b": "고객만족도 설문 조사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "임대 설문 조사",
+			"title_b": "임대 설문 조사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "윤여정 아카데미상 수상 소감",
+			"title_b": "윤여정 아카데미상 수상 소감",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "마틴 루터 킹 노벨상 수상 소감",
+			"title_b": "마틴 루터 킹 노벨상 수상 소감",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "스티브 잡스 졸업 연설",
+			"title_b": "스티브 잡스 졸업 연설",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "메릴 스트립 인터뷰",
+			"title_b": "메릴 스트립 인터뷰",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "마크 트웨인 명언",
+			"title_b": "마크 트웨인 명언",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "유명인사 명언",
+			"title_b": "유명인사 명언",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "영화 <어 퓨 굿 맨>",
+			"title_b": "영화 어 퓨 굿 맨",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "영화 <티파니에서 아침을>",
+			"title_b": "영화 티파니에서 아침을",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "어린 왕자",
+			"title_b": "어린 왕자",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "이상한 나라의 앨리스",
+			"title_b": "이상한 나라의 앨리스",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "오만과 편견",
+			"title_b": "오만과 편견",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "성경-전도서",
+			"title_b": "성경 전도서",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "오 헨리의 크리스마스 선물",
+			"title_b": "오 헨리의 크리스마스 선물",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "위대한 개츠비",
+			"title_b": "위대한 개츠비",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "꼬마 게와 엄마 게",
+			"title_b": "꼬마 게와 엄마 게",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "황금알을 낳는 거위",
+			"title_b": "황금알을 낳는 거위",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "공작과 두루미",
+			"title_b": "공작과 두루미",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "개미와 비둘기",
+			"title_b": "개미와 비둘기",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "수사슴과 그의 반사된 모습",
+			"title_b": "수사슴과 그의 반사된 모습",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "행동이 나쁜 개",
+			"title_b": "행동이 나쁜 개",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "여행자들과 지갑",
+			"title_b": "여행자들과 지갑",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "일기 예보",
+			"title_b": "일기 예보",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "환경 기사",
+			"title_b": "환경 기사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "생활 기사",
+			"title_b": "생활 기사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "안전 기사",
+			"title_b": "안전 기사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "사회 기사",
+			"title_b": "사회 기사",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "정치 뉴스",
+			"title_b": "정치 뉴스",
+			"page_name": [
+				"LECTURE"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8330/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

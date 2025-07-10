@@ -1,131 +1,151 @@
 {
-	"content_lan": "영어",
-	"content_code": "8499",
-	"content_name": "핵심만 콕 집어주는, 무조건 토익스피킹 실전대비 모의고사",
-	"content_sample": "1",
-	"content_chasi": "10",
-	"content_size": "1170*658",
-	"content_cm": "김태우",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Actual Test 1 - PART1",
-			"title_b": "Actual Test 1  PART1",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_01.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Actual Test 1 - PART2",
-			"title_b": "Actual Test 1  PART2",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_02.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Actual Test 1 - PART3",
-			"title_b": "Actual Test 1  PART3",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_03.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Actual Test 1 - PART4",
-			"title_b": "Actual Test 1  PART4",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_04.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Actual Test 1 - PART5",
-			"title_b": "Actual Test 1  PART5",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_05.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Actual Test 2 - PART1",
-			"title_b": "Actual Test 2  PART1",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_06.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Actual Test 2 - PART2",
-			"title_b": "Actual Test 2  PART2",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_07.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Actual Test 2 - PART3",
-			"title_b": "Actual Test 2  PART3",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_08.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Actual Test 2 - PART4",
-			"title_b": "Actual Test 2  PART4",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_09.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Actual Test 2 - PART5",
-			"title_b": "Actual Test 2  PART5",
-			"page_name": [
-				"Intro",
-				"Lecture",
-				"Quiz"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_10.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8499",
+  "content_name": "핵심만 콕 집어주는, 무조건 토익스피킹 실전대비 모의고사",
+  "content_sample": "1",
+  "content_chasi": "10",
+  "content_size": "1170*658",
+  "content_cm": "김태우",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Actual Test 1 - PART1",
+      "title_b": "Actual Test 1  PART1",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_01.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_01_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Actual Test 1 - PART2",
+      "title_b": "Actual Test 1  PART2",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_02.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_02_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Actual Test 1 - PART3",
+      "title_b": "Actual Test 1  PART3",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_03.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_03_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Actual Test 1 - PART4",
+      "title_b": "Actual Test 1  PART4",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_04.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_04_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Actual Test 1 - PART5",
+      "title_b": "Actual Test 1  PART5",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_05.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_05_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Actual Test 2 - PART1",
+      "title_b": "Actual Test 2  PART1",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_06.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_06_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Actual Test 2 - PART2",
+      "title_b": "Actual Test 2  PART2",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_07.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_07_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Actual Test 2 - PART3",
+      "title_b": "Actual Test 2  PART3",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_08.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_08_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Actual Test 2 - PART4",
+      "title_b": "Actual Test 2  PART4",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_09.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_09_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Actual Test 2 - PART5",
+      "title_b": "Actual Test 2  PART5",
+      "page_name": [
+        "Intro",
+        "Lecture",
+        "Quiz"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mp4_bind/z1_10.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8499/mobile_500k/z1_10_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

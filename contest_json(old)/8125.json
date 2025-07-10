@@ -1,0 +1,161 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8125",
+	"content_name": "챠오 이탈리아어 회화 초급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "여보세요!",
+			"title_b": "여보세요",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "상점이 몇 시에 열지?",
+			"title_b": "상점이 몇 시에 열지",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "어디 가니?",
+			"title_b": "어디 가니",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "그는 언제 오니?",
+			"title_b": "그는 언제 오니",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "커피 마실래?",
+			"title_b": "커피 마실래",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "들어가도 될까요?",
+			"title_b": "들어가도 될까요",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "나 오늘 일해야 해.",
+			"title_b": "나 오늘 일해야 해",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "어디를 방문했어?",
+			"title_b": "어디를 방문했어",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "언제 돌아왔어?",
+			"title_b": "언제 돌아왔어",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "어제 뭐 했어?",
+			"title_b": "어제 뭐 했어",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "평소에 몇 시에 일어나니?",
+			"title_b": "평소에 몇 시에 일어나니",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "내일은 뭐 할 거니?",
+			"title_b": "내일은 뭐 할 거니",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "레스토랑에서",
+			"title_b": "레스토랑에서",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "호텔에서",
+			"title_b": "호텔에서",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "길에서",
+			"title_b": "길에서",
+			"page_name": [
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8125/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

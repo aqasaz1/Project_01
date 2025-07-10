@@ -1,571 +1,651 @@
 {
-	"content_lan": "영어",
-	"content_code": 6926,
-	"content_name": "그래머 스케치",
-	"content_sample": "2/35",
-	"content_chasi": "20/20",
-	"content_size": "1100*650",
-	"content_cm": "김영실",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Chapter 01 영어문장 형성원리 I",
-			"title_b": "Chapter 01 영어문장 형성원리 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Chapter 01 영어문장 형성원리 II",
-			"title_b": "Chapter 01 영어문장 형성원리 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Chapter 02 문장의 형식 I",
-			"title_b": "Chapter 02 문장의 형식 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Chapter 02 문장의 형식 II",
-			"title_b": "Chapter 02 문장의 형식 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Chapter 02 문장의 형식 III",
-			"title_b": "Chapter 02 문장의 형식 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Chapter 03 준동사 I",
-			"title_b": "Chapter 03 준동사 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Chapter 03 준동사 II",
-			"title_b": "Chapter 03 준동사 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Chapter 03 준동사 III",
-			"title_b": "Chapter 03 준동사 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Chapter 03 준동사 IV",
-			"title_b": "Chapter 03 준동사 IV",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Chapter 03 준동사 V",
-			"title_b": "Chapter 03 준동사 V",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Chapter 03 준동사 VI",
-			"title_b": "Chapter 03 준동사 VI",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Chapter 03 준동사 VII",
-			"title_b": "Chapter 03 준동사 VII",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Chapter 04 시제 I",
-			"title_b": "Chapter 04 시제 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Chapter 04 시제 II",
-			"title_b": "Chapter 04 시제 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Chapter 04 시제 III",
-			"title_b": "Chapter 04 시제 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Chapter 04 시제 IV",
-			"title_b": "Chapter 04 시제 IV",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Chapter 04 시제 V",
-			"title_b": "Chapter 04 시제 V",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Chapter 05 문장의 종류 I",
-			"title_b": "Chapter 05 문장의 종류 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Chapter 05 문장의 종류 II",
-			"title_b": "Chapter 05 문장의 종류 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Chapter 05 문장의 종류 III",
-			"title_b": "Chapter 05 문장의 종류 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "Chapter 06 간접의문문, 화법 전환",
-			"title_b": "Chapter 06 간접의문문과 화법 전환",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "Chapter 07 도치",
-			"title_b": "Chapter 07 도치",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "Chapter 08 수동태 I",
-			"title_b": "Chapter 08 수동태 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Chapter 08 수동태 II",
-			"title_b": "Chapter 08 수동태 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Chapter 09 조동사 I",
-			"title_b": "Chapter 09 조동사 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Chapter 09 조동사 II",
-			"title_b": "Chapter 09 조동사 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "Chapter 09 조동사 III",
-			"title_b": "Chapter 09 조동사 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Chapter 10 가정법 I",
-			"title_b": "Chapter 10 가정법 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "Chapter 10 가정법 II",
-			"title_b": "Chapter 10 가정법 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "Chapter 11 관계사 I",
-			"title_b": "Chapter 11 관계사 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "Chapter 11 관계사 II",
-			"title_b": "Chapter 11 관계사 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "Chapter 11 관계사 III",
-			"title_b": "Chapter 11 관계사 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "Chapter 12 접속사 I",
-			"title_b": "Chapter 12 접속사 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "Chapter 12 접속사 II",
-			"title_b": "Chapter 12 접속사 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "Chapter 13 전치사 I",
-			"title_b": "Chapter 13 전치사 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "Chapter 13 전치사 II",
-			"title_b": "Chapter 13 전치사 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "Chapter 13 전치사 III",
-			"title_b": "Chapter 13 전치사 III",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "Chapter 14 품사와 문장성분",
-			"title_b": "Chapter 14 품사와 문장성분",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "Chapter 15 비교급 I",
-			"title_b": "Chapter 15 비교급 I",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "Chapter 15 비교급 II",
-			"title_b": "Chapter 15 비교급 II",
-			"page_name": [
-				"INTRO",
-				"PICTURE VOCA",
-				"GRAMMAR SKETCH",
-				"LOOK & SAY",
-				"WRAP UP"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 6926,
+  "content_name": "그래머 스케치",
+  "content_sample": "2/35",
+  "content_chasi": "20/20",
+  "content_size": "1100*650",
+  "content_cm": "김영실",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Chapter 01 영어문장 형성원리 I",
+      "title_b": "Chapter 01 영어문장 형성원리 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Chapter 01 영어문장 형성원리 II",
+      "title_b": "Chapter 01 영어문장 형성원리 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Chapter 02 문장의 형식 I",
+      "title_b": "Chapter 02 문장의 형식 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Chapter 02 문장의 형식 II",
+      "title_b": "Chapter 02 문장의 형식 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Chapter 02 문장의 형식 III",
+      "title_b": "Chapter 02 문장의 형식 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Chapter 03 준동사 I",
+      "title_b": "Chapter 03 준동사 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Chapter 03 준동사 II",
+      "title_b": "Chapter 03 준동사 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Chapter 03 준동사 III",
+      "title_b": "Chapter 03 준동사 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Chapter 03 준동사 IV",
+      "title_b": "Chapter 03 준동사 IV",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Chapter 03 준동사 V",
+      "title_b": "Chapter 03 준동사 V",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Chapter 03 준동사 VI",
+      "title_b": "Chapter 03 준동사 VI",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Chapter 03 준동사 VII",
+      "title_b": "Chapter 03 준동사 VII",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Chapter 04 시제 I",
+      "title_b": "Chapter 04 시제 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Chapter 04 시제 II",
+      "title_b": "Chapter 04 시제 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Chapter 04 시제 III",
+      "title_b": "Chapter 04 시제 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Chapter 04 시제 IV",
+      "title_b": "Chapter 04 시제 IV",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Chapter 04 시제 V",
+      "title_b": "Chapter 04 시제 V",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Chapter 05 문장의 종류 I",
+      "title_b": "Chapter 05 문장의 종류 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Chapter 05 문장의 종류 II",
+      "title_b": "Chapter 05 문장의 종류 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Chapter 05 문장의 종류 III",
+      "title_b": "Chapter 05 문장의 종류 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "Chapter 06 간접의문문, 화법 전환",
+      "title_b": "Chapter 06 간접의문문과 화법 전환",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "Chapter 07 도치",
+      "title_b": "Chapter 07 도치",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "Chapter 08 수동태 I",
+      "title_b": "Chapter 08 수동태 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Chapter 08 수동태 II",
+      "title_b": "Chapter 08 수동태 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Chapter 09 조동사 I",
+      "title_b": "Chapter 09 조동사 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Chapter 09 조동사 II",
+      "title_b": "Chapter 09 조동사 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "Chapter 09 조동사 III",
+      "title_b": "Chapter 09 조동사 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Chapter 10 가정법 I",
+      "title_b": "Chapter 10 가정법 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "Chapter 10 가정법 II",
+      "title_b": "Chapter 10 가정법 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "Chapter 11 관계사 I",
+      "title_b": "Chapter 11 관계사 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "Chapter 11 관계사 II",
+      "title_b": "Chapter 11 관계사 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "Chapter 11 관계사 III",
+      "title_b": "Chapter 11 관계사 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "Chapter 12 접속사 I",
+      "title_b": "Chapter 12 접속사 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "Chapter 12 접속사 II",
+      "title_b": "Chapter 12 접속사 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "Chapter 13 전치사 I",
+      "title_b": "Chapter 13 전치사 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "Chapter 13 전치사 II",
+      "title_b": "Chapter 13 전치사 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "Chapter 13 전치사 III",
+      "title_b": "Chapter 13 전치사 III",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "Chapter 14 품사와 문장성분",
+      "title_b": "Chapter 14 품사와 문장성분",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "Chapter 15 비교급 I",
+      "title_b": "Chapter 15 비교급 I",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "Chapter 15 비교급 II",
+      "title_b": "Chapter 15 비교급 II",
+      "page_name": [
+        "INTRO",
+        "PICTURE VOCA",
+        "GRAMMAR SKETCH",
+        "LOOK & SAY",
+        "WRAP UP"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6926/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6926/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

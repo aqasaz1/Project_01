@@ -1,0 +1,191 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 7990,
+	"content_name": "New 당케 독일어 문법 초급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "인칭대명사와 Sein동사",
+			"title_b": "인칭대명사와 Sein동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "명사",
+			"title_b": "명사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "동사 1: 규칙",
+			"title_b": "동사 1 규칙",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "동사 2: 불규칙",
+			"title_b": "동사 2 불규칙",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사 3: 분리 가능",
+			"title_b": "동사 3 분리 가능",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사 4: 분리 불가능",
+			"title_b": "동사 4 분리 불가능",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "화법조동사 1: 현재",
+			"title_b": "화법조동사 1 현재",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "화법조동사 2: 과거",
+			"title_b": "화법조동사 2 과거",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "관사 1: 부정 관사",
+			"title_b": "관사 1 부정 관사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "관사 2: 정관사",
+			"title_b": "관사 2 정관사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "형용사 1: 부정 관사와 함께",
+			"title_b": "형용사 1 부정 관사와 함께",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "형용사 2: 정관사와 함께",
+			"title_b": "형용사 2 정관사와 함께",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "부사와 감탄사",
+			"title_b": "부사와 감탄사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "전치사 1: 장소",
+			"title_b": "전치사 1 장소",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "전치사 2: 3격과 4격과 함께",
+			"title_b": "전치사 2 3격과 4격과 함께",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5934/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

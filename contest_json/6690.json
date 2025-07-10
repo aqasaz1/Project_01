@@ -1,539 +1,619 @@
 {
-	"content_lan": "일본어",
-	"content_code": 6690,
-	"content_name": "NEW JPT 한권으로 끝내기 600-청해편",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "PART1 사진묘사 - 사람, 동물(1)",
-			"title_b": "PART1 사진묘사 사람 동물 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "PART1 사진묘사 - 사람, 동물(2)",
-			"title_b": "PART1 사진묘사 사람 동물 2",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "PART1 사진묘사 - 실내 장면(1)",
-			"title_b": "PART1 사진묘사 실내 장면 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "PART1 사진묘사 - 실내 장면(2)",
-			"title_b": "PART1 사진묘사 실내 장면 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "PART1 사진묘사 - 실내 장면(3)",
-			"title_b": "PART1 사진묘사 실내 장면 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "PART1 사진묘사 - 실외 풍경(1)",
-			"title_b": "PART1 사진묘사 실외 풍경 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "PART1 사진묘사 - 실외 풍경(2)",
-			"title_b": "PART1 사진묘사 실외 풍경 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "PART1 사진묘사 - 실외 풍경(3)",
-			"title_b": "PART1 사진묘사 실외 풍경 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "PART1 사진묘사 - 실전모의테스트",
-			"title_b": "PART1 사진묘사 실전모의테스트",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "PART2 질의응답 - 의문사가 있는 경우(1)",
-			"title_b": "PART2 질의응답 의문사가 있는 경우 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "PART2 질의응답 - 의문사가 있는 경우(2)",
-			"title_b": "PART2 질의응답 의문사가 있는 경우 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "PART2 질의응답 - 의문사가 있는 경우(3)",
-			"title_b": "PART2 질의응답 의문사가 있는 경우 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "PART2 질의응답 - 의문사가 없는 경우(1)",
-			"title_b": "PART2 질의응답 의문사가 없는 경우 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "PART2 질의응답 - 의문사가 없는 경우(2)",
-			"title_b": "PART2 질의응답 의문사가 없는 경우 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "PART2 질의응답 - 의문사가 없는 경우(3)",
-			"title_b": "PART2 질의응답 의문사가 없는 경우 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "PART2 질의응답 - 시사, 비즈니스(1)",
-			"title_b": "PART2 질의응답 시사 비즈니스 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "PART2 질의응답 - 시사, 비즈니스(2)",
-			"title_b": "PART2 질의응답 시사 비즈니스 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "PART2 질의응답 - 시사, 비즈니스(3)",
-			"title_b": "PART2 질의응답 시사 비즈니스 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "PART2 질의응답 - 실전모의테스트",
-			"title_b": "PART2 질의응답 실전모의테스트",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "PART3 회화문 - 일상생활(1)",
-			"title_b": "PART3 회화문 일상생활 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "PART3 회화문 - 일상생활(2)",
-			"title_b": "PART3 회화문 일상생활 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "PART3 회화문 - 일상생활(3)",
-			"title_b": "PART3 회화문 일상생활 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "PART3 회화문 - 관용어, 속담(1)",
-			"title_b": "PART3 회화문 관용어 속담 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "PART3 회화문 - 관용어, 속담(2)",
-			"title_b": "PART3 회화문 관용어 속담 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "PART3 회화문 - 관용어, 속담(3)",
-			"title_b": "PART3 회화문 관용어 속담 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "PART3 회화문 - 시사, 비즈니스(1)",
-			"title_b": "PART3 회화문 시사 비즈니스 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "PART3 회화문 - 시사, 비즈니스(2)",
-			"title_b": "PART3 회화문 시사 비즈니스 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "PART3 회화문 - 시사, 비즈니스(3)",
-			"title_b": "PART3 회화문 시사 비즈니스 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "PART3 회화문 - 실전모의테스트",
-			"title_b": "PART3 회화문 실전모의테스트",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "PART4 설명문 - 일상생활(1)",
-			"title_b": "PART4 설명문 일상생활 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "PART4 설명문 - 일상생활(2)",
-			"title_b": "PART4 설명문 일상생활 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "PART4 설명문 - 일상생활(3)",
-			"title_b": "PART4 설명문 일상생활 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "PART4 설명문 - 시사, 비즈니스(1)",
-			"title_b": "PART4 설명문 시사 비즈니스 1",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "PART4 설명문 - 시사, 비즈니스(2)",
-			"title_b": "PART4 설명문 시사 비즈니스 2",
-			"page_name": [
-				"인트로",
-				"워밍업",
-				"오늘의 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "PART4 설명문 - 시사, 비즈니스(3)",
-			"title_b": "PART4 설명문 시사 비즈니스 3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "PART4 설명문 - 실전모의테스트",
-			"title_b": "PART4 설명문 실전모의테스트",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "JPT 실전모의고사 - PART1",
-			"title_b": "JPT 실전모의고사 PART1",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "JPT 실전모의고사 - PART2",
-			"title_b": "JPT 실전모의고사 PART2",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "JPT 실전모의고사 - PART3",
-			"title_b": "JPT 실전모의고사 PART3",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "JPT 실전모의고사 - PART4",
-			"title_b": "JPT 실전모의고사 PART4",
-			"page_name": [
-				"인트로",
-				"문제풀기",
-				"문제풀이 강의",
-				"어휘 점프",
-				"리스닝 특훈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 6690,
+  "content_name": "NEW JPT 한권으로 끝내기 600-청해편",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "PART1 사진묘사 - 사람, 동물(1)",
+      "title_b": "PART1 사진묘사 사람 동물 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "PART1 사진묘사 - 사람, 동물(2)",
+      "title_b": "PART1 사진묘사 사람 동물 2",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "PART1 사진묘사 - 실내 장면(1)",
+      "title_b": "PART1 사진묘사 실내 장면 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "PART1 사진묘사 - 실내 장면(2)",
+      "title_b": "PART1 사진묘사 실내 장면 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "PART1 사진묘사 - 실내 장면(3)",
+      "title_b": "PART1 사진묘사 실내 장면 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "PART1 사진묘사 - 실외 풍경(1)",
+      "title_b": "PART1 사진묘사 실외 풍경 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "PART1 사진묘사 - 실외 풍경(2)",
+      "title_b": "PART1 사진묘사 실외 풍경 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "PART1 사진묘사 - 실외 풍경(3)",
+      "title_b": "PART1 사진묘사 실외 풍경 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "PART1 사진묘사 - 실전모의테스트",
+      "title_b": "PART1 사진묘사 실전모의테스트",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "PART2 질의응답 - 의문사가 있는 경우(1)",
+      "title_b": "PART2 질의응답 의문사가 있는 경우 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "PART2 질의응답 - 의문사가 있는 경우(2)",
+      "title_b": "PART2 질의응답 의문사가 있는 경우 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "PART2 질의응답 - 의문사가 있는 경우(3)",
+      "title_b": "PART2 질의응답 의문사가 있는 경우 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "PART2 질의응답 - 의문사가 없는 경우(1)",
+      "title_b": "PART2 질의응답 의문사가 없는 경우 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "PART2 질의응답 - 의문사가 없는 경우(2)",
+      "title_b": "PART2 질의응답 의문사가 없는 경우 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "PART2 질의응답 - 의문사가 없는 경우(3)",
+      "title_b": "PART2 질의응답 의문사가 없는 경우 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "PART2 질의응답 - 시사, 비즈니스(1)",
+      "title_b": "PART2 질의응답 시사 비즈니스 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "PART2 질의응답 - 시사, 비즈니스(2)",
+      "title_b": "PART2 질의응답 시사 비즈니스 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "PART2 질의응답 - 시사, 비즈니스(3)",
+      "title_b": "PART2 질의응답 시사 비즈니스 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "PART2 질의응답 - 실전모의테스트",
+      "title_b": "PART2 질의응답 실전모의테스트",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "PART3 회화문 - 일상생활(1)",
+      "title_b": "PART3 회화문 일상생활 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step1/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "PART3 회화문 - 일상생활(2)",
+      "title_b": "PART3 회화문 일상생활 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "PART3 회화문 - 일상생활(3)",
+      "title_b": "PART3 회화문 일상생활 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "PART3 회화문 - 관용어, 속담(1)",
+      "title_b": "PART3 회화문 관용어 속담 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "PART3 회화문 - 관용어, 속담(2)",
+      "title_b": "PART3 회화문 관용어 속담 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "PART3 회화문 - 관용어, 속담(3)",
+      "title_b": "PART3 회화문 관용어 속담 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "PART3 회화문 - 시사, 비즈니스(1)",
+      "title_b": "PART3 회화문 시사 비즈니스 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "PART3 회화문 - 시사, 비즈니스(2)",
+      "title_b": "PART3 회화문 시사 비즈니스 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "PART3 회화문 - 시사, 비즈니스(3)",
+      "title_b": "PART3 회화문 시사 비즈니스 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "PART3 회화문 - 실전모의테스트",
+      "title_b": "PART3 회화문 실전모의테스트",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "PART4 설명문 - 일상생활(1)",
+      "title_b": "PART4 설명문 일상생활 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "PART4 설명문 - 일상생활(2)",
+      "title_b": "PART4 설명문 일상생활 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "PART4 설명문 - 일상생활(3)",
+      "title_b": "PART4 설명문 일상생활 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "PART4 설명문 - 시사, 비즈니스(1)",
+      "title_b": "PART4 설명문 시사 비즈니스 1",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "PART4 설명문 - 시사, 비즈니스(2)",
+      "title_b": "PART4 설명문 시사 비즈니스 2",
+      "page_name": [
+        "인트로",
+        "워밍업",
+        "오늘의 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "PART4 설명문 - 시사, 비즈니스(3)",
+      "title_b": "PART4 설명문 시사 비즈니스 3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4/a1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/a1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "PART4 설명문 - 실전모의테스트",
+      "title_b": "PART4 설명문 실전모의테스트",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "JPT 실전모의고사 - PART1",
+      "title_b": "JPT 실전모의고사 PART1",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "JPT 실전모의고사 - PART2",
+      "title_b": "JPT 실전모의고사 PART2",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "JPT 실전모의고사 - PART3",
+      "title_b": "JPT 실전모의고사 PART3",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "JPT 실전모의고사 - PART4",
+      "title_b": "JPT 실전모의고사 PART4",
+      "page_name": [
+        "인트로",
+        "문제풀기",
+        "문제풀이 강의",
+        "어휘 점프",
+        "리스닝 특훈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6690/mp4_bind_part/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6690/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

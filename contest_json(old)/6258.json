@@ -1,0 +1,151 @@
+{
+	"content_lan": "영어",
+	"content_code": 6258,
+	"content_name": "야나두 여행영어 방콕 편",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "카오산로드",
+			"title_b": "카오산로드",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "길거리 음식과 문화 즐기기",
+			"title_b": "길거리 음식과 문화 즐기기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "시장에서 물건 사기",
+			"title_b": "시장에서 물건 사기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "고적 관람하기",
+			"title_b": "고적 관람하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "마사지 받기",
+			"title_b": "마사지 받기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "수상 시장&전통 식당 방문하기",
+			"title_b": "수상 시장과 전통 식당 방문하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "쿠킹클래스-시장 보기",
+			"title_b": "쿠킹클래스 시장 보기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "쿠킹클래스-재료 준비하기",
+			"title_b": "쿠킹클래스 재료 준비하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "쿠킹클래스-요리하기",
+			"title_b": "쿠킹클래스 요리하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "호텔에서 요청하기",
+			"title_b": "호텔에서 요청하기",
+			"page_name": [
+				"인트로",
+				"여행 준비하기",
+				"여행 즐기기",
+				"여행 기록하기",
+				"여행 기억하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6258/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

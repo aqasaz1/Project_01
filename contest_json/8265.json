@@ -1,132 +1,154 @@
 {
-	"content_lan": "일본어",
-	"content_code": 8265,
-	"content_name": "(2021년 개정판) JLPT 한 권으로 끝내기 N1 - 문자·어휘",
-	"content_sample": "1",
-	"content_chasi": "11",
-	"content_size": "1000*650",
-	"content_cm": "변솔기",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "핵심 문법 공략 1회",
-			"title_b": "핵심 문법 공략 1회"",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "핵심 문법 공략 2회",
-			"title_b": "핵심 문법 공략 2회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "핵심 문법 공략 3회",
-			"title_b": "핵심 문법 공략 3회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "핵심 문법 공략 4회",
-			"title_b": "핵심 문법 공략 4회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "핵심 문법 공략 5회",
-			"title_b": "핵심 문법 공략 5회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "핵심 문법 공략 6회",
-			"title_b": "핵심 문법 공략 6회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "핵심 문법 공략 7회",
-			"title_b": "핵심 문법 공략 7회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "핵심 문법 공략 8회",
-			"title_b": "핵심 문법 공략 8회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "핵심 문법 공략 9회",
-			"title_b": "핵심 문법 공략 9회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "핵심 문법 공략 10회",
-			"title_b": "핵심 문법 공략 10회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "핵심 문법 공략 11회",
-			"title_b": "핵심 문법 공략 11회",
-			"page_name": [
-				"문제 풀기",
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 8265,
+  "content_name": "(2021년 개정판) JLPT 한 권으로 끝내기 N1 - 문자·어휘",
+  "content_sample": "1",
+  "content_chasi": "11",
+  "content_size": "1000*650",
+  "content_cm": "변솔기",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "핵심 문법 공략 1회",
+      "title_b": "핵심 문법 공략 1회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "핵심 문법 공략 2회",
+      "title_b": "핵심 문법 공략 2회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "핵심 문법 공략 3회",
+      "title_b": "핵심 문법 공략 3회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "핵심 문법 공략 4회",
+      "title_b": "핵심 문법 공략 4회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "핵심 문법 공략 5회",
+      "title_b": "핵심 문법 공략 5회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "핵심 문법 공략 6회",
+      "title_b": "핵심 문법 공략 6회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "핵심 문법 공략 7회",
+      "title_b": "핵심 문법 공략 7회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "핵심 문법 공략 8회",
+      "title_b": "핵심 문법 공략 8회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "핵심 문법 공략 9회",
+      "title_b": "핵심 문법 공략 9회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "핵심 문법 공략 10회",
+      "title_b": "핵심 문법 공략 10회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "핵심 문법 공략 11회",
+      "title_b": "핵심 문법 공략 11회",
+      "page_name": [
+        "문제 풀기",
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8265/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8265/mobile_500k/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

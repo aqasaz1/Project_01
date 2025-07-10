@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 5434,
+	"content_name": "싸왓디 태국어 초급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "인사와 소개하기",
+			"title_b": "인사와 소개하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "감사와 사과하기",
+			"title_b": "감사와 사과하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "권유와 부탁하기",
+			"title_b": "권유와 부탁하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "식당에서 주문하기1",
+			"title_b": "식당에서 주문하기1",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "식당에서 주문하기2",
+			"title_b": "식당에서 주문하기2",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "전화 통화하기",
+			"title_b": "전화 통화하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "날짜와 요일 익히기",
+			"title_b": "날짜와 요일 익히기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "시간 익히기",
+			"title_b": "시간 익히기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "수,셈 익히기",
+			"title_b": "수와 셈 익히기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "초대하기",
+			"title_b": "초대하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "길 묻기",
+			"title_b": "길 묻기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "공항에서 대화하기",
+			"title_b": "공항에서 대화하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "병원에서 대화하기",
+			"title_b": "병원에서 대화하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "쇼핑하고 물건 사기",
+			"title_b": "쇼핑하고 물건 사기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "호텔에서 대화하기",
+			"title_b": "호텔에서 대화하기",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5434/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

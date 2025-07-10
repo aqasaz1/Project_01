@@ -1,347 +1,411 @@
 {
-	"content_lan": "일본어",
-	"content_code": 8148,
-	"content_name": "일본어의 정석! 다이나믹 일본어 중급",
-	"content_sample": "5/19",
-	"content_chasi": "16/16",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "はじめまして",
-			"title_b": "처음 뵙겠습니다",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "롤플레잉1",
-			"title_b": "롤플레잉1",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "ご両親はどんな方ですか",
-			"title_b": "부모님은 어떤 분이세요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "롤플레잉2",
-			"title_b": "롤플레잉2",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "出張はいつですか",
-			"title_b": "출장은 언제인가요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "롤플레잉3",
-			"title_b": "롤플레잉3",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "私は焼肉定食にします",
-			"title_b": "저는 불고기 정식으로 할게요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "롤플레잉4",
-			"title_b": "롤플레잉4",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "このデジカメ、見せてもらえますか",
-			"title_b": "그 디지털 카메라 보여줄 수 있나요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "롤플레잉5",
-			"title_b": "롤플레잉5",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "この辺にコンビニはありませんか",
-			"title_b": "이 근처에 편의점은 없나요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "롤플레잉6",
-			"title_b": "롤플레잉6",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "休みの日はどのように過ごしますか",
-			"title_b": "쉬는 날은 어떻게 보내나요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "롤플레잉7",
-			"title_b": "롤플레잉7",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "今度一緒に見に行きませんか",
-			"title_b": "다음에 같이 보러 가지 않을래요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "롤플레잉8",
-			"title_b": "롤플레잉8",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "お寺巡りをしようと思っています",
-			"title_b": "사찰 순례를 하려고 생각하고 있어요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "롤플레잉9",
-			"title_b": "롤플레잉9",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "熱があって、頭もずきずきするんです",
-			"title_b": "열이 나고 머리도 욱신거려요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "롤플레잉10",
-			"title_b": "롤플레잉10",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "はい、お電話代わりました",
-			"title_b": "네 전화 바꿨습니다",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "롤플레잉11",
-			"title_b": "롤플레잉11",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "私の趣味は音楽鑑賞です",
-			"title_b": "제 취미는 음악감상입니다",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "롤플레잉12",
-			"title_b": "롤플레잉12",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "先生に相談してみたらどうですか",
-			"title_b": "선생님께 상담해 보면 어때요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "롤플레잉13",
-			"title_b": "롤플레잉13",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "いい大学院を紹介していただけませんか",
-			"title_b": "좋은 대학원을 소개해 주실 수 없나요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "롤플레잉14",
-			"title_b": "롤플레잉14",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "木村さん、彼氏にふられたらしいですよ",
-			"title_b": "기무라 씨 남자 친구에게 차였대요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "롤플레잉15",
-			"title_b": "롤플레잉15",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "田中さんの将来の夢は何ですか",
-			"title_b": "다나카 씨의 장래 꿈은 뭐예요",
-			"page_name": [
-				"다이나믹 토킹",
-				"다이나믹 회화"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "롤플레잉16",
-			"title_b": "롤플레잉16",
-			"page_name": [
-				"다이나믹 롤플레잉"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_32h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 8148,
+  "content_name": "일본어의 정석! 다이나믹 일본어 중급",
+  "content_sample": "5/19",
+  "content_chasi": "16/16",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "はじめまして",
+      "title_b": "처음 뵙겠습니다",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "롤플레잉1",
+      "title_b": "롤플레잉1",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "ご両親はどんな方ですか",
+      "title_b": "부모님은 어떤 분이세요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "롤플레잉2",
+      "title_b": "롤플레잉2",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "出張はいつですか",
+      "title_b": "출장은 언제인가요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "롤플레잉3",
+      "title_b": "롤플레잉3",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "私は焼肉定食にします",
+      "title_b": "저는 불고기 정식으로 할게요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "롤플레잉4",
+      "title_b": "롤플레잉4",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "このデジカメ、見せてもらえますか",
+      "title_b": "그 디지털 카메라 보여줄 수 있나요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "롤플레잉5",
+      "title_b": "롤플레잉5",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "この辺にコンビニはありませんか",
+      "title_b": "이 근처에 편의점은 없나요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "롤플레잉6",
+      "title_b": "롤플레잉6",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "休みの日はどのように過ごしますか",
+      "title_b": "쉬는 날은 어떻게 보내나요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "롤플레잉7",
+      "title_b": "롤플레잉7",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "今度一緒に見に行きませんか",
+      "title_b": "다음에 같이 보러 가지 않을래요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "롤플레잉8",
+      "title_b": "롤플레잉8",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "お寺巡りをしようと思っています",
+      "title_b": "사찰 순례를 하려고 생각하고 있어요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "롤플레잉9",
+      "title_b": "롤플레잉9",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "熱があって、頭もずきずきするんです",
+      "title_b": "열이 나고 머리도 욱신거려요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "롤플레잉10",
+      "title_b": "롤플레잉10",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "はい、お電話代わりました",
+      "title_b": "네 전화 바꿨습니다",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "롤플레잉11",
+      "title_b": "롤플레잉11",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "私の趣味は音楽鑑賞です",
+      "title_b": "제 취미는 음악감상입니다",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "롤플레잉12",
+      "title_b": "롤플레잉12",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "先生に相談してみたらどうですか",
+      "title_b": "선생님께 상담해 보면 어때요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "롤플레잉13",
+      "title_b": "롤플레잉13",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "いい大学院を紹介していただけませんか",
+      "title_b": "좋은 대학원을 소개해 주실 수 없나요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "롤플레잉14",
+      "title_b": "롤플레잉14",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "木村さん、彼氏にふられたらしいですよ",
+      "title_b": "기무라 씨 남자 친구에게 차였대요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "롤플레잉15",
+      "title_b": "롤플레잉15",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "田中さんの将来の夢は何ですか",
+      "title_b": "다나카 씨의 장래 꿈은 뭐예요",
+      "page_name": [
+        "다이나믹 토킹",
+        "다이나믹 회화"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4_bind_part/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "롤플레잉16",
+      "title_b": "롤플레잉16",
+      "page_name": [
+        "다이나믹 롤플레잉"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8148/mp4/a1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8148/mobile_500k/step2/a1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

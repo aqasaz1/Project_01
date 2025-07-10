@@ -1,507 +1,577 @@
 {
-	"content_lan": "영어",
-	"content_code": "8312",
-	"content_name": "동사 중심 네이티브 영어표현력 사전",
-	"content_sample": "1/18",
-	"content_chasi": "17/18",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "DO (1)",
-			"title_b": "DO 1",
-			"page_name": [
-				"do ①",
-				"do ②",
-				"do ③",
-				"do ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "DO (2)",
-			"title_b": "DO 2",
-			"page_name": [
-				"do ⑤",
-				"do ⑥",
-				"do ⑦",
-				"do ⑧",
-				"do ⑨"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "TAKE (1)",
-			"title_b": "TAKE 1",
-			"page_name": [
-				"take ①",
-				"take ②",
-				"take ③",
-				"take ④",
-				"take ⑤"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "TAKE (2)",
-			"title_b": "TAKE 2",
-			"page_name": [
-				"take ⑥",
-				"take ⑦",
-				"take ⑧",
-				"take ⑨",
-				"take ⑩"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "MAKE",
-			"title_b": "MAKE",
-			"page_name": [
-				"make ①",
-				"make ②",
-				"make ③",
-				"make ④",
-				"make ⑤",
-				"make ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "GET (1)",
-			"title_b": "GET 1",
-			"page_name": [
-				"get ①",
-				"get ②",
-				"get ③",
-				"get ④",
-				"get ⑤",
-				"get ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "GET (2)",
-			"title_b": "GET 2",
-			"page_name": [
-				"get ⑦",
-				"get ⑧",
-				"get ⑨",
-				"get ⑩",
-				"get ⑪",
-				"get ⑫"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "HAVE",
-			"title_b": "HAVE",
-			"page_name": [
-				"have ①",
-				"have ②",
-				"have ③",
-				"have ④",
-				"have ⑤",
-				"have ⑥",
-				"have ⑦"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "BE",
-			"title_b": "BE",
-			"page_name": [
-				"be ①",
-				"be ②",
-				"be ③",
-				"be ④",
-				"be ⑤",
-				"be ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "GO",
-			"title_b": "GO",
-			"page_name": [
-				"go ①",
-				"go ②",
-				"go ③",
-				"go ④",
-				"go ⑤"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "COME",
-			"title_b": "COME",
-			"page_name": [
-				"come ①",
-				"come ②",
-				"come ③",
-				"come ④",
-				"come ⑤"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "RUN (1)",
-			"title_b": "RUN 1",
-			"page_name": [
-				"run ①",
-				"run ②",
-				"run ③",
-				"run ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "RUN (2)",
-			"title_b": "RUN 2",
-			"page_name": [
-				"run ⑤",
-				"run ⑥",
-				"run ⑦",
-				"run ⑧"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "GIVE (1)",
-			"title_b": "GIVE 1",
-			"page_name": [
-				"give ①",
-				"give ②",
-				"give ③",
-				"give ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "GIVE (2)",
-			"title_b": "GIVE 2",
-			"page_name": [
-				"give ⑤",
-				"give ⑥",
-				"give ⑦",
-				"give ⑧"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "BRING, CARRY (1)",
-			"title_b": "BRING CARRY 1",
-			"page_name": [
-				"bring ①",
-				"bring ②",
-				"carry ①",
-				"carry ②"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "CARRY (2)",
-			"title_b": "CARRY 2",
-			"page_name": [
-				"carry ③",
-				"carry ④",
-				"carry ⑤",
-				"carry ⑥",
-				"carry ⑦"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "TURN",
-			"title_b": "TURN",
-			"page_name": [
-				"turn ①",
-				"turn ②",
-				"turn ③",
-				"turn ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "CATCH, PICK",
-			"title_b": "CATCH PICK",
-			"page_name": [
-				"catch ①",
-				"catch ②",
-				"catch ③",
-				"catch ④",
-				"catch ⑤",
-				"catch ⑥",
-				"pick"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "BEAT",
-			"title_b": "BEAT",
-			"page_name": [
-				"beat ①",
-				"beat ②",
-				"beat ③",
-				"beat ④",
-				"beat ⑤",
-				"beat ⑥",
-				"beat ⑦"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "BREAK (1)",
-			"title_b": "BREAK 1",
-			"page_name": [
-				"break ①",
-				"break ②",
-				"break ③",
-				"break ④",
-				"break ⑤"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "BREAK (2)",
-			"title_b": "BREAK 2",
-			"page_name": [
-				"break ⑥",
-				"break ⑦",
-				"break ⑧",
-				"break ⑨",
-				"break ⑩"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "PULL",
-			"title_b": "PULL",
-			"page_name": [
-				"pull ①",
-				"pull ②",
-				"pull ③",
-				"pull ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "PUT",
-			"title_b": "PUT",
-			"page_name": [
-				"put ①",
-				"put ②",
-				"put ③",
-				"put ④",
-				"put ⑤",
-				"put ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "DROP, FALL",
-			"title_b": "DROP FALL",
-			"page_name": [
-				"drop ①",
-				"drop ②",
-				"drop ③",
-				"fall ①",
-				"fall ②",
-				"fall ③"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "KEEP",
-			"title_b": "KEEP",
-			"page_name": [
-				"keep ①",
-				"keep ②",
-				"keep ③",
-				"keep ④",
-				"keep ⑤",
-				"keep ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "HOLD",
-			"title_b": "HOLD",
-			"page_name": [
-				"hold ①",
-				"hold ②",
-				"hold ③",
-				"hold ④",
-				"hold ⑤",
-				"hold ⑥"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "SET",
-			"title_b": "SET",
-			"page_name": [
-				"set ①",
-				"set ②",
-				"set ③",
-				"set ④",
-				"set ⑤",
-				"set ⑥",
-				"set ⑦"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "CHECK, CUT",
-			"title_b": "CHECK CUT",
-			"page_name": [
-				"check ①",
-				"check ②",
-				"cut ①",
-				"cut ②",
-				"cut ③",
-				"cut ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "STAND, WORK",
-			"title_b": "STAND WORK",
-			"page_name": [
-				"stand ①",
-				"stand ②",
-				"work ①",
-				"work ②"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "FIND, TELL",
-			"title_b": "FIND TELL",
-			"page_name": [
-				"find ①",
-				"find ②",
-				"find ③",
-				"tell ①",
-				"tell ②"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "SEE (1)",
-			"title_b": "SEE 1",
-			"page_name": [
-				"see ①",
-				"see ②",
-				"see ③",
-				"see ④"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "SEE (2), LOOK",
-			"title_b": "SEE 2 LOOK",
-			"page_name": [
-				"see ⑤",
-				"see ⑥",
-				"look ①",
-				"look ②"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "LISTEN, HEAR, FEEL (1)",
-			"title_b": "LISTEN HEAR FEEL 1",
-			"page_name": [
-				"listen ①",
-				"listen ②",
-				"hear",
-				"feel ①",
-				"feel ②"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "FEEL (2), TOUCH",
-			"title_b": "FEEL 2 TOUCH",
-			"page_name": [
-				"feel ③",
-				"feel ④",
-				"touch ①",
-				"touch ②",
-				"touch ③"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8312",
+  "content_name": "동사 중심 네이티브 영어표현력 사전",
+  "content_sample": "1/18",
+  "content_chasi": "17/18",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "DO (1)",
+      "title_b": "DO 1",
+      "page_name": [
+        "do ①",
+        "do ②",
+        "do ③",
+        "do ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "DO (2)",
+      "title_b": "DO 2",
+      "page_name": [
+        "do ⑤",
+        "do ⑥",
+        "do ⑦",
+        "do ⑧",
+        "do ⑨"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "TAKE (1)",
+      "title_b": "TAKE 1",
+      "page_name": [
+        "take ①",
+        "take ②",
+        "take ③",
+        "take ④",
+        "take ⑤"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "TAKE (2)",
+      "title_b": "TAKE 2",
+      "page_name": [
+        "take ⑥",
+        "take ⑦",
+        "take ⑧",
+        "take ⑨",
+        "take ⑩"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "MAKE",
+      "title_b": "MAKE",
+      "page_name": [
+        "make ①",
+        "make ②",
+        "make ③",
+        "make ④",
+        "make ⑤",
+        "make ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "GET (1)",
+      "title_b": "GET 1",
+      "page_name": [
+        "get ①",
+        "get ②",
+        "get ③",
+        "get ④",
+        "get ⑤",
+        "get ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "GET (2)",
+      "title_b": "GET 2",
+      "page_name": [
+        "get ⑦",
+        "get ⑧",
+        "get ⑨",
+        "get ⑩",
+        "get ⑪",
+        "get ⑫"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "HAVE",
+      "title_b": "HAVE",
+      "page_name": [
+        "have ①",
+        "have ②",
+        "have ③",
+        "have ④",
+        "have ⑤",
+        "have ⑥",
+        "have ⑦"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "BE",
+      "title_b": "BE",
+      "page_name": [
+        "be ①",
+        "be ②",
+        "be ③",
+        "be ④",
+        "be ⑤",
+        "be ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "GO",
+      "title_b": "GO",
+      "page_name": [
+        "go ①",
+        "go ②",
+        "go ③",
+        "go ④",
+        "go ⑤"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "COME",
+      "title_b": "COME",
+      "page_name": [
+        "come ①",
+        "come ②",
+        "come ③",
+        "come ④",
+        "come ⑤"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "RUN (1)",
+      "title_b": "RUN 1",
+      "page_name": [
+        "run ①",
+        "run ②",
+        "run ③",
+        "run ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "RUN (2)",
+      "title_b": "RUN 2",
+      "page_name": [
+        "run ⑤",
+        "run ⑥",
+        "run ⑦",
+        "run ⑧"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "GIVE (1)",
+      "title_b": "GIVE 1",
+      "page_name": [
+        "give ①",
+        "give ②",
+        "give ③",
+        "give ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "GIVE (2)",
+      "title_b": "GIVE 2",
+      "page_name": [
+        "give ⑤",
+        "give ⑥",
+        "give ⑦",
+        "give ⑧"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "BRING, CARRY (1)",
+      "title_b": "BRING CARRY 1",
+      "page_name": [
+        "bring ①",
+        "bring ②",
+        "carry ①",
+        "carry ②"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "CARRY (2)",
+      "title_b": "CARRY 2",
+      "page_name": [
+        "carry ③",
+        "carry ④",
+        "carry ⑤",
+        "carry ⑥",
+        "carry ⑦"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "TURN",
+      "title_b": "TURN",
+      "page_name": [
+        "turn ①",
+        "turn ②",
+        "turn ③",
+        "turn ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "CATCH, PICK",
+      "title_b": "CATCH PICK",
+      "page_name": [
+        "catch ①",
+        "catch ②",
+        "catch ③",
+        "catch ④",
+        "catch ⑤",
+        "catch ⑥",
+        "pick"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "BEAT",
+      "title_b": "BEAT",
+      "page_name": [
+        "beat ①",
+        "beat ②",
+        "beat ③",
+        "beat ④",
+        "beat ⑤",
+        "beat ⑥",
+        "beat ⑦"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "BREAK (1)",
+      "title_b": "BREAK 1",
+      "page_name": [
+        "break ①",
+        "break ②",
+        "break ③",
+        "break ④",
+        "break ⑤"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "BREAK (2)",
+      "title_b": "BREAK 2",
+      "page_name": [
+        "break ⑥",
+        "break ⑦",
+        "break ⑧",
+        "break ⑨",
+        "break ⑩"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "PULL",
+      "title_b": "PULL",
+      "page_name": [
+        "pull ①",
+        "pull ②",
+        "pull ③",
+        "pull ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "PUT",
+      "title_b": "PUT",
+      "page_name": [
+        "put ①",
+        "put ②",
+        "put ③",
+        "put ④",
+        "put ⑤",
+        "put ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "DROP, FALL",
+      "title_b": "DROP FALL",
+      "page_name": [
+        "drop ①",
+        "drop ②",
+        "drop ③",
+        "fall ①",
+        "fall ②",
+        "fall ③"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "KEEP",
+      "title_b": "KEEP",
+      "page_name": [
+        "keep ①",
+        "keep ②",
+        "keep ③",
+        "keep ④",
+        "keep ⑤",
+        "keep ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "HOLD",
+      "title_b": "HOLD",
+      "page_name": [
+        "hold ①",
+        "hold ②",
+        "hold ③",
+        "hold ④",
+        "hold ⑤",
+        "hold ⑥"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "SET",
+      "title_b": "SET",
+      "page_name": [
+        "set ①",
+        "set ②",
+        "set ③",
+        "set ④",
+        "set ⑤",
+        "set ⑥",
+        "set ⑦"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "CHECK, CUT",
+      "title_b": "CHECK CUT",
+      "page_name": [
+        "check ①",
+        "check ②",
+        "cut ①",
+        "cut ②",
+        "cut ③",
+        "cut ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "STAND, WORK",
+      "title_b": "STAND WORK",
+      "page_name": [
+        "stand ①",
+        "stand ②",
+        "work ①",
+        "work ②"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "FIND, TELL",
+      "title_b": "FIND TELL",
+      "page_name": [
+        "find ①",
+        "find ②",
+        "find ③",
+        "tell ①",
+        "tell ②"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "SEE (1)",
+      "title_b": "SEE 1",
+      "page_name": [
+        "see ①",
+        "see ②",
+        "see ③",
+        "see ④"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "SEE (2), LOOK",
+      "title_b": "SEE 2 LOOK",
+      "page_name": [
+        "see ⑤",
+        "see ⑥",
+        "look ①",
+        "look ②"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "LISTEN, HEAR, FEEL (1)",
+      "title_b": "LISTEN HEAR FEEL 1",
+      "page_name": [
+        "listen ①",
+        "listen ②",
+        "hear",
+        "feel ①",
+        "feel ②"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "FEEL (2), TOUCH",
+      "title_b": "FEEL 2 TOUCH",
+      "page_name": [
+        "feel ③",
+        "feel ④",
+        "touch ①",
+        "touch ②",
+        "touch ③"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8312/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8312/mobile_500k/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,0 +1,506 @@
+{
+	"content_lan": "영어",
+	"content_code": 8130,
+	"content_name": "188개 상황으로 배우는 Biz 스피킹",
+	"content_sample": "1/19/31",
+	"content_chasi": "15/15/15",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "전화 받고 걸기 1",
+			"title_b": "전화 받고 걸기 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "전화 받고 걸기 2",
+			"title_b": "전화 받고 걸기 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "스피커폰 회의하기",
+			"title_b": "스피커폰 회의하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "전화로 약속 정하고 변경하기 1",
+			"title_b": "전화로 약속 정하고 변경하기 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "전화로 약속 정하고 변경하기 2",
+			"title_b": "전화로 약속 정하고 변경하기 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "전화로 견적 요청 및 주문하기",
+			"title_b": "전화로 견적 요청 및 주문하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "정보 요청 및 제공 전화하기 1",
+			"title_b": "정보 요청 및 제공 전화하기 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "정보 요청 및 제공 전화하기 2",
+			"title_b": "정보 요청 및 제공 전화하기 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "항의 전화하기",
+			"title_b": "항의 전화하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "항의 및 독촉 전화하기",
+			"title_b": "항의 및 독촉 전화하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "전화로 통보하기",
+			"title_b": "전화로 통보하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "이직·전근·추천·채용 전화하기",
+			"title_b": "이직 전근 추천 채용 전화하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "초대 및 참석 여부 전화하기",
+			"title_b": "초대 및 참석 여부 전화하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "사무실 일상 대화 1",
+			"title_b": "사무실 일상 대화 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "사무실 일상 대화 2",
+			"title_b": "사무실 일상 대화 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "도움·조언 요청",
+			"title_b": "도움과 조언 요청",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "상황 보고 및 정보 요청",
+			"title_b": "상황 보고 및 정보 요청",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "요청에 응답하기",
+			"title_b": "요청에 응답하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "지시 및 확인하기",
+			"title_b": "지시 및 확인하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "충고 및 조언하기",
+			"title_b": "충고 및 조언하기",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "문제 발생 및 오해",
+			"title_b": "문제 발생 및 오해",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "회사 소개·사업 제안",
+			"title_b": "회사 소개와 사업 제안",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "회의 전 준비",
+			"title_b": "회의 전 준비",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "회의 시작 1",
+			"title_b": "회의 시작 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "회의 시작 2",
+			"title_b": "회의 시작 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "회의 진행 1",
+			"title_b": "회의 진행 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "회의 진행 2",
+			"title_b": "회의 진행 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "회의 진행 3",
+			"title_b": "회의 진행 3",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "회의 마무리 1",
+			"title_b": "회의 마무리 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "회의 마무리 2",
+			"title_b": "회의 마무리 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "의견 주고받기 1",
+			"title_b": "의견 주고받기 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "의견 주고받기 2",
+			"title_b": "의견 주고받기 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "협상·합의(찬성·반대)",
+			"title_b": "협상과 합의 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "협상·합의(제안·타협)",
+			"title_b": "협상과 합의 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "개인적인 감정 표현 1",
+			"title_b": "개인적인 감정 표현 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "개인적인 감정 표현 2",
+			"title_b": "개인적인 감정 표현 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "해외 출장 준비 및 초청",
+			"title_b": "해외 출장 준비 및 초청",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "교통수단",
+			"title_b": "교통수단",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "식당",
+			"title_b": "식당",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "숙소",
+			"title_b": "숙소",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "인사 및 접대 1",
+			"title_b": "인사 및 접대 1",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "인사 및 접대 2",
+			"title_b": "인사 및 접대 2",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "축하",
+			"title_b": "축하",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "사과",
+			"title_b": "사과",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "병결 & 응원과 위로",
+			"title_b": "병결 통보 및 응원과 위로",
+			"page_name": [
+				"Business English",
+				"Read Aloud"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8130/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

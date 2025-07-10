@@ -1,0 +1,451 @@
+{
+	"content_lan": "영어",
+	"content_code": 8215,
+	"content_name": "[야나두] 미국에서 한 달 살기 - 현지 생활 편 2",
+	"content_sample": "3/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "애나와 범죄 다큐 시청하기",
+			"title_b": "애나와 범죄 다큐 시청하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "야구광 샘과 야구 경기 시청하기",
+			"title_b": "야구광 샘과 야구 경기 시청하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "아이스크림 걸고 야구 경기 보기",
+			"title_b": "아이스크림 걸고 야구 경기 보기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "제시카와 함께 TV 시청하기",
+			"title_b": "제시카와 함께 TV 시청하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "한국 과자 소개하기",
+			"title_b": "한국 과자 소개하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "해물파전 소개하기",
+			"title_b": "해물파전 소개하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "장보기 전 냉장고 확인하기",
+			"title_b": "장보기 전 냉장고 확인하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "신선한 주스로 건강 챙기기",
+			"title_b": "신선한 주스로 건강 챙기기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "채식으로 환경보호 실천하기",
+			"title_b": "채식으로 환경보호 실천하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "전화로 피자 주문하기",
+			"title_b": "전화로 피자 주문하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "배달 앱으로 음식 주문하기",
+			"title_b": "배달 앱으로 음식 주문하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "애나의 장바구니 하울",
+			"title_b": "애나의 장바구니 하울",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "처음 맛보는 미국 수돗물",
+			"title_b": "처음 맛보는 미국 수돗물",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "존슨 부부와 와인 마시는 밤",
+			"title_b": "존슨 부부와 와인 마시는 밤",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "알고 보면 쉬운 식기세척기 사용법",
+			"title_b": "알고 보면 쉬운 식기세척기 사용법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "방문 수리 서비스 예약 전화하기",
+			"title_b": "방문 수리 서비스 예약 전화하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "헷갈리는 재활용품 분리 배출법",
+			"title_b": "헷갈리는 재활용품 분리 배출법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "간편한 음식물 처리기 사용법",
+			"title_b": "간편한 음식물 처리기 사용법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "애나와 함께 세탁하기",
+			"title_b": "애나와 함께 세탁하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "세탁 후 옷 분류하기",
+			"title_b": "세탁 후 옷 분류하기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "욕실에 보관하는 비상약",
+			"title_b": "욕실에 보관하는 비상약",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "변기 뚫는 도구 빌리기",
+			"title_b": "변기 뚫는 도구 빌리기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "자동차 흠집 살펴보기",
+			"title_b": "자동차 흠집 살펴보기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "다양한 용도로 쓰는 주택 차고",
+			"title_b": "다양한 용도로 쓰는 주택 차고",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "미국에서 집 구할 때 살펴보는 것",
+			"title_b": "미국에서 집 구할 때 살펴보는 것",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "한국과 미국의 주거 문화 차이",
+			"title_b": "한국과 미국의 주거 문화 차이",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "미국의 집값을 결정하는 요소",
+			"title_b": "미국의 집값을 결정하는 요소",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "존슨 가족의 고정 생활비",
+			"title_b": "존슨 가족의 고정 생활비",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "미국에서 집을 구하는 방법",
+			"title_b": "미국에서 집을 구하는 방법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "제시카와 통화 후 마중 나가기",
+			"title_b": "제시카와 통화 후 마중 나가기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "차 얻어 타고 도서관 가기",
+			"title_b": "차 얻어 타고 도서관 가기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "제시카와 함께 동네 드라이브",
+			"title_b": "제시카와 함께 동네 드라이브",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "한국과 미국 주차장의 다른 점",
+			"title_b": "한국과 미국 주차장의 다른 점",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "운전 문화: 운전면허 따는 법",
+			"title_b": "운전면허 따는 법",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "운전 문화: 운전할 때 주의사항",
+			"title_b": "운전할 때 주의사항",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "운전 문화: 멈춤 표지판",
+			"title_b": "멈춤 표지판",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "반려견 산책 펫티켓",
+			"title_b": "반려견 산책 펫티켓",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "미국의 주택 장식 문화",
+			"title_b": "미국의 주택 장식 문화",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "산책 후 즐기는 커피 한 잔",
+			"title_b": "산책 후 즐기는 커피 한 잔",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "집 근처 헬스장 알아보기",
+			"title_b": "집 근처 헬스장 알아보기",
+			"page_name": [
+				"Lecture",
+				"Shadowing"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8215/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

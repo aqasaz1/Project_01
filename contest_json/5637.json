@@ -1,176 +1,206 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 5637,
-	"content_name": "봉봉봉 프랑스어 작문",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "저를 소개하겠습니다.",
-			"title_b": "저를 소개하겠습니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "우리 가족을 소개합니다!",
-			"title_b": "우리 가족을 소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "우리 집을 소개합니다!",
-			"title_b": "우리 집을 소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "저의 열정을 소개하겠습니다!",
-			"title_b": "저의 열정을 소개하겠습니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "제 절친을 소개하겠습니다!",
-			"title_b": "제 절친을 소개하겠습니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "지난 주말에 한 일",
-			"title_b": "지난 주말에 한 일",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "제가 가장 좋아하는 계절을 소개합니다!",
-			"title_b": "제가 가장 좋아하는 계절을 소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "저의 장점에 대해 소개하겠습니다!",
-			"title_b": "저의 장점에 대해 소개하겠습니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "내 장래 계획을 소개합니다!",
-			"title_b": "내 장래 계획을 소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "제가 좋아하는 음악을  소개합니다!",
-			"title_b": "제가 좋아하는 음악을  소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "내가 가장 좋아하는 음식을 소개합니다!",
-			"title_b": "내가 가장 좋아하는 음식을 소개합니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "만일 나에게 10억 원이 주어진다면!",
-			"title_b": "만일 나에게 10억 원이 주어진다면",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "난 ~에 대한 공포심이 있습니다.",
-			"title_b": "난 무엇무엇에 대한 공포심이 있습니다",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "내가 좋아하는 밤 나들이!",
-			"title_b": "내가 좋아하는 밤 나들이",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "나의 이상적인 바캉스가 여기 있습니다!",
-			"title_b": "나의 이상적인 바캉스가 여기 있습",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 5637,
+  "content_name": "봉봉봉 프랑스어 작문",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "저를 소개하겠습니다.",
+      "title_b": "저를 소개하겠습니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "우리 가족을 소개합니다!",
+      "title_b": "우리 가족을 소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "우리 집을 소개합니다!",
+      "title_b": "우리 집을 소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "저의 열정을 소개하겠습니다!",
+      "title_b": "저의 열정을 소개하겠습니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "제 절친을 소개하겠습니다!",
+      "title_b": "제 절친을 소개하겠습니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "지난 주말에 한 일",
+      "title_b": "지난 주말에 한 일",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "제가 가장 좋아하는 계절을 소개합니다!",
+      "title_b": "제가 가장 좋아하는 계절을 소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "저의 장점에 대해 소개하겠습니다!",
+      "title_b": "저의 장점에 대해 소개하겠습니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "내 장래 계획을 소개합니다!",
+      "title_b": "내 장래 계획을 소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "제가 좋아하는 음악을  소개합니다!",
+      "title_b": "제가 좋아하는 음악을  소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "내가 가장 좋아하는 음식을 소개합니다!",
+      "title_b": "내가 가장 좋아하는 음식을 소개합니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "만일 나에게 10억 원이 주어진다면!",
+      "title_b": "만일 나에게 10억 원이 주어진다면",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "난 ~에 대한 공포심이 있습니다.",
+      "title_b": "난 무엇무엇에 대한 공포심이 있습니다",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "내가 좋아하는 밤 나들이!",
+      "title_b": "내가 좋아하는 밤 나들이",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "나의 이상적인 바캉스가 여기 있습니다!",
+      "title_b": "나의 이상적인 바캉스가 여기 있습",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5637/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5637/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,0 +1,371 @@
+{
+	"content_lan": "영어",
+	"content_code": 6183,
+	"content_name": "Hotel Staff를 위한 기본 실무 영어",
+	"content_sample": "1",
+	"content_chasi": "24",
+	"content_size": "1000*650",
+	"content_cm": "남가은",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Answering Questions about Hotel Facilities",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Describing How to Get to the Hotel from the Airport",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Taking Reservations",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Changing Reservations",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Check-in Service for Reservations Made on a Website",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Check-in Service for Walk-ins",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Providing Essential Information about Rooms and Services",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Explaining Hotel Facilities and Services",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Giving Advice about Local Travel",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Advising Guests on Visitor Attractions",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Breakfast at the Restaurant",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Drinks at the Bar",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "At the Fitness Center",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "At the Business Center",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Taking Room Service Orders on the Phone",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Making Special Deliveries",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Providing Housekeeping Services",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Handling Complaints about Room Problems",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Handling Complaints about Wrong Rooms",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Taking Care of Complaints at a Restaurant",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Lost and Found Service",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Emergencies and First Aid",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Checkout Service",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Handling Disputed Charges",
+			"title_b": null,
+			"page_name": [
+				"intro",
+				"a sneak peek",
+				"lecture",
+				"speaking aloud",
+				"test",
+				"wrap-up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6183/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

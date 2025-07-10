@@ -1,221 +1,263 @@
-﻿{
-	"content_lan": "영어",
-	"content_code": "8410",
-	"content_name": "회사에서 가장 많이 쓰는 비즈니스 영어 - 실전 편",
-	"content_sample": "1",
-	"content_chasi": "21",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "INTRO - 사회생활 실전",
-			"title_b": "INTRO  사회생활 실전",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "지각했다.",
-			"title_b": "지각했다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "막 퇴근하려고 했는데 일을 시키네.",
-			"title_b": "막 퇴근하려고 했는데 일을 시키네",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "약속할 수 없어.",
-			"title_b": "약속할 수 없어",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "원격 미팅은 순탄한 적이 없지.",
-			"title_b": "원격 미팅은 순탄한 적이 없지",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "진상 고객이다.",
-			"title_b": "진상 고객이다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "자꾸 값을 깎아달래.",
-			"title_b": "자꾸 값을 깎아달래",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "이거 큰일이다.",
-			"title_b": "이거 큰일이다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "조퇴할 수 있을까요?",
-			"title_b": "조퇴할 수 있을까요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "앞뒤가 안 맞는 숫자",
-			"title_b": "앞뒤가 안 맞는 숫자",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "너무 바쁘다. 말도 걸지 말아라.",
-			"title_b": "너무 바쁘다 말도 걸지 말아라",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "세상엔 넉넉한 일정이란 건 없단다.",
-			"title_b": "세상엔 넉넉한 일정이란 건 없단다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "기습적으로 해고 당했다.",
-			"title_b": "기습적으로 해고 당했다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "마감 임박! 아직 못 했다.",
-			"title_b": "마감 임박 아직 못 했다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "OO한테 물어봐.",
-			"title_b": "OO한테 물어봐",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "휴가 다녀왔더니 이메일이 100통",
-			"title_b": "휴가 다녀왔더니 이메일이 100통",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "내가 알기론...",
-			"title_b": "내가 알기론",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "애 먹고 있다.",
-			"title_b": "애 먹고 있다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "아직까진 충원 계획 없어.",
-			"title_b": "아직까진 충원 계획 없어",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "오늘 병가 냅니다.",
-			"title_b": "오늘 병가 냅니다",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "약자가 난무하는 사내 소통",
-			"title_b": "약자가 난무하는 사내 소통",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "영어",
+  "content_code": "8410",
+  "content_name": "회사에서 가장 많이 쓰는 비즈니스 영어 - 실전 편",
+  "content_sample": "1",
+  "content_chasi": "21",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "INTRO - 사회생활 실전",
+      "title_b": "INTRO  사회생활 실전",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "지각했다.",
+      "title_b": "지각했다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "막 퇴근하려고 했는데 일을 시키네.",
+      "title_b": "막 퇴근하려고 했는데 일을 시키네",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "약속할 수 없어.",
+      "title_b": "약속할 수 없어",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "원격 미팅은 순탄한 적이 없지.",
+      "title_b": "원격 미팅은 순탄한 적이 없지",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "진상 고객이다.",
+      "title_b": "진상 고객이다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "자꾸 값을 깎아달래.",
+      "title_b": "자꾸 값을 깎아달래",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "이거 큰일이다.",
+      "title_b": "이거 큰일이다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "조퇴할 수 있을까요?",
+      "title_b": "조퇴할 수 있을까요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "앞뒤가 안 맞는 숫자",
+      "title_b": "앞뒤가 안 맞는 숫자",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "너무 바쁘다. 말도 걸지 말아라.",
+      "title_b": "너무 바쁘다 말도 걸지 말아라",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "세상엔 넉넉한 일정이란 건 없단다.",
+      "title_b": "세상엔 넉넉한 일정이란 건 없단다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "기습적으로 해고 당했다.",
+      "title_b": "기습적으로 해고 당했다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "마감 임박! 아직 못 했다.",
+      "title_b": "마감 임박 아직 못 했다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "OO한테 물어봐.",
+      "title_b": "OO한테 물어봐",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "휴가 다녀왔더니 이메일이 100통",
+      "title_b": "휴가 다녀왔더니 이메일이 100통",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "내가 알기론...",
+      "title_b": "내가 알기론",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "애 먹고 있다.",
+      "title_b": "애 먹고 있다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "아직까진 충원 계획 없어.",
+      "title_b": "아직까진 충원 계획 없어",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "오늘 병가 냅니다.",
+      "title_b": "오늘 병가 냅니다",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "약자가 난무하는 사내 소통",
+      "title_b": "약자가 난무하는 사내 소통",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8410/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8410/mobile_500k/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

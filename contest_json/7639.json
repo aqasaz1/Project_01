@@ -1,431 +1,491 @@
 {
-	"content_lan": "영어",
-	"content_code": 7639,
-	"content_name": "이보영의 바로 떠나는 왕초보 여행영어",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*780",
-	"content_cm": "미소아",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "탑승하기",
-			"title_b": "탑승하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/01.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "기내에서",
-			"title_b": "기내에서",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/02.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "환승하기",
-			"title_b": "환승하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/03.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "입국 수속하기",
-			"title_b": "입국 수속하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/04.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "짐 찾기",
-			"title_b": "짐 찾기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/05.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "대중교통 이용하기",
-			"title_b": "대중교통 이용하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/06.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "자동차 렌트하기",
-			"title_b": "자동차 렌트하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/07.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "길 찾기",
-			"title_b": "길 찾기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/08.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "숙박하기_호텔 & 리조트에서",
-			"title_b": "호텔과 리조트에서 숙박하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/09.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "숙박하기_민박 & Airbnb",
-			"title_b": "민박과 Airbnb에서 숙박하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/10.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "식당 예약하기",
-			"title_b": "식당 예약하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/11.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "식당에서 주문하기",
-			"title_b": "식당에서 주문하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/12.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "패스트푸드 & 카페에서",
-			"title_b": "패스트푸드점과 카페에서",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/13.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "술집에서",
-			"title_b": "술집에서",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/14.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "쇼핑하기 1",
-			"title_b": "쇼핑하기 1",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/15.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "쇼핑하기 2",
-			"title_b": "쇼핑하기 2",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/16.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "액티비티 문의하기",
-			"title_b": "액티비티 문의하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/17.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "관광상품 예약하기",
-			"title_b": "관광상품 예약하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/18.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "관광 정보 문의하기",
-			"title_b": "관광 정보 문의하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/19.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "관광 시설 이용하기",
-			"title_b": "관광 시설 이용하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/20.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "박물관 & 미술관 이용하기",
-			"title_b": "박물관과 미술관 이용하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/21.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "영화관 & 극장 이용하기",
-			"title_b": "영화관과 극장 이용하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/22.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "현지 투어 패키지 이용하기",
-			"title_b": "현지 투어 패키지 이용하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/23.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "하이킹",
-			"title_b": "하이킹",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/24.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "물놀이",
-			"title_b": "물놀이",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/25.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "가벼운 대화",
-			"title_b": "가벼운 대화",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/26.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "체크아웃하기",
-			"title_b": "체크아웃하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/27.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "아프거나 다쳤을 때",
-			"title_b": "아프거나 다쳤을 때",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/28.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "위급 상황에서",
-			"title_b": "위급 상황에서",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/29.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "귀국하기",
-			"title_b": "귀국하기",
-			"page_name": [
-				"INTRO",
-				"학습목표",
-				"오늘의 여행영어",
-				"어휘 Check-up",
-				"확인학습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/30.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7639,
+  "content_name": "이보영의 바로 떠나는 왕초보 여행영어",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*780",
+  "content_cm": "미소아",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "탑승하기",
+      "title_b": "탑승하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/01.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/01_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "기내에서",
+      "title_b": "기내에서",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/02.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/02_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "환승하기",
+      "title_b": "환승하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/03.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/03_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "입국 수속하기",
+      "title_b": "입국 수속하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/04.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/04_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "짐 찾기",
+      "title_b": "짐 찾기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/05.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/05_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "대중교통 이용하기",
+      "title_b": "대중교통 이용하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/06.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/06_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "자동차 렌트하기",
+      "title_b": "자동차 렌트하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/07.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/07_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "길 찾기",
+      "title_b": "길 찾기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/08.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/08_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "숙박하기_호텔 & 리조트에서",
+      "title_b": "호텔과 리조트에서 숙박하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/09.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/09_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "숙박하기_민박 & Airbnb",
+      "title_b": "민박과 Airbnb에서 숙박하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/10.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/10_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "식당 예약하기",
+      "title_b": "식당 예약하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/11.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/11_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "식당에서 주문하기",
+      "title_b": "식당에서 주문하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/12.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/12_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "패스트푸드 & 카페에서",
+      "title_b": "패스트푸드점과 카페에서",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/13.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/13_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "술집에서",
+      "title_b": "술집에서",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/14.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/14_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "쇼핑하기 1",
+      "title_b": "쇼핑하기 1",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/15.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step1/15_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "쇼핑하기 2",
+      "title_b": "쇼핑하기 2",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/16.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/16_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "액티비티 문의하기",
+      "title_b": "액티비티 문의하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/17.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/17_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "관광상품 예약하기",
+      "title_b": "관광상품 예약하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/18.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/18_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "관광 정보 문의하기",
+      "title_b": "관광 정보 문의하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/19.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/19_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "관광 시설 이용하기",
+      "title_b": "관광 시설 이용하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/20.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/20_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "박물관 & 미술관 이용하기",
+      "title_b": "박물관과 미술관 이용하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/21.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/21_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "영화관 & 극장 이용하기",
+      "title_b": "영화관과 극장 이용하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/22.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/22_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "현지 투어 패키지 이용하기",
+      "title_b": "현지 투어 패키지 이용하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/23.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/23_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "하이킹",
+      "title_b": "하이킹",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/24.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/24_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "물놀이",
+      "title_b": "물놀이",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/25.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/25_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "가벼운 대화",
+      "title_b": "가벼운 대화",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/26.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/26_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "체크아웃하기",
+      "title_b": "체크아웃하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/27.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/27_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "아프거나 다쳤을 때",
+      "title_b": "아프거나 다쳤을 때",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/28.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/28_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "위급 상황에서",
+      "title_b": "위급 상황에서",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/29.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/29_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "귀국하기",
+      "title_b": "귀국하기",
+      "page_name": [
+        "INTRO",
+        "학습목표",
+        "오늘의 여행영어",
+        "어휘 Check-up",
+        "확인학습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mp4/30.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7639/mobile/step2/30_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

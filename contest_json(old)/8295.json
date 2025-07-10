@@ -1,0 +1,99 @@
+{
+	"content_lan": "중국어",
+	"content_code": "8295",
+	"content_name": "최신개정 HSK 3급 한권으로 끝내기 - 실전 모의고사",
+	"content_sample": "1",
+	"content_chasi": "8",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "모의고사 1 - 듣기 제1, 2부분",
+			"title_b": "모의고사 1  듣기 제1 2부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "모의고사 1 - 듣기 제3, 4부분",
+			"title_b": "모의고사 1  듣기 제3 4부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "모의고사 1 - 독해 제1, 2부분",
+			"title_b": "모의고사 1  독해 제1 2부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "모의고사 1 - 독해 제3부분, 쓰기 제1부분",
+			"title_b": "모의고사 1  독해 제3부분 쓰기 제1부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "모의고사 2 - 듣기 제1, 2부분",
+			"title_b": "모의고사 2  듣기 제1 2부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "모의고사 2 - 듣기 제3, 4부분",
+			"title_b": "모의고사 2  듣기 제3 4부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "모의고사 2 - 독해 제1, 2부분",
+			"title_b": "모의고사 2  독해 제1 2부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "모의고사 2 - 독해 제3부분, 쓰기 제2부분",
+			"title_b": "모의고사 2  독해 제3부분 쓰기 제2부분",
+			"page_name": [
+				"실전 문제풀이",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8295/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

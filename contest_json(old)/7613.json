@@ -1,0 +1,611 @@
+{
+	"content_lan": "중국어",
+	"content_code": 7613,
+	"content_name": "나의 겁 없는 중국출장 중국어 - 꽌시편",
+	"content_sample": "3/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "식사 메뉴 정하기",
+			"title_b": "식사 메뉴 정하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "식사 장소 정하기",
+			"title_b": "식사 장소 정하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "기피 음식 말하기",
+			"title_b": "기피 음식 말하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "딤섬 주문하기",
+			"title_b": "딤섬 주문하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "식사 대접에 감사 인사하기",
+			"title_b": "식사 대접에 감사 인사하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "차 마시기",
+			"title_b": "차 마시기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "술 주문하기",
+			"title_b": "술 주문하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "술 권하기",
+			"title_b": "술 권하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "술 거절하기",
+			"title_b": "술 거절하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "벌주 마시기",
+			"title_b": "벌주 마시기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "KTV 가기",
+			"title_b": "KTV 가기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "고객에게 선물하기",
+			"title_b": "고객에게 선물하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "골프 치기",
+			"title_b": "골프 치기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "골프 내기하기",
+			"title_b": "골프 내기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "캐디에게 팁 주기",
+			"title_b": "캐디에게 팁 주기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "마사지샵 가기",
+			"title_b": "마사지샵 가기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "생일 축하하기",
+			"title_b": "생일 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "결혼 축하하기",
+			"title_b": "결혼 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "출산 축하하기",
+			"title_b": "출산 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "승진 축하하기",
+			"title_b": "승진 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "창립기념일 축하하기",
+			"title_b": "창립기념일 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "고별 인사하기 ① 본인의 이동",
+			"title_b": "고별 인사하기 1 본인의 이동",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "고별 인사하기 ② 고객의 이동",
+			"title_b": "고별 인사하기 2 고객의 이동",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "슬픈 일 위로하기",
+			"title_b": "슬픈 일 위로하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "성과에 대해 감사하기",
+			"title_b": "성과에 대해 감사하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "목표 달성 독려하기",
+			"title_b": "목표 달성 독려하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "계약 체결 축하하기",
+			"title_b": "계약 체결 축하하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "협력사와의 윈윈 기원하기",
+			"title_b": "협력사와의 윈윈 기원하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "신년 다짐 한마디 하기",
+			"title_b": "신년 다짐 한마디 하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "송년회에서 한마디 하기",
+			"title_b": "송년회에서 한마디 하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "날씨 이야기하기",
+			"title_b": "날씨 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "『삼국지』 이야기하기",
+			"title_b": "삼국지 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "술 이야기하기",
+			"title_b": "술 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "고향 이야기하기",
+			"title_b": "고향 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "대학 이야기하기",
+			"title_b": "대학 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "부동산 이야기하기",
+			"title_b": "부동산 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "양안 문제 이야기하기",
+			"title_b": "양안 문제 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "중국 모바일 어플에 대해 이야기하기",
+			"title_b": "중국 모바일 어플에 대해 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "성형에 대해 이야기하기",
+			"title_b": "성형에 대해 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "공유 경제에 대해 이야기하기",
+			"title_b": "공유 경제에 대해 이야기하기",
+			"page_name": [
+				"인트로",
+				"Biz 에피소드 미리 보기",
+				"Biz 에피소드 강의",
+				"중국출장 팁 강의",
+				"핵심 패턴 연습",
+				"Biz 에피소드 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7613/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

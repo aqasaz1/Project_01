@@ -1,359 +1,419 @@
 {
-	"content_lan": "영어",
-	"content_code": "8284",
-	"content_name": "맨처음 토익 RC 실력편 800+",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Parts 5·6 명사",
-			"title_b": "Parts 5 6 명사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Parts 5·6 형용사, 부사",
-			"title_b": "Parts 5 6 형용사 부사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Parts 5·6 명사절 접속사와 부사절 접속사",
-			"title_b": "Parts 5 6 명사절 접속사와 부사절 접속사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Parts 5·6 등위접속사와 상관접속사, 관계사",
-			"title_b": "Parts 5 6 등위접속사와 상관접속사 관계사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Parts 5·6 연습 문제 I",
-			"title_b": "Parts 5 6 연습 문제 I",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Parts 5·6 수 일치",
-			"title_b": "Parts 5 6 수 일치",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Parts 5·6 시제, 태",
-			"title_b": "Parts 5 6 시제 태",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Parts 5·6 to부정사, 동명사",
-			"title_b": "Parts 5 6 to부정사 동명사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Parts 5·6 분사",
-			"title_b": "Parts 5 6 분사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Parts 5·6 연습 문제 II",
-			"title_b": "Parts 5 6 연습 문제 II",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Parts 5·6 전치사, 대명사",
-			"title_b": "Parts 5 6 전치사 대명사",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Parts 5·6 비교급과 최상급, 가정법",
-			"title_b": "Parts 5 6 비교급과 최상급 가정법",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Parts 5·6 명사 어휘, 동사 어휘",
-			"title_b": "Parts 5 6 명사 어휘 동사 어휘",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Parts 5·6 형용사 및 부사 어휘",
-			"title_b": "Parts 5 6 형용사 및 부사 어휘",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Parts 5·6 연습 문제 III",
-			"title_b": "Parts 5 6 연습 문제 III",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Parts 5·6 실전 문제 연습 I",
-			"title_b": "Parts 5 6 실전 문제 연습 I",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Parts 5·6 실전 문제 연습 II",
-			"title_b": "Parts 5 6 실전 문제 연습 II",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Parts 5·6 실전 문제 연습 III",
-			"title_b": "Parts 5 6 실전 문제 연습 III",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Part 7 이메일 / 편지",
-			"title_b": "Part 7 이메일 편지",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Part 7 문자 메시지 / 온라인 채팅",
-			"title_b": "Part 7 문자 메시지 온라인 채팅",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "Part 7 연습 문제 I",
-			"title_b": "Part 7 연습 문제 I",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "Part 7 공지 / 회람",
-			"title_b": "Part 7 공지 회람",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "Part 7 기사 / 안내문",
-			"title_b": "Part 7 기사 안내문",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Part 7 연습 문제 II",
-			"title_b": "Part 7 연습 문제 II",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Part 7 광고",
-			"title_b": "Part 7 광고",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Part 7 양식 및 기타",
-			"title_b": "Part 7 양식 및 기타",
-			"page_name": [
-				"실력다지기",
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "Part 7 연습 문제 III",
-			"title_b": "Part 7 연습 문제 III",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Part 7 실전 문제 연습 I",
-			"title_b": "Part 7 실전 문제 연습 I",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "Part 7 실전 문제 연습 II",
-			"title_b": "Part 7 실전 문제 연습 II",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "Part 7 실전 문제 연습 III",
-			"title_b": "Part 7 실전 문제 연습 III",
-			"page_name": [
-				"문제풀기",
-				"문제해설"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8284",
+  "content_name": "맨처음 토익 RC 실력편 800+",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Parts 5·6 명사",
+      "title_b": "Parts 5 6 명사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Parts 5·6 형용사, 부사",
+      "title_b": "Parts 5 6 형용사 부사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Parts 5·6 명사절 접속사와 부사절 접속사",
+      "title_b": "Parts 5 6 명사절 접속사와 부사절 접속사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Parts 5·6 등위접속사와 상관접속사, 관계사",
+      "title_b": "Parts 5 6 등위접속사와 상관접속사 관계사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Parts 5·6 연습 문제 I",
+      "title_b": "Parts 5 6 연습 문제 I",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Parts 5·6 수 일치",
+      "title_b": "Parts 5 6 수 일치",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Parts 5·6 시제, 태",
+      "title_b": "Parts 5 6 시제 태",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Parts 5·6 to부정사, 동명사",
+      "title_b": "Parts 5 6 to부정사 동명사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Parts 5·6 분사",
+      "title_b": "Parts 5 6 분사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Parts 5·6 연습 문제 II",
+      "title_b": "Parts 5 6 연습 문제 II",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Parts 5·6 전치사, 대명사",
+      "title_b": "Parts 5 6 전치사 대명사",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Parts 5·6 비교급과 최상급, 가정법",
+      "title_b": "Parts 5 6 비교급과 최상급 가정법",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Parts 5·6 명사 어휘, 동사 어휘",
+      "title_b": "Parts 5 6 명사 어휘 동사 어휘",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Parts 5·6 형용사 및 부사 어휘",
+      "title_b": "Parts 5 6 형용사 및 부사 어휘",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Parts 5·6 연습 문제 III",
+      "title_b": "Parts 5 6 연습 문제 III",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Parts 5·6 실전 문제 연습 I",
+      "title_b": "Parts 5 6 실전 문제 연습 I",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Parts 5·6 실전 문제 연습 II",
+      "title_b": "Parts 5 6 실전 문제 연습 II",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Parts 5·6 실전 문제 연습 III",
+      "title_b": "Parts 5 6 실전 문제 연습 III",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Part 7 이메일 / 편지",
+      "title_b": "Part 7 이메일 편지",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Part 7 문자 메시지 / 온라인 채팅",
+      "title_b": "Part 7 문자 메시지 온라인 채팅",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "Part 7 연습 문제 I",
+      "title_b": "Part 7 연습 문제 I",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "Part 7 공지 / 회람",
+      "title_b": "Part 7 공지 회람",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "Part 7 기사 / 안내문",
+      "title_b": "Part 7 기사 안내문",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Part 7 연습 문제 II",
+      "title_b": "Part 7 연습 문제 II",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Part 7 광고",
+      "title_b": "Part 7 광고",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Part 7 양식 및 기타",
+      "title_b": "Part 7 양식 및 기타",
+      "page_name": [
+        "실력다지기",
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4_bind_part/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "Part 7 연습 문제 III",
+      "title_b": "Part 7 연습 문제 III",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Part 7 실전 문제 연습 I",
+      "title_b": "Part 7 실전 문제 연습 I",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "Part 7 실전 문제 연습 II",
+      "title_b": "Part 7 실전 문제 연습 II",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "Part 7 실전 문제 연습 III",
+      "title_b": "Part 7 실전 문제 연습 III",
+      "page_name": [
+        "문제풀기",
+        "문제해설"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8284/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8284/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

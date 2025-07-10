@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": "8500",
+	"content_name": "핵심만 콕 집어주는, 무조건 오픽 IH&AL STEP 1",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1170*658",
+	"content_cm": "김태우",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "오리엔테이션",
+			"title_b": "오리엔테이션",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_01.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[설문주제] 공원",
+			"title_b": "설문주제  공원",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_02.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[설문주제] 집(거주지)",
+			"title_b": "설문주제  집 거주지",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_03.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[설문주제] 해변",
+			"title_b": "설문주제  해변",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_04.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[설문주제] 영화보기",
+			"title_b": "설문주제  영화보기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_05.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[설문주제] 공연&콘서트",
+			"title_b": "설문주제  공연 콘서트",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_06.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[설문주제] 술집/바에 가기",
+			"title_b": "설문주제  술집 바에 가기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_07.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[설문주제] 카페/커피 전문점에 가기",
+			"title_b": "설문주제  카페 커피 전문점에 가기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_08.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[설문주제] 음악 감상",
+			"title_b": "설문주제  음악 감상",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_09.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[설문주제] 국내 여행",
+			"title_b": "설문주제  국내 여행",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_10.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[설문주제] 조깅&걷기",
+			"title_b": "설문주제  조깅 걷기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_11.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[돌발주제] Technology",
+			"title_b": "돌발주제  Technology",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_12.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[돌발주제] 인터넷",
+			"title_b": "돌발주제  인터넷",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_13.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[돌발주제] 산업",
+			"title_b": "돌발주제  산업",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_14.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[돌발주제] 건강",
+			"title_b": "돌발주제  건강",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8500/mp4_bind/z1_15.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

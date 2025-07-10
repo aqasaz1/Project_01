@@ -1,231 +1,275 @@
 {
-	"content_lan": "영어",
-	"content_code": 5591,
-	"content_name": "내게 특별한 영어를 부탁해",
-	"content_sample": "1",
-	"content_chasi": "22",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "예비과 1",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "예비과 2",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "안녕하세요. 저는 수지예요.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "이 사람은 누구입니까?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "이것은 무엇입니까?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "세탁물 바구니는 어디에 있습니까?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "나는 한국 가요와 드라마를 무척 좋아해요.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "제가 그것을 도와 드릴게요.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "얼마나 자주 가족에게 전화해요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "얼마입니까?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "언제 시간이 있어요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "맛이 끝내주는데요.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "이것은 누구의 반지입니까?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "지금 뭐하고 있어요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "거기에 어떻게 가요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "난 살을 빼야 할 것 같아요.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "뮤지컬을 봤어요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "요즘 왜 그렇게 바빠요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "어느 팀을 더 좋아해요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "이건 불고기라고 하는 한국식 바비큐입니다.",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "이번 주말에 뭐 할 거예요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "뉴욕에서 얼마나 오래 살았어요?",
-			"title_b": null,
-			"page_name": [
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 5591,
+  "content_name": "내게 특별한 영어를 부탁해",
+  "content_sample": "1",
+  "content_chasi": "22",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "예비과 1",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "예비과 2",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "안녕하세요. 저는 수지예요.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "이 사람은 누구입니까?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "이것은 무엇입니까?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "세탁물 바구니는 어디에 있습니까?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "나는 한국 가요와 드라마를 무척 좋아해요.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "제가 그것을 도와 드릴게요.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "얼마나 자주 가족에게 전화해요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "얼마입니까?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "언제 시간이 있어요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "맛이 끝내주는데요.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "이것은 누구의 반지입니까?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "지금 뭐하고 있어요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "거기에 어떻게 가요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "난 살을 빼야 할 것 같아요.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "뮤지컬을 봤어요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "요즘 왜 그렇게 바빠요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "어느 팀을 더 좋아해요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "이건 불고기라고 하는 한국식 바비큐입니다.",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "이번 주말에 뭐 할 거예요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "뉴욕에서 얼마나 오래 살았어요?",
+      "title_b": null,
+      "page_name": [
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5591/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5591/mobile/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

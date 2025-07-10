@@ -1,0 +1,271 @@
+{
+	"content_lan": "영어",
+	"content_code": 6611,
+	"content_name": "야나두 리얼 스피킹 4탄",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "We Feel Very in Touch",
+			"title_b": "We Feel Very in Touch",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "It Is Very Exhausting",
+			"title_b": "It Is Very Exhausting",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Defined Arms",
+			"title_b": "Defined Arms",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "You Are Gonna Say 저기요",
+			"title_b": "You Are Gonna Say 저기요",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Out of My Shell",
+			"title_b": "Out of My Shell",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "It’s User-Friendly",
+			"title_b": "It is User Friendly",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Many More Choices",
+			"title_b": "Many More Choices",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "He Farted in My Face",
+			"title_b": "He Farted in My Face",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "2 Friends of Mine",
+			"title_b": "2 Friends of Mine",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "With a Bible in Her Hand",
+			"title_b": "With a Bible in Her Hand",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "It Is More of a Feeling",
+			"title_b": "It Is More of a Feeling",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "At a Convenience Store",
+			"title_b": "At a Convenience Store",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "I Like Big Noses",
+			"title_b": "I Like Big Noses",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "It Is Always Different",
+			"title_b": "It Is Always Different",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Go into Seoul",
+			"title_b": "Go into Seoul",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "A Good Pair of Legs",
+			"title_b": "A Good Pair of Legs",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Being a Black Person",
+			"title_b": "Being a Black Person",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Straight Nice Teeth",
+			"title_b": "Straight Nice Teeth",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "See More of Them",
+			"title_b": "See More of Them",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "I Don’t Like Red Hair",
+			"title_b": "I Do not Like Red Hair",
+			"page_name": [
+				"intro",
+				"Real Interview",
+				"Shadowing",
+				"Correct the Mistakes"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6611/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

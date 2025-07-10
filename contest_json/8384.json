@@ -1,154 +1,180 @@
-﻿{
-	"content_lan": "일본어",
-	"content_code": "8384",
-	"content_name": "2주 완성 JLPT 한자 어휘 특강 N1",
-	"content_sample": "1",
-	"content_chasi": "13",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "필수 한자 憤, 癒, 粘 외",
-			"title_b": "필수 한자 분할 분 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "필수 한자 戒, 滞, 膨 외",
-			"title_b": "필수 한자 경계할 계 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "필수 한자 行, 凝, 握 외",
-			"title_b": "필수 한자 다닐 행 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "필수 한자 滑, 頑, 強 외",
-			"title_b": "필수 한자 미끄러울 활 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "필수 한자 衰, 施, 解 외",
-			"title_b": "필수 한자 쇠할 쇠 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "필수 한자 滅, 妙, 微 외",
-			"title_b": "필수 한자 꺼질 멸 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "필수 한자 樹, 盛, 償 외",
-			"title_b": "필수 한자 나무 수 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "필수 한자 惑, 推, 筋 외",
-			"title_b": "필수 한자 미혹할 혹 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "필수 한자 境, 愚, 悔 외",
-			"title_b": "필수 한자 지경 경 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "필수 한자 朗, 参, 源 외",
-			"title_b": "필수 한자 밝을 랑 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "필수 한자 納, 漏, 脅 외",
-			"title_b": "필수 한자 들일 납 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "필수 한자 彫, 葬, 奏 외",
-			"title_b": "필수 한자 새길 조 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "필수 한자 遣, 慢, 避 외",
-			"title_b": "필수 한자 보낼 견 외",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "일본어",
+  "content_code": "8384",
+  "content_name": "2주 완성 JLPT 한자 어휘 특강 N1",
+  "content_sample": "1",
+  "content_chasi": "13",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "필수 한자 憤, 癒, 粘 외",
+      "title_b": "필수 한자 분할 분 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "필수 한자 戒, 滞, 膨 외",
+      "title_b": "필수 한자 경계할 계 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "필수 한자 行, 凝, 握 외",
+      "title_b": "필수 한자 다닐 행 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "필수 한자 滑, 頑, 強 외",
+      "title_b": "필수 한자 미끄러울 활 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "필수 한자 衰, 施, 解 외",
+      "title_b": "필수 한자 쇠할 쇠 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "필수 한자 滅, 妙, 微 외",
+      "title_b": "필수 한자 꺼질 멸 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "필수 한자 樹, 盛, 償 외",
+      "title_b": "필수 한자 나무 수 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "필수 한자 惑, 推, 筋 외",
+      "title_b": "필수 한자 미혹할 혹 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "필수 한자 境, 愚, 悔 외",
+      "title_b": "필수 한자 지경 경 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "필수 한자 朗, 参, 源 외",
+      "title_b": "필수 한자 밝을 랑 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "필수 한자 納, 漏, 脅 외",
+      "title_b": "필수 한자 들일 납 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "필수 한자 彫, 葬, 奏 외",
+      "title_b": "필수 한자 새길 조 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "필수 한자 遣, 慢, 避 외",
+      "title_b": "필수 한자 보낼 견 외",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8384/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8384/mobile_500k/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

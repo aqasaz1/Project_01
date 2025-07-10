@@ -1,0 +1,382 @@
+{
+	"content_lan": "영어",
+	"content_code": "8272",
+	"content_name": "여행영어 특급패턴 101",
+	"content_sample": "1/16",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "공항 (1)",
+			"title_b": "공항 1",
+			"page_name": [
+				"특급패턴 001",
+				"특급패턴 002",
+				"특급패턴 003",
+				"특급패턴 004"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "공항 (2)",
+			"title_b": "공항 2",
+			"page_name": [
+				"특급패턴 005",
+				"특급패턴 006",
+				"특급패턴 007",
+				"특급패턴 008"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "교통 (1)",
+			"title_b": "교통 1",
+			"page_name": [
+				"특급패턴 009",
+				"특급패턴 010",
+				"특급패턴 011",
+				"특급패턴 012"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "교통 (2)",
+			"title_b": "교통 2",
+			"page_name": [
+				"특급패턴 013",
+				"특급패턴 014",
+				"특급패턴 015"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "호텔 (1)",
+			"title_b": "호텔 1",
+			"page_name": [
+				"특급패턴 016",
+				"특급패턴 017",
+				"특급패턴 018",
+				"특급패턴 019"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "호텔 (2)",
+			"title_b": "호텔 2",
+			"page_name": [
+				"특급패턴 020",
+				"특급패턴 021",
+				"특급패턴 022",
+				"특급패턴 023"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "관광 (1)",
+			"title_b": "관광 1",
+			"page_name": [
+				"특급패턴 024",
+				"특급패턴 025",
+				"특급패턴 026"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "관광 (2)",
+			"title_b": "관광 2",
+			"page_name": [
+				"특급패턴 027",
+				"특급패턴 028",
+				"특급패턴 029"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "관광 (3)",
+			"title_b": "관광 3",
+			"page_name": [
+				"특급패턴 030",
+				"특급패턴 031",
+				"특급패턴 032"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "관광 (4), 거리 (1)",
+			"title_b": "관광 4 거리 1",
+			"page_name": [
+				"특급패턴 033",
+				"특급패턴 034",
+				"특급패턴 035"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "거리 (2)",
+			"title_b": "거리 2",
+			"page_name": [
+				"특급패턴 036",
+				"특급패턴 037",
+				"특급패턴 038"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "거리 (3)",
+			"title_b": "거리 3",
+			"page_name": [
+				"특급패턴 039",
+				"특급패턴 040",
+				"특급패턴 041"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "거리 (4)",
+			"title_b": "거리 4",
+			"page_name": [
+				"특급패턴 042",
+				"특급패턴 043",
+				"특급패턴 044"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "식당 (1)",
+			"title_b": "식당 1",
+			"page_name": [
+				"특급패턴 045",
+				"특급패턴 046",
+				"특급패턴 047"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "식당 (2)",
+			"title_b": "식당 2",
+			"page_name": [
+				"특급패턴 048",
+				"특급패턴 049",
+				"특급패턴 050"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "식당 (3)",
+			"title_b": "식당 3",
+			"page_name": [
+				"특급패턴 051",
+				"특급패턴 052",
+				"특급패턴 053"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "식당 (4)",
+			"title_b": "식당 4",
+			"page_name": [
+				"특급패턴 054",
+				"특급패턴 055",
+				"특급패턴 056"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "식당 (5)",
+			"title_b": "식당 5",
+			"page_name": [
+				"특급패턴 057",
+				"특급패턴 058",
+				"특급패턴 059"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "식당 (6)",
+			"title_b": "식당 6",
+			"page_name": [
+				"특급패턴 060",
+				"특급패턴 061",
+				"특급패턴 062"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "식당 (7)",
+			"title_b": "식당 7",
+			"page_name": [
+				"특급패턴 063",
+				"특급패턴 064",
+				"특급패턴 065"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "식당 (8)",
+			"title_b": "식당 8",
+			"page_name": [
+				"특급패턴 066",
+				"특급패턴 067",
+				"특급패턴 068"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "쇼핑 (1)",
+			"title_b": "쇼핑 1",
+			"page_name": [
+				"특급패턴 069",
+				"특급패턴 070",
+				"특급패턴 071",
+				"특급패턴 072"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "쇼핑 (2)",
+			"title_b": "쇼핑 2",
+			"page_name": [
+				"특급패턴 073",
+				"특급패턴 074",
+				"특급패턴 075"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "쇼핑 (3)",
+			"title_b": "쇼핑 3",
+			"page_name": [
+				"특급패턴 076",
+				"특급패턴 077",
+				"특급패턴 078"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "쇼핑 (4)",
+			"title_b": "쇼핑 4",
+			"page_name": [
+				"특급패턴 079",
+				"특급패턴 080",
+				"특급패턴 081",
+				"특급패턴 082"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "쇼핑 (5)",
+			"title_b": "쇼핑 5",
+			"page_name": [
+				"특급패턴 083",
+				"특급패턴 084",
+				"특급패턴 085"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "대화 (1)",
+			"title_b": "대화 1",
+			"page_name": [
+				"특급패턴 086",
+				"특급패턴 087",
+				"특급패턴 088",
+				"특급패턴 089"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "대화 (2)",
+			"title_b": "대화 2",
+			"page_name": [
+				"특급패턴 090",
+				"특급패턴 091",
+				"특급패턴 092",
+				"특급패턴 093"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "위급사항 (1)",
+			"title_b": "위급사항 1",
+			"page_name": [
+				"특급패턴 094",
+				"특급패턴 095",
+				"특급패턴 096",
+				"특급패턴 097"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "위급사항 (2)",
+			"title_b": "위급사항 2",
+			"page_name": [
+				"특급패턴 098",
+				"특급패턴 099",
+				"특급패턴 100",
+				"특급패턴 101"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8272/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

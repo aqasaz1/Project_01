@@ -1,0 +1,311 @@
+{
+	"content_lan": "일본어",
+	"content_code": 6361,
+	"content_name": "다락원 Biz 일본어 마스터 고급",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Biz 일본어 스킬업 - 비즈니스 전화1",
+			"title_b": "비즈니스 전화1",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Biz 일본어 스킬업 - 비즈니스 전화2",
+			"title_b": "비즈니스 전화2",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Biz 일본어 스킬업 - 비즈니스 이메일",
+			"title_b": "비즈니스 이메일",
+			"page_name": [
+				"인트로",
+				"Biz 마스터 워밍업",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 문장연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Biz 일본어 스킬업 - 협상회의",
+			"title_b": "협상회의",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Biz 일본어 스킬업 - 의견조율",
+			"title_b": "의견조율",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Biz 일본어 스킬업 - 거래처 방문",
+			"title_b": "거래처 방문",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Biz 일본어 스킬업 - 마케팅 회의",
+			"title_b": "마케팅 회의",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Biz 일본어 스킬업 - 전시회에서",
+			"title_b": "전시회에서",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Biz 일본어 스킬업 - 비즈니스 문서 작성1",
+			"title_b": "비즈니스 문서 작성1",
+			"page_name": [
+				"인트로",
+				"Biz 마스터 워밍업",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 문장연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Biz 일본어 스킬업 - 비즈니스 문서 작성2",
+			"title_b": "비즈니스 문서 작성2",
+			"page_name": [
+				"인트로",
+				"Biz 마스터 워밍업",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 문장연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "손님 접대 - 마중·배웅하기",
+			"title_b": "마중과 배웅",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "손님 접대 - 대화하기",
+			"title_b": "대화하기",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "손님 접대 - 식사 대접",
+			"title_b": "식사 대접",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "손님 접대 - 술 대접",
+			"title_b": "술 대접",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "손님 접대 - 쇼핑 안내",
+			"title_b": "쇼핑 안내",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "손님 접대 - 관광 안내",
+			"title_b": "관광 안내",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "손님 접대 - 골프, 카지노",
+			"title_b": "골프와 카지노",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "일본 출장 - 공항에서",
+			"title_b": "공항에서",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "일본 출장 - 호텔에서",
+			"title_b": "호텔에서",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "일본 출장 - 고객사 방문, 컨퍼런스 참석",
+			"title_b": "고객사 방문",
+			"page_name": [
+				"인트로",
+				"Biz 실전회화",
+				"오늘의 강의",
+				"Biz 명인 명언",
+				"Biz 팁과 매너",
+				"Biz 마스터 퀴즈"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6361/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

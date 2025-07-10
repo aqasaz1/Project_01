@@ -1,176 +1,206 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 5426,
-	"content_name": "당케 독일어 초급",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "안녕, 안야!",
-			"title_b": "안녕 안야",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "나는 다비드야. 너는?",
-			"title_b": "나는 다비드야 너는",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "내 이름은 모니카라고 해. 독일에서 왔어.",
-			"title_b": "내 이름은 모니카라고 해 독일에서 왔어",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "쉘트씨, 당신의 직업은 무엇입니까?",
-			"title_b": "쉘트씨 당신의 직업은 무엇입니까",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "다니엘 부륄은 몇 살이니?",
-			"title_b": "다니엘 부륄은 몇 살이니",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "그는 오토바이 타는 것을 좋아해.",
-			"title_b": "그는 오토바이 타는 것을 좋아해",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "그래요, 커피 한잔 마시도록 하죠.",
-			"title_b": "그래요 커피 한잔 마시도록 하죠",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "꿀 사탕 한 봉지에 얼마예요?",
-			"title_b": "꿀 사탕 한 봉지에 얼마예요",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "나는 그 작은 램프가 예쁘다고 생각해.",
-			"title_b": "나는 그 작은 램프가 예쁘다고 생각해",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "뭐? 5시? 그렇게 일찍 일어나?",
-			"title_b": "뭐 5시 그렇게 일찍 일어나",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "너는 스페인어를 할 수 있니?",
-			"title_b": "너는 스페인어를 할 수 있니",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "내가 여기에 있어야 하나요, 아니면 나가도 되나요?",
-			"title_b": "내가 여기에 있어야 하나요 아니면 나가도 되나요",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "나는 어제 야콥을 봤어.",
-			"title_b": "나는 어제 야콥을 봤어",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "그녀는 아팠기 때문에 병원에 갔어요.",
-			"title_b": "그녀는 아팠기 때문에 병원에 갔어요",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "벨레다길에서 내려서 왼쪽으로 꺾어!",
-			"title_b": "벨레다길에서 내려서 왼쪽으로",
-			"page_name": [
-				"인트로",
-				"오늘의 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 5426,
+  "content_name": "당케 독일어 초급",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "안녕, 안야!",
+      "title_b": "안녕 안야",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "나는 다비드야. 너는?",
+      "title_b": "나는 다비드야 너는",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "내 이름은 모니카라고 해. 독일에서 왔어.",
+      "title_b": "내 이름은 모니카라고 해 독일에서 왔어",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "쉘트씨, 당신의 직업은 무엇입니까?",
+      "title_b": "쉘트씨 당신의 직업은 무엇입니까",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "다니엘 부륄은 몇 살이니?",
+      "title_b": "다니엘 부륄은 몇 살이니",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "그는 오토바이 타는 것을 좋아해.",
+      "title_b": "그는 오토바이 타는 것을 좋아해",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "그래요, 커피 한잔 마시도록 하죠.",
+      "title_b": "그래요 커피 한잔 마시도록 하죠",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "꿀 사탕 한 봉지에 얼마예요?",
+      "title_b": "꿀 사탕 한 봉지에 얼마예요",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "나는 그 작은 램프가 예쁘다고 생각해.",
+      "title_b": "나는 그 작은 램프가 예쁘다고 생각해",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "뭐? 5시? 그렇게 일찍 일어나?",
+      "title_b": "뭐 5시 그렇게 일찍 일어나",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "너는 스페인어를 할 수 있니?",
+      "title_b": "너는 스페인어를 할 수 있니",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "내가 여기에 있어야 하나요, 아니면 나가도 되나요?",
+      "title_b": "내가 여기에 있어야 하나요 아니면 나가도 되나요",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "나는 어제 야콥을 봤어.",
+      "title_b": "나는 어제 야콥을 봤어",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "그녀는 아팠기 때문에 병원에 갔어요.",
+      "title_b": "그녀는 아팠기 때문에 병원에 갔어요",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "벨레다길에서 내려서 왼쪽으로 꺾어!",
+      "title_b": "벨레다길에서 내려서 왼쪽으로",
+      "page_name": [
+        "인트로",
+        "오늘의 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5426/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5426/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

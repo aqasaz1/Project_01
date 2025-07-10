@@ -1,271 +1,311 @@
 {
-	"content_lan": "한국어",
-	"content_code": "5481",
-	"content_name": "NEW 실용 한국어 회화 중급(중국어 ver)",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "만남",
-			"title_b": "만남",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "가족",
-			"title_b": "가족",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "주문",
-			"title_b": "주문",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "약속",
-			"title_b": "약속",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "몸 상태",
-			"title_b": "몸 상태",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "취미",
-			"title_b": "취미",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "의뢰",
-			"title_b": "의뢰",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "전달",
-			"title_b": "전달",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "연애",
-			"title_b": "연애",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "술자리",
-			"title_b": "술자리",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "스트레스, 다이어트",
-			"title_b": "스트레스  다이어트",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "축하, 감사, 위로, 안부",
-			"title_b": "축하  감사  위로  안부",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "애완동물, 우정",
-			"title_b": "애완동물  우정",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "연중행사",
-			"title_b": "연중행사",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "관혼상제",
-			"title_b": "관혼상제",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "결혼생활",
-			"title_b": "결혼생활",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "환경문제",
-			"title_b": "환경문제",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "장래",
-			"title_b": "장래",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "비즈니스 전화(1)",
-			"title_b": "비즈니스 전화 1",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "비즈니스 전화(2)",
-			"title_b": "비즈니스 전화 2",
-			"page_name": [
-				"인트로",
-				"준비하기",
-				"오늘의 강의",
-				"확인하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "한국어",
+  "content_code": "5481",
+  "content_name": "NEW 실용 한국어 회화 중급(중국어 ver)",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "만남",
+      "title_b": "만남",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "가족",
+      "title_b": "가족",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "주문",
+      "title_b": "주문",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "약속",
+      "title_b": "약속",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "몸 상태",
+      "title_b": "몸 상태",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "취미",
+      "title_b": "취미",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "의뢰",
+      "title_b": "의뢰",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "전달",
+      "title_b": "전달",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "연애",
+      "title_b": "연애",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "술자리",
+      "title_b": "술자리",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "스트레스, 다이어트",
+      "title_b": "스트레스  다이어트",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "축하, 감사, 위로, 안부",
+      "title_b": "축하  감사  위로  안부",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "애완동물, 우정",
+      "title_b": "애완동물  우정",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "연중행사",
+      "title_b": "연중행사",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "관혼상제",
+      "title_b": "관혼상제",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "결혼생활",
+      "title_b": "결혼생활",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "환경문제",
+      "title_b": "환경문제",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "장래",
+      "title_b": "장래",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "비즈니스 전화(1)",
+      "title_b": "비즈니스 전화 1",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "비즈니스 전화(2)",
+      "title_b": "비즈니스 전화 2",
+      "page_name": [
+        "인트로",
+        "준비하기",
+        "오늘의 강의",
+        "확인하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5481/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5481/mobile/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

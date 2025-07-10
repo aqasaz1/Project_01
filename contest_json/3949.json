@@ -1,1276 +1,1436 @@
 {
-	"content_lan": "중국어",
-	"content_code": 3949,
-	"content_name": "New 301구로 끝내는 중국어 회화",
-	"content_sample": "1/21/41/61",
-	"content_chasi": "20/20/20/20",
-	"content_size": "1000*680",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "안녕하세요! (1)",
-			"title_b": "안녕하세요 1",
-			"page_name": [
-				"인트로",
-				"중국어의 기초",
-				"발음 강의",
-				"단어 강의",
-				"301구 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "안녕하세요! (2)",
-			"title_b": "안녕하세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "건강은 어떠세요? (1)",
-			"title_b": "건강은 어떠세요 1",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"단어 강의",
-				"301구 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "건강은 어떠세요? (2)",
-			"title_b": "건강은 어떠세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "일이 바쁘세요? (1)",
-			"title_b": "일이 바쁘세요 1",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"단어 강의",
-				"301구 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "일이 바쁘세요? (2)",
-			"title_b": "일이 바쁘세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "당신의 성은 무엇입니까? (1)",
-			"title_b": "당신의 성은 무엇입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "당신의 성은 무엇입니까? (2)",
-			"title_b": "당신의 성은 무엇입니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "제가 소개해 드리겠습니다 (1)",
-			"title_b": "제가 소개해 드리겠습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "제가 소개해 드리겠습니다 (2)",
-			"title_b": "제가 소개해 드리겠습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "당신의 생일은 언제입니까? (1)",
-			"title_b": "당신의 생일은 언제입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "당신의 생일은 언제입니까? (2)",
-			"title_b": "당신의 생일은 언제입니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "당신의 가족은 몇 명입니까? (1)",
-			"title_b": "당신의 가족은 몇 명입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "당신의 가족은 몇 명입니까? (2)",
-			"title_b": "당신의 가족은 몇 명입니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "지금은 몇 시입니까? (1)",
-			"title_b": "지금은 몇 시입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "지금은 몇 시입니까? (2)",
-			"title_b": "지금은 몇 시입니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "당신은 어디에 살고 있습니까? (1)",
-			"title_b": "당신은 어디에 살고 있습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "당신은 어디에 살고 있습니까? (2)",
-			"title_b": "당신은 어디에 살고 있습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "우체국이 어디에 있습니까? (1)",
-			"title_b": "우체국이 어디에 있습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "우체국이 어디에 있습니까? (2)",
-			"title_b": "우체국이 어디에 있습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "저는 귤을 사려고 합니다 (1)",
-			"title_b": "저는 귤을 사려고 합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_21h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "저는 귤을 사려고 합니다 (2)",
-			"title_b": "저는 귤을 사려고 합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_22h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "저는 스웨터를 사고 싶습니다 (1)",
-			"title_b": "저는 스웨터를 사고 싶습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_23h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "저는 스웨터를 사고 싶습니다 (2)",
-			"title_b": "저는 스웨터를 사고 싶습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_24h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "차를 갈아타세요 (1)",
-			"title_b": "차를 갈아타세요 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_25h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "차를 갈아타세요 (2)",
-			"title_b": "차를 갈아타세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_26h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "저는 환전하러 가려고 합니다 (1)",
-			"title_b": "저는 환전하러 가려고 합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_27h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "저는 환전하러 가려고 합니다 (2)",
-			"title_b": "저는 환전하러 가려고 합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_28h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "전화 통화가 되었습니까? (1)",
-			"title_b": "전화 통화가 되었습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_29h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "전화 통화가 되었습니까? (2)",
-			"title_b": "전화 통화가 되었습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_30h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "경극을 본 적이 있습니까? (1)",
-			"title_b": "경극을 본 적이 있습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_31h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "경극을 본 적이 있습니까? (2)",
-			"title_b": "경극을 본 적이 있습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_32h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "동물원에 갑니다 (1)",
-			"title_b": "동물원에 갑니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_33h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "동물원에 갑니다 (2)",
-			"title_b": "동물원에 갑니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_34h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "오시느라 수고하셨습니다 (1)",
-			"title_b": "오시느라 수고하셨습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_35h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "오시느라 수고하셨습니다 (2)",
-			"title_b": "오시느라 수고하셨습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_36h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "환영합니다 (1)",
-			"title_b": "환영합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_37h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "환영합니다 (2)",
-			"title_b": "환영합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_38h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "우리의 우정을 위해 건배합시다! (1)",
-			"title_b": "우리의 우정을 위해 건배합시다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_39h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "우리의 우정을 위해 건배합시다! (2)",
-			"title_b": "우리의 우정을 위해 건배합시다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_40h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 41,
-			"title_a": "참석해주세요 (1)",
-			"title_b": "참석해주세요 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_41h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 42,
-			"title_a": "참석해주세요 (2)",
-			"title_b": "참석해주세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_42h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 43,
-			"title_a": "저는 갈 수 없습니다 (1)",
-			"title_b": "저는 갈 수 없습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_43h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 44,
-			"title_a": "저는 갈 수 없습니다 (2)",
-			"title_b": "저는 갈 수 없습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_44h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 45,
-			"title_a": "미안합니다 (1)",
-			"title_b": "미안합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_45h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 46,
-			"title_a": "미안합니다 (2)",
-			"title_b": "미안합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_46h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 47,
-			"title_a": "그를 만나지 못해서 정말 유감스럽습니다 (1)",
-			"title_b": "그를 만나지 못해서 정말 유감스럽습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_47h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 48,
-			"title_a": "그를 만나지 못해서 정말 유감스럽습니다 (2)",
-			"title_b": "그를 만나지 못해서 정말 유감스럽습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_48h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 49,
-			"title_a": "이 그림은 정말 아름답습니다! (1)",
-			"title_b": "이 그림은 정말 아름답습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_49h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 50,
-			"title_a": "이 그림은 정말 아름답습니다! (2)",
-			"title_b": "이 그림은 정말 아름답습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_50h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 51,
-			"title_a": "축하합니다 (1)",
-			"title_b": "축하합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_51h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 52,
-			"title_a": "축하합니다 (2)",
-			"title_b": "축하합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_52h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 53,
-			"title_a": "담배를 피우지 마세요 (1)",
-			"title_b": "담배를 피우지 마세요 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_53h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 54,
-			"title_a": "담배를 피우지 마세요 (2)",
-			"title_b": "담배를 피우지 마세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_54h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 55,
-			"title_a": "오늘은 어제보다 춥습니다 (1)",
-			"title_b": "오늘은 어제보다 춥습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_55h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 56,
-			"title_a": "오늘은 어제보다 춥습니다 (2)",
-			"title_b": "오늘은 어제보다 춥습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_56h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 57,
-			"title_a": "저도 수영을 좋아합니다 (1)",
-			"title_b": "저도 수영을 좋아합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_57h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 58,
-			"title_a": "저도 수영을 좋아합니다 (2)",
-			"title_b": "저도 수영을 좋아합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_58h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 59,
-			"title_a": "좀 천천히 말씀해 주세요 (1)",
-			"title_b": "좀 천천히 말씀해 주세요 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_59h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 60,
-			"title_a": "좀 천천히 말씀해 주세요 (2)",
-			"title_b": "좀 천천히 말씀해 주세요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_60h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 61,
-			"title_a": "그곳은 경치가 굉장히 아름답군요! (1)",
-			"title_b": "그곳은 경치가 굉장히 아름답군요 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_61h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 62,
-			"title_a": "그곳은 경치가 굉장히 아름답군요! (2)",
-			"title_b": "그곳은 경치가 굉장히 아름답군요 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_62h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 63,
-			"title_a": "당신의 지갑을 이곳에 놓고 가셨습니다 (1)",
-			"title_b": "당신의 지갑을 이곳에 놓고 가셨습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"회화 4",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_63h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 64,
-			"title_a": "당신의 지갑을 이곳에 놓고 가셨습니다 (2)",
-			"title_b": "당신의 지갑을 이곳에 놓고 가셨습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"회화 4",
-				"회화 4 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_64h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 65,
-			"title_a": "빈 방 있습니까? (1)",
-			"title_b": "빈 방 있습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"회화 3",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_65h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 66,
-			"title_a": "빈 방 있습니까? (2)",
-			"title_b": "빈 방 있습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"회화 3",
-				"회화 3 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_66h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 67,
-			"title_a": "전 머리가 아픕니다 (1)",
-			"title_b": "전 머리가 아픕니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_67h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 68,
-			"title_a": "전 머리가 아픕니다 (2)",
-			"title_b": "전 머리가 아픕니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_68h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 69,
-			"title_a": "좀 좋아지셨습니까? (1)",
-			"title_b": "좀 좋아지셨습니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_69h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 70,
-			"title_a": "좀 좋아지셨습니까? (2)",
-			"title_b": "좀 좋아지셨습니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_70h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 71,
-			"title_a": "저는 귀국하려고 합니다 (1)",
-			"title_b": "저는 귀국하려고 합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_71h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 72,
-			"title_a": "저는 귀국하려고 합니다 (2)",
-			"title_b": "저는 귀국하려고 합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_72h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 73,
-			"title_a": "당신들이 떠난다니 정말 섭섭합니다 (1)",
-			"title_b": "당신들이 떠난다니 정말 섭섭합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_73h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 74,
-			"title_a": "당신들이 떠난다니 정말 섭섭합니다 (2)",
-			"title_b": "당신들이 떠난다니 정말 섭섭합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_74h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 75,
-			"title_a": "여기가 짐을 부치는 곳입니까? (1)",
-			"title_b": "여기가 짐을 부치는 곳입니까 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_75h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 76,
-			"title_a": "여기가 짐을 부치는 곳입니까? (2)",
-			"title_b": "여기가 짐을 부치는 곳입니까 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_76h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 77,
-			"title_a": "공항까지 당신을 배웅할 수 없습니다 (1)",
-			"title_b": "공항까지 당신을 배웅할 수 없습니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_77h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 78,
-			"title_a": "공항까지 당신을 배웅할 수 없습니다 (2)",
-			"title_b": "공항까지 당신을 배웅할 수 없습니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_78h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 79,
-			"title_a": "편안한 여행이 되시길 기원합니다 (1)",
-			"title_b": "편안한 여행이 되시길 기원합니다 1",
-			"page_name": [
-				"인트로",
-				"단어 강의",
-				"301구 강의",
-				"문법 강의",
-				"회화 1",
-				"회화 2",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_79h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 80,
-			"title_a": "편안한 여행이 되시길 기원합니다 (2)",
-			"title_b": "편안한 여행이 되시길 기원합니다 2",
-			"page_name": [
-				"인트로",
-				"회화 1",
-				"회화 1 강의",
-				"회화 2",
-				"회화 2 강의",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_80h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 3949,
+  "content_name": "New 301구로 끝내는 중국어 회화",
+  "content_sample": "1/21/41/61",
+  "content_chasi": "20/20/20/20",
+  "content_size": "1000*680",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "안녕하세요! (1)",
+      "title_b": "안녕하세요 1",
+      "page_name": [
+        "인트로",
+        "중국어의 기초",
+        "발음 강의",
+        "단어 강의",
+        "301구 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "안녕하세요! (2)",
+      "title_b": "안녕하세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "건강은 어떠세요? (1)",
+      "title_b": "건강은 어떠세요 1",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "단어 강의",
+        "301구 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "건강은 어떠세요? (2)",
+      "title_b": "건강은 어떠세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "일이 바쁘세요? (1)",
+      "title_b": "일이 바쁘세요 1",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "단어 강의",
+        "301구 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "일이 바쁘세요? (2)",
+      "title_b": "일이 바쁘세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "당신의 성은 무엇입니까? (1)",
+      "title_b": "당신의 성은 무엇입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "당신의 성은 무엇입니까? (2)",
+      "title_b": "당신의 성은 무엇입니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "제가 소개해 드리겠습니다 (1)",
+      "title_b": "제가 소개해 드리겠습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "제가 소개해 드리겠습니다 (2)",
+      "title_b": "제가 소개해 드리겠습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "당신의 생일은 언제입니까? (1)",
+      "title_b": "당신의 생일은 언제입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "당신의 생일은 언제입니까? (2)",
+      "title_b": "당신의 생일은 언제입니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "당신의 가족은 몇 명입니까? (1)",
+      "title_b": "당신의 가족은 몇 명입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "당신의 가족은 몇 명입니까? (2)",
+      "title_b": "당신의 가족은 몇 명입니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "지금은 몇 시입니까? (1)",
+      "title_b": "지금은 몇 시입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "지금은 몇 시입니까? (2)",
+      "title_b": "지금은 몇 시입니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "당신은 어디에 살고 있습니까? (1)",
+      "title_b": "당신은 어디에 살고 있습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "당신은 어디에 살고 있습니까? (2)",
+      "title_b": "당신은 어디에 살고 있습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "우체국이 어디에 있습니까? (1)",
+      "title_b": "우체국이 어디에 있습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "우체국이 어디에 있습니까? (2)",
+      "title_b": "우체국이 어디에 있습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "저는 귤을 사려고 합니다 (1)",
+      "title_b": "저는 귤을 사려고 합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "저는 귤을 사려고 합니다 (2)",
+      "title_b": "저는 귤을 사려고 합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "저는 스웨터를 사고 싶습니다 (1)",
+      "title_b": "저는 스웨터를 사고 싶습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "저는 스웨터를 사고 싶습니다 (2)",
+      "title_b": "저는 스웨터를 사고 싶습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "차를 갈아타세요 (1)",
+      "title_b": "차를 갈아타세요 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "차를 갈아타세요 (2)",
+      "title_b": "차를 갈아타세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "저는 환전하러 가려고 합니다 (1)",
+      "title_b": "저는 환전하러 가려고 합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "저는 환전하러 가려고 합니다 (2)",
+      "title_b": "저는 환전하러 가려고 합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "전화 통화가 되었습니까? (1)",
+      "title_b": "전화 통화가 되었습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "전화 통화가 되었습니까? (2)",
+      "title_b": "전화 통화가 되었습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "경극을 본 적이 있습니까? (1)",
+      "title_b": "경극을 본 적이 있습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "경극을 본 적이 있습니까? (2)",
+      "title_b": "경극을 본 적이 있습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "동물원에 갑니다 (1)",
+      "title_b": "동물원에 갑니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "동물원에 갑니다 (2)",
+      "title_b": "동물원에 갑니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "오시느라 수고하셨습니다 (1)",
+      "title_b": "오시느라 수고하셨습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "오시느라 수고하셨습니다 (2)",
+      "title_b": "오시느라 수고하셨습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "환영합니다 (1)",
+      "title_b": "환영합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "환영합니다 (2)",
+      "title_b": "환영합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "우리의 우정을 위해 건배합시다! (1)",
+      "title_b": "우리의 우정을 위해 건배합시다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "우리의 우정을 위해 건배합시다! (2)",
+      "title_b": "우리의 우정을 위해 건배합시다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 41,
+      "title_a": "참석해주세요 (1)",
+      "title_b": "참석해주세요 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_41h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_41h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 42,
+      "title_a": "참석해주세요 (2)",
+      "title_b": "참석해주세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_42h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_42h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 43,
+      "title_a": "저는 갈 수 없습니다 (1)",
+      "title_b": "저는 갈 수 없습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_43h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_43h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 44,
+      "title_a": "저는 갈 수 없습니다 (2)",
+      "title_b": "저는 갈 수 없습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_44h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_44h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 45,
+      "title_a": "미안합니다 (1)",
+      "title_b": "미안합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_45h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_45h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 46,
+      "title_a": "미안합니다 (2)",
+      "title_b": "미안합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_46h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_46h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 47,
+      "title_a": "그를 만나지 못해서 정말 유감스럽습니다 (1)",
+      "title_b": "그를 만나지 못해서 정말 유감스럽습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_47h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_47h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 48,
+      "title_a": "그를 만나지 못해서 정말 유감스럽습니다 (2)",
+      "title_b": "그를 만나지 못해서 정말 유감스럽습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_48h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_48h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 49,
+      "title_a": "이 그림은 정말 아름답습니다! (1)",
+      "title_b": "이 그림은 정말 아름답습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_49h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_49h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 50,
+      "title_a": "이 그림은 정말 아름답습니다! (2)",
+      "title_b": "이 그림은 정말 아름답습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_50h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_50h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 51,
+      "title_a": "축하합니다 (1)",
+      "title_b": "축하합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_51h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_51h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 52,
+      "title_a": "축하합니다 (2)",
+      "title_b": "축하합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_52h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_52h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 53,
+      "title_a": "담배를 피우지 마세요 (1)",
+      "title_b": "담배를 피우지 마세요 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_53h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_53h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 54,
+      "title_a": "담배를 피우지 마세요 (2)",
+      "title_b": "담배를 피우지 마세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_54h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_54h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 55,
+      "title_a": "오늘은 어제보다 춥습니다 (1)",
+      "title_b": "오늘은 어제보다 춥습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_55h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_55h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 56,
+      "title_a": "오늘은 어제보다 춥습니다 (2)",
+      "title_b": "오늘은 어제보다 춥습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_56h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_56h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 57,
+      "title_a": "저도 수영을 좋아합니다 (1)",
+      "title_b": "저도 수영을 좋아합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_57h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_57h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 58,
+      "title_a": "저도 수영을 좋아합니다 (2)",
+      "title_b": "저도 수영을 좋아합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_58h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_58h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 59,
+      "title_a": "좀 천천히 말씀해 주세요 (1)",
+      "title_b": "좀 천천히 말씀해 주세요 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_59h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_59h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 60,
+      "title_a": "좀 천천히 말씀해 주세요 (2)",
+      "title_b": "좀 천천히 말씀해 주세요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_60h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step3/z1_60h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 61,
+      "title_a": "그곳은 경치가 굉장히 아름답군요! (1)",
+      "title_b": "그곳은 경치가 굉장히 아름답군요 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_61h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_61h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 62,
+      "title_a": "그곳은 경치가 굉장히 아름답군요! (2)",
+      "title_b": "그곳은 경치가 굉장히 아름답군요 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_62h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_62h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 63,
+      "title_a": "당신의 지갑을 이곳에 놓고 가셨습니다 (1)",
+      "title_b": "당신의 지갑을 이곳에 놓고 가셨습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "회화 4",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_63h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_63h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 64,
+      "title_a": "당신의 지갑을 이곳에 놓고 가셨습니다 (2)",
+      "title_b": "당신의 지갑을 이곳에 놓고 가셨습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "회화 4",
+        "회화 4 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_64h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_64h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 65,
+      "title_a": "빈 방 있습니까? (1)",
+      "title_b": "빈 방 있습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "회화 3",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_65h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_65h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 66,
+      "title_a": "빈 방 있습니까? (2)",
+      "title_b": "빈 방 있습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "회화 3",
+        "회화 3 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_66h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_66h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 67,
+      "title_a": "전 머리가 아픕니다 (1)",
+      "title_b": "전 머리가 아픕니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_67h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_67h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 68,
+      "title_a": "전 머리가 아픕니다 (2)",
+      "title_b": "전 머리가 아픕니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_68h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_68h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 69,
+      "title_a": "좀 좋아지셨습니까? (1)",
+      "title_b": "좀 좋아지셨습니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_69h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_69h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 70,
+      "title_a": "좀 좋아지셨습니까? (2)",
+      "title_b": "좀 좋아지셨습니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_70h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_70h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 71,
+      "title_a": "저는 귀국하려고 합니다 (1)",
+      "title_b": "저는 귀국하려고 합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_71h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_71h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 72,
+      "title_a": "저는 귀국하려고 합니다 (2)",
+      "title_b": "저는 귀국하려고 합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_72h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_72h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 73,
+      "title_a": "당신들이 떠난다니 정말 섭섭합니다 (1)",
+      "title_b": "당신들이 떠난다니 정말 섭섭합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_73h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_73h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 74,
+      "title_a": "당신들이 떠난다니 정말 섭섭합니다 (2)",
+      "title_b": "당신들이 떠난다니 정말 섭섭합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_74h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_74h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 75,
+      "title_a": "여기가 짐을 부치는 곳입니까? (1)",
+      "title_b": "여기가 짐을 부치는 곳입니까 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_75h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_75h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 76,
+      "title_a": "여기가 짐을 부치는 곳입니까? (2)",
+      "title_b": "여기가 짐을 부치는 곳입니까 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_76h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_76h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 77,
+      "title_a": "공항까지 당신을 배웅할 수 없습니다 (1)",
+      "title_b": "공항까지 당신을 배웅할 수 없습니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_77h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_77h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 78,
+      "title_a": "공항까지 당신을 배웅할 수 없습니다 (2)",
+      "title_b": "공항까지 당신을 배웅할 수 없습니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_78h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_78h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 79,
+      "title_a": "편안한 여행이 되시길 기원합니다 (1)",
+      "title_b": "편안한 여행이 되시길 기원합니다 1",
+      "page_name": [
+        "인트로",
+        "단어 강의",
+        "301구 강의",
+        "문법 강의",
+        "회화 1",
+        "회화 2",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_79h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_79h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 80,
+      "title_a": "편안한 여행이 되시길 기원합니다 (2)",
+      "title_b": "편안한 여행이 되시길 기원합니다 2",
+      "page_name": [
+        "인트로",
+        "회화 1",
+        "회화 1 강의",
+        "회화 2",
+        "회화 2 강의",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_80h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/3949/mobile/step4/z1_80h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

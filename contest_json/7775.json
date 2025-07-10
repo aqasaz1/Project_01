@@ -1,461 +1,521 @@
 {
-	"content_lan": "영어",
-	"content_code": 7775,
-	"content_name": "이보영의 하루 20분 영어 말하기 기술",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*780",
-	"content_cm": "미소아",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "반복적인 일상에 대해 말하기",
-			"title_b": "반복적인 일상에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/01.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "좋아하거나 싫어하는 일에 대해 말하기",
-			"title_b": "좋아하거나 싫어하는 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/02.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "감정 표현하기",
-			"title_b": "감정 표현하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/03.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "현재 하고 있는 일에 대해 말하기",
-			"title_b": "현재 하고 있는 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/04.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "원하는 것에 대해 말하기",
-			"title_b": "원하는 것에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/05.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "과거에 있었던 일에 대해 말하기",
-			"title_b": "과거에 있었던 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/06.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "과거의 감정과 원인에 대해 말하기",
-			"title_b": "과거의 감정과 원인에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/07.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "과거의 일에 대해 아니라고 말하기",
-			"title_b": "과거의 일에 대해 아니라고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/08.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "해야 할 필요가 있다고 말하기",
-			"title_b": "해야 할 필요가 있다고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/09.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "동의를 구하며 확인하는 질문하기",
-			"title_b": "동의를 구하며 확인하는 질문하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/10.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "현재 그런 상태가 아니라고 말하기",
-			"title_b": "현재 그런 상태가 아니라고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/11.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "어떤 행동을 하지 않는다고 말하기",
-			"title_b": "어떤 행동을 하지 않는다고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/12.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "할 수 있는 것에 대해 말하기",
-			"title_b": "할 수 있는 것에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/13.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "앞으로 하고자 하는 것에 대해 말하기",
-			"title_b": "앞으로 하고자 하는 것에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/14.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "해야 하는 일에 대해 말하기",
-			"title_b": "해야 하는 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/15.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "해야 할 것 같다고 말하기",
-			"title_b": "해야 할 것 같다고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/16.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "가볍게 청하기",
-			"title_b": "가볍게 청하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/17.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "어떤 것조차도 할 수 없다고 말하기",
-			"title_b": "어떤 것조차도 할 수 없다고 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/18.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "앞으로의 일에 관해 묻기",
-			"title_b": "앞으로의 일에 관해 묻기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/19.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "하고 싶은 것에 관해 정중하게 말하기",
-			"title_b": "하고 싶은 것에 관해 정중하게 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/20.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "누군가가 시켜서 하는 일에 대해 말하기",
-			"title_b": "누군가가 시켜서 하는 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/21.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "누군가에게 어떤 말을 해주겠다고 하기",
-			"title_b": "누군가에게 어떤 말을 해주겠다고 하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/22.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "지나온 시간에 대해 말하기",
-			"title_b": "지나온 시간에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/23.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "변해온 모습에 대해 말하기",
-			"title_b": "변해온 모습에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/24.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "허락을 구하기, 부탁하기",
-			"title_b": "허락 구하고 부탁하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/25.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "노력 중인 것에 대해 말하기",
-			"title_b": "노력 중인 것에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/26.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "공손하게 허락을 구하기",
-			"title_b": "공손하게 허락을 구하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/27.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "과거의 일에 대해 말하기",
-			"title_b": "과거의 일에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/28.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "경험 물어보기",
-			"title_b": "경험 물어보기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/29.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "의도한 것에 대해 말하기",
-			"title_b": "의도한 것에 대해 말하기",
-			"page_name": [
-				"인트로",
-				"오늘의 학습목표",
-				"말하기 기술",
-				"억양의 기술",
-				"확인문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/30.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7775,
+  "content_name": "이보영의 하루 20분 영어 말하기 기술",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*780",
+  "content_cm": "미소아",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "반복적인 일상에 대해 말하기",
+      "title_b": "반복적인 일상에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/01.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/01_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "좋아하거나 싫어하는 일에 대해 말하기",
+      "title_b": "좋아하거나 싫어하는 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/02.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/02_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "감정 표현하기",
+      "title_b": "감정 표현하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/03.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/03_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "현재 하고 있는 일에 대해 말하기",
+      "title_b": "현재 하고 있는 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/04.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/04_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "원하는 것에 대해 말하기",
+      "title_b": "원하는 것에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/05.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/05_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "과거에 있었던 일에 대해 말하기",
+      "title_b": "과거에 있었던 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/06.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/06_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "과거의 감정과 원인에 대해 말하기",
+      "title_b": "과거의 감정과 원인에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/07.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/07_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "과거의 일에 대해 아니라고 말하기",
+      "title_b": "과거의 일에 대해 아니라고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/08.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/08_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "해야 할 필요가 있다고 말하기",
+      "title_b": "해야 할 필요가 있다고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/09.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/09_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "동의를 구하며 확인하는 질문하기",
+      "title_b": "동의를 구하며 확인하는 질문하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/10.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/10_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "현재 그런 상태가 아니라고 말하기",
+      "title_b": "현재 그런 상태가 아니라고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/11.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/11_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "어떤 행동을 하지 않는다고 말하기",
+      "title_b": "어떤 행동을 하지 않는다고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/12.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/12_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "할 수 있는 것에 대해 말하기",
+      "title_b": "할 수 있는 것에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/13.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/13_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "앞으로 하고자 하는 것에 대해 말하기",
+      "title_b": "앞으로 하고자 하는 것에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/14.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/14_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "해야 하는 일에 대해 말하기",
+      "title_b": "해야 하는 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/15.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step1/15_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "해야 할 것 같다고 말하기",
+      "title_b": "해야 할 것 같다고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/16.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/16_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "가볍게 청하기",
+      "title_b": "가볍게 청하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/17.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/17_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "어떤 것조차도 할 수 없다고 말하기",
+      "title_b": "어떤 것조차도 할 수 없다고 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/18.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/18_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "앞으로의 일에 관해 묻기",
+      "title_b": "앞으로의 일에 관해 묻기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/19.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/19_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "하고 싶은 것에 관해 정중하게 말하기",
+      "title_b": "하고 싶은 것에 관해 정중하게 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/20.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/20_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "누군가가 시켜서 하는 일에 대해 말하기",
+      "title_b": "누군가가 시켜서 하는 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/21.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/21_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "누군가에게 어떤 말을 해주겠다고 하기",
+      "title_b": "누군가에게 어떤 말을 해주겠다고 하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/22.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/22_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "지나온 시간에 대해 말하기",
+      "title_b": "지나온 시간에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/23.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/23_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "변해온 모습에 대해 말하기",
+      "title_b": "변해온 모습에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/24.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/24_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "허락을 구하기, 부탁하기",
+      "title_b": "허락 구하고 부탁하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/25.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/25_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "노력 중인 것에 대해 말하기",
+      "title_b": "노력 중인 것에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/26.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/26_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "공손하게 허락을 구하기",
+      "title_b": "공손하게 허락을 구하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/27.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/27_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "과거의 일에 대해 말하기",
+      "title_b": "과거의 일에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/28.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/28_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "경험 물어보기",
+      "title_b": "경험 물어보기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/29.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/29_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "의도한 것에 대해 말하기",
+      "title_b": "의도한 것에 대해 말하기",
+      "page_name": [
+        "인트로",
+        "오늘의 학습목표",
+        "말하기 기술",
+        "억양의 기술",
+        "확인문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mp4_bind/30.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/_porting/미소아/7775/mobile/step2/30_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

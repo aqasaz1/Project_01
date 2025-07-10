@@ -1,0 +1,291 @@
+{
+	"content_lan": "영어",
+	"content_code": 5388,
+	"content_name": "디바 제시카의 왕초보 영어 따라잡기 - 회화편",
+	"content_sample": "4",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "I’m an engineer.",
+			"title_b": "I am an engineer",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "I’m from Canada.",
+			"title_b": "I am from Canada",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "I’m in the kitchen.",
+			"title_b": "I am in the kitchen",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Let’s have hamburgers.",
+			"title_b": "Let us have hamburgers",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "My hobby is reading books.",
+			"title_b": "My hobby is reading books",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "I can play the piano very well.",
+			"title_b": "I can play the piano very well",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "I have to do the laundry.",
+			"title_b": "I have to do the laundry",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "I have a headache.",
+			"title_b": "I have a headache",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "He’s my father.",
+			"title_b": "He is my father",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "I have a dog.",
+			"title_b": "I have a dog",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "She is short and thin.",
+			"title_b": "She is short and thin",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "There is a hat on the table.",
+			"title_b": "There is a hat on the table",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "It’s one o’clock.",
+			"title_b": "It is one oclock",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "It’s December 23rd.",
+			"title_b": "It is December 23rd",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "It’s next to the post office.",
+			"title_b": "It is next to the post office",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "I’m looking for a shirt.",
+			"title_b": "I am looking for a shirt",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "I will go camping.",
+			"title_b": "I will go camping",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "It was sad.",
+			"title_b": "It was sad",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "I played tennis with Jenny.",
+			"title_b": "I played tennis with Jenny",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "I have been to New York once.",
+			"title_b": "I have been to New York once",
+			"page_name": [
+				"Intro",
+				"open your eyes",
+				"open your mouth",
+				"open your conversation",
+				"open your workbook"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5388/mp4/c1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

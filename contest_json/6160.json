@@ -1,437 +1,497 @@
 {
-	"content_lan": "영어",
-	"content_code": 6160,
-	"content_name": "야나두 영작문",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "동사",
-			"title_b": "동사",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "조동사",
-			"title_b": "조동사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "조동사 have pp",
-			"title_b": "조동사 have pp",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "사역동사",
-			"title_b": "사역동사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "시제",
-			"title_b": "시제",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "형용사적 용법",
-			"title_b": "형용사적 용법",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "~하다니",
-			"title_b": "하다니",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "결과적 용법",
-			"title_b": "결과적 용법",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "완료 to 부정사",
-			"title_b": "완료 to 부정사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "to 부정사 의미상 주어",
-			"title_b": "to 부정사 의미상 주어",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "동명사 vs. to 부정사",
-			"title_b": "동명사 vs to 부정사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "완료 동명사",
-			"title_b": "완료 동명사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "동명사 의미상 주어",
-			"title_b": "동명사 의미상 주어",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "관사",
-			"title_b": "관사",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "전치사",
-			"title_b": "전치사",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "that",
-			"title_b": "that",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "형용사구",
-			"title_b": "형용사구",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "전치사구",
-			"title_b": "전치사구",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "ing / pp",
-			"title_b": "ing와 pp",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "전치사 + which",
-			"title_b": "전치사 which",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "절 what / that",
-			"title_b": "what 절과 that 절",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "절 whether / if",
-			"title_b": "whether 절과 if 절",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "with 부대 상황",
-			"title_b": "with 부대 상황",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "ing 부대 상황",
-			"title_b": "ing 부대 상황",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "which 계속적 용법",
-			"title_b": "which 계속적 용법",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "as as 비교급",
-			"title_b": "as as 비교급",
-			"page_name": [
-				"INTRO",
-				"법칙 확인하기",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "배수사 비교급",
-			"title_b": "배수사 비교급",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "not so much ~ as",
-			"title_b": "not so much as",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "가목적어",
-			"title_b": "가목적어",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "It ~ that 강조",
-			"title_b": "It that 강조",
-			"page_name": [
-				"INTRO",
-				"이론 이해하기",
-				"이론으로 영작하기",
-				"훈련하기",
-				"도전! 4분 영작"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 6160,
+  "content_name": "야나두 영작문",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "동사",
+      "title_b": "동사",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "조동사",
+      "title_b": "조동사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "조동사 have pp",
+      "title_b": "조동사 have pp",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "사역동사",
+      "title_b": "사역동사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "시제",
+      "title_b": "시제",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "형용사적 용법",
+      "title_b": "형용사적 용법",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "~하다니",
+      "title_b": "하다니",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "결과적 용법",
+      "title_b": "결과적 용법",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "완료 to 부정사",
+      "title_b": "완료 to 부정사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "to 부정사 의미상 주어",
+      "title_b": "to 부정사 의미상 주어",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "동명사 vs. to 부정사",
+      "title_b": "동명사 vs to 부정사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "완료 동명사",
+      "title_b": "완료 동명사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "동명사 의미상 주어",
+      "title_b": "동명사 의미상 주어",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "관사",
+      "title_b": "관사",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "전치사",
+      "title_b": "전치사",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "that",
+      "title_b": "that",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "형용사구",
+      "title_b": "형용사구",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "전치사구",
+      "title_b": "전치사구",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "ing / pp",
+      "title_b": "ing와 pp",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "전치사 + which",
+      "title_b": "전치사 which",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "절 what / that",
+      "title_b": "what 절과 that 절",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "절 whether / if",
+      "title_b": "whether 절과 if 절",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "with 부대 상황",
+      "title_b": "with 부대 상황",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "ing 부대 상황",
+      "title_b": "ing 부대 상황",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "which 계속적 용법",
+      "title_b": "which 계속적 용법",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "as as 비교급",
+      "title_b": "as as 비교급",
+      "page_name": [
+        "INTRO",
+        "법칙 확인하기",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "배수사 비교급",
+      "title_b": "배수사 비교급",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "not so much ~ as",
+      "title_b": "not so much as",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "가목적어",
+      "title_b": "가목적어",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "It ~ that 강조",
+      "title_b": "It that 강조",
+      "page_name": [
+        "INTRO",
+        "이론 이해하기",
+        "이론으로 영작하기",
+        "훈련하기",
+        "도전! 4분 영작"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6160/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/6160/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

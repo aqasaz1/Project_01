@@ -1,0 +1,311 @@
+{
+	"content_lan": "영어",
+	"content_code": 6233,
+	"content_name": "Biz English skill up - Practical",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Calling a Meeting & Addressing the Agenda",
+			"title_b": "Calling a Meeting and Addressing the Agenda",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Discussing the Agenda",
+			"title_b": "Discussing the Agenda",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Agreeing and Disagreeing",
+			"title_b": "Agreeing and Disagreeing",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Controlling and Wrapping up a Meeting",
+			"title_b": "Controlling and Wrapping up a Meeting",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Introducing the Goal of the Presentation and the Presenter",
+			"title_b": "Introducing the Goal of the Presentation and the Presenter",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Starting and Developing a Presentation",
+			"title_b": "Starting and Developing a Presentation",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Visual Aids & Effective Analysis",
+			"title_b": "Visual Aids and Effective Analysis",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Concluding a Presentation & Taking Questions",
+			"title_b": "Concluding a Presentation and Taking Questions",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Directing Tasks & Asking for Help",
+			"title_b": "Directing Tasks and Asking for Help",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Checking the Status of Tasks",
+			"title_b": "Checking the Status of Tasks",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Discussing and Solving Problems",
+			"title_b": "Discussing and Solving Problems",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Controlling Stress & Self-improvement",
+			"title_b": "Controlling Stress and Self-improvement",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Exchanging Opinions & Mutual Trust",
+			"title_b": "Exchanging Opinions and Mutual Trust",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Guessing and Convincing & Complaining and Understanding",
+			"title_b": "Guessing Convincing Complaining Understanding",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Evaluating Workers & Jobs and Responsibilities",
+			"title_b": "Evaluating Workers Jobs Responsibilities",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Refuting & Interpolating",
+			"title_b": "Refuting and Interpolating",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Speaking Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Asking and Sharing Opinions",
+			"title_b": "Asking and Sharing Opinions",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Agreeing or Disagreeing",
+			"title_b": "Agreeing or Disagreeing",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Talking about Problems",
+			"title_b": "Talking about Problems",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Asking for Help or Advice",
+			"title_b": "Asking for Help or Advice",
+			"page_name": [
+				"intro",
+				"Basic Traning",
+				"Biz Class",
+				"Writing Session",
+				"Biz Tips",
+				"Closing Session"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6233/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

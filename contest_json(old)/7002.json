@@ -1,0 +1,311 @@
+{
+	"content_lan": "일본어",
+	"content_code": 7002,
+	"content_name": "100% 현지 인터뷰로 배우는 리얼 일본어",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1100*650",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "숫자와 시간",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "날짜와 요일",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "신체와 건강",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "인간관계와 성격",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "집과 가정생활",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "날씨와 자연",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동물과 식물",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "느낌과 감정",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "형태와 성질",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "외모와 쇼핑",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "맛과 음식",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "방향과 위치",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "취미와 여가",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "학교생활",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "직업과 일터",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "교통수단과 이동",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "도시와 거리",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "사건과 사고",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "재난과 재해",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "나라와 세계",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"미리 보기",
+				"리얼 인터뷰",
+				"다시 보기",
+				"연습해 보기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7002/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

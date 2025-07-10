@@ -1,0 +1,251 @@
+{
+	"content_lan": "영어",
+	"content_code": 4918,
+	"content_name": "응급 토익 LC-파트별 문풀편",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Part 1 동작 표현 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Part 1 동작 표현 실전 문제 (2), Part 1 사물 & 풍경 실전 문제",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Part 1 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Part 1 실전 문제 (2)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Part 2 질문 유형별 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Part 2 질문 유형별 실전 문제 (2)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Part 2 질문 유형별 실전 문제 (3)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Part 2 질문 유형별 실전 문제 (4)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Part 2 질문 유형별 실전 문제 (5)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Part 3 질문 유형별 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Part 3 질문 유형별 실전 문제 (2)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Part 3 질문 유형별 실전 문제 (3)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Part 3 질문 유형별 실전 문제 (4)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Part 3 상황 및 주제별 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Part 3 상황 및 주제별 실전 문제 (2)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Part 4 지문 유형별 실전 문제 (1)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Part 4 지문 유형별 실전 문제 (2)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Part 4 지문 유형별 실전 문제 (3)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Part 4 지문 유형별 실전 문제 (4)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Part 4 지문 유형별 실전 문제 (5)",
+			"title_b": null,
+			"page_name": [
+				"PRETEST",
+				"LECTURE",
+				"오답노트"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4918/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

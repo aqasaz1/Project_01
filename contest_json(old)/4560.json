@@ -1,0 +1,371 @@
+{
+	"content_lan": "일본어",
+	"content_code": 4560,
+	"content_name": "다락원 뉴코스 일본어 회화 중급 도약하기",
+	"content_sample": "1",
+	"content_chasi": "24",
+	"content_size": "1000*680",
+	"content_cm": "한정현",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "백화점에서 (1)",
+			"title_b": "백화점에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "백화점에서 (2)",
+			"title_b": "백화점에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "레스토랑에서 (1)",
+			"title_b": "레스토랑에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "레스토랑에서 (2)",
+			"title_b": "레스토랑에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "역에서 (1)",
+			"title_b": "역에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "역에서 (2)",
+			"title_b": "역에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "택시에서 (1)",
+			"title_b": "택시에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "택시에서 (2)",
+			"title_b": "택시에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "학교에서 (1)",
+			"title_b": "학교에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "학교에서 (2)",
+			"title_b": "학교에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "병원에서 (1)",
+			"title_b": "병원에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "병원에서 (2)",
+			"title_b": "병원에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "친구 집에서 (1)",
+			"title_b": "친구 집에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "친구 집에서 (2)",
+			"title_b": "친구 집에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "은행에서 (1)",
+			"title_b": "은행에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "은행에서 (2)",
+			"title_b": "은행에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "여행사에서 (1)",
+			"title_b": "여행사에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "여행사에서 (2)",
+			"title_b": "여행사에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "우체국에서 (1)",
+			"title_b": "우체국에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "우체국에서 (2)",
+			"title_b": "우체국에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "미용실에서 (1)",
+			"title_b": "미용실에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "미용실에서 (2)",
+			"title_b": "미용실에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "회사에서 (1)",
+			"title_b": "회사에서 1",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "회사에서 (2)",
+			"title_b": "회사에서 2",
+			"page_name": [
+				"인트로",
+				"포인트 문형",
+				"본문회화",
+				"뉴코스 레슨",
+				"문형 연습",
+				"회화 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4560/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

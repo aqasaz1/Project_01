@@ -1,791 +1,911 @@
 {
-	"content_lan": "영어",
-	"content_code": 7974,
-	"content_name": "15초 따라 하기 말이 되는 영문법",
-	"content_sample": "1/21/41",
-	"content_chasi": "20/20/20",
-	"content_size": "1100*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "동사의 종류 ① 자동사",
-			"title_b": "동사의 종류 1 자동사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "동사의 종류 ② 타동사",
-			"title_b": "동사의 종류 2 타동사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "부사 이해하기 - 부사의 역할",
-			"title_b": "부사의 역할 이해하기",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "빈도를 나타내는 부사",
-			"title_b": "빈도를 나타내는 부사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "일반동사의 시제 ① 현재",
-			"title_b": "일반동사의 시제 1 현재",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "일반동사의 시제 ② 과거",
-			"title_b": "일반동사의 시제 2 과거",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "일반동사의 문형 ① 부정문/부가의문문",
-			"title_b": "일반동사의 문형 1 부정문 부가의문문",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "일반동사의 문형 ② 과거 부정문",
-			"title_b": "일반동사의 문형 2 과거 부정문",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "be동사의 뜻 ① ~이다",
-			"title_b": "be동사의 뜻 1 ~이다",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "be동사의 뜻 ② ~에 있다",
-			"title_b": "be동사의 뜻 2 ~에 있다",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "be동사의 과거 시제",
-			"title_b": "be동사의 과거 시제",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "be동사의 부정문",
-			"title_b": "be동사의 부정문",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "there is/are",
-			"title_b": "there is are",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "비인칭주어 it",
-			"title_b": "비인칭주어 it",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "주고 싶은 수여동사",
-			"title_b": "주고 싶은 수여동사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "명사 이해하기 - 명사의 수",
-			"title_b": "명사의 수 이해하기",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "재귀대명사",
-			"title_b": "재귀대명사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "미래 조동사 will",
-			"title_b": "미래 조동사 will",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "능력의 조동사 can",
-			"title_b": "능력의 조동사 can",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "필요의 조동사 have to",
-			"title_b": "필요의 조동사 have to",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "의무와 추측의 조동사 must",
-			"title_b": "의무와 추측의 조동사 must",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "명사 역할을 하는 to부정사",
-			"title_b": "명사 역할을 하는 to부정사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "부사 역할을 하는 to부정사",
-			"title_b": "부사 역할을 하는 to부정사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "형용사 역할을 하는 to부정사",
-			"title_b": "형용사 역할을 하는 to부정사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "하도록 시키는 사역동사 let/make/help",
-			"title_b": "하도록 시키는 사역동사 let make help",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "다양한 to부정사 표현 ① It takes... to~/too... to~/enough to~",
-			"title_b": "다양한 to부정사 표현 1",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "다양한 to부정사 표현 ② 의문사+to부정사",
-			"title_b": "다양한 to부정사 표현 2",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "동사를 명사로 쓰기 ① 동명사",
-			"title_b": "동사를 명사로 쓰기 1 동명사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "동사를 명사로 쓰기 ② 전치사+동명사",
-			"title_b": "동사를 명사로 쓰기 2 전치사 동명사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "다양한 동명사 표현",
-			"title_b": "다양한 동명사 표현",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "동사를 형용사로 쓰기 - 분사",
-			"title_b": "동사를 형용사로 쓰는 분사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "현재분사 - 진행형",
-			"title_b": "현재분사 진행형",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "과거분사 - 수동태",
-			"title_b": "과거분사 수동태",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "현재완료(경험)",
-			"title_b": "현재완료 경험",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "현재완료(계속)",
-			"title_b": "현재완료 계속",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "문장 연결 ① 부사절 접속사 when/if",
-			"title_b": "문장 연결 1 부사절 접속사 when if",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "문장 연결 ② 부사절 접속사 after/before",
-			"title_b": "문장 연결 2 부사절 접속사 after before",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "문장 연결 ③ 명사절 접속사 that",
-			"title_b": "문장 연결 3 명사절 접속사 that",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "문장 연결 ④ 관계대명사 who",
-			"title_b": "문장 연결 4 관계대명사 who",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "문장 연결 ⑤ 관계대명사 which",
-			"title_b": "문장 연결 5 관계대명사 which",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 41,
-			"title_a": "문장 연결 ⑥ 관계대명사 that",
-			"title_b": "문장 연결 6 관계대명사 that",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_41h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 42,
-			"title_a": "문장 연결 ⑦ 관계대명사 what",
-			"title_b": "문장 연결 7 관계대명사 what",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_42h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 43,
-			"title_a": "문장 연결 ⑧ 관계부사 where/when/why",
-			"title_b": "문장 연결 8 관계부사 where when why",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_43h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 44,
-			"title_a": "비교 표현 ① 비교급 만들기",
-			"title_b": "비교 표현 1 비교급 만들기",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_44h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 45,
-			"title_a": "비교 표현 ② 불규칙 비교급과 비교급 강조",
-			"title_b": "비교 표현 2 불규칙 비교급과 비교급 강조",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_45h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 46,
-			"title_a": "비교 표현 ③ as+원급+as",
-			"title_b": "비교 표현 3 as 원급 as",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_46h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 47,
-			"title_a": "비교 표현 ④ get+비교급",
-			"title_b": "비교 표현 4 get 비교급",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_47h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 48,
-			"title_a": "비교 표현 ⑤ The 비교급, the 비교급",
-			"title_b": "비교 표현 5 The 비교급 the 비교급",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_48h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 49,
-			"title_a": "비교 표현 ⑥ the+최상급",
-			"title_b": "비교 표현 6 the 최상급",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_49h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 50,
-			"title_a": "만능 동사 get",
-			"title_b": "만능 동사 get",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_50h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 51,
-			"title_a": "보고 듣고 느끼는 감각동사",
-			"title_b": "보고 듣고 느끼는 감각동사",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_51h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 52,
-			"title_a": "이동과 관련된 동사 drive/walk/take",
-			"title_b": "이동과 관련된 동사 drive walk take",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_52h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 53,
-			"title_a": "‘가다’라는 뜻의 동사 travel/go/visit",
-			"title_b": "동사 가다 travel go visit",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_53h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 54,
-			"title_a": "‘어울리다’라는 뜻의 동사 suit/fit/match",
-			"title_b": "동사 어울리다 suit fit match",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_54h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 55,
-			"title_a": "‘돈을 쓰다’라는 뜻의 동사 pay/spend/cost",
-			"title_b": "동사 돈을 쓰다 pay spend cost",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_55h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 56,
-			"title_a": "‘말하다’라는 뜻의 동사 say/tell/talk",
-			"title_b": "동사 말하다 say tell talk",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_56h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 57,
-			"title_a": "시간을 나타내는 전치사 at/on/in",
-			"title_b": "시간을 나타내는 전치사 at on in",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_57h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 58,
-			"title_a": "위치를 나타내는 전치사 at/on/in",
-			"title_b": "위치를 나타내는 전치사 at on in",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_58h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 59,
-			"title_a": "기한을 나타내는 전치사 by/until",
-			"title_b": "기한을 나타내는 전치사 by until",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_59h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 60,
-			"title_a": "기간을 나타내는 표현 for/during/while",
-			"title_b": "기간을 나타내는 표현 for during while",
-			"page_name": [
-				"인트로",
-				"그래머 브리핑",
-				"앵무새 트레이닝",
-				"5초 점검"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_60h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7974,
+  "content_name": "15초 따라 하기 말이 되는 영문법",
+  "content_sample": "1/21/41",
+  "content_chasi": "20/20/20",
+  "content_size": "1100*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "동사의 종류 ① 자동사",
+      "title_b": "동사의 종류 1 자동사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "동사의 종류 ② 타동사",
+      "title_b": "동사의 종류 2 타동사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "부사 이해하기 - 부사의 역할",
+      "title_b": "부사의 역할 이해하기",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "빈도를 나타내는 부사",
+      "title_b": "빈도를 나타내는 부사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "일반동사의 시제 ① 현재",
+      "title_b": "일반동사의 시제 1 현재",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "일반동사의 시제 ② 과거",
+      "title_b": "일반동사의 시제 2 과거",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "일반동사의 문형 ① 부정문/부가의문문",
+      "title_b": "일반동사의 문형 1 부정문 부가의문문",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "일반동사의 문형 ② 과거 부정문",
+      "title_b": "일반동사의 문형 2 과거 부정문",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "be동사의 뜻 ① ~이다",
+      "title_b": "be동사의 뜻 1 ~이다",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "be동사의 뜻 ② ~에 있다",
+      "title_b": "be동사의 뜻 2 ~에 있다",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "be동사의 과거 시제",
+      "title_b": "be동사의 과거 시제",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "be동사의 부정문",
+      "title_b": "be동사의 부정문",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "there is/are",
+      "title_b": "there is are",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "비인칭주어 it",
+      "title_b": "비인칭주어 it",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "주고 싶은 수여동사",
+      "title_b": "주고 싶은 수여동사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "명사 이해하기 - 명사의 수",
+      "title_b": "명사의 수 이해하기",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "재귀대명사",
+      "title_b": "재귀대명사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "미래 조동사 will",
+      "title_b": "미래 조동사 will",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "능력의 조동사 can",
+      "title_b": "능력의 조동사 can",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "필요의 조동사 have to",
+      "title_b": "필요의 조동사 have to",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "의무와 추측의 조동사 must",
+      "title_b": "의무와 추측의 조동사 must",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "명사 역할을 하는 to부정사",
+      "title_b": "명사 역할을 하는 to부정사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "부사 역할을 하는 to부정사",
+      "title_b": "부사 역할을 하는 to부정사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "형용사 역할을 하는 to부정사",
+      "title_b": "형용사 역할을 하는 to부정사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "하도록 시키는 사역동사 let/make/help",
+      "title_b": "하도록 시키는 사역동사 let make help",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "다양한 to부정사 표현 ① It takes... to~/too... to~/enough to~",
+      "title_b": "다양한 to부정사 표현 1",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "다양한 to부정사 표현 ② 의문사+to부정사",
+      "title_b": "다양한 to부정사 표현 2",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "동사를 명사로 쓰기 ① 동명사",
+      "title_b": "동사를 명사로 쓰기 1 동명사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "동사를 명사로 쓰기 ② 전치사+동명사",
+      "title_b": "동사를 명사로 쓰기 2 전치사 동명사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "다양한 동명사 표현",
+      "title_b": "다양한 동명사 표현",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "동사를 형용사로 쓰기 - 분사",
+      "title_b": "동사를 형용사로 쓰는 분사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "현재분사 - 진행형",
+      "title_b": "현재분사 진행형",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "과거분사 - 수동태",
+      "title_b": "과거분사 수동태",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "현재완료(경험)",
+      "title_b": "현재완료 경험",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "현재완료(계속)",
+      "title_b": "현재완료 계속",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "문장 연결 ① 부사절 접속사 when/if",
+      "title_b": "문장 연결 1 부사절 접속사 when if",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "문장 연결 ② 부사절 접속사 after/before",
+      "title_b": "문장 연결 2 부사절 접속사 after before",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "문장 연결 ③ 명사절 접속사 that",
+      "title_b": "문장 연결 3 명사절 접속사 that",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "문장 연결 ④ 관계대명사 who",
+      "title_b": "문장 연결 4 관계대명사 who",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "문장 연결 ⑤ 관계대명사 which",
+      "title_b": "문장 연결 5 관계대명사 which",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 41,
+      "title_a": "문장 연결 ⑥ 관계대명사 that",
+      "title_b": "문장 연결 6 관계대명사 that",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_41h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_41h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 42,
+      "title_a": "문장 연결 ⑦ 관계대명사 what",
+      "title_b": "문장 연결 7 관계대명사 what",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_42h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_42h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 43,
+      "title_a": "문장 연결 ⑧ 관계부사 where/when/why",
+      "title_b": "문장 연결 8 관계부사 where when why",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_43h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_43h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 44,
+      "title_a": "비교 표현 ① 비교급 만들기",
+      "title_b": "비교 표현 1 비교급 만들기",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_44h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_44h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 45,
+      "title_a": "비교 표현 ② 불규칙 비교급과 비교급 강조",
+      "title_b": "비교 표현 2 불규칙 비교급과 비교급 강조",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_45h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_45h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 46,
+      "title_a": "비교 표현 ③ as+원급+as",
+      "title_b": "비교 표현 3 as 원급 as",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_46h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_46h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 47,
+      "title_a": "비교 표현 ④ get+비교급",
+      "title_b": "비교 표현 4 get 비교급",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_47h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_47h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 48,
+      "title_a": "비교 표현 ⑤ The 비교급, the 비교급",
+      "title_b": "비교 표현 5 The 비교급 the 비교급",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_48h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_48h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 49,
+      "title_a": "비교 표현 ⑥ the+최상급",
+      "title_b": "비교 표현 6 the 최상급",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_49h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_49h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 50,
+      "title_a": "만능 동사 get",
+      "title_b": "만능 동사 get",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_50h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_50h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 51,
+      "title_a": "보고 듣고 느끼는 감각동사",
+      "title_b": "보고 듣고 느끼는 감각동사",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_51h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_51h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 52,
+      "title_a": "이동과 관련된 동사 drive/walk/take",
+      "title_b": "이동과 관련된 동사 drive walk take",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_52h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_52h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 53,
+      "title_a": "‘가다’라는 뜻의 동사 travel/go/visit",
+      "title_b": "동사 가다 travel go visit",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_53h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_53h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 54,
+      "title_a": "‘어울리다’라는 뜻의 동사 suit/fit/match",
+      "title_b": "동사 어울리다 suit fit match",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_54h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_54h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 55,
+      "title_a": "‘돈을 쓰다’라는 뜻의 동사 pay/spend/cost",
+      "title_b": "동사 돈을 쓰다 pay spend cost",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_55h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_55h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 56,
+      "title_a": "‘말하다’라는 뜻의 동사 say/tell/talk",
+      "title_b": "동사 말하다 say tell talk",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_56h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_56h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 57,
+      "title_a": "시간을 나타내는 전치사 at/on/in",
+      "title_b": "시간을 나타내는 전치사 at on in",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_57h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_57h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 58,
+      "title_a": "위치를 나타내는 전치사 at/on/in",
+      "title_b": "위치를 나타내는 전치사 at on in",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_58h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_58h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 59,
+      "title_a": "기한을 나타내는 전치사 by/until",
+      "title_b": "기한을 나타내는 전치사 by until",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_59h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_59h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 60,
+      "title_a": "기간을 나타내는 표현 for/during/while",
+      "title_b": "기간을 나타내는 표현 for during while",
+      "page_name": [
+        "인트로",
+        "그래머 브리핑",
+        "앵무새 트레이닝",
+        "5초 점검"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7974/mp4_bind/z1_60h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7974/mobile_500k/step3/z1_60h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

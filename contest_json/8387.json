@@ -1,186 +1,218 @@
-﻿{
-	"content_lan": "일본어",
-	"content_code": "8387",
-	"content_name": "2주 완성 JLPT 한자 어휘 특강 N4",
-	"content_sample": "2",
-	"content_chasi": "16",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "일본어 한자의 특징 및 기본 부수 정리(OT)",
-			"title_b": "일본어 한자의 특징 및 기본 부수 정리 OT",
-			"page_name": [
-				"해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "사람 인(人)이 들어간 한자",
-			"title_b": "사람 인이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "입 구(口)가 들어간 한자",
-			"title_b": "입 구가 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "손 수(手), 마음 심(心)이 들어간 한자 ",
-			"title_b": "손 수 마음 심이 들어간 한자 ",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "날 일(日), 달 월(月)이 들어간 한자",
-			"title_b": "날 일 달 월이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "물 수(水)가 들어간 한자 ",
-			"title_b": "물 수가 들어간 한자 ",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "나무 목(木)이 들어간 한자",
-			"title_b": "나무 목이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "흙 토(土), 조개 패(貝), 밭 전(田), 저녁 석(夕)이 들어간 한자",
-			"title_b": "흙 토 조개 패 밭 전 저녁 석이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "말씀 언(言), 힘 력(力)이 들어간 한자",
-			"title_b": "말씀 언 힘 력이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "달릴 주(走), 계집 녀(女), 선비 사(士), 모 방(方)이 들어간 한자",
-			"title_b": "달릴 주 계집 녀 선비 사 모 방이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "수레 차(車), 활 궁(弓), 화살 시(矢), 소 우(牛)가 들어간 한자",
-			"title_b": "수레 차 활 궁 화살 시 소 우가 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "갓머리(宀), 큰입구 몸(口)이 들어간 한자",
-			"title_b": "갓머리 큰입구 몸이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "초두머리 초(艹), 병질 엄(疒), 엄 호(广)가 들어간 한자",
-			"title_b": "초두머리 초 병질 엄 엄 호가 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "밥 식(飠), 수건 건(巾), 실 사(糸)가 들어간 한자",
-			"title_b": "밥 식 수건 건 실 사가 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "책받침(辶), 어진사람인발(儿)이 들어간 한자",
-			"title_b": "책받침 어진사람인발이 들어간 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "한자 자체가 부수인 한자",
-			"title_b": "한자 자체가 부수인 한자",
-			"page_name": [
-				"한자 강의",
-				"JLPT 퀴즈"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_16h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "일본어",
+  "content_code": "8387",
+  "content_name": "2주 완성 JLPT 한자 어휘 특강 N4",
+  "content_sample": "2",
+  "content_chasi": "16",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "일본어 한자의 특징 및 기본 부수 정리(OT)",
+      "title_b": "일본어 한자의 특징 및 기본 부수 정리 OT",
+      "page_name": [
+        "해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "사람 인(人)이 들어간 한자",
+      "title_b": "사람 인이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "입 구(口)가 들어간 한자",
+      "title_b": "입 구가 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "손 수(手), 마음 심(心)이 들어간 한자 ",
+      "title_b": "손 수 마음 심이 들어간 한자 ",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "날 일(日), 달 월(月)이 들어간 한자",
+      "title_b": "날 일 달 월이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "물 수(水)가 들어간 한자 ",
+      "title_b": "물 수가 들어간 한자 ",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "나무 목(木)이 들어간 한자",
+      "title_b": "나무 목이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "흙 토(土), 조개 패(貝), 밭 전(田), 저녁 석(夕)이 들어간 한자",
+      "title_b": "흙 토 조개 패 밭 전 저녁 석이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "말씀 언(言), 힘 력(力)이 들어간 한자",
+      "title_b": "말씀 언 힘 력이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "달릴 주(走), 계집 녀(女), 선비 사(士), 모 방(方)이 들어간 한자",
+      "title_b": "달릴 주 계집 녀 선비 사 모 방이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "수레 차(車), 활 궁(弓), 화살 시(矢), 소 우(牛)가 들어간 한자",
+      "title_b": "수레 차 활 궁 화살 시 소 우가 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "갓머리(宀), 큰입구 몸(口)이 들어간 한자",
+      "title_b": "갓머리 큰입구 몸이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "초두머리 초(艹), 병질 엄(疒), 엄 호(广)가 들어간 한자",
+      "title_b": "초두머리 초 병질 엄 엄 호가 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "밥 식(飠), 수건 건(巾), 실 사(糸)가 들어간 한자",
+      "title_b": "밥 식 수건 건 실 사가 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "책받침(辶), 어진사람인발(儿)이 들어간 한자",
+      "title_b": "책받침 어진사람인발이 들어간 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "한자 자체가 부수인 한자",
+      "title_b": "한자 자체가 부수인 한자",
+      "page_name": [
+        "한자 강의",
+        "JLPT 퀴즈"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8387/mp4_bind_part/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8387/mobile_500k/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

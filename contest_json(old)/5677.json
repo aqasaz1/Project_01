@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 5677,
+	"content_name": "올라 스페인어 문법",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "한국인이에요.",
+			"title_b": "한국인이에요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "나는 교사예요.",
+			"title_b": "나는 교사예요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "잘 지내?",
+			"title_b": "잘 지내",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "따라 하세요.",
+			"title_b": "따라 하세요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "우리 도시",
+			"title_b": "우리 도시",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "나의 일상",
+			"title_b": "나의 일상",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "너무 마음에 들어요.",
+			"title_b": "너무 마음에 들어요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "나는 로마를 알아.",
+			"title_b": "나는 로마를 알아",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "연습하는 중이에요.",
+			"title_b": "연습하는 중이에요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "영화 보러 가요.",
+			"title_b": "영화 보러 가요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "배낭여행 갈거야.",
+			"title_b": "배낭여행 갈거야",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "충고 하나 할게.",
+			"title_b": "충고 하나 할게",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "내가 어렸을 때.",
+			"title_b": "내가 어렸을 때",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "어젯밤에 뭐 했어?",
+			"title_b": "어젯밤에 뭐 했어",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "무슨 일이 있었는지 말해 줘.",
+			"title_b": "무슨 일이 있었는지 말해 줘",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5677/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

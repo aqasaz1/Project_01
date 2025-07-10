@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": 8152,
+	"content_name": "24시간 생활밀착 영어 VLOG",
+	"content_sample": "13",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "기상하기",
+			"title_b": "기상하기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "아침 식사",
+			"title_b": "아침 식사",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "출근 준비",
+			"title_b": "출근 준비",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "출근길",
+			"title_b": "출근길",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "근무 시간",
+			"title_b": "근무 시간",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "점심 식사",
+			"title_b": "점심 식사",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "카페 가기",
+			"title_b": "카페 가기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "친구 만나기",
+			"title_b": "친구 만나기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "청소하기",
+			"title_b": "청소하기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "산책하기",
+			"title_b": "산책하기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "마트 가기",
+			"title_b": "마트 가기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "저녁 준비",
+			"title_b": "저녁 준비",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "반려동물",
+			"title_b": "반려동물",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "휴식 시간",
+			"title_b": "휴식 시간",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "취침하기",
+			"title_b": "취침하기",
+			"page_name": [
+				"생활밀착 단어 보기",
+				"생활밀착 영어 VLOG",
+				"생활밀착 문장 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8152/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,531 @@
+{
+	"content_lan": "영어",
+	"content_code": "8400",
+	"content_name": "토익 스피드런 스타트 LC 550+",
+	"content_sample": "2/29",
+	"content_chasi": "28/24",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "OT",
+			"title_b": "OT",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[이론] Part 1 인물 묘사",
+			"title_b": "이론 Part 1 인물 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[훈련] Part 1 인물 묘사",
+			"title_b": "훈련 Part 1 인물 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[실전] Part 1 인물 묘사",
+			"title_b": "실전 Part 1 인물 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[이론] Part 1 사물 및 풍경 묘사",
+			"title_b": "이론 Part 1 사물 및 풍경 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[훈련] Part 1 사물 및 풍경 묘사",
+			"title_b": "훈련 Part 1 사물 및 풍경 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[실전] Part 1 사물 및 풍경 묘사",
+			"title_b": "실전 Part 1 사물 및 풍경 묘사",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[이론] Part 2 Who 의문문",
+			"title_b": "이론 Part 2 Who 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[훈련] Part 2 Who 의문문",
+			"title_b": "훈련 Part 2 Who 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[실전] Part 2 Who 의문문",
+			"title_b": "실전 Part 2 Who 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[이론] Part 2 Where 의문문",
+			"title_b": "이론 Part 2 Where 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[훈련] Part 2 Where 의문문",
+			"title_b": "훈련 Part 2 Where 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[실전] Part 2 Where 의문문",
+			"title_b": "실전 Part 2 Where 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[이론] Part 2 When 의문문",
+			"title_b": "이론 Part 2 When 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[훈련] Part 2 When 의문문",
+			"title_b": "훈련 Part 2 When 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "[실전] Part 2 When 의문문",
+			"title_b": "실전 Part 2 When 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "[이론] Part 2 Why 의문문",
+			"title_b": "이론 Part 2 Why 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "[훈련] Part 2 Why 의문문",
+			"title_b": "훈련 Part 2 Why 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "[실전] Part 2 Why 의문문",
+			"title_b": "실전 Part 2 Why 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "[이론] Part 2 What 의문문",
+			"title_b": "이론 Part 2 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "[훈련] Part 2 What 의문문",
+			"title_b": "훈련 Part 2 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "[실전] Part 2 What 의문문",
+			"title_b": "실전 Part 2 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "[이론] Part 2 Be동사 / Do / Have 의문문",
+			"title_b": "이론 Part 2 Be동사 Do Have 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "[훈련] Part 2 Be동사 / Do / Have 의문문",
+			"title_b": "훈련 Part 2 Be동사 Do Have 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "[실전] Part 2 Be동사 / Do / Have 의문문",
+			"title_b": "실전 Part 2 Be동사 Do Have 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "[이론] Part 2 Can / Will / Should 의문문",
+			"title_b": "이론 Part 2 Can Will Should 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "[훈련] Part 2 Can / Will / Should 의문문",
+			"title_b": "훈련 Part 2 Can Will Should 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "[실전] Part 2 Can / Will / Should 의문문",
+			"title_b": "실전 Part 2 Can Will Should 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "[이론] Part 3 Where 의문문 / What 의문문",
+			"title_b": "이론 Part 3 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "[훈련] Part 3 Where 의문문 / What 의문문",
+			"title_b": "훈련 Part 3 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "[실전] Part 3 Where 의문문 / What 의문문",
+			"title_b": "실전 Part 3 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "[이론] Part 3 Who·What 의문문 / When 의문문 / How 의문문",
+			"title_b": "이론 Part 3 Who·What 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "[훈련] Part 3 Who·What 의문문 / When 의문문 / How 의문문",
+			"title_b": "훈련 Part 3 Who·What 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "[실전] Part 3 Who·What 의문문 / When 의문문 / How 의문문",
+			"title_b": "실전 Part 3 Who·What 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "[이론] Part 3 Why 의문문 / Why·What 인용문",
+			"title_b": "이론 Part 3 Why 의문문 Why What 인용문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "[훈련] Part 3 Why 의문문 / Why·What 인용문",
+			"title_b": "훈련 Part 3 Why 의문문 Why What 인용문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "[실전] Part 3 Why 의문문 / Why·What 인용문",
+			"title_b": "실전 Part 3 Why 의문문 Why What 인용문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "[이론] Part 3 시각 정보 의문문",
+			"title_b": "이론 Part 3 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "[훈련] Part 3 시각 정보 의문문",
+			"title_b": "훈련 Part 3 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "[실전] Part 3 시각 정보 의문문",
+			"title_b": "실전 Part 3 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "[이론] Part 4 Where 의문문 / What 의문문",
+			"title_b": "이론 Part 4 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "[훈련] Part 4 Where 의문문 / What 의문문",
+			"title_b": "훈련 Part 4 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "[실전] Part 4 Where 의문문 / What 의문문",
+			"title_b": "실전 Part 4 Where 의문문 What 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "[이론] Part 4 Who 의문문 / When 의문문 / How 의문문",
+			"title_b": "이론 Part 4 Who 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "[훈련] Part 4 Who 의문문 / When 의문문 / How 의문문",
+			"title_b": "훈련 Part 4 Who 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "[실전] Part 4 Who 의문문 / When 의문문 / How 의문문",
+			"title_b": "실전 Part 4 Who 의문문 When 의문문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "[이론] Part 4 Why 의문문 / Why·What 인용문 / How 의문문",
+			"title_b": "이론 Part 4 Why 의문문 Why What 인용문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "[훈련] Part 4 Why 의문문 / Why·What 인용문 / How 의문문",
+			"title_b": "훈련 Part 4 Why 의문문 Why What 인용문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "[실전] Part 4 Why 의문문 / Why·What 인용문 / How 의문문",
+			"title_b": "실전 Part 4 Why 의문문 Why What 인용문 How 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "[이론] Part 4 시각 정보 의문문",
+			"title_b": "이론 Part 4 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "[훈련] Part 4 시각 정보 의문문",
+			"title_b": "훈련 Part 4 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "[실전] Part 4 시각 정보 의문문",
+			"title_b": "실전 Part 4 시각 정보 의문문",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8400/mp4/a1_52h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

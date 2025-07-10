@@ -1,0 +1,247 @@
+{
+	"content_lan": "영어",
+	"content_code": 8273,
+	"content_name": "[야나두] 1mm 스피킹 1단계",
+	"content_sample": "1",
+	"content_chasi": "22",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "[기본] 영어 알파벳 소리",
+			"title_b": "기본 영어 알파벳 소리",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "[기본] 꼭 알아야 할 영어 특징",
+			"title_b": "기본 꼭 알아야 할 영어 특징",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "[기본] 영어 명사 알맞게 말하기",
+			"title_b": "기본 영어 명사 알맞게 말하기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "[기본 UP] 영어 명사 알맞게 말하기",
+			"title_b": "기본 UP 영어 명사 알맞게 말하기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "[기본] 평소 습관/취향 말하기",
+			"title_b": "기본 평소 습관과 취향 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "[기본 UP] 평소 습관/취향 말하기",
+			"title_b": "기본 UP 평소 습관과 취향 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "[기본] 평소 습관/취향 묻고 답하기",
+			"title_b": "기본 평소 습관과 취향 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "[기본 UP] 평소 습관/취향 묻고 답하기",
+			"title_b": "기본 UP 평소 습관과 취향 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "[기본] 과거 행동 말하기",
+			"title_b": "기본 과거 행동 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "[기본 UP] 과거 행동 말하기",
+			"title_b": "기본 UP 과거 행동 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "[기본] 과거 행동 묻고 답하기",
+			"title_b": "기본 과거 행동 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "[기본 UP] 과거 행동 묻고 답하기",
+			"title_b": "기본 UP 과거 행동 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "[기본] 현재 상태 말하기",
+			"title_b": "기본 현재 상태 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "[기본 UP] 현재 상태 말하기",
+			"title_b": "기본 UP 현재 상태 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "[기본] 현재 상태 묻고 답하기",
+			"title_b": "기본 현재 상태 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "[기본 UP] 현재 상태 묻고 답하기",
+			"title_b": "기본 UP 현재 상태 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "[기본] 과거 상태 말하기",
+			"title_b": "기본 과거 상태 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "[기본 UP] 과거 상태 말하기",
+			"title_b": "기본 UP 과거 상태 말하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "[기본] 과거 상태 묻고 답하기",
+			"title_b": "기본 과거 상태 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "[기본 UP] 과거 상태 묻고 답하기",
+			"title_b": "기본 UP 과거 상태 묻고 답하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "[기본] 금액/시간/날짜/층수 말하기",
+			"title_b": "기본 금액 시간 날짜 층수 말하기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "[기본] 존재에 대해 말하기",
+			"title_b": "기본 존재에 대해 말하기",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8273/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

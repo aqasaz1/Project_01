@@ -1,311 +1,371 @@
 {
-	"content_lan": "영어",
-	"content_code": "8332",
-	"content_name": "거의 모든 일상 표현의 영어",
-	"content_sample": "2/18",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "기상",
-			"title_b": "기상",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "세면",
-			"title_b": "세면",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "아침 식사와 외출 준비",
-			"title_b": "아침 식사와 외출 준비",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "청소와 빨래",
-			"title_b": "청소와 빨래",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "집 관리",
-			"title_b": "집 관리",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "이동",
-			"title_b": "이동",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "버스와 지하철",
-			"title_b": "버스와 지하철",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "택시와 운전",
-			"title_b": "택시와 운전",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "카페",
-			"title_b": "카페",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "편의점과 서점",
-			"title_b": "편의점과 서점",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "직장 생활",
-			"title_b": "직장 생활",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "점심시간과 퇴근",
-			"title_b": "점심시간과 퇴근",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "병원",
-			"title_b": "병원",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "몸 상태와 증상",
-			"title_b": "몸 상태와 증상",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "은행",
-			"title_b": "은행",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "관공서",
-			"title_b": "관공서",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "장보기",
-			"title_b": "장보기",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "쇼핑",
-			"title_b": "쇼핑",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "여가 활동",
-			"title_b": "여가 활동",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "운동과 레저",
-			"title_b": "운동과 레저",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "미용과 다이어트",
-			"title_b": "미용과 다이어트",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "생일과 파티",
-			"title_b": "생일과 파티",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "귀가와 저녁 식사",
-			"title_b": "귀가와 저녁 식사",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "TV와 스마트폰",
-			"title_b": "TV와 스마트폰",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "SNS와 하루 마무리",
-			"title_b": "SNS와 하루 마무리",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "캠핑과 나들이",
-			"title_b": "캠핑과 나들이",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "외식",
-			"title_b": "외식",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "여행 준비",
-			"title_b": "여행 준비",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "공항과 면세점",
-			"title_b": "공항과 면세점",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "숙소와 여행",
-			"title_b": "숙소와 여행",
-			"page_name": [
-				"일상 표현 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8332",
+  "content_name": "거의 모든 일상 표현의 영어",
+  "content_sample": "2/18",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "기상",
+      "title_b": "기상",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "세면",
+      "title_b": "세면",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "아침 식사와 외출 준비",
+      "title_b": "아침 식사와 외출 준비",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "청소와 빨래",
+      "title_b": "청소와 빨래",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "집 관리",
+      "title_b": "집 관리",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "이동",
+      "title_b": "이동",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "버스와 지하철",
+      "title_b": "버스와 지하철",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "택시와 운전",
+      "title_b": "택시와 운전",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "카페",
+      "title_b": "카페",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "편의점과 서점",
+      "title_b": "편의점과 서점",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "직장 생활",
+      "title_b": "직장 생활",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "점심시간과 퇴근",
+      "title_b": "점심시간과 퇴근",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "병원",
+      "title_b": "병원",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "몸 상태와 증상",
+      "title_b": "몸 상태와 증상",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "은행",
+      "title_b": "은행",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "관공서",
+      "title_b": "관공서",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "장보기",
+      "title_b": "장보기",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "쇼핑",
+      "title_b": "쇼핑",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "여가 활동",
+      "title_b": "여가 활동",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "운동과 레저",
+      "title_b": "운동과 레저",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "미용과 다이어트",
+      "title_b": "미용과 다이어트",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "생일과 파티",
+      "title_b": "생일과 파티",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "귀가와 저녁 식사",
+      "title_b": "귀가와 저녁 식사",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "TV와 스마트폰",
+      "title_b": "TV와 스마트폰",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "SNS와 하루 마무리",
+      "title_b": "SNS와 하루 마무리",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "캠핑과 나들이",
+      "title_b": "캠핑과 나들이",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "외식",
+      "title_b": "외식",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "여행 준비",
+      "title_b": "여행 준비",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "공항과 면세점",
+      "title_b": "공항과 면세점",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "숙소와 여행",
+      "title_b": "숙소와 여행",
+      "page_name": [
+        "일상 표현 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8332/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8332/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

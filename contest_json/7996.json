@@ -1,531 +1,611 @@
 {
-	"content_lan": "영어",
-	"content_code": 7996,
-	"content_name": "100% 뉴욕 현지 리얼리티 영어 - 인싸들의 진짜 영어 표현",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "김영실",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "문자메시지 줄임말 표현",
-			"title_b": "문자메시지 줄임말 표현",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "신조어 표현",
-			"title_b": "신조어 표현",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "오글거리는 감정 묘사",
-			"title_b": "오글거리는 감정 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "프로필 사진 묘사",
-			"title_b": "프로필 사진 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "신나는 감정 묘사",
-			"title_b": "신나는 감정 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "SNS 풍경 사진 묘사",
-			"title_b": "SNS 풍경 사진 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "억울한 감정 묘사",
-			"title_b": "억울한 감정 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Small Talk - 날씨",
-			"title_b": "Small Talk 날씨",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Small Talk - 직업",
-			"title_b": "Small Talk 직업",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Small Talk - 새로 산 물건",
-			"title_b": "Small Talk 새로 산 물건",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Small Talk - 가족 안부 (친구 가족 안부 물어볼 때)",
-			"title_b": "Small Talk 가족 안부",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Small Talk - 점심 식사",
-			"title_b": "Small Talk 점심 식사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Small Talk - 퇴근 후 계획",
-			"title_b": "Small Talk 퇴근 후 계획",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Small Talk - 새로 나온 영화",
-			"title_b": "Small Talk 새로 나온 영화",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Small Talk - 사건, 사고 뉴스",
-			"title_b": "Small Talk 사건 사고 뉴스",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Small Talk - 애완견 1 (애완견 주인에게 말을 걸 때)",
-			"title_b": "Small Talk 애완견 1",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Small Talk - 애완견 2 (키울 때 팁과 관련한 대화를 할 때)",
-			"title_b": "Small Talk 애완견 2",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Small Talk - 한국 음식 추천 1 (막걸리&파전)",
-			"title_b": "Small Talk 한국 음식 추천 1",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Small Talk - 한국 음식 추천 2 (떡볶이&김밥)",
-			"title_b": "Small Talk 한국 음식 추천 2",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Small Talk - 이성 친구 소개",
-			"title_b": "Small Talk 이성 친구 소개",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "리액션 - 축하",
-			"title_b": "축하 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "리액션 - 웃음",
-			"title_b": "웃음 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "리액션 - 격려",
-			"title_b": "격려 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "리액션 - 위로",
-			"title_b": "위로 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "리액션 - 놀라움",
-			"title_b": "놀라움 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "리액션 - 맞장구",
-			"title_b": "맞장구 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "리액션 - 칭찬",
-			"title_b": "칭찬 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "리액션 - 반대 의견",
-			"title_b": "반대 의견 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "리액션 - 변명",
-			"title_b": "변명 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "리액션 - 헤어짐",
-			"title_b": "헤어짐 리액션",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "음식 맛 묘사 1",
-			"title_b": "음식 맛 묘사 1",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "음식 맛 묘사 2",
-			"title_b": "음식 맛 묘사 2",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "서운한 감정 묘사",
-			"title_b": "서운한 감정 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "우울한 감정 묘사",
-			"title_b": "우울한 감정 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "인터넷으로 피자 주문할 때",
-			"title_b": "인터넷으로 피자 주문할 때",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "야경 묘사",
-			"title_b": "야경 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "관광지 묘사",
-			"title_b": "관광지 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "SNS에 영상 업로드",
-			"title_b": "SNS에 영상 업로드",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "SNS 맛집 묘사",
-			"title_b": "SNS 맛집 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "상품 묘사",
-			"title_b": "상품 묘사",
-			"page_name": [
-				"[한글 자막] 브이로그 Full Ver.",
-				"[영한 자막] 브이로그 Edited Ver.",
-				"[친절한 에리카] 리얼리티 강의",
-				"나 혼자 반복 연습"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7996,
+  "content_name": "100% 뉴욕 현지 리얼리티 영어 - 인싸들의 진짜 영어 표현",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "김영실",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "문자메시지 줄임말 표현",
+      "title_b": "문자메시지 줄임말 표현",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "신조어 표현",
+      "title_b": "신조어 표현",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "오글거리는 감정 묘사",
+      "title_b": "오글거리는 감정 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "프로필 사진 묘사",
+      "title_b": "프로필 사진 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "신나는 감정 묘사",
+      "title_b": "신나는 감정 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "SNS 풍경 사진 묘사",
+      "title_b": "SNS 풍경 사진 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "억울한 감정 묘사",
+      "title_b": "억울한 감정 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Small Talk - 날씨",
+      "title_b": "Small Talk 날씨",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Small Talk - 직업",
+      "title_b": "Small Talk 직업",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Small Talk - 새로 산 물건",
+      "title_b": "Small Talk 새로 산 물건",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Small Talk - 가족 안부 (친구 가족 안부 물어볼 때)",
+      "title_b": "Small Talk 가족 안부",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Small Talk - 점심 식사",
+      "title_b": "Small Talk 점심 식사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Small Talk - 퇴근 후 계획",
+      "title_b": "Small Talk 퇴근 후 계획",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Small Talk - 새로 나온 영화",
+      "title_b": "Small Talk 새로 나온 영화",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Small Talk - 사건, 사고 뉴스",
+      "title_b": "Small Talk 사건 사고 뉴스",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Small Talk - 애완견 1 (애완견 주인에게 말을 걸 때)",
+      "title_b": "Small Talk 애완견 1",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Small Talk - 애완견 2 (키울 때 팁과 관련한 대화를 할 때)",
+      "title_b": "Small Talk 애완견 2",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Small Talk - 한국 음식 추천 1 (막걸리&파전)",
+      "title_b": "Small Talk 한국 음식 추천 1",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Small Talk - 한국 음식 추천 2 (떡볶이&김밥)",
+      "title_b": "Small Talk 한국 음식 추천 2",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Small Talk - 이성 친구 소개",
+      "title_b": "Small Talk 이성 친구 소개",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "리액션 - 축하",
+      "title_b": "축하 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "리액션 - 웃음",
+      "title_b": "웃음 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "리액션 - 격려",
+      "title_b": "격려 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "리액션 - 위로",
+      "title_b": "위로 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "리액션 - 놀라움",
+      "title_b": "놀라움 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "리액션 - 맞장구",
+      "title_b": "맞장구 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "리액션 - 칭찬",
+      "title_b": "칭찬 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "리액션 - 반대 의견",
+      "title_b": "반대 의견 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "리액션 - 변명",
+      "title_b": "변명 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "리액션 - 헤어짐",
+      "title_b": "헤어짐 리액션",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "음식 맛 묘사 1",
+      "title_b": "음식 맛 묘사 1",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "음식 맛 묘사 2",
+      "title_b": "음식 맛 묘사 2",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "서운한 감정 묘사",
+      "title_b": "서운한 감정 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "우울한 감정 묘사",
+      "title_b": "우울한 감정 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "인터넷으로 피자 주문할 때",
+      "title_b": "인터넷으로 피자 주문할 때",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "야경 묘사",
+      "title_b": "야경 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "관광지 묘사",
+      "title_b": "관광지 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "SNS에 영상 업로드",
+      "title_b": "SNS에 영상 업로드",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "SNS 맛집 묘사",
+      "title_b": "SNS 맛집 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "상품 묘사",
+      "title_b": "상품 묘사",
+      "page_name": [
+        "[한글 자막] 브이로그 Full Ver.",
+        "[영한 자막] 브이로그 Edited Ver.",
+        "[친절한 에리카] 리얼리티 강의",
+        "나 혼자 반복 연습"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7996/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7996/mobile_500k/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

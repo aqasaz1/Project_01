@@ -1,311 +1,351 @@
 {
-	"content_lan": "일본어",
-	"content_code": 4970,
-	"content_name": "회화가 강해지는 감정표현 일본어",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": "진의연",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "좋아하다",
-			"title_b": "좋아하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "싫어하다",
-			"title_b": "싫어하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "기쁘다",
-			"title_b": "기쁘다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "아쉽다",
-			"title_b": "아쉽다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "재미있다, 즐겁다",
-			"title_b": "재미있다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "지루하다, 지겹다",
-			"title_b": "지루하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "힘이 나다, 지치다",
-			"title_b": "힘이 나다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "부럽다, 질투가 나다",
-			"title_b": "부럽다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "부끄럽다",
-			"title_b": "부끄럽다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "긴장이 되다",
-			"title_b": "긴장이 되다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "놀라다",
-			"title_b": "놀라다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "원하다, 갖고 싶다",
-			"title_b": "원하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "축하하다, 격려하다",
-			"title_b": "축하하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "감사하다",
-			"title_b": "감사하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "안심하다, 걱정하다",
-			"title_b": "안심하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "배부르다, 배고프다",
-			"title_b": "배부르다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "흥미가 있다",
-			"title_b": "흥미가 있다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "화나다",
-			"title_b": "화나다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "우울하다, 짜증이 나다",
-			"title_b": "우울하다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "무섭다",
-			"title_b": "무섭다",
-			"page_name": [
-				"인트로",
-				"표현 체크",
-				"오늘의 강의",
-				"따라하기",
-				"연습하기",
-				"J 채널"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "일본어",
+  "content_code": 4970,
+  "content_name": "회화가 강해지는 감정표현 일본어",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": "진의연",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "좋아하다",
+      "title_b": "좋아하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "싫어하다",
+      "title_b": "싫어하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "기쁘다",
+      "title_b": "기쁘다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "아쉽다",
+      "title_b": "아쉽다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "재미있다, 즐겁다",
+      "title_b": "재미있다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "지루하다, 지겹다",
+      "title_b": "지루하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "힘이 나다, 지치다",
+      "title_b": "힘이 나다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "부럽다, 질투가 나다",
+      "title_b": "부럽다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "부끄럽다",
+      "title_b": "부끄럽다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "긴장이 되다",
+      "title_b": "긴장이 되다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "놀라다",
+      "title_b": "놀라다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "원하다, 갖고 싶다",
+      "title_b": "원하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "축하하다, 격려하다",
+      "title_b": "축하하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "감사하다",
+      "title_b": "감사하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "안심하다, 걱정하다",
+      "title_b": "안심하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "배부르다, 배고프다",
+      "title_b": "배부르다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "흥미가 있다",
+      "title_b": "흥미가 있다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "화나다",
+      "title_b": "화나다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "우울하다, 짜증이 나다",
+      "title_b": "우울하다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "무섭다",
+      "title_b": "무섭다",
+      "page_name": [
+        "인트로",
+        "표현 체크",
+        "오늘의 강의",
+        "따라하기",
+        "연습하기",
+        "J 채널"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4970/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

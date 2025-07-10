@@ -1,0 +1,271 @@
+{
+	"content_lan": "영어",
+	"content_code": 5950,
+	"content_name": "야나두 기초 영어 3탄-문장 확장",
+	"content_sample": "6",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "동사의 주어 역할 1",
+			"title_b": "동사의 주어 역할 1",
+			"page_name": [
+				"Intro",
+				"강의 1",
+				"강의 2",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "동사의 주어 역할 2",
+			"title_b": "동사의 주어 역할 2",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "동사의 목적어 역할 1",
+			"title_b": "동사의 목적어 역할 1",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "동사의 목적어 역할 2",
+			"title_b": "동사의 목적어 역할 2",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "동사의 형용사 역할",
+			"title_b": "동사의 형용사 역할",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "동사의 부사 역할",
+			"title_b": "동사의 부사 역할",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "동사 역할 훈련",
+			"title_b": "동사 역할 훈련",
+			"page_name": [
+				"Intro",
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "who+be 동사",
+			"title_b": "who be 동사",
+			"page_name": [
+				"Intro",
+				"강의 1",
+				"강의 2",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4_bind_part/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "who+일반 동사",
+			"title_b": "who 일반 동사",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "which+be 동사",
+			"title_b": "which be 동사",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "which+일반 동사",
+			"title_b": "which 일반 동사",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "사람+ing",
+			"title_b": "사람 ing",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "사람+p.p.",
+			"title_b": "사물 pp",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "사물+p.p.",
+			"title_b": "사물 pp",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "where",
+			"title_b": "where",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "when",
+			"title_b": "when",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "why",
+			"title_b": "why",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "how",
+			"title_b": "how",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "that",
+			"title_b": "that",
+			"page_name": [
+				"Intro",
+				"강의",
+				"따라 하기",
+				"도전하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "후치 수식 훈련",
+			"title_b": "후치 수식 훈련",
+			"page_name": [
+				"Intro",
+				"강의 1",
+				"강의 2",
+				"강의 3"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5950/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,1021 @@
+{
+	"content_lan": "영어",
+	"content_code": "8388",
+	"content_name": "기초영어 1000문장 마스터 - 기본 패턴",
+	"content_sample": "1/21/41/61/81",
+	"content_chasi": "20/20/20/20/20",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "알고 싶어.",
+			"title_b": "알고 싶어",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "영어 공부하고 싶어.",
+			"title_b": "영어 공부하고 싶어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "그거 쓰고 싶어.",
+			"title_b": "그거 쓰고 싶어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "여기에서 일하고 싶어.",
+			"title_b": "여기에서 일하고 싶어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "여기 앉기 싫어.",
+			"title_b": "여기 앉기 싫어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "걔랑 말하고 싶지 않아.",
+			"title_b": "걔랑 말하고 싶지 않아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "여기 올래?",
+			"title_b": "여기 올래",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "이거 살래 아니면 저거 살래?",
+			"title_b": "이거 살래 아니면 저거 살래",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "그거 생각해 볼래?",
+			"title_b": "그거 생각해 볼래",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "나랑 셀카 찍을래?",
+			"title_b": "나랑 셀카 찍을래",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "너 그거 봐야 돼.",
+			"title_b": "너 그거 봐야 돼",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "나 너한테 뭔가 말해야 돼.",
+			"title_b": "나 너한테 뭔가 말해야 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "너 편한 신발 신어야 해.",
+			"title_b": "너 편한 신발 신어야 해",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "너 나한테 약속해야 돼.",
+			"title_b": "너 나한테 약속해야 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "난 거기 안 가도 돼.",
+			"title_b": "난 거기 안 가도 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "나 그거 안 써도 돼.",
+			"title_b": "나 그거 안 써도 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "이거 돈 내야 하나요?",
+			"title_b": "이거 돈 내야 하나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "나 언제 돌아와야 하나요?",
+			"title_b": "나 언제 돌아와야 하나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "내가 여기서 기다려야 하나요?",
+			"title_b": "내가 여기서 기다려야 하나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "지금 당장 결정해야 되나요?",
+			"title_b": "지금 당장 결정해야 되나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "이해할 수 있어요.",
+			"title_b": "이해할 수 있어요",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "내가 그거 너한테 빌려줄 수 있어.",
+			"title_b": "내가 그거 너한테 빌려줄 수 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "영어 할 수 있어.",
+			"title_b": "영어 할 수 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "지금 당장 그거 시작할 수 있어.",
+			"title_b": "지금 당장 그거 시작할 수 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "나 이거 못 사.",
+			"title_b": "나 이거 못 사",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "아직 못 나가요.",
+			"title_b": "아직 못 나가요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "지금 통화할 수 있어?",
+			"title_b": "지금 통화할 수 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "언제 올 수 있어?",
+			"title_b": "언제 올 수 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "그것 좀 켜줄래요?",
+			"title_b": "그것 좀 켜줄래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "추천해 주실래요?",
+			"title_b": "추천해 주실래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "여기 앉아도 돼.",
+			"title_b": "여기 앉아도 돼",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "아무 때나 와도 돼.",
+			"title_b": "아무 때나 와도 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "그거 삭제해도 돼.",
+			"title_b": "그거 삭제해도 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "그거 연기해도 돼.",
+			"title_b": "그거 연기해도 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "저기 앉으면 안 돼.",
+			"title_b": "저기 앉으면 안 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "거짓말하면 안 돼.",
+			"title_b": "거짓말하면 안 돼",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "저 이거 빌려도 되나요?",
+			"title_b": "저 이거 빌려도 되나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "당신의 개를 만져봐도 되나요?",
+			"title_b": "당신의 개를 만져봐도 되나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "지금 주문해도 되나요?",
+			"title_b": "지금 주문해도 되나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "오렌지주스 주세요.",
+			"title_b": "오렌지주스 주세요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "내가 이따가 전화할게.",
+			"title_b": "내가 이따가 전화할게",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "내가 빨래할게.",
+			"title_b": "내가 빨래할게",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "내가 받을게.",
+			"title_b": "내가 받을게",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "내가 낼게.",
+			"title_b": "내가 낼게",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "안 갈게.",
+			"title_b": "안 갈게",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "알았어. 안 웃을게.",
+			"title_b": "알았어 안 웃을게",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "우리 지금 갈까?",
+			"title_b": "우리 지금 갈까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "Sam한테 뭐라고 말할까?",
+			"title_b": "Sam한테 뭐라고 말할까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "나 뭐 할까?",
+			"title_b": "나 뭐 할까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "우리 무슨 얘기할까?",
+			"title_b": "우리 무슨 얘기할까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "그는 내 친구야.",
+			"title_b": "그는 내 친구야",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "그는 회사에 있어.",
+			"title_b": "그는 회사에 있어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "재미없어.",
+			"title_b": "재미없어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "너무 작아.",
+			"title_b": "너무 작아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "나 지금 집 아니야.",
+			"title_b": "나 지금 집 아니야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "안 멀어.",
+			"title_b": "안 멀어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "나 늦었어?",
+			"title_b": "나 늦었어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "너 뭘 걱정하는 거야?",
+			"title_b": "너 뭘 걱정하는 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "밖에 춥니?",
+			"title_b": "밖에 춥니",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "그게 뭐야?",
+			"title_b": "그게 뭐야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_60h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 61,
+			"title_a": "널 만나서 너무 좋아.",
+			"title_b": "널 만나서 너무 좋아",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_61h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 62,
+			"title_a": "이해하기 쉬워.",
+			"title_b": "이해하기 쉬워",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_62h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 63,
+			"title_a": "그거 하기에 너무 늦었어.",
+			"title_b": "그거 하기에 너무 늦었어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_63h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 64,
+			"title_a": "업그레이드하는 거 매우 단순해.",
+			"title_b": "업그레이드하는 거 매우 단순해",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_64h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 65,
+			"title_a": "그거 고치는 거 비싸지 않아.",
+			"title_b": "그거 고치는 거 비싸지 않아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_65h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 66,
+			"title_a": "해보기 나쁘지 않아.",
+			"title_b": "해보기 나쁘지 않아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_66h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 67,
+			"title_a": "그걸 하는 게 가능한가요?",
+			"title_b": "그걸 하는 게 가능한가요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_67h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 68,
+			"title_a": "그렇게 해도 안전한가요?",
+			"title_b": "그렇게 해도 안전한가요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_68h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 69,
+			"title_a": "스케줄을 재조정하기엔 늦었나요?",
+			"title_b": "스케줄을 재조정하기엔 늦었나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_69h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 70,
+			"title_a": "지금 주문하기엔 너무 늦었나요?",
+			"title_b": "지금 주문하기엔 너무 늦었나요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_70h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 71,
+			"title_a": "나 오늘은 일찍 자는 게 좋겠어.",
+			"title_b": "나 오늘은 일찍 자는 게 좋겠어",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_71h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 72,
+			"title_a": "Julie하고 먼저 얘기해 보는 게 좋겠어.",
+			"title_b": "Julie하고 먼저 얘기해 보는 게 좋겠어",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_72h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 73,
+			"title_a": "너 그런 말 하는 거 안 좋아.",
+			"title_b": "너 그런 말 하는 거 안 좋아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_73h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 74,
+			"title_a": "그거 하는 게 좋을까?",
+			"title_b": "그거 하는 게 좋을까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_74h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 75,
+			"title_a": "이거 어디에 보관하는 게 좋을까?",
+			"title_b": "이거 어디에 보관하는 게 좋을까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_75h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 76,
+			"title_a": "내 생각엔 네가 이거 하는 게 좋을 것 같아.",
+			"title_b": "내 생각엔 네가 이거 하는 게 좋을 것 같아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_76h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 77,
+			"title_a": "우리 그를 믿는 게 좋을 것 같아.",
+			"title_b": "우리 그를 믿는 게 좋을 것 같아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_77h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 78,
+			"title_a": "우리 여기에 머무르지 않는 게 좋을 것 같아.",
+			"title_b": "우리 여기에 머무르지 않는 게 좋을 것 같아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_78h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 79,
+			"title_a": "네 생각엔 내가 이거 사는 게 좋을 것 같아?",
+			"title_b": "네 생각엔 내가 이거 사는 게 좋을 것 같아",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_79h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 80,
+			"title_a": "어느 길로 제가 가는 게 좋을 것 같아요?",
+			"title_b": "어느 길로 제가 가는 게 좋을 것 같아요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_80h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 81,
+			"title_a": "지금 집에 가고 싶어요.",
+			"title_b": "지금 집에 가고 싶어요",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_81h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 82,
+			"title_a": "당신을 다시 만나고 싶어요.",
+			"title_b": "당신을 다시 만나고 싶어요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_82h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 83,
+			"title_a": "늦잠 자고 싶어요.",
+			"title_b": "늦잠 자고 싶어요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_83h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 84,
+			"title_a": "혼자 있고 싶어요.",
+			"title_b": "혼자 있고 싶어요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_84h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 85,
+			"title_a": "나 지금 아무것도 먹고 싶지 않아요.",
+			"title_b": "나 지금 아무것도 먹고 싶지 않아요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_85h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 86,
+			"title_a": "서두르고 싶지 않아요.",
+			"title_b": "서두르고 싶지 않아요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_86h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 87,
+			"title_a": "지금 갈래요?",
+			"title_b": "지금 갈래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_87h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 88,
+			"title_a": "뭐라도 마실래요?",
+			"title_b": "뭐라도 마실래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_88h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 89,
+			"title_a": "내일 저랑 브런치 하실래요?",
+			"title_b": "내일 저랑 브런치 하실래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_89h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 90,
+			"title_a": "잠깐 쉴래요?",
+			"title_b": "잠깐 쉴래요",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_90h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 91,
+			"title_a": "큰 거로 하나 살 거야.",
+			"title_b": "큰 거로 하나 살 거야",
+			"page_name": [
+				"핵심 패턴",
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4_bind_part/z1_91h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 92,
+			"title_a": "우리 이번 주말에 파티할 거야.",
+			"title_b": "우리 이번 주말에 파티할 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_92h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 93,
+			"title_a": "오늘 밤에 비 올 거야.",
+			"title_b": "오늘 밤에 비 올 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_93h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 94,
+			"title_a": "슬퍼질 거야.",
+			"title_b": "슬퍼질 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_94h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 95,
+			"title_a": "나 그거 더 이상 생각하지 않을 거야.",
+			"title_b": "나 그거 더 이상 생각하지 않을 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_95h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 96,
+			"title_a": "그거 안 될 거야.",
+			"title_b": "그거 안 될 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_96h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 97,
+			"title_a": "지금 갈 거야?",
+			"title_b": "지금 갈 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_97h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 98,
+			"title_a": "너 그거 언제 할 거야?",
+			"title_b": "너 그거 언제 할 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_98h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 99,
+			"title_a": "이번 여름에 어디 갈 거야?",
+			"title_b": "이번 여름에 어디 갈 거야",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_99h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 100,
+			"title_a": "그게 (사이즈가) 맞을까?",
+			"title_b": "그게 사이즈가 맞을까",
+			"page_name": [
+				"말하기 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8388/mp4/a1_100h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

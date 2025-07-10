@@ -1,0 +1,191 @@
+{
+	 "content_lan": "기타외국어",
+	 "content_code": "8063",
+	 "content_name": "New 멜하바 터키어 현지 회화",
+	 "content_sample": "1",
+	 "content_chasi": "15",
+	 "content_size": "1000*650",
+	 "content_cm": "정계영",
+	 "content_data": [
+		  {
+				"chasi": 1,
+				"title_a": "준비하기",
+				"title_b": "준비하기",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_01h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 2,
+				"title_a": "공항에서",
+				"title_b": "공항에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_02h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 3,
+				"title_a": "관공서에서",
+				"title_b": "관공서에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_03h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 4,
+				"title_a": "병원에서",
+				"title_b": "병원에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_04h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 5,
+				"title_a": "약국에서",
+				"title_b": "약국에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_05h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 6,
+				"title_a": "응급상황",
+				"title_b": "응급상황",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_06h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 7,
+				"title_a": "부동산에서",
+				"title_b": "부동산에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_07h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 8,
+				"title_a": "주유소에서",
+				"title_b": "주유소에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_08h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 9,
+				"title_a": "은행에서",
+				"title_b": "은행에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_09h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 10,
+				"title_a": "공연",
+				"title_b": "공연",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_10h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 11,
+				"title_a": "면접 및 채용",
+				"title_b": "면접 및 채용",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_11h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 12,
+				"title_a": "온라인 쇼핑",
+				"title_b": "온라인 쇼핑",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_12h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 13,
+				"title_a": "오프라인 쇼핑",
+				"title_b": "오프라인 쇼핑",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_13h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 14,
+				"title_a": "축제에서",
+				"title_b": "축제에서",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_14h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 15,
+				"title_a": "예약 변경",
+				"title_b": "예약 변경",
+				"page_name": [
+					 "인트로",
+					 "강의 듣기",
+					 "정리하기"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6109/mp4/a1_15h.mp4",
+				"mp4_bind_time": ""
+		  }
+	 ]
+}

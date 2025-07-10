@@ -1,0 +1,451 @@
+{
+	"content_lan": "일본어",
+	"content_code": "8316",
+	"content_name": "NEW JPT 한권으로 끝내기 600 - 청해",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "박진솔",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "PART 1 사진묘사 - 사람, 동물(1)",
+			"title_b": "PART 1 사진묘사 사람 동물1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "PART 1 사진묘사 - 사람, 동물(2)",
+			"title_b": "PART 1 사진묘사 사람 동물2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "PART 1 사진묘사 - 실내 장면(1)",
+			"title_b": "PART 1 사진묘사 실내 장면1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "PART 1 사진묘사 - 실내 장면(2)",
+			"title_b": "PART 1 사진묘사 실내 장면2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "PART 1 사진묘사 - 실외 풍경(1)",
+			"title_b": "PART 1 사진묘사 실외 풍경1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "PART 1 사진묘사 - 실외 풍경(2)",
+			"title_b": "PART 1 사진묘사 실외 풍경2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "PART 1 실전모의테스트(1)",
+			"title_b": "PART 1 실전모의테스트1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "PART 1 실전모의테스트(2)",
+			"title_b": "PART 1 실전모의테스트2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "PART 2 질의응답 - 의문사가 있는 경우(1)",
+			"title_b": "PART 2 질의응답 의문사가 있는 경우1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "PART 2 질의응답 - 의문사가 있는 경우(2)",
+			"title_b": "PART 2 질의응답 의문사가 있는 경우2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "PART 2 질의응답 - 의문사가 있는 경우(3)",
+			"title_b": "PART 2 질의응답 의문사가 있는 경우3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "PART 2 질의응답 - 의문사가 없는 경우(1)",
+			"title_b": "PART 2 질의응답 의문사가 없는 경우1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "PART 2 질의응답 - 의문사가 없는 경우(2)",
+			"title_b": "PART 2 질의응답 의문사가 없는 경우2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "PART 2 질의응답 - 의문사가 없는 경우(3)",
+			"title_b": "PART 2 질의응답 의문사가 없는 경우3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "PART 2 질의응답 - 시사, 비즈니스(1)",
+			"title_b": "PART 2 질의응답 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "PART 2 질의응답 - 시사, 비즈니스(2)",
+			"title_b": "PART 2 질의응답 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "PART 2 질의응답 - 시사, 비즈니스(3)",
+			"title_b": "PART 2 질의응답 시사 비즈니스3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "PART 2 실전모의테스트(1)",
+			"title_b": "PART 2 실전모의테스트1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "PART 2 실전모의테스트(2)",
+			"title_b": "PART 2 실전모의테스트2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "PART 2 실전모의테스트(3)",
+			"title_b": "PART 2 실전모의테스트3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "PART 3 회화문 - 일상생활(1)",
+			"title_b": "PART 3 회화문 일상생활1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "PART 3 회화문 - 일상생활(2)",
+			"title_b": "PART 3 회화문 일상생활2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "PART 3 회화문 - 일상생활(3)",
+			"title_b": "PART 3 회화문 일상생활3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "PART 3 회화문 - 관용어, 속담(1)",
+			"title_b": "PART 3 회화문 관용어 속담1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "PART 3 회화문 - 관용어, 속담(2)",
+			"title_b": "PART 3 회화문 관용어 속담2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "PART 3 회화문 - 관용어, 속담(3)",
+			"title_b": "PART 3 회화문 관용어 속담3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "PART 3 회화문 - 시사, 비즈니스(1)",
+			"title_b": "PART 3 회화문 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "PART 3 회화문 - 시사, 비즈니스(2)",
+			"title_b": "PART 3 회화문 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "PART 3 회화문 - 시사, 비즈니스(3)",
+			"title_b": "PART 3 회화문 시사 비즈니스3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "PART 3 실전모의테스트(1)",
+			"title_b": "PART 3 실전모의테스트1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "PART 3 실전모의테스트(2)",
+			"title_b": "PART 3 실전모의테스트2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "PART 3 실전모의테스트(3)",
+			"title_b": "PART 3 실전모의테스트3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "PART 4 설명문 - 일상생활(1)",
+			"title_b": "PART 4 설명문 일상생활1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "PART 4 설명문 - 일상생활(2)",
+			"title_b": "PART 4 설명문 일상생활2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "PART 4 설명문 - 일상생활(3)",
+			"title_b": "PART 4 설명문 일상생활3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "PART 4 설명문 - 시사, 비즈니스(1)",
+			"title_b": "PART 4 설명문 시사 비즈니스1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "PART 4 설명문 - 시사, 비즈니스(2)",
+			"title_b": "PART 4 설명문 시사 비즈니스2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "PART 4 설명문 - 시사, 비즈니스(3)",
+			"title_b": "PART 4 설명문 시사 비즈니스3",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "PART 4 실전모의테스트(1)",
+			"title_b": "PART 4 실전모의테스트1",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "PART 4 실전모의테스트(2)",
+			"title_b": "PART 4 실전모의테스트2",
+			"page_name": [
+				"문제 풀기",
+				"해설 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8316/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

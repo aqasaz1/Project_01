@@ -1,0 +1,571 @@
+{
+	"content_lan": "중국어",
+	"content_code": 5508,
+	"content_name": "중국인이 매일 쓰는 중국어 간체자 668",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "간체자 001 ~ 017",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "간체자 018 ~ 034",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "간체자 035 ~ 051",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "간체자 052 ~ 068",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "간체자 069 ~ 085",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "간체자 086 ~ 102",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "간체자 103 ~ 119",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "간체자 120 ~ 136",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "간체자 137 ~ 153",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "간체자 154 ~ 170",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "간체자 171 ~ 187",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "간체자 188 ~ 204",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "간체자 205 ~ 221",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "간체자 222 ~ 238",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "간체자 239 ~ 255",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "간체자 256 ~ 272",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "간체자 273 ~ 289",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "간체자 290 ~ 306",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "간체자 307 ~ 323",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "간체자 324 ~ 340",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "간체자 341 ~ 357",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "간체자 358 ~ 374",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "간체자 375 ~ 391",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "간체자 392 ~ 408",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "간체자 409 ~ 425",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "간체자 426 ~ 442",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "간체자 443 ~ 459",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "간체자 460 ~ 476",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "간체자 477 ~ 492",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "간체자 493 ~ 508",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "간체자 509 ~ 524",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "간체자 525 ~ 540",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "간체자 541 ~ 556",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "간체자 557 ~ 572",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "간체자 573 ~ 588",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "간체자 589 ~ 604",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "간체자 605 ~ 620",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "간체자 621 ~ 636",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "간체자 637 ~ 652",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "간체자 653 ~ 668",
+			"title_b": null,
+			"page_name": [
+				"인트로",
+				"간체자 살펴보기",
+				"간체자 강의",
+				"간체자 퀴즈",
+				"간체자 668 카드"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5508/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,191 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 8053,
+	"content_name": "New 쁘리벳 중급 러시아어-격 변화",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "주격 1 - Кто? Что?",
+			"title_b": "주격 1 누구와 무엇",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "주격 2 - 소유대명사, 형용사",
+			"title_b": "주격 2 소유대명사와 형용사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "대격 1 - 대상, 목적어",
+			"title_b": "대격 1 대상과 목적어",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "대격 2 - 방향, 시간",
+			"title_b": "대격 2 방향과 시간",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "전치격 1 - 장소(위치)",
+			"title_b": "전치격 1 장소와 위치",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "전치격 2 - 목적어",
+			"title_b": "전치격 2 목적어",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "전치격 3 - 시간",
+			"title_b": "전치격 3 시간",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "생격 1 - 방향",
+			"title_b": "생격 1 방향",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "생격 2 - 장소, 존재 부정",
+			"title_b": "생격 2 장소와 존재 부정",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "생격 3 - 대상",
+			"title_b": "생격 3 대상",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "여격 1 - 대상",
+			"title_b": "여격 1 대상",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "여격 2 - 대상의 특징, 수단, 나이 표현",
+			"title_b": "여격 2 대상의 특징과 수단과 나이 표현",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "여격 3 - 무인칭문, 방향",
+			"title_b": "여격 3 무인칭문과 방향",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "조격 1 - 대상",
+			"title_b": "조격 1 대상",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "조격 2 - 대상",
+			"title_b": "조격 2 대상",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5933/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,401 @@
+{
+	"content_lan": "영어",
+	"content_code": "8341",
+	"content_name": "최강동사 5개로 Speaking 되기",
+	"content_sample": "1/21",
+	"content_chasi": "20/19",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "take (1) ~을 가져가다 / 데려가다",
+			"title_b": "take 1 가져가다 데려가다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "take (2) (교통수단, 이동수단을) 타다 / 이용하다",
+			"title_b": "take 2 교통수단이나 이동수단을 타다 이용하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "take (3) (시간이) 걸리다",
+			"title_b": "take 3 시간이 걸리다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "take (4) (시간을) 내다",
+			"title_b": "take 4 시간을 내다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "take (5) (강의, 수업을) 듣다 / 수강하다",
+			"title_b": "take 5 강의나 수업을 듣다 수강하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "take (6) (시험을) 보다 / 치다",
+			"title_b": "take 6 시험을 보다 시험을 치다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "take (7) (기회를) 잡다",
+			"title_b": "take 7 기회를 잡다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "take (8) (자리, 직위, 배역을) 맡다 / 차지하다",
+			"title_b": "take 8 자리 직위 배역을 맡다 차지하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "take (9) (사진을) 찍다",
+			"title_b": "take 9 사진을 찍다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "take (10) (치료약, 영양제를) 먹다 / 복용하다",
+			"title_b": "take 10 치료약 또는 영양제를 먹다 복용하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "take (11) (제안, 조언, 충고, 의견 등을) 받아들이다",
+			"title_b": "take 11 제안 조언 충고 의견 등을 받아들이다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "make (1) (사물, 음식, 관계 등을) 만들다",
+			"title_b": "make 1 사물 음식 관계 등을 만들다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "make (2) (돈을) 벌다 / (수익, 이익을) 내다",
+			"title_b": "make 2 돈을 벌다 수익 또는 이익을 내다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "make (3) (연설, 발표, 안내 등을) 하다",
+			"title_b": "make 3 연설 발표 안내 등을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "make (4) (실수를) 하다 / (추천, 제안을) 하다",
+			"title_b": "make 4 실수를 하다 추천 또는 제안을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "make (5) (노력을) 하다 / (향상, 발전을) 하다",
+			"title_b": "make 5 노력을 하다 향상이나 발전을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "make (6) (예약을) 하다",
+			"title_b": "make 6 예약을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "make (7) (결정을) 하다",
+			"title_b": "make 7 결정을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "make (8) (계획을) 하다",
+			"title_b": "make 8 계획을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "make (9) (무언가를, 누군가를) ~되게 하다 / (누군가를) ~하게 하다",
+			"title_b": "make 9 무언가를 누군가를 되게 하다 누군가를 하게 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "have (1) ~이 있다 / ~을 가지고 있다",
+			"title_b": "have 1 있다 가지고 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "have (2) (가족, 친척, 친구가) 있다",
+			"title_b": "have 2 가족 친척 친구가 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "have (3) (문제, 다툼, 사안이) 있다",
+			"title_b": "have 3 문제 다툼 사안이 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "have (4) (정보가) 있다 / (생각, 의견이) 있다",
+			"title_b": "have 4 정보가 있다 생각 또는 의견이 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "have (5) (계획, 일정이) 있다",
+			"title_b": "have 5 계획 또는 일정이 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "have (6) (건강 관련 증상이) 있다",
+			"title_b": "have 6 건강 관련 증상이 있다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "have (7) ~을 먹다/마시다",
+			"title_b": "have 7 먹다 마시다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "get (1) ~을 획득하다/얻다/받다",
+			"title_b": "get 1 획득하다 얻다 받다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "get (2) (장소에) 도착하다",
+			"title_b": "get 2 장소에 도착하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "get (3) ~을 사다",
+			"title_b": "get 3 사다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "get (4) (어떠한 상태가) 되다 1",
+			"title_b": "get 4 어떠한 상태가 되다 1",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "get (5) (어떠한 상태가) 되다 2",
+			"title_b": "get 5 어떠한 상태가 되다 2",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "get (6) (~이 어떠한 상태가) 되게 하다",
+			"title_b": "get 6 어떠한 상태가 되게 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "get (7) ~하게 되다 / (사람)에게 ~하게 하다",
+			"title_b": "get 7 하게 되다 사람에게 하게 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "do (1) (직업, 업무, 일을) 하다",
+			"title_b": "do 1 직업 업무 일을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "do (2) (부탁을) 들어주다",
+			"title_b": "do 2 부탁을 들어주다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "do (3) (집안일을) 하다",
+			"title_b": "do 3 집안일을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "do (4) (취미, 운동을) 하다",
+			"title_b": "do 4 취미 또는 운동을 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "do (5) (일반적인 의미의) 하다",
+			"title_b": "do 5 일반적인 의미의 하다",
+			"page_name": [
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8341/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,151 +1,179 @@
-﻿{
-	"content_lan": "영어",
-	"content_code": "8397",
-	"content_name": "영어 회화 패턴 훈련 - 2인칭 의문문",
-	"content_sample": "1",
-	"content_chasi": "14",
-	"content_size": "1000*650",
-	"content_cm": "서혜린",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "(어떤) ~가 있습니까?",
-			"title_b": "어떤 oo가 있습니까",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "~를 아세요?",
-			"title_b": "oo를 아세요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "덜 / 더 ~한 게 있나요?",
-			"title_b": "덜 더 oo한 게 있나요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "~해도 / ~라도 괜찮겠어요?",
-			"title_b": "oo해도 oo라도 괜찮겠어요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "당신은 ~라고 생각합니까?",
-			"title_b": "당신은 oo라고 생각합니까",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "~하길 원합니까? / ~하고 싶습니까?",
-			"title_b": "oo하길 원합니까 oo하고 싶습니까",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "당신은 몇 번이나 ~했나요?",
-			"title_b": "당신은 몇 번이나 oo했나요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "당신은 얼마나 자주 ~합니까?",
-			"title_b": "당신은 얼마나 자주 oo합니까",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "~에 대해 어떻게 생각하나요?",
-			"title_b": "oo에 대해 어떻게 생각하나요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "어떤 종류의 ~를 좋아하세요?",
-			"title_b": "어떤 종류의 oo를 좋아하세요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "당신은 언제, 어디에서 ~하나요?",
-			"title_b": "당신은 언제 어디에서 oo하나요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "당신은 누구와(에게, 를) ~했습니까?",
-			"title_b": "당신은 누구와 oo했습니까",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "~하는 게 어때요?",
-			"title_b": "oo하는 게 어때요",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "왜 ~하지 않았죠?",
-			"title_b": "왜 oo하지 않았죠",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "영어",
+  "content_code": "8397",
+  "content_name": "영어 회화 패턴 훈련 - 2인칭 의문문",
+  "content_sample": "1",
+  "content_chasi": "14",
+  "content_size": "1000*650",
+  "content_cm": "서혜린",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "(어떤) ~가 있습니까?",
+      "title_b": "어떤 oo가 있습니까",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "~를 아세요?",
+      "title_b": "oo를 아세요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "덜 / 더 ~한 게 있나요?",
+      "title_b": "덜 더 oo한 게 있나요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "~해도 / ~라도 괜찮겠어요?",
+      "title_b": "oo해도 oo라도 괜찮겠어요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "당신은 ~라고 생각합니까?",
+      "title_b": "당신은 oo라고 생각합니까",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "~하길 원합니까? / ~하고 싶습니까?",
+      "title_b": "oo하길 원합니까 oo하고 싶습니까",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "당신은 몇 번이나 ~했나요?",
+      "title_b": "당신은 몇 번이나 oo했나요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "당신은 얼마나 자주 ~합니까?",
+      "title_b": "당신은 얼마나 자주 oo합니까",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "~에 대해 어떻게 생각하나요?",
+      "title_b": "oo에 대해 어떻게 생각하나요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "어떤 종류의 ~를 좋아하세요?",
+      "title_b": "어떤 종류의 oo를 좋아하세요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "당신은 언제, 어디에서 ~하나요?",
+      "title_b": "당신은 언제 어디에서 oo하나요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "당신은 누구와(에게, 를) ~했습니까?",
+      "title_b": "당신은 누구와 oo했습니까",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "~하는 게 어때요?",
+      "title_b": "oo하는 게 어때요",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "왜 ~하지 않았죠?",
+      "title_b": "왜 oo하지 않았죠",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8397/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8397/mobile_500k/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

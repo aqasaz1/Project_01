@@ -1,16 +1,16 @@
 {
 	"content_lan": "영어",
-	"content_code": 4389,
-	"content_name": "OPIc Punch to IM2 기본기 쌓기",
-	"content_sample": "15",
+	"content_code": 7272,
+	"content_name": "[개정판] OPIc Punch to IM2 기본기 쌓기",
+	"content_sample": "1",
 	"content_chasi": "20",
-	"content_size": "1000*680",
-	"content_cm": "유상아",
+	"content_size": "1000*650",
+	"content_cm": "김영실",
 	"content_data": [
 		{
 			"chasi": 1,
-			"title_a": "School Life 자기소개(학생 편)",
-			"title_b": null,
+			"title_a": "School Life 자기소개 (학생 편)",
+			"title_b": "School Life 자기소개",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -18,13 +18,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_01h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 2,
 			"title_a": "School Life 학교 캠퍼스",
-			"title_b": null,
+			"title_b": "School Life 학교 캠퍼스",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -32,13 +32,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_02h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 3,
 			"title_a": "School Life 학교의 첫 인상",
-			"title_b": null,
+			"title_b": "School Life 학교의 첫 인상",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -46,13 +46,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_03h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 4,
 			"title_a": "School Life 교수님",
-			"title_b": null,
+			"title_b": "School Life 교수님",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -60,13 +60,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_04h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 5,
 			"title_a": "School Life 전공",
-			"title_b": null,
+			"title_b": "School Life 전공",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -74,13 +74,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_05h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 6,
 			"title_a": "School Life 하루 일과",
-			"title_b": null,
+			"title_b": "School Life 하루 일과",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -88,13 +88,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_06h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 7,
 			"title_a": "Work Life 신입사원 자기소개",
-			"title_b": null,
+			"title_b": "Work Life 신입사원 자기소개",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -102,13 +102,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_07h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 8,
 			"title_a": "Work Life 관리직 자기소개",
-			"title_b": null,
+			"title_b": "Work Life 관리직 자기소개",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -116,13 +116,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_08h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 9,
 			"title_a": "Work Life 출퇴근 과정",
-			"title_b": null,
+			"title_b": "Work Life 출퇴근 과정",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -130,13 +130,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_09h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 10,
 			"title_a": "Work Life 직장 상사",
-			"title_b": null,
+			"title_b": "Work Life 직장 상사",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -144,13 +144,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_10h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 11,
 			"title_a": "Work Life 회사 프로젝트",
-			"title_b": null,
+			"title_b": "Work Life 회사 프로젝트",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -158,13 +158,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_11h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 12,
 			"title_a": "Work Life 회사 주변 묘사",
-			"title_b": null,
+			"title_b": "Work Life 회사 주변 묘사",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -172,13 +172,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_12h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 13,
 			"title_a": "Family & Neighbors 가족",
-			"title_b": null,
+			"title_b": "Family and Neighbors 가족",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -186,13 +186,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_13h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 14,
 			"title_a": "Family & Neighbors 집",
-			"title_b": null,
+			"title_b": "Family and Neighbors 집",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -200,13 +200,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_14h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 15,
 			"title_a": "Family & Neighbors 동네",
-			"title_b": null,
+			"title_b": "Family and Neighbors 동네",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -214,13 +214,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_15h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 16,
 			"title_a": "Family & Neighbors 이웃",
-			"title_b": null,
+			"title_b": "Family and Neighbors 이웃",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -228,13 +228,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_16h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 17,
-			"title_a": "Household Chores, Cooking, Restaurants, Vacations at Home 집안일 하기",
-			"title_b": null,
+			"title_a": "Home-Improvement Project 주거 개선",
+			"title_b": "Home Improvement Project 주거 개선",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -242,13 +242,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_17h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 18,
-			"title_a": "Household Chores, Cooking, Restaurants, Vacations at Home 요리 (recipe)",
-			"title_b": null,
+			"title_a": "Cooking 요리",
+			"title_b": "Cooking 요리",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -256,13 +256,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_18h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 19,
-			"title_a": "Household Chores, Cooking, Restaurants, Vacations at Home 식당가기",
-			"title_b": null,
+			"title_a": "Café & Coffee Shop 카페/커피전문점 가기",
+			"title_b": "Cafe and Coffee Shop 카페와 커피전문점 가기",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -270,13 +270,13 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_19h.mp4",
 			"mp4_bind_time": ""
 		},
 		{
 			"chasi": 20,
-			"title_a": "Household Chores, Cooking, Restaurants, Vacations at Home 집에서 보내는 휴가",
-			"title_b": null,
+			"title_a": "Posting on SNS SNS에 글 올리기",
+			"title_b": "Posting on SNS SNS에 글 올리기",
 			"page_name": [
 				"Question",
 				"Talk",
@@ -284,7 +284,7 @@
 				"Punch!",
 				"Sum-up CARD"
 			],
-			"mp4_bind_path": null,
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7272/mp4_bind/z1_20h.mp4",
 			"mp4_bind_time": ""
 		}
 	]

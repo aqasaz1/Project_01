@@ -1,121 +1,141 @@
 {
-	"content_lan": "중국어",
-	"content_code": 8151,
-	"content_name": "타오바오 Flex 중국어",
-	"content_sample": "1",
-	"content_chasi": "10",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "타오바오 가입하기",
-			"title_b": "타오바오 가입하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "의류 및 잡화 구매하기",
-			"title_b": "의류 및 잡화 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "신발 및 가방 제품 구매하기",
-			"title_b": "신발 및 가방 제품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "잡화 및 액세서리 구매하기",
-			"title_b": "잡화 및 액세서리 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "운동 및 야외용품 구매하기",
-			"title_b": "운동 및 야외용품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "가구 및 가전 제품 구매하기",
-			"title_b": "가구 및 가전 제품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "생활용품 및 식기 구매하기",
-			"title_b": "생활용품 및 식기 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "디지털 기기 및 휴대폰 관련 제품 구매하기",
-			"title_b": "디지털 기기 및 휴대폰 관련 제품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "자동차 및 유아용품 구매하기",
-			"title_b": "자동차 및 유아용품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "사무실 및 오락, 미용 제품 구매하기",
-			"title_b": "사무실 및 오락 미용 제품 구매하기",
-			"page_name": [
-				"강의 보기",
-				"단어 듣기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 8151,
+  "content_name": "타오바오 Flex 중국어",
+  "content_sample": "1",
+  "content_chasi": "10",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "타오바오 가입하기",
+      "title_b": "타오바오 가입하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "의류 및 잡화 구매하기",
+      "title_b": "의류 및 잡화 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "신발 및 가방 제품 구매하기",
+      "title_b": "신발 및 가방 제품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "잡화 및 액세서리 구매하기",
+      "title_b": "잡화 및 액세서리 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "운동 및 야외용품 구매하기",
+      "title_b": "운동 및 야외용품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "가구 및 가전 제품 구매하기",
+      "title_b": "가구 및 가전 제품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "생활용품 및 식기 구매하기",
+      "title_b": "생활용품 및 식기 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "디지털 기기 및 휴대폰 관련 제품 구매하기",
+      "title_b": "디지털 기기 및 휴대폰 관련 제품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "자동차 및 유아용품 구매하기",
+      "title_b": "자동차 및 유아용품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "사무실 및 오락, 미용 제품 구매하기",
+      "title_b": "사무실 및 오락 미용 제품 구매하기",
+      "page_name": [
+        "강의 보기",
+        "단어 듣기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8151/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8151/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

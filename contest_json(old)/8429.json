@@ -1,0 +1,491 @@
+{
+	"content_lan": "영어",
+	"content_code": "8429",
+	"content_name": "New 100% 뉴욕 현지 리얼리티 영어 - Basic English",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "기본 인사할 때",
+			"title_b": "기본 인사할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "헤어질 때",
+			"title_b": "헤어질 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "감사 인사에 응답할 때",
+			"title_b": "감사 인사에 응답할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "엘리베이터 이용할 때",
+			"title_b": "엘리베이터 이용할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "안부를 묻고 답할 때",
+			"title_b": "안부를 묻고 답할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "사과할 때",
+			"title_b": "사과할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "계산할 때",
+			"title_b": "계산할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "교환 또는 환불할 때",
+			"title_b": "교환 또는 환불할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "점원에게 치수와 할인에 관해 문의할 때",
+			"title_b": "점원에게 치수와 할인에 관해 문의할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "식료품 가게에서 요구사항을 말할 때 1",
+			"title_b": "식료품 가게에서 요구사항을 말할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "식료품 가게에서 요구사항을 말할 때 2",
+			"title_b": "식료품 가게에서 요구사항을 말할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "점원에게 옷을 추천해달라고 할 때",
+			"title_b": "점원에게 옷을 추천해달라고 할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "선물 포장을 요청할 때",
+			"title_b": "선물 포장을 요청할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "화장품을 추천해달라고 말할 때 1",
+			"title_b": "화장품을 추천해달라고 말할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "화장품을 추천해달라고 말할 때 2",
+			"title_b": "화장품을 추천해달라고 말할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "카페에서 와이파이에 관해 문의할 때",
+			"title_b": "카페에서 와이파이에 관해 문의할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "식당 입구에서 예약했다고 말할 때",
+			"title_b": "식당 입구에서 예약했다고 말할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "예약 없이 식당을 찾았을 때",
+			"title_b": "예약 없이 식당을 찾았을 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "남은 음식 포장해달라고 요청할 때",
+			"title_b": "남은 음식 포장해달라고 요청할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "음식이 안 나올 때",
+			"title_b": "음식이 안 나올 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "특정 메뉴에 관해 물어볼 때",
+			"title_b": "특정 메뉴에 관해 물어볼 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "카페에서 주문할 때",
+			"title_b": "카페에서 주문할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "메뉴 주문할 때 1",
+			"title_b": "메뉴 주문할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "메뉴 주문할 때 2",
+			"title_b": "메뉴 주문할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "바에서 주문할 때 1",
+			"title_b": "바에서 주문할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "바에서 주문할 때 2",
+			"title_b": "바에서 주문할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "길거리 음식 주문할 때",
+			"title_b": "길거리 음식 주문할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "호텔 체크인할 때 1",
+			"title_b": "호텔 체크인할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "호텔 체크인할 때 2",
+			"title_b": "호텔 체크인할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "호텔 체크아웃할 때 1",
+			"title_b": "호텔 체크아웃할 때 1",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "호텔 체크아웃할 때 2",
+			"title_b": "호텔 체크아웃할 때 2",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "숙소 고장에 관해 말할 때",
+			"title_b": "숙소 고장에 관해 말할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "숙소 냉난방 시설 문의 및 추가 침구류 요청할 때",
+			"title_b": "숙소 냉난방 시설 문의 및 추가 침구류 요청할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "숙소의 편의시설에 관해 문의할 때",
+			"title_b": "숙소의 편의시설에 관해 문의할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "길에서 목적지 방향 물어볼 때",
+			"title_b": "길에서 목적지 방향 물어볼 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "지하철 이용할 때",
+			"title_b": "지하철 이용할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "상대방에게 차를 태워달라고 부탁할 때",
+			"title_b": "상대방에게 차를 태워달라고 부탁할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "버스에서 목적지에 관해 물어볼 때",
+			"title_b": "버스에서 목적지에 관해 물어볼 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "택시 이용할 때 1 - 특정 장소를 경유할 때",
+			"title_b": "택시 이용할 때 1  특정 장소를 경유할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "택시 이용할 때 2 - 계산할 때",
+			"title_b": "택시 이용할 때 2  계산할 때",
+			"page_name": [
+				"오늘의 브이로그",
+				"오늘의 강의",
+				"반복 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8429/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

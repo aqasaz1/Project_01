@@ -1,231 +1,271 @@
 {
-	"content_lan": "중국어",
-	"content_code": 8213,
-	"content_name": "야나두 현지 중국어 실전 회화 편",
-	"content_sample": "1",
-	"content_chasi": "20",
-	"content_size": "1000*650",
-	"content_cm": null,
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "버스 타기",
-			"title_b": "버스 타기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "지하철 타기",
-			"title_b": "지하철 타기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "택시 타기",
-			"title_b": "택시 타기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "식당에서 주문하기 1",
-			"title_b": "식당에서 주문하기 1",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "식당에서 재촉하기",
-			"title_b": "식당에서 재촉하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "식당에서 주문하기 2",
-			"title_b": "식당에서 주문하기 2",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "카페에서 주문하기",
-			"title_b": "카페에서 주문하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "마트에서 쇼핑하기 1",
-			"title_b": "마트에서 쇼핑하기 1",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "마트에서 쇼핑하기 2",
-			"title_b": "마트에서 쇼핑하기 2",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "옷가게에서 쇼핑하기",
-			"title_b": "옷가게에서 쇼핑하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "신발가게에서 쇼핑하기",
-			"title_b": "신발가게에서 쇼핑하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "기념품 구입하기",
-			"title_b": "기념품 구입하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "가격 흥정하기",
-			"title_b": "가격 흥정하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "교환 및 환불하기",
-			"title_b": "교환 및 환불하기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "길 묻기",
-			"title_b": "길 묻기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "관광지에서 표 사기",
-			"title_b": "관광지에서 표 사기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "잃어버린 물건 찾기",
-			"title_b": "잃어버린 물건 찾기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "중국인 친구 사귀기",
-			"title_b": "중국인 친구 사귀기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "약국에서 약 사기",
-			"title_b": "약국에서 약 사기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "마사지샵 가기",
-			"title_b": "마사지샵 가기",
-			"page_name": [
-				"Lecture",
-				"Shadowing"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 8213,
+  "content_name": "야나두 현지 중국어 실전 회화 편",
+  "content_sample": "1",
+  "content_chasi": "20",
+  "content_size": "1000*650",
+  "content_cm": null,
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "버스 타기",
+      "title_b": "버스 타기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "지하철 타기",
+      "title_b": "지하철 타기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "택시 타기",
+      "title_b": "택시 타기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "식당에서 주문하기 1",
+      "title_b": "식당에서 주문하기 1",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "식당에서 재촉하기",
+      "title_b": "식당에서 재촉하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "식당에서 주문하기 2",
+      "title_b": "식당에서 주문하기 2",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "카페에서 주문하기",
+      "title_b": "카페에서 주문하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "마트에서 쇼핑하기 1",
+      "title_b": "마트에서 쇼핑하기 1",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "마트에서 쇼핑하기 2",
+      "title_b": "마트에서 쇼핑하기 2",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "옷가게에서 쇼핑하기",
+      "title_b": "옷가게에서 쇼핑하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "신발가게에서 쇼핑하기",
+      "title_b": "신발가게에서 쇼핑하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "기념품 구입하기",
+      "title_b": "기념품 구입하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "가격 흥정하기",
+      "title_b": "가격 흥정하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "교환 및 환불하기",
+      "title_b": "교환 및 환불하기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "길 묻기",
+      "title_b": "길 묻기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "관광지에서 표 사기",
+      "title_b": "관광지에서 표 사기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "잃어버린 물건 찾기",
+      "title_b": "잃어버린 물건 찾기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "중국인 친구 사귀기",
+      "title_b": "중국인 친구 사귀기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "약국에서 약 사기",
+      "title_b": "약국에서 약 사기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "마사지샵 가기",
+      "title_b": "마사지샵 가기",
+      "page_name": [
+        "Lecture",
+        "Shadowing"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8213/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8213/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

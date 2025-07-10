@@ -1,571 +1,651 @@
 {
-	"content_lan": "영어",
-	"content_code": 5651,
-	"content_name": "30초 뉴스로 귀 뚫어 주는 여자",
-	"content_sample": "1/21",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "Jump in US Home Sales Reported",
-			"title_b": "Jump in US Home Sales Reported",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Russia Bans Australian Kangaroo Meat",
-			"title_b": "Russia Bans Australian Kangaroo Meat",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "US Consumer Spending, Pending Home Sales Rise; Incomes Fall",
-			"title_b": "US Consumer Spending Pending Home Sales Rise while Incomes Fall",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Forest Products Reeling from Economic Crisis",
-			"title_b": "Forest Products Reeling from Economic Crisis",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Failure to Get Full Night's Sleep Can Lead to Weight Gain",
-			"title_b": "Failure to Get Full Nights Sleep Can Lead to Weight Gain",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Shuttle Endeavour to Deliver Space Station Module",
-			"title_b": "Shuttle Endeavour to Deliver Space Station Module",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Michael Jackson Remembered for Appeal to All Races, Cultures",
-			"title_b": "Michael Jackson Remembered for Appeal to All Races and Cultures",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Healthy Lifestyle Choices on Decline in the U.S.",
-			"title_b": "Healthy Lifestyle Choices on Decline in the US",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Poor Oral Health may be Related to Memory Loss",
-			"title_b": "Poor Oral Health may be Related to Memory Loss",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Researchers Discover Gene that Affects Sleep",
-			"title_b": "Researchers Discover Gene that Affects Sleep",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Obama: Health Care Reform Essential for Rebuilding US Economy",
-			"title_b": "Obama says Health Care Reform Essential for Rebuilding US Economy",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Certain Blood Transfusions Increase Risk of Infection",
-			"title_b": "Certain Blood Transfusions Increase Risk of Infection",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Hopeful News for Restoring Global Fish Populations",
-			"title_b": "Hopeful News for Restoring Global Fish Populations",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "Not All Viruses are Malicious",
-			"title_b": "Not All Viruses are Malicious",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "OECD Says Unemployment will Continue to Rise",
-			"title_b": "OECD Says Unemployment will Continue to Rise",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "China Taking US Trade Dispute to WTO",
-			"title_b": "China Taking US Trade Dispute to WTO",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Global Financial Instability Expected to Continue",
-			"title_b": "Global Financial Instability Expected to Continue",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Mixed Verdict on Mobile Phones as Cancer Cause",
-			"title_b": "Mixed Verdict on Mobile Phones as Cancer Cause",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Australia Leads World in New Greenhouse Gas Pollution Index",
-			"title_b": "Australia Leads World in New Greenhouse Gas Pollution Index",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Devastating East Africa Droughts Caused by Volatile Climate",
-			"title_b": "Devastating East Africa Droughts Caused by Volatile Climate",
-			"page_name": [
-				"Intro",
-				"어휘 던지기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기 "
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "Tiny ‘Nanobees’ Fight Cancer",
-			"title_b": "Tiny Nanobees Fight Cancer",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "China’s Economy Showing Signs of Recovery",
-			"title_b": "Chinas Economy Showing Signs of Recovery",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "As Indian Sugar Production Falls, World Prices Surge",
-			"title_b": "As Indian Sugar Production Falls while World Prices Surge",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Nobel Economist Says Asia’s Economies in ‘Remarkable’ Recovery",
-			"title_b": "Nobel Economist Says Asias Economies in Remarkable Recovery",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "UN Launches ‘Call to Action’ to Help Poor Countries Tackle Swine Flu",
-			"title_b": "UN Launches Call to Action to Help Poor Countries Tackle Swine Flu",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Shuttle Discovery Set to Launch Tuesday",
-			"title_b": "Shuttle Discovery Set to Launch Tuesday",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "Researchers Grow Eye Cells from Skin Cells",
-			"title_b": "Researchers Grow Eye Cells from Skin Cells",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Study Says Trees on Farms could Help Stop Deforestation",
-			"title_b": "Study Says Trees on Farms could Help Stop Deforestation",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "U.S. Resists Direct Talks with N. Korea",
-			"title_b": "US Resists Direct Talks with North Korea",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "North, South Korea Normalize Cross-Border Traffic",
-			"title_b": "North and South Korea Normalize Cross Border Traffic",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "Experts Say Better Information will Help Nations Adapt to Climate Change",
-			"title_b": "Experts Say Better Information will Help Nations Adapt to Climate Change",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "Diseases Threaten African Banana Crops",
-			"title_b": "Diseases Threaten African Banana Crops",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "South Korea, US Show Unified Front on North’s Nuclear Weapons",
-			"title_b": "South Korea and US Show Unified Front on Norths Nuclear Weapons",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "Ghana Debates Viability of Biofuels",
-			"title_b": "Ghana Debates Viability of Biofuels",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "UNCTAD Calls for Stricter Financial Regulation",
-			"title_b": "UNCTAD Calls for Stricter Financial Regulation",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "China-Australia Tensions Simmer as Mining Giant Suspends Iron Ore Talks",
-			"title_b": "China and Australia Tensions Simmer as Mining Giant Suspends Iron Ore Talks",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "Some Asian Economies Edge out of Recession, Caution Remains",
-			"title_b": "Some Asian Economies Edge out of Recession while Caution Remains",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "Pollution in China Affecting Rainfall",
-			"title_b": "Pollution in China Affecting Rainfall",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "World Bank President Says Too Soon for China to Roll Back Stimulus",
-			"title_b": "World Bank President Says Too Soon for China to Roll Back Stimulus",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "Some Japanese Families Face Hunger during Recession",
-			"title_b": "Some Japanese Families Face Hunger during Recession",
-			"page_name": [
-				"Intro",
-				"키워드 넣기",
-				"키워드 강의",
-				"30초 뉴스 강의",
-				"틀린 부분 찾기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 5651,
+  "content_name": "30초 뉴스로 귀 뚫어 주는 여자",
+  "content_sample": "1/21",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "Jump in US Home Sales Reported",
+      "title_b": "Jump in US Home Sales Reported",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Russia Bans Australian Kangaroo Meat",
+      "title_b": "Russia Bans Australian Kangaroo Meat",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "US Consumer Spending, Pending Home Sales Rise; Incomes Fall",
+      "title_b": "US Consumer Spending Pending Home Sales Rise while Incomes Fall",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Forest Products Reeling from Economic Crisis",
+      "title_b": "Forest Products Reeling from Economic Crisis",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Failure to Get Full Night's Sleep Can Lead to Weight Gain",
+      "title_b": "Failure to Get Full Nights Sleep Can Lead to Weight Gain",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Shuttle Endeavour to Deliver Space Station Module",
+      "title_b": "Shuttle Endeavour to Deliver Space Station Module",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Michael Jackson Remembered for Appeal to All Races, Cultures",
+      "title_b": "Michael Jackson Remembered for Appeal to All Races and Cultures",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Healthy Lifestyle Choices on Decline in the U.S.",
+      "title_b": "Healthy Lifestyle Choices on Decline in the US",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Poor Oral Health may be Related to Memory Loss",
+      "title_b": "Poor Oral Health may be Related to Memory Loss",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Researchers Discover Gene that Affects Sleep",
+      "title_b": "Researchers Discover Gene that Affects Sleep",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Obama: Health Care Reform Essential for Rebuilding US Economy",
+      "title_b": "Obama says Health Care Reform Essential for Rebuilding US Economy",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Certain Blood Transfusions Increase Risk of Infection",
+      "title_b": "Certain Blood Transfusions Increase Risk of Infection",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Hopeful News for Restoring Global Fish Populations",
+      "title_b": "Hopeful News for Restoring Global Fish Populations",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "Not All Viruses are Malicious",
+      "title_b": "Not All Viruses are Malicious",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "OECD Says Unemployment will Continue to Rise",
+      "title_b": "OECD Says Unemployment will Continue to Rise",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "China Taking US Trade Dispute to WTO",
+      "title_b": "China Taking US Trade Dispute to WTO",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Global Financial Instability Expected to Continue",
+      "title_b": "Global Financial Instability Expected to Continue",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Mixed Verdict on Mobile Phones as Cancer Cause",
+      "title_b": "Mixed Verdict on Mobile Phones as Cancer Cause",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Australia Leads World in New Greenhouse Gas Pollution Index",
+      "title_b": "Australia Leads World in New Greenhouse Gas Pollution Index",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Devastating East Africa Droughts Caused by Volatile Climate",
+      "title_b": "Devastating East Africa Droughts Caused by Volatile Climate",
+      "page_name": [
+        "Intro",
+        "어휘 던지기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기 "
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "Tiny ‘Nanobees’ Fight Cancer",
+      "title_b": "Tiny Nanobees Fight Cancer",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "China’s Economy Showing Signs of Recovery",
+      "title_b": "Chinas Economy Showing Signs of Recovery",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "As Indian Sugar Production Falls, World Prices Surge",
+      "title_b": "As Indian Sugar Production Falls while World Prices Surge",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Nobel Economist Says Asia’s Economies in ‘Remarkable’ Recovery",
+      "title_b": "Nobel Economist Says Asias Economies in Remarkable Recovery",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "UN Launches ‘Call to Action’ to Help Poor Countries Tackle Swine Flu",
+      "title_b": "UN Launches Call to Action to Help Poor Countries Tackle Swine Flu",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Shuttle Discovery Set to Launch Tuesday",
+      "title_b": "Shuttle Discovery Set to Launch Tuesday",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "Researchers Grow Eye Cells from Skin Cells",
+      "title_b": "Researchers Grow Eye Cells from Skin Cells",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Study Says Trees on Farms could Help Stop Deforestation",
+      "title_b": "Study Says Trees on Farms could Help Stop Deforestation",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "U.S. Resists Direct Talks with N. Korea",
+      "title_b": "US Resists Direct Talks with North Korea",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "North, South Korea Normalize Cross-Border Traffic",
+      "title_b": "North and South Korea Normalize Cross Border Traffic",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "Experts Say Better Information will Help Nations Adapt to Climate Change",
+      "title_b": "Experts Say Better Information will Help Nations Adapt to Climate Change",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "Diseases Threaten African Banana Crops",
+      "title_b": "Diseases Threaten African Banana Crops",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "South Korea, US Show Unified Front on North’s Nuclear Weapons",
+      "title_b": "South Korea and US Show Unified Front on Norths Nuclear Weapons",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "Ghana Debates Viability of Biofuels",
+      "title_b": "Ghana Debates Viability of Biofuels",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "UNCTAD Calls for Stricter Financial Regulation",
+      "title_b": "UNCTAD Calls for Stricter Financial Regulation",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "China-Australia Tensions Simmer as Mining Giant Suspends Iron Ore Talks",
+      "title_b": "China and Australia Tensions Simmer as Mining Giant Suspends Iron Ore Talks",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "Some Asian Economies Edge out of Recession, Caution Remains",
+      "title_b": "Some Asian Economies Edge out of Recession while Caution Remains",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "Pollution in China Affecting Rainfall",
+      "title_b": "Pollution in China Affecting Rainfall",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "World Bank President Says Too Soon for China to Roll Back Stimulus",
+      "title_b": "World Bank President Says Too Soon for China to Roll Back Stimulus",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "Some Japanese Families Face Hunger during Recession",
+      "title_b": "Some Japanese Families Face Hunger during Recession",
+      "page_name": [
+        "Intro",
+        "키워드 넣기",
+        "키워드 강의",
+        "30초 뉴스 강의",
+        "틀린 부분 찾기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5651/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5651/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

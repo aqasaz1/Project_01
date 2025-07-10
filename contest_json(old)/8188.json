@@ -1,0 +1,731 @@
+{
+	"content_lan": "일본어",
+	"content_code": 8188,
+	"content_name": "일본 현지 성우와 함께 배우는 마법의 360문장",
+	"content_sample": "1/24/41",
+	"content_chasi": "20/20/20",
+	"content_size": "1000*650",
+	"content_cm": "변솔기",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "～は～です/～は～じゃありません",
+			"title_b": "입니다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "～は～でした/～は～じゃありませんでした",
+			"title_b": "이었습니다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "い형용사①",
+			"title_b": "이형용사1",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "い형용사②",
+			"title_b": "이형용사2",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "な형용사①",
+			"title_b": "나형용사1",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "な형용사②",
+			"title_b": "나형용사2",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "いる/いない/ある/ない",
+			"title_b": "있다없다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "～ます/～ません",
+			"title_b": "합니다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "～ました/～ませんでした",
+			"title_b": "했습니다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "～ほしい/～たい",
+			"title_b": "원하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "～ましょう/～（よ）う",
+			"title_b": "합시다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "～ませんか/～ましょうか",
+			"title_b": "하지 않을래요",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "의문사",
+			"title_b": "의문사",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "～と思う/～つもりだ/～予定だ",
+			"title_b": "할 생각이다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "～て/～た",
+			"title_b": "하고",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "～ている①",
+			"title_b": "하고 있다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "～ている②",
+			"title_b": "해져 있다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "～をください/～てください",
+			"title_b": "을 주세요",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "～てみる",
+			"title_b": "해보다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "～てしまう/～ちゃう（じゃう）",
+			"title_b": "해 버리다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "～てもいい/～てもかまわない",
+			"title_b": "해도 된다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "～てはいけない/～てはだめだ/～ちゃ（じゃ）だめだ",
+			"title_b": "하면 안 된다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "～ておく/～てある",
+			"title_b": "해 놓다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "～ていく/～てくる",
+			"title_b": "해 가다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "～たことがある/～たことがない",
+			"title_b": "한 적이 있다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "～たり～たり",
+			"title_b": "했다가 했다가",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "～ながら",
+			"title_b": "면서",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "～てから/～た後で",
+			"title_b": "하고 나서",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "～たばかりだ",
+			"title_b": "한 지 얼마 안 됐다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "～（する）ところだ/～たどころだ",
+			"title_b": "하려는 참이다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "～ているところだ/～ていたところだ",
+			"title_b": "한창 하는 중이다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "～できる/～ことができる",
+			"title_b": "가능하다 1",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "～れる/～られる",
+			"title_b": "가능하다 2",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "～ない",
+			"title_b": "하지 않는다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "～ないでください",
+			"title_b": "하지 마세요",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "～なくてもいい/～なくてもかまわない",
+			"title_b": "하지 않아도 된다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "～（する）べきだ/～なくてはいけない/～なければならない",
+			"title_b": "해야 한다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "～方がいい/～ない方がいい",
+			"title_b": "하는 것이 좋다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "～やすい/～にくい",
+			"title_b": "하기 쉽다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "～すぎる",
+			"title_b": "너무 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 41,
+			"title_a": "～はじめる/～だす",
+			"title_b": "하기 시작하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_41h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 42,
+			"title_a": "～つづける",
+			"title_b": "계속 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_42h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 43,
+			"title_a": "～おわる/～きる",
+			"title_b": "다 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_43h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 44,
+			"title_a": "～にする/～ことにする/～ことになる",
+			"title_b": "로 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_44h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 45,
+			"title_a": "～ようにする/～ようになる",
+			"title_b": "하도록 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_45h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 46,
+			"title_a": "～がる/～がらない",
+			"title_b": "하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_46h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 47,
+			"title_a": "～たがる/～たがらない",
+			"title_b": "하고 싶어 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_47h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 48,
+			"title_a": "～だろう/～でしょう/～かもしれない",
+			"title_b": "일 것이다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_48h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 49,
+			"title_a": "～らしい/～ようだ/～みたい",
+			"title_b": "인 것 같다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_49h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 50,
+			"title_a": "～はずだ",
+			"title_b": "틀림없이 것이다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_50h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 51,
+			"title_a": "～そうだ",
+			"title_b": "할 것 같다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_51h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 52,
+			"title_a": "～そうだ/～って",
+			"title_b": "라고 한다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_52h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 53,
+			"title_a": "あげる/くれる/もらう",
+			"title_b": "주다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_53h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 54,
+			"title_a": "～てあげる/～てくれる/～てもらう",
+			"title_b": "해주다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_54h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 55,
+			"title_a": "～と",
+			"title_b": "하면 1",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_55h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 56,
+			"title_a": "～ば/～なら/～たら",
+			"title_b": "하면 2",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_56h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 57,
+			"title_a": "～より/一番～",
+			"title_b": "보다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_57h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 58,
+			"title_a": "～ので/～のに",
+			"title_b": "이어서",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_58h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 59,
+			"title_a": "～れる/～られる",
+			"title_b": "하게 되다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_59h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 60,
+			"title_a": "～せる/～させる",
+			"title_b": "하게 하다",
+			"page_name": [
+				"미리 듣기",
+				"강의",
+				"쉐도잉"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8188/mp4_bind/z1_60h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

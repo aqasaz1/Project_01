@@ -1,172 +1,202 @@
 {
-	"content_lan": "영어",
-	"content_code": "8327",
-	"content_name": "[야나두]원어민 사고 훈련 3 - 기본 동사 편",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "원어민들의 필수 기본동사",
-			"title_b": "원어민들의 필수 기본동사",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "내가 한 거라고 어필하는 do",
-			"title_b": "내가 한 거라고 어필하는 do",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "숨김없이 보여주는 show",
-			"title_b": "숨김없이 보여주는 show",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "나와 함께 가져오는 bring",
-			"title_b": "나와 함께 가져오는 bring",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "변함없이 유지하는 keep",
-			"title_b": "변함없이 유지하는 keep",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "내 마음대로 옮겨 놓는 put",
-			"title_b": "내 마음대로 옮겨 놓는 put",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "거침없이 나아가는 run",
-			"title_b": "거침없이 나아가는 run",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "꽉 잡고 놓지 않는 hold",
-			"title_b": "꽉 잡고 놓지 않는 hold",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "기본동사 훈련 1",
-			"title_b": "기본동사 훈련 1",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "목적지에 가까워지는 come to",
-			"title_b": "목적지에 가까워지는 come to",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "나의 목표를 마주하는 meet",
-			"title_b": "나의 목표를 마주하는 meet",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "어떠한 결과를 얻은 get",
-			"title_b": "어떠한 결과를 얻은 get",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "내가 가진 걸 건네 주는 give",
-			"title_b": "내가 가진 걸 건네 주는 give",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "상대에게 이동시켜서 보내는 send",
-			"title_b": "상대에게 이동시켜서 보내는 send",
-			"page_name": [
-				"Lecture",
-				"Training"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "기본동사 훈련 2",
-			"title_b": "기본동사 훈련 2",
-			"page_name": [
-				"Lecture"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8327",
+  "content_name": "[야나두]원어민 사고 훈련 3 - 기본 동사 편",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "원어민들의 필수 기본동사",
+      "title_b": "원어민들의 필수 기본동사",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "내가 한 거라고 어필하는 do",
+      "title_b": "내가 한 거라고 어필하는 do",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "숨김없이 보여주는 show",
+      "title_b": "숨김없이 보여주는 show",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "나와 함께 가져오는 bring",
+      "title_b": "나와 함께 가져오는 bring",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "변함없이 유지하는 keep",
+      "title_b": "변함없이 유지하는 keep",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "내 마음대로 옮겨 놓는 put",
+      "title_b": "내 마음대로 옮겨 놓는 put",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "거침없이 나아가는 run",
+      "title_b": "거침없이 나아가는 run",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "꽉 잡고 놓지 않는 hold",
+      "title_b": "꽉 잡고 놓지 않는 hold",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "기본동사 훈련 1",
+      "title_b": "기본동사 훈련 1",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "목적지에 가까워지는 come to",
+      "title_b": "목적지에 가까워지는 come to",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "나의 목표를 마주하는 meet",
+      "title_b": "나의 목표를 마주하는 meet",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "어떠한 결과를 얻은 get",
+      "title_b": "어떠한 결과를 얻은 get",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "내가 가진 걸 건네 주는 give",
+      "title_b": "내가 가진 걸 건네 주는 give",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "상대에게 이동시켜서 보내는 send",
+      "title_b": "상대에게 이동시켜서 보내는 send",
+      "page_name": [
+        "Lecture",
+        "Training"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4_bind_part/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "기본동사 훈련 2",
+      "title_b": "기본동사 훈련 2",
+      "page_name": [
+        "Lecture"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8322/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8322/mobile_500k/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

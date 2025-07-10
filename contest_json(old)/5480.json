@@ -1,0 +1,271 @@
+{
+	"content_lan": "한국어",
+	"content_code": "5480",
+	"content_name": "NEW 실용 한국어 회화 초급(중국어 ver)",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "인사 ",
+			"title_b": "인사",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "날씨와 계절 ",
+			"title_b": "날씨와 계절",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "대중교통 이용(1) ",
+			"title_b": "대중교통 이용 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "대중교통 이용(2) ",
+			"title_b": "대중교통 이용 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "공공장소 이용(1) ",
+			"title_b": "공공장소 이용 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "공공장소 이용(2) ",
+			"title_b": "공공장소 이용 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "공공장소 이용(3) ",
+			"title_b": "공공장소 이용 3",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "컴퓨터 , 게임(1)  ",
+			"title_b": "컴퓨터  게임 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "컴퓨터 , 게임(2)  ",
+			"title_b": "컴퓨터  게임 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "스마트폰, 인터넷 ",
+			"title_b": "스마트폰  인터넷",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "스포츠, 문화생활 ",
+			"title_b": "스포츠  문화생활",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "쇼핑(1) ",
+			"title_b": "쇼핑 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "쇼핑(2) ",
+			"title_b": "쇼핑 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "식사(1) ",
+			"title_b": "식사 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "식사(2) ",
+			"title_b": "식사 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "친구 사귀기(1) ",
+			"title_b": "친구 사귀기 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "친구 사귀기(2) ",
+			"title_b": "친구 사귀기 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "여행(1) ",
+			"title_b": "여행 1",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "여행(2) ",
+			"title_b": "여행 2",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "여행(3)",
+			"title_b": "여행 3",
+			"page_name": [
+				"인트로",
+				"준비하기",
+				"오늘의 강의",
+				"확인하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5480/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

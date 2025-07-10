@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 5852,
+	"content_name": "에낙 인도네시아어 첫걸음",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "알파벳과 모음",
+			"title_b": "알파벳과 모음",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "자음",
+			"title_b": "자음",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "발음 연습",
+			"title_b": "발음 연습",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "인도네시아어의 특징",
+			"title_b": "인도네시아어의 특징",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "인칭대명사, 호칭어, 부정어, 지시대명사",
+			"title_b": "인칭대명사 외",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "조동사",
+			"title_b": "조동사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "장소 전치사",
+			"title_b": "장소 전치사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "기능 전치사",
+			"title_b": "기능 전치사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "부사",
+			"title_b": "부사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "접속사",
+			"title_b": "접속사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "의문사",
+			"title_b": "의문사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "숫자",
+			"title_b": "숫자",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "시점 표현 / yang",
+			"title_b": "시점 표현",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "시간/수량 표현",
+			"title_b": "시간과 수량 표현",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "수량사",
+			"title_b": "수량사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5852/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

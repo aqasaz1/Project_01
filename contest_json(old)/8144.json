@@ -1,0 +1,141 @@
+{
+	 "content_lan": "영어",
+	 "content_code": 8144,
+	 "content_name": "오드리의 오-트립",
+	 "content_sample": "1",
+	 "content_chasi": "10",
+	 "content_size": "1000*650",
+	 "content_cm": null,
+	 "content_data": [
+		  {
+				"chasi": 1,
+				"title_a": "입국심사할 때 긴장되는 순간",
+				"title_b": "입국심사할 때 긴장되는 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_01h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 2,
+				"title_a": "호텔에서 예기치 못한 순간",
+				"title_b": "호텔에서 예기치 못한 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_02h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 3,
+				"title_a": "호텔에서 어쩔 줄 모르는 순간",
+				"title_b": "호텔에서 어쩔 줄 모르는 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_03h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 4,
+				"title_a": "식당에서 어리둥절한 순간",
+				"title_b": "식당에서 어리둥절한 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_04h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 5,
+				"title_a": "카페에서 어색한 순간",
+				"title_b": "카페에서 어색한 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_05h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 6,
+				"title_a": "쇼핑할 때 불편한 순간",
+				"title_b": "쇼핑할 때 불편한 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_06h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 7,
+				"title_a": "길 잃어서 당황스러운 순간",
+				"title_b": "길 잃어서 당황스러운 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_07h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 8,
+				"title_a": "투어를 준비해야 할 순간",
+				"title_b": "투어를 준비해야 할 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_08h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 9,
+				"title_a": "관광지에서 부탁해야 하는 순간",
+				"title_b": "관광지에서 부탁해야 하는 순간",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_09h.mp4",
+				"mp4_bind_time": ""
+		  },
+		  {
+				"chasi": 10,
+				"title_a": "비행기 타기 전 필수 영어표현",
+				"title_b": "비행기 타기 전 필수 영어표현",
+				"page_name": [
+					 "단어 연습",
+					 "강의 듣기",
+					 "통문장 연습",
+					 "문장 확인"
+				],
+				"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8144/mp4_bind/z1_10h.mp4",
+				"mp4_bind_time": ""
+		  }
+	 ]
+}

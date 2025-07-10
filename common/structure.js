@@ -351,6 +351,9 @@ function popup(name, cod) {
     bind(){
       open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1600, height=380, left=0, top=0', false)
     },
+    bind_500k(){
+      open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1600, height=380, left=0, top=0', false)
+    },
     firb(){
       open01 = window.open("popup.html", name, 'menubar=no, scrollbars=no, status=yes, resizable=auto, titlebar=no, width=1500, height=510, left=0, top=0', false)
     },
@@ -475,6 +478,32 @@ function bind_path_all() {
       dataCount = twolength(Number(i + 1))
       dataChasiName = content_data_step_obj[cod]["content_data"][i]["title_b"]
       dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path"]
+      dataPath = dataPath.split("/").join("\\")
+      dataXcopy = "echo f | xcopy \""+ dataPath + "\""
+      bind_data += twolength(dataConNum) + "\t" + dataConLan + "\t" + dataConCode + "\t" + dataFolder + "\t" + dataConName + "\t" + dataCount + "\t" + dataChasiName + "\t" + dataPath + "\t" + dataXcopy + "\n"
+      // console.log(cod,_this[bind_count]["mp4_bind_path"])
+    }
+    bind_data += "\n"
+  }
+  return bind_data.trim()
+}
+
+function bind_500k_path_all() {
+  // data_obj = Object.keys(content_data_step_obj)
+  var bind_data = ""
+  var list_number = 0
+  for (var cod in content_data_step_obj) {
+    list_number++ 
+    for (i = 0; i < content_data_step_obj[cod]["content_data"].length; i++) {
+      // console.log(content_data_step_obj[cod]["content_data"])
+      dataConNum = $("."+cod+" td:nth-child(1)").text()
+      dataConLan = $("."+cod+" td:nth-child(2)").text()
+      dataConCode = $("."+cod+">.cp_code>input[name=cp_code]").val()
+      dataFolder = cod
+      dataConName = $("."+cod+">.cp_name>input[name=cp_name]").val()
+      dataCount = twolength(Number(i + 1))
+      dataChasiName = content_data_step_obj[cod]["content_data"][i]["title_b"]
+      dataPath = content_data_step_obj[cod]["content_data"][i]["mp4_bind_path_500k"]
       dataPath = dataPath.split("/").join("\\")
       dataXcopy = "echo f | xcopy \""+ dataPath + "\""
       bind_data += twolength(dataConNum) + "\t" + dataConLan + "\t" + dataConCode + "\t" + dataFolder + "\t" + dataConName + "\t" + dataCount + "\t" + dataChasiName + "\t" + dataPath + "\t" + dataXcopy + "\n"

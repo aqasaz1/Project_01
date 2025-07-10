@@ -1,0 +1,611 @@
+{
+	"content_lan": "영어",
+	"content_code": 5678,
+	"content_name": "손에 쥐는 영어 회화 200% 즐기기 - 초급편",
+	"content_sample": "2/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "인사하기",
+			"title_b": "인사하기",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "오랜만에 만났을 때",
+			"title_b": "오랜만에 만났을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "날씨 인사",
+			"title_b": "날씨 인사",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "초대하기",
+			"title_b": "초대하기",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "소개하기",
+			"title_b": "소개하기",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "헤어질 때",
+			"title_b": "헤어질 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "취미",
+			"title_b": "취미",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "TV, 라디오, 영화",
+			"title_b": "TV 라디오 영화",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "경기 관람",
+			"title_b": "경기 관람",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "이성 교제 (1)",
+			"title_b": "이성 교제 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "이성 교제 (2)",
+			"title_b": "이성 교제 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "화장과 패션",
+			"title_b": "화장과 패션",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "건강",
+			"title_b": "건강",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "체중 조절",
+			"title_b": "체중 조절",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "운동",
+			"title_b": "운동",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "은행에서",
+			"title_b": "은행에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "우체국에서",
+			"title_b": "우체국에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "세탁소에서",
+			"title_b": "세탁소에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "이발소/미용실에서",
+			"title_b": "이발소나 미용실에서",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "할인점과 슈퍼마켓",
+			"title_b": "할인점과 슈퍼마켓",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "계산할 때 (1)",
+			"title_b": "계산할 때 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "계산할 때 (2)",
+			"title_b": "계산할 때 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "교환과 환불",
+			"title_b": "교환과 환불",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "얼마에 샀는지 물어볼 때",
+			"title_b": "얼마에 샀는지 물어볼 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "자리를 요청할 때",
+			"title_b": "자리를 요청할 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "식사 주문 (1)",
+			"title_b": "식사 주문 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "식사 주문 (2)",
+			"title_b": "식사 주문 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "한잔하러 갈 때",
+			"title_b": "한잔하러 갈 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "전화를 걸거나 받을 때 (1)",
+			"title_b": "전화를 걸거나 받을 때 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "전화를 걸거나 받을 때 (2)",
+			"title_b": "전화를 걸거나 받을 때 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "찾는 사람이 전화를 받을 수 없을 때",
+			"title_b": "찾는 사람이 전화를 받을 수 없을 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "메시지를 남길 때",
+			"title_b": "메시지를 남길 때",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "직업과 구직",
+			"title_b": "직업과 구직",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "면접 (1)",
+			"title_b": "면접 1",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "면접 (2)",
+			"title_b": "면접 2",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "근무시간",
+			"title_b": "근무시간",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "승진과 연봉 인상",
+			"title_b": "승진과 연봉 인상",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "수강 신청",
+			"title_b": "수강 신청",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "리포트",
+			"title_b": "리포트",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "시험",
+			"title_b": "시험",
+			"page_name": [
+				"Intro",
+				"Warm Up",
+				"Learn & Repeat",
+				"Challenge",
+				"Dialogue",
+				"Wrap Up"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5678/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

@@ -1,0 +1,251 @@
+{
+	"content_lan": "영어",
+	"content_code": 8129,
+	"content_name": "1분 영어 뉴스룸 - 돈이 되는 뉴스",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "김영실",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "뉴스 토크 - 경제",
+			"title_b": "뉴스 토크 경제",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "뉴스 클리핑 - 경제",
+			"title_b": "뉴스 클리핑 경제",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "뉴스 토크 - 정치",
+			"title_b": "뉴스 토크 정치",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "뉴스 클리핑 - 정치",
+			"title_b": "뉴스 클리핑 정치",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "뉴스 토크 - 주식",
+			"title_b": "뉴스 토크 주식",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "뉴스 클리핑 - 주식",
+			"title_b": "뉴스 클리핑 주식",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "뉴스 토크 - 연금",
+			"title_b": "뉴스 토크 연금",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "뉴스 클리핑 - 연금",
+			"title_b": "뉴스 클리핑 연금",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "뉴스 토크 - 국제",
+			"title_b": "뉴스 토크 국제",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "뉴스 클리핑 - 국제",
+			"title_b": "뉴스 클리핑 국제",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "뉴스 토크 - 물가",
+			"title_b": "뉴스 토크 물가",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "뉴스 클리핑 - 물가",
+			"title_b": "뉴스 클리핑 물가",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "뉴스 토크 - 브렉시트",
+			"title_b": "뉴스 토크 브렉시트",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "뉴스 클리핑 - 브렉시트",
+			"title_b": "뉴스 클리핑 브렉시트",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "뉴스 토크 - 부동산",
+			"title_b": "뉴스 토크 부동산",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "뉴스 클리핑 - 부동산",
+			"title_b": "뉴스 클리핑 부동산",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "뉴스 토크 - 은행",
+			"title_b": "뉴스 토크 은행",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "뉴스 클리핑 - 은행",
+			"title_b": "뉴스 클리핑 은행",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "뉴스 토크 - 선거",
+			"title_b": "뉴스 토크 선거",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "뉴스 클리핑 - 선거",
+			"title_b": "뉴스 클리핑 선거",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8129/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

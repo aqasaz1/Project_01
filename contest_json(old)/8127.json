@@ -1,0 +1,251 @@
+{
+	"content_lan": "영어",
+	"content_code": 8127,
+	"content_name": "1분 영어 뉴스룸 - 데일리 빈출 뉴스",
+	"content_sample": "2",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "김영실",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "뉴스 토크 - 사건/사고",
+			"title_b": "뉴스 토크 사건 사고",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "뉴스 클리핑 - 사건/사고",
+			"title_b": "뉴스 클리핑 사건 사고",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "뉴스 토크 - 날씨",
+			"title_b": "뉴스 토크 날씨",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "뉴스 클리핑 - 날씨",
+			"title_b": "뉴스 클리핑 날씨",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "뉴스 토크 - 범죄",
+			"title_b": "뉴스 토크 범죄",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "뉴스 클리핑 - 범죄",
+			"title_b": "뉴스 클리핑 범죄",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "뉴스 토크 - 교통",
+			"title_b": "뉴스 토크 교통",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "뉴스 클리핑 - 교통",
+			"title_b": "뉴스 클리핑 교통",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "뉴스 토크 - 스포츠",
+			"title_b": "뉴스 토크 스포츠",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "뉴스 클리핑 - 스포츠",
+			"title_b": "뉴스 클리핑 스포츠",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "뉴스 토크 - 전염병",
+			"title_b": "뉴스 토크 전염병",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "뉴스 클리핑 - 전염병",
+			"title_b": "뉴스 클리핑 전염병",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "뉴스 토크 - 문화",
+			"title_b": "뉴스 토크 문화",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "뉴스 클리핑 - 문화",
+			"title_b": "뉴스 클리핑 문화",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "뉴스 토크 - 환경",
+			"title_b": "뉴스 토크 환경",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "뉴스 클리핑 - 환경",
+			"title_b": "뉴스 클리핑 환경",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "뉴스 토크 - 북한",
+			"title_b": "뉴스 토크 북한",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "뉴스 클리핑 - 북한",
+			"title_b": "뉴스 클리핑 북한",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "뉴스 토크 - 건강",
+			"title_b": "뉴스 토크 건강",
+			"page_name": [
+				"뉴스 주제별 어휘",
+				"뉴스 토크",
+				"뉴스 청취 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "뉴스 클리핑 - 건강",
+			"title_b": "뉴스 클리핑 건강",
+			"page_name": [
+				"뉴스 어휘 퀴즈",
+				"뉴스 클리핑",
+				"뉴스 팩트 체크"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8127/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

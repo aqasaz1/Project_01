@@ -1,191 +1,221 @@
 {
-	"content_lan": "기타외국어",
-	"content_code": 7816,
-	"content_name": "New 씬짜오 베트남어 회화 중급",
-	"content_sample": "1",
-	"content_chasi": "15",
-	"content_size": "1000*650",
-	"content_cm": "정계영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "저것의 품질은 어떤가요?",
-			"title_b": "저것의 품질은 어떤가요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "오늘 어때요?",
-			"title_b": "오늘 어때요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "여보세요, 마이 선생님과 통화하고 싶어요",
-			"title_b": "여보세요 마이 선생님과 통화하고 싶어요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "당신은 베트남에 간 적 있나요?",
-			"title_b": "당신은 베트남에 간 적 있나요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "졸업 후, 당신은 무엇을 할 거예요?",
-			"title_b": "졸업 후 당신은 무엇을 할 거예요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "안녕하세요. 호텔 예약을 하고 싶습니다.",
-			"title_b": "안녕하세요 호텔 예약을 하고 싶습니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "저는 집을 빌리고 싶습니다.",
-			"title_b": "저는 집을 빌리고 싶습니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "주말에 당신은 무엇을 하셨나요?",
-			"title_b": "주말에 당신은 무엇을 하셨나요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "마이 씨의 생일을 축하합니다.",
-			"title_b": "마이 씨의 생일을 축하합니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "저는 매운 음식 빼고 모든 음식을 좋아합니다.",
-			"title_b": "저는 매운 음식 빼고 모든 음식을 좋아합니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "저는 와이셔츠를 입을 건데, 마이 씨는 어떤 옷을 입으실 건가요?",
-			"title_b": "저는 와이셔츠를 입을 건데 마이 씨는 어떤 옷을 입으실 건가요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "저는 더 이상 그곳에서 일하고 싶지 않습니다.",
-			"title_b": "저는 더 이상 그곳에서 일하고 싶지 않습니다",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "설날에, 베트남 사람들은 보통 무엇을 합니까?",
-			"title_b": "설날에 베트남 사람들은 보통 무엇을 합니까",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "그 남자는 어떤 사람입니까?",
-			"title_b": "그 남자는 어떤 사람입니까",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "저는 고향으로 돌아가고 싶어요.",
-			"title_b": "저는 고향으로 돌아가고 싶어요",
-			"page_name": [
-				"인트로",
-				"강의 듣기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "기타외국어",
+  "content_code": 7816,
+  "content_name": "New 씬짜오 베트남어 회화 중급",
+  "content_sample": "1",
+  "content_chasi": "15",
+  "content_size": "1000*650",
+  "content_cm": "정계영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "저것의 품질은 어떤가요?",
+      "title_b": "저것의 품질은 어떤가요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "오늘 어때요?",
+      "title_b": "오늘 어때요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "여보세요, 마이 선생님과 통화하고 싶어요",
+      "title_b": "여보세요 마이 선생님과 통화하고 싶어요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "당신은 베트남에 간 적 있나요?",
+      "title_b": "당신은 베트남에 간 적 있나요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "졸업 후, 당신은 무엇을 할 거예요?",
+      "title_b": "졸업 후 당신은 무엇을 할 거예요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "안녕하세요. 호텔 예약을 하고 싶습니다.",
+      "title_b": "안녕하세요 호텔 예약을 하고 싶습니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "저는 집을 빌리고 싶습니다.",
+      "title_b": "저는 집을 빌리고 싶습니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "주말에 당신은 무엇을 하셨나요?",
+      "title_b": "주말에 당신은 무엇을 하셨나요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "마이 씨의 생일을 축하합니다.",
+      "title_b": "마이 씨의 생일을 축하합니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "저는 매운 음식 빼고 모든 음식을 좋아합니다.",
+      "title_b": "저는 매운 음식 빼고 모든 음식을 좋아합니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "저는 와이셔츠를 입을 건데, 마이 씨는 어떤 옷을 입으실 건가요?",
+      "title_b": "저는 와이셔츠를 입을 건데 마이 씨는 어떤 옷을 입으실 건가요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "저는 더 이상 그곳에서 일하고 싶지 않습니다.",
+      "title_b": "저는 더 이상 그곳에서 일하고 싶지 않습니다",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "설날에, 베트남 사람들은 보통 무엇을 합니까?",
+      "title_b": "설날에 베트남 사람들은 보통 무엇을 합니까",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "그 남자는 어떤 사람입니까?",
+      "title_b": "그 남자는 어떤 사람입니까",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "저는 고향으로 돌아가고 싶어요.",
+      "title_b": "저는 고향으로 돌아가고 싶어요",
+      "page_name": [
+        "인트로",
+        "강의 듣기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5561/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5561/mobile/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

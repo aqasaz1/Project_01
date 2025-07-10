@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 5853,
+	"content_name": "싸왓디 태국어 회화 중급",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "제일 가까운 전철역이 어디에 있나요?",
+			"title_b": "제일 가까운 전철역이 어디에 있나요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "방 좀 바꿔 주실 수 있어요?",
+			"title_b": "방 좀 바꿔 주실 수 있어요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "이번 주 토요일 짜뚜짝 시장에 함께 갈래요?",
+			"title_b": "이번 주 토요일 짜뚜짝 시장에 함께 갈래요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "이 음식은 맛이 이상하고 너무 매워요",
+			"title_b": "이 음식은 맛이 이상하고 너무 매워요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "정말 오랜만이네요. 왜 오랫동안 볼 수가 없었죠?",
+			"title_b": "정말 오랜만이네요 왜 오랫동안 볼 수가 없었죠",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "치앙마이 가는 비행기 티켓 좀 예약할 수 있을까요?",
+			"title_b": "치앙마이 가는 비행기 티켓 좀 예약할 수 있을까요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "은퇴 후에 무엇을 할 생각이에요?",
+			"title_b": "은퇴 후에 무엇을 할 생각이에요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "세부 사항에 대해 좀 더 이야기 하고 싶습니다.",
+			"title_b": "세부 사항에 대해 좀 더 이야기 하고 싶습니다",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "송끄란 명절 때 어디 가세요?",
+			"title_b": "송끄란 명절 때 어디 가세요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "내일 저희 집에 오셔서 식사하세요.",
+			"title_b": "내일 저희 집에 오셔서 식사하세요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "지금 제 컴퓨터가 다운되었어요.",
+			"title_b": "지금 제 컴퓨터가 다운되었어요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "소개팅 시켜줄게. 마음의 준비를 해 둬.",
+			"title_b": "소개팅 시켜줄게 마음의 준비를 해 둬",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "요즘 날씨가 왜 이러죠?",
+			"title_b": "요즘 날씨가 왜 이러죠",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "코끼리 섬에 놀러 가 본 적 있어요?",
+			"title_b": "코끼리 섬에 놀러 가 본 적 있어요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "왜 그들은 한국어를 공부하고 싶어 하나요?",
+			"title_b": "왜 그들은 한국어를 공부하고 싶어 하나요",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5853/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

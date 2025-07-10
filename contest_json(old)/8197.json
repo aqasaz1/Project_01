@@ -1,0 +1,341 @@
+{
+	"content_lan": "영어",
+	"content_code": 8197,
+	"content_name": "[야나두] 써먹는 VOCA - 초급편",
+	"content_sample": "1",
+	"content_chasi": "30",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Address",
+			"title_b": "Address",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Square",
+			"title_b": "Square",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Date",
+			"title_b": "Date",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Fine",
+			"title_b": "Fine",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Hard",
+			"title_b": "Hard",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Look",
+			"title_b": "Look",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Kind",
+			"title_b": "Kind",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Like",
+			"title_b": "Like",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Over",
+			"title_b": "Over",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Rest",
+			"title_b": "Rest",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Down",
+			"title_b": "Down",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Fair",
+			"title_b": "Fair",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Last",
+			"title_b": "Last",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Live",
+			"title_b": "Live",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Hand",
+			"title_b": "Hand",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Break",
+			"title_b": "Break",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Light",
+			"title_b": "Light",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Long",
+			"title_b": "Long",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Minute",
+			"title_b": "Minute",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Note",
+			"title_b": "Note",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Open",
+			"title_b": "Open",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Place",
+			"title_b": "Place",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Practice",
+			"title_b": "Practice",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Present",
+			"title_b": "Present",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Keep",
+			"title_b": "Keep",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Case",
+			"title_b": "Case",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Find",
+			"title_b": "Find",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Ticket",
+			"title_b": "Ticket",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Well",
+			"title_b": "Well",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Kid",
+			"title_b": "Kid",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8197/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

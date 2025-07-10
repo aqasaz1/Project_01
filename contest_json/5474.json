@@ -1,431 +1,491 @@
 {
-	"content_lan": "영어",
-	"content_code": 5474,
-	"content_name": "정말 쉬운 Biz English",
-	"content_sample": "1/19",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "개인적인 질문 주고받기 / 업무 관련 정보 주고받기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "현재 업무 말하기 / 미래 활동 계획 말하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "물건 위치 설명하기 / 장소 설명하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "시간과 일정 말하기 / 활동 빈도에 대해 말하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "Review Session (Ep01 ~ Ep08)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "직무 설명하기 / 가격 묻고 답하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "능력 표현하기 / 능력의 정도 표현하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "외모 묘사하기 / 의상 묘사하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "과거 활동에 대해 말하기 / 구체적인 과거 활동 묻기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Review Session (Ep09 ~ Ep16)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "명사로 호불호 표현하기 / 동사로 호불호 표현하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "부탁하기 / 공손하게 부탁하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "의무 말하기 / 제안하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "계획 묻고 답하기 / 미래 일정 묻고 답하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Review Session (Ep17 ~ Ep24)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "정보 확인하며 되묻기 / 과거와 미래 활동 묻고 답하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "사적으로 제안하기 / 공식적으로 제안하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "대상의 존재 여부 표현하기 / 수와 양에 관해 말하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "업무 지시하기 / 방법 묻고 답하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Review Session (Ep25 ~ Ep32)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "비교 표현 말하기 / 최상급 표현 말하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "특정 사건 표현하기 / 일어날 수 있는 사건 표현하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "길 안내하기 / 대중교통 이용법 알려주기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "이유 묻고 답하기 / 결과 말하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Review Session (Ep33 ~ Ep40)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "현재 완료 말하기 / 과거와 현재 완료 구별하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "사물 묘사하기 / 특징 표현하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "허락 요청하기 / 부탁하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "형용사로 성격 묘사하기 / 분사로 성격과 상태 묘사하기",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Warm Up",
-				"1st Episode",
-				"2nd Episode",
-				"Wrap Up"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "Review Session (Ep41 ~ Ep48)",
-			"title_b": null,
-			"page_name": [
-				"Intro",
-				"Review Ⅰ",
-				"Review Ⅱ",
-				"Review Ⅲ",
-				"Review Ⅳ"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 5474,
+  "content_name": "정말 쉬운 Biz English",
+  "content_sample": "1/19",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "개인적인 질문 주고받기 / 업무 관련 정보 주고받기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "현재 업무 말하기 / 미래 활동 계획 말하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "물건 위치 설명하기 / 장소 설명하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "시간과 일정 말하기 / 활동 빈도에 대해 말하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "Review Session (Ep01 ~ Ep08)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "직무 설명하기 / 가격 묻고 답하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "능력 표현하기 / 능력의 정도 표현하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "외모 묘사하기 / 의상 묘사하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "과거 활동에 대해 말하기 / 구체적인 과거 활동 묻기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Review Session (Ep09 ~ Ep16)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "명사로 호불호 표현하기 / 동사로 호불호 표현하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "부탁하기 / 공손하게 부탁하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "의무 말하기 / 제안하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "계획 묻고 답하기 / 미래 일정 묻고 답하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Review Session (Ep17 ~ Ep24)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "정보 확인하며 되묻기 / 과거와 미래 활동 묻고 답하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "사적으로 제안하기 / 공식적으로 제안하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "대상의 존재 여부 표현하기 / 수와 양에 관해 말하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "업무 지시하기 / 방법 묻고 답하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Review Session (Ep25 ~ Ep32)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "비교 표현 말하기 / 최상급 표현 말하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "특정 사건 표현하기 / 일어날 수 있는 사건 표현하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "길 안내하기 / 대중교통 이용법 알려주기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "이유 묻고 답하기 / 결과 말하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Review Session (Ep33 ~ Ep40)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "현재 완료 말하기 / 과거와 현재 완료 구별하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "사물 묘사하기 / 특징 표현하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "허락 요청하기 / 부탁하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "형용사로 성격 묘사하기 / 분사로 성격과 상태 묘사하기",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Warm Up",
+        "1st Episode",
+        "2nd Episode",
+        "Wrap Up"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "Review Session (Ep41 ~ Ep48)",
+      "title_b": null,
+      "page_name": [
+        "Intro",
+        "Review Ⅰ",
+        "Review Ⅱ",
+        "Review Ⅲ",
+        "Review Ⅳ"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5474/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5474/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,0 +1,131 @@
+{
+	"content_lan": "영어",
+	"content_code": 8163,
+	"content_name": "션 오드리의 IDIOM이 뭔대영 시즌2",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "I have butterflies in my stomach!",
+			"title_b": "I have butterflies in my stomach",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "This is the last straw!",
+			"title_b": "This is the last straw",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Let’s meet halfway.",
+			"title_b": "Let us meet halfway",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "You need to come clean!",
+			"title_b": "You need to come clean",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "I missed the boat.",
+			"title_b": "I missed the boat",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "I won fair and square.",
+			"title_b": "I won fair and square",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Let’s call it a day.",
+			"title_b": "Let us call it a day",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Can I take a rain check?",
+			"title_b": "Can I take a rain check",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Speak of the devil!",
+			"title_b": "Speak of the devil",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Hold your horses!",
+			"title_b": "Hold your horses",
+			"page_name": [
+				"이디엄 예습",
+				"강의 듣기",
+				"이디엄 복습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8163/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

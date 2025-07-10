@@ -1,0 +1,363 @@
+{
+	"content_lan": "일본어",
+	"content_code": "8271",
+	"content_name": "(2021년 개정판) JLPT 한 권으로 끝내기 N1 - 실전모의고사",
+	"content_sample": "1/17",
+	"content_chasi": "16/16",
+	"content_size": "1000*650",
+	"content_cm": "변솔기",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "실전모의고사 제1회 - 문자·어휘(1)",
+			"title_b": "실전모의고사 제1회 문자어휘1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "실전모의고사 제1회 - 문자·어휘(2)",
+			"title_b": "실전모의고사 제1회 문자어휘2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "실전모의고사 제1회 - 문법",
+			"title_b": "실전모의고사 제1회 문법",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "실전모의고사 제1회 - 독해(1)",
+			"title_b": "실전모의고사 제1회 독해1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "실전모의고사 제1회 - 독해(2)",
+			"title_b": "실전모의고사 제1회 독해2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "실전모의고사 제1회 - 독해(3)",
+			"title_b": "실전모의고사 제1회 독해3",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "실전모의고사 제1회 - 독해(4)",
+			"title_b": "실전모의고사 제1회 독해4",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "실전모의고사 제1회 - 독해(5)",
+			"title_b": "실전모의고사 제1회 독해5",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "실전모의고사 제1회 - 청해(1)",
+			"title_b": "실전모의고사 제1회 청해1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "실전모의고사 제1회 - 청해(2)",
+			"title_b": "실전모의고사 제1회 청해2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "실전모의고사 제1회 - 청해(3)",
+			"title_b": "실전모의고사 제1회 청해3",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "실전모의고사 제1회 - 청해(4)",
+			"title_b": "실전모의고사 제1회 청해4",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "실전모의고사 제1회 - 청해(5)",
+			"title_b": "실전모의고사 제1회 청해5",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "실전모의고사 제1회 - 청해(6)",
+			"title_b": "실전모의고사 제1회 청해6",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "실전모의고사 제1회 - 청해(7)",
+			"title_b": "실전모의고사 제1회 청해7",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "실전모의고사 제1회 - 청해(8)",
+			"title_b": "실전모의고사 제1회 청해8",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "실전모의고사 제2회 - 문자·어휘(1)",
+			"title_b": "실전모의고사 제2회 문자어휘1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "실전모의고사 제2회 - 문자·어휘(2)",
+			"title_b": "실전모의고사 제2회 문자어휘2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "실전모의고사 제2회 - 문법",
+			"title_b": "실전모의고사 제2회 문법",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "실전모의고사 제2회 - 독해(1)",
+			"title_b": "실전모의고사 제2회 독해1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "실전모의고사 제2회 - 독해(2)",
+			"title_b": "실전모의고사 제2회 독해2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "실전모의고사 제2회 - 독해(3)",
+			"title_b": "실전모의고사 제2회 독해3",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "실전모의고사 제2회 - 독해(4)",
+			"title_b": "실전모의고사 제2회 독해4",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "실전모의고사 제2회 - 독해(5)",
+			"title_b": "실전모의고사 제2회 독해5",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "실전모의고사 제2회 - 청해(1)",
+			"title_b": "실전모의고사 제2회 청해1",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "실전모의고사 제2회 - 청해(2)",
+			"title_b": "실전모의고사 제2회 청해2",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "실전모의고사 제2회 - 청해(3)",
+			"title_b": "실전모의고사 제2회 청해3",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "실전모의고사 제2회 - 청해(4)",
+			"title_b": "실전모의고사 제2회 청해4",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "실전모의고사 제2회 - 청해(5)",
+			"title_b": "실전모의고사 제2회 청해5",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "실전모의고사 제2회 - 청해(6)",
+			"title_b": "실전모의고사 제2회 청해6",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "실전모의고사 제2회 - 청해(7)",
+			"title_b": "실전모의고사 제2회 청해7",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "실전모의고사 제2회 - 청해(8)",
+			"title_b": "실전모의고사 제2회 청해8",
+			"page_name": [
+				"Test",
+				"Lecture"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8271/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

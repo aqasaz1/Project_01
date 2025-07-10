@@ -1,0 +1,191 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": 7989,
+	"content_name": "New 당케 비즈니스 독일어",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "관계대명사-주격 1",
+			"title_b": "관계대명사 주격 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "관계대명사-주격 2: 여기는 1부서에서 일하는 마쿠스 씨입니다.",
+			"title_b": "관계대명사 주격 2 여기는 1부서에서 일하는 마쿠스 씨입니다",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "관계대명사-소유격과 간접목적격 1",
+			"title_b": "관계대명사 소유격과 간접목적격 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "관계대명사-소유격과 간접목적격 2: 당신이 갔던 그 레스토랑에 저도 가 봤어요.",
+			"title_b": "관계대명사 소유격과 간접목적격 2 당신이 갔던 그 레스토랑에 저도 가 봤어요",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "관계대명사-직접목적격 1",
+			"title_b": "관계대명사 직접목적격 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "관계대명사-직접목적격 2: 저희가 지난번에 소개한 그 프로젝트를 말씀하시는 겁니까?",
+			"title_b": "관계대명사 직접목적격 2 저희가 지난번에 소개한 그 프로젝트를 말씀하시는 겁니까",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "부정사 1",
+			"title_b": "부정사 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "부정사 2: 생각할 시간이 더 필요하십니까?",
+			"title_b": "부정사 2 생각할 시간이 더 필요하십니까",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "부정사 3",
+			"title_b": "부정사 3",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "부정사 4: 만나 뵙게 되어 큰 영광입니다.",
+			"title_b": "부정사 4 만나 뵙게 되어 큰 영광입니다",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "과거분사 1",
+			"title_b": "과거분사 1",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "과거분사 2: 상기 기재한 바와 같이 우리는 그것을 확실히 했습니다.",
+			"title_b": "과거분사 2 상기 기재한 바와 같이 우리는 그것을 확실히 했습니다",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "회의에서",
+			"title_b": "회의에서",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "전치사와 함께 쓰이는 동사",
+			"title_b": "전치사와 함께 쓰이는 동사",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "편지쓰기",
+			"title_b": "편지쓰기",
+			"page_name": [
+				"인트로",
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5743/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

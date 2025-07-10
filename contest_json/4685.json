@@ -1,311 +1,351 @@
 {
-	"content_lan": "영어",
-	"content_code": 4685,
-	"content_name": "스타강사 7인의 초보탈출 영어과외 (08)",
-	"content_sample": "2",
-	"content_chasi": "20",
-	"content_size": "1000*680",
-	"content_cm": "오순정",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "운동에 대한 예문 듣기",
-			"title_b": "운동에 대한 예문 듣기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "운동에 대한 예문 말하기",
-			"title_b": "운동에 대한 예문 말하기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "준비 운동하는 법",
-			"title_b": "준비 운동하는 법",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "요가의 효과",
-			"title_b": "요가의 효과",
-			"page_name": [
-				"인트로",
-				"미리보기-빈칸 채우기/문장별 듣기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "건강 관리를 위한 운동",
-			"title_b": "건강 관리를 위한 운동",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리딩",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "정치에 대한 예문 듣기",
-			"title_b": "정치에 대한 예문 듣기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "정치에 대한 예문 말하기",
-			"title_b": "정치에 대한 예문 말하기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "개표 방송",
-			"title_b": "개표 방송",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "낮은 투표 참여율",
-			"title_b": "낮은 투표 참여율",
-			"page_name": [
-				"인트로",
-				"미리보기-빈칸 채우기/문장별 듣기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "레임덕이란?",
-			"title_b": "레임덕이란",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 라이팅",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "전화에 대한 예문 듣기",
-			"title_b": "전화에 대한 예문 듣기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "전화에 대한 예문 말하기",
-			"title_b": "전화에 대한 예문 말하기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "자동응답기 메시지",
-			"title_b": "자동응답기 메시지",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "식사 초대에 대한 대화",
-			"title_b": "식사 초대에 대한 대화",
-			"page_name": [
-				"인트로",
-				"미리보기-빈칸 채우기/문장별 듣기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "자동 응답기 안내문",
-			"title_b": "자동 응답기 안내문",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리딩",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "화장에 대한 예문 듣기",
-			"title_b": "화장에 대한 예문 듣기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "화장에 대한 예문 말하기",
-			"title_b": "화장에 대한 예문 말하기",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "화장품 광고",
-			"title_b": "화장품 광고",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 리스닝",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "컨실러 구입에 대한 조언",
-			"title_b": "컨실러 구입에 대한 조언",
-			"page_name": [
-				"인트로",
-				"미리보기-빈칸 채우기/문장별 듣기",
-				"10분 스피킹",
-				"연습하기-어휘 클릭/말하기 연습",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "컨실러의 쓰임새",
-			"title_b": "컨실러의 쓰임새",
-			"page_name": [
-				"인트로",
-				"미리보기",
-				"10분 라이팅",
-				"연습하기",
-				"오늘의 어휘",
-				"아우트로"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 4685,
+  "content_name": "스타강사 7인의 초보탈출 영어과외 (08)",
+  "content_sample": "2",
+  "content_chasi": "20",
+  "content_size": "1000*680",
+  "content_cm": "오순정",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "운동에 대한 예문 듣기",
+      "title_b": "운동에 대한 예문 듣기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "운동에 대한 예문 말하기",
+      "title_b": "운동에 대한 예문 말하기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "준비 운동하는 법",
+      "title_b": "준비 운동하는 법",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "요가의 효과",
+      "title_b": "요가의 효과",
+      "page_name": [
+        "인트로",
+        "미리보기-빈칸 채우기/문장별 듣기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "건강 관리를 위한 운동",
+      "title_b": "건강 관리를 위한 운동",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리딩",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "정치에 대한 예문 듣기",
+      "title_b": "정치에 대한 예문 듣기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "정치에 대한 예문 말하기",
+      "title_b": "정치에 대한 예문 말하기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "개표 방송",
+      "title_b": "개표 방송",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "낮은 투표 참여율",
+      "title_b": "낮은 투표 참여율",
+      "page_name": [
+        "인트로",
+        "미리보기-빈칸 채우기/문장별 듣기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "레임덕이란?",
+      "title_b": "레임덕이란",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 라이팅",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "전화에 대한 예문 듣기",
+      "title_b": "전화에 대한 예문 듣기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "전화에 대한 예문 말하기",
+      "title_b": "전화에 대한 예문 말하기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "자동응답기 메시지",
+      "title_b": "자동응답기 메시지",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "식사 초대에 대한 대화",
+      "title_b": "식사 초대에 대한 대화",
+      "page_name": [
+        "인트로",
+        "미리보기-빈칸 채우기/문장별 듣기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "자동 응답기 안내문",
+      "title_b": "자동 응답기 안내문",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리딩",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "화장에 대한 예문 듣기",
+      "title_b": "화장에 대한 예문 듣기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "화장에 대한 예문 말하기",
+      "title_b": "화장에 대한 예문 말하기",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "화장품 광고",
+      "title_b": "화장품 광고",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 리스닝",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "컨실러 구입에 대한 조언",
+      "title_b": "컨실러 구입에 대한 조언",
+      "page_name": [
+        "인트로",
+        "미리보기-빈칸 채우기/문장별 듣기",
+        "10분 스피킹",
+        "연습하기-어휘 클릭/말하기 연습",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "컨실러의 쓰임새",
+      "title_b": "컨실러의 쓰임새",
+      "page_name": [
+        "인트로",
+        "미리보기",
+        "10분 라이팅",
+        "연습하기",
+        "오늘의 어휘",
+        "아우트로"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/4685/mobile/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

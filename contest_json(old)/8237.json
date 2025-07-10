@@ -1,0 +1,411 @@
+{
+	"content_lan": "영어",
+	"content_code": "8237",
+	"content_name": "거의 모든 행동 표현의 영어",
+	"content_sample": "8/21",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "이선영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "고개(head)",
+			"title_b": "고개",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "머리(head/brain)",
+			"title_b": "머리와 두뇌",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "머리(hair) 1",
+			"title_b": "머리 1",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "머리(hair) 2",
+			"title_b": "머리 2",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "이마(forehead), 눈썹(eyebrow)",
+			"title_b": "이마와 눈썹",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "눈(eye) 1",
+			"title_b": "눈 1",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "눈(eye) 2",
+			"title_b": "눈 2",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "코(nose)",
+			"title_b": "코",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "입(mouth)",
+			"title_b": "입",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "입술(lip)",
+			"title_b": "입술",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "혀(tongue)",
+			"title_b": "혀",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "치아(tooth)",
+			"title_b": "치아",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "귀(ear), 턱(chin)",
+			"title_b": "귀와 턱",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "볼·뺨(cheek)",
+			"title_b": "볼과 뺨",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "목(neck/throat)",
+			"title_b": "목",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "얼굴 표정(facial expression)",
+			"title_b": "얼굴 표정",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "어깨(shoulder)",
+			"title_b": "어깨",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "팔(arms)",
+			"title_b": "팔",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "팔(arms), 팔꿈치(elbow)",
+			"title_b": "팔과 팔꿈치",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "손목(wrist), 손(hand)",
+			"title_b": "손목과 손",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "손(hand)",
+			"title_b": "손",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "손(hand), 손등(back of one’s hand), 손바닥(palm)",
+			"title_b": "손 손등 손바닥",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "손가락(finger)",
+			"title_b": "손가락",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "손톱(fingernail)",
+			"title_b": "손톱",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "등/허리(back)",
+			"title_b": "등허리",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "등/허리(back), 허리(waist)",
+			"title_b": "등허리와 허리",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "배(stomach/belly)",
+			"title_b": "배",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "엉덩이(hip/butt)",
+			"title_b": "엉덩이",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "다리(leg)",
+			"title_b": "다리",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "다리(leg), 허벅지(thigh)",
+			"title_b": "다리와 허벅지",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "무릎(knee/lap), 종아리(calf), 정강이(shin)",
+			"title_b": "무릎 종아리 정강이",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "발(foot)",
+			"title_b": "발",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "발목(ankle), 발바닥(sole), 발꿈치(heel)",
+			"title_b": "발목 발바닥 발꿈치",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "발가락(toe), 발톱(toenail)",
+			"title_b": "발가락 발톱",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "움직임과 자세 1",
+			"title_b": "움직임과 자세 1",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "움직임과 자세 2",
+			"title_b": "움직임과 자세 2",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "움직임과 자세 3",
+			"title_b": "움직임과 자세 3",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "몸 관리 1",
+			"title_b": "몸 관리 1",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "몸 관리 2",
+			"title_b": "몸 관리 2",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "기타",
+			"title_b": "기타",
+			"page_name": [
+				"행동 표현 영어"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8237/mp4/a1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

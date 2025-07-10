@@ -1,0 +1,651 @@
+{
+	"content_lan": "영어",
+	"content_code": 7781,
+	"content_name": "New 쉽게 말문이 트이는 Say Say Say",
+	"content_sample": "1/21",
+	"content_chasi": "20/20",
+	"content_size": "1100*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Lesson 01",
+			"title_b": "어떤 (종류의)",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Lesson 02",
+			"title_b": "~을 어떻게 하죠?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Lesson 03",
+			"title_b": "~인 것 같다, ~처럼 보이다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Lesson 04",
+			"title_b": "~ 단위로",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Lesson 05",
+			"title_b": "~이 없어요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Lesson 06",
+			"title_b": "~할 거예요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Lesson 07",
+			"title_b": "~해야 해요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Lesson 08",
+			"title_b": "두엇, 둘의",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Lesson 09",
+			"title_b": "~에 까다롭다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Lesson 10",
+			"title_b": "내가 생각했던 것보다 더 ~한",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Lesson 11",
+			"title_b": "~합시다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Lesson 12",
+			"title_b": "~라는 걸 알아요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Lesson 13",
+			"title_b": "~에 문제가 있어요, ~때문에 골치가 아파요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Lesson 14",
+			"title_b": "가지고 있다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Lesson 15",
+			"title_b": "~해주셔서 감사해요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Lesson 16",
+			"title_b": "너무 ~한",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Lesson 17",
+			"title_b": "~을 ~(되게) 하다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Lesson 18",
+			"title_b": "~해서 기뻐요(다행이에요)",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Lesson 19",
+			"title_b": "이 운송수단이 ~에 가나요?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Lesson 20",
+			"title_b": "~하려는 중이에요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Lesson 21",
+			"title_b": "실례합니다만(죄송하지만), 이게 ~인가요?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Lesson 22",
+			"title_b": "나는 ~라고 생각해요, ~인 것 같아요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Lesson 23",
+			"title_b": "~에 ~을 주입하다(투자하다)",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Lesson 24",
+			"title_b": "~에(게)서 받은 거예요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Lesson 25",
+			"title_b": "~ 죄송하지만",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Lesson 26",
+			"title_b": "~에 문제가 있나요?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Lesson 27",
+			"title_b": "차를 가까이 대다, 끌어올리다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Lesson 28",
+			"title_b": "~을 포함해서",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Lesson 29",
+			"title_b": "~를 초대하다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Lesson 30",
+			"title_b": "여기 ~이 있어요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "Lesson 31",
+			"title_b": "~한 …라니!",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "Lesson 32",
+			"title_b": "~해주시겠어요?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "Lesson 33",
+			"title_b": "또 하나의, 다른, 더",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "Lesson 34",
+			"title_b": "전 ~로 할래요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "Lesson 35",
+			"title_b": "~에 가는 길을 아세요?",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "Lesson 36",
+			"title_b": "~을 주세요, ~을 원해요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "Lesson 37",
+			"title_b": "~표",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "Lesson 38",
+			"title_b": "~이 있는 것 같아요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "Lesson 39",
+			"title_b": "계획이 있다",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "Lesson 40",
+			"title_b": "~이 정말 기대돼요",
+			"page_name": [
+				"Intro",
+				"Pattern 1",
+				"Pattern 2",
+				"Pattern 3",
+				"Pattern 4",
+				"Pattern 5",
+				"Summary"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7781/mp4_bind/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

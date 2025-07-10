@@ -1,401 +1,461 @@
 {
-	"content_lan": "중국어",
-	"content_code": 8123,
-	"content_name": "1분 말하기 중국어 트레이닝 2",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "이희진",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "한여름 더위엔 수박이 최고!",
-			"title_b": "한여름 더위엔 수박이 최고",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "효심 깊은 착한 딸",
-			"title_b": "효심 깊은 착한 딸",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "졸업 후 나의 진로는?",
-			"title_b": "졸업 후 나의 진로는",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "밤을 잊은 열공 모드!",
-			"title_b": "밤을 잊은 열공 모드",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "비 오는 날엔 향긋한 커피를~",
-			"title_b": "비 오는 날엔 향긋한 커피를",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "내 자전거의 행방은?",
-			"title_b": "내 자전거의 행방은",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "걸어서 강남까지?",
-			"title_b": "걸어서 강남까지",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "뒹굴뒹굴 책 보기",
-			"title_b": "뒹굴뒹굴 책 보기",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "친구에서 연인으로",
-			"title_b": "친구에서 연인으로",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "알다가도 모를 그녀의 마음",
-			"title_b": "알다가도 모를 그녀의 마음",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "취향까지 닮은 우리는 친구!",
-			"title_b": "취향까지 닮은 우리는 친구",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "연상연하 커플",
-			"title_b": "연상연하 커플",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "축구가 없으면 무슨 재미",
-			"title_b": "축구가 없으면 무슨 재미",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "좋은 약은 입에 쓴 법",
-			"title_b": "좋은 약은 입에 쓴 법",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "첫눈 오는 날, 너와 나의 추억 만들기",
-			"title_b": "첫눈 오는 날 너와 나의 추억 만들기",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "로마행 항공권이 생긴다면?",
-			"title_b": "로마행 항공권이 생긴다면",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "집 단장을 합시다",
-			"title_b": "집 단장을 합시다",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "사장님의 일상 엿보기",
-			"title_b": "사장님의 일상 엿보기",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "엄마의 첫사랑 이야기",
-			"title_b": "엄마의 첫사랑 이야기",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "내 물건에 발이 달렸나?",
-			"title_b": "내 물건에 발이 달렸나",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "할아버지, 할머니 어서 오세요!",
-			"title_b": "할아버지 할머니 어서 오세요",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "사라진 반지는 어디에?",
-			"title_b": "사라진 반지는 어디에",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "쇼핑은 언제나 즐거워!",
-			"title_b": "쇼핑은 언제나 즐거워",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "취업 전쟁에서 승리하다",
-			"title_b": "취업 전쟁에서 승리하다",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "먹는 게 남는 법!",
-			"title_b": "먹는 게 남는 법",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "주식에 울고 주식에 웃고",
-			"title_b": "주식에 울고 주식에 웃고",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "난 한다면 하는 사람",
-			"title_b": "난 한다면 하는 사람",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "졸업은 끝이 아닌 새로운 시작",
-			"title_b": "졸업은 끝이 아닌 새로운 시작",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "고3 수험생에 임하는 자세",
-			"title_b": "고3 수험생에 임하는 자세",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "희망찬 새해를 맞이하며 건배!",
-			"title_b": "희망찬 새해를 맞이하며 건배",
-			"page_name": [
-				"학습 목표",
-				"회화 강의",
-				"1분 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 8123,
+  "content_name": "1분 말하기 중국어 트레이닝 2",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "이희진",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "한여름 더위엔 수박이 최고!",
+      "title_b": "한여름 더위엔 수박이 최고",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "효심 깊은 착한 딸",
+      "title_b": "효심 깊은 착한 딸",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "졸업 후 나의 진로는?",
+      "title_b": "졸업 후 나의 진로는",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "밤을 잊은 열공 모드!",
+      "title_b": "밤을 잊은 열공 모드",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "비 오는 날엔 향긋한 커피를~",
+      "title_b": "비 오는 날엔 향긋한 커피를",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "내 자전거의 행방은?",
+      "title_b": "내 자전거의 행방은",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "걸어서 강남까지?",
+      "title_b": "걸어서 강남까지",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "뒹굴뒹굴 책 보기",
+      "title_b": "뒹굴뒹굴 책 보기",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "친구에서 연인으로",
+      "title_b": "친구에서 연인으로",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "알다가도 모를 그녀의 마음",
+      "title_b": "알다가도 모를 그녀의 마음",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "취향까지 닮은 우리는 친구!",
+      "title_b": "취향까지 닮은 우리는 친구",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "연상연하 커플",
+      "title_b": "연상연하 커플",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "축구가 없으면 무슨 재미",
+      "title_b": "축구가 없으면 무슨 재미",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "좋은 약은 입에 쓴 법",
+      "title_b": "좋은 약은 입에 쓴 법",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "첫눈 오는 날, 너와 나의 추억 만들기",
+      "title_b": "첫눈 오는 날 너와 나의 추억 만들기",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "로마행 항공권이 생긴다면?",
+      "title_b": "로마행 항공권이 생긴다면",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "집 단장을 합시다",
+      "title_b": "집 단장을 합시다",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "사장님의 일상 엿보기",
+      "title_b": "사장님의 일상 엿보기",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "엄마의 첫사랑 이야기",
+      "title_b": "엄마의 첫사랑 이야기",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "내 물건에 발이 달렸나?",
+      "title_b": "내 물건에 발이 달렸나",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "할아버지, 할머니 어서 오세요!",
+      "title_b": "할아버지 할머니 어서 오세요",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "사라진 반지는 어디에?",
+      "title_b": "사라진 반지는 어디에",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "쇼핑은 언제나 즐거워!",
+      "title_b": "쇼핑은 언제나 즐거워",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "취업 전쟁에서 승리하다",
+      "title_b": "취업 전쟁에서 승리하다",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "먹는 게 남는 법!",
+      "title_b": "먹는 게 남는 법",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "주식에 울고 주식에 웃고",
+      "title_b": "주식에 울고 주식에 웃고",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "난 한다면 하는 사람",
+      "title_b": "난 한다면 하는 사람",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "졸업은 끝이 아닌 새로운 시작",
+      "title_b": "졸업은 끝이 아닌 새로운 시작",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "고3 수험생에 임하는 자세",
+      "title_b": "고3 수험생에 임하는 자세",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "희망찬 새해를 맞이하며 건배!",
+      "title_b": "희망찬 새해를 맞이하며 건배",
+      "page_name": [
+        "학습 목표",
+        "회화 강의",
+        "1분 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8123/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8123/mobile_500k/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

@@ -1,251 +1,299 @@
-﻿{
-	"content_lan": "일본어",
-	"content_code": "8415",
-	"content_name": "나의 첫 도전 일본어 회화 4 : 현지에서 통하는 말하기",
-	"content_sample": "1",
-	"content_chasi": "24",
-	"content_size": "1000*650",
-	"content_cm": "신재민",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "백화점 - 표현 익히기",
-			"title_b": "백화점 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "백화점 - 회화 연습",
-			"title_b": "백화점 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "레스토랑 - 표현 익히기",
-			"title_b": "레스토랑 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "레스토랑 - 회화 연습",
-			"title_b": "레스토랑 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "역 - 표현 익히기",
-			"title_b": "역 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "역 - 회화 연습",
-			"title_b": "역 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "택시 - 표현 익히기",
-			"title_b": "택시 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "택시 - 회화 연습",
-			"title_b": "택시 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "학교 - 표현 익히기",
-			"title_b": "학교 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "학교 - 회화 연습",
-			"title_b": "학교 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "병원 - 표현 익히기",
-			"title_b": "병원 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "병원 - 회화 연습",
-			"title_b": "병원 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "친구 집 - 표현 익히기",
-			"title_b": "친구 집 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "친구 집 - 회화 연습",
-			"title_b": "친구 집 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "은행 - 표현 익히기",
-			"title_b": "은행 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "은행 - 회화 연습",
-			"title_b": "은행 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "여행사 - 표현 익히기",
-			"title_b": "여행사 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "여행사 - 회화 연습",
-			"title_b": "여행사 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "우체국 - 표현 익히기",
-			"title_b": "우체국 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "우체국 - 회화 연습",
-			"title_b": "우체국 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "미용실 - 표현 익히기",
-			"title_b": "미용실 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "미용실 - 회화 연습",
-			"title_b": "미용실 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "회사 - 표현 익히기",
-			"title_b": "회사 표현 익히기",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "회사 - 회화 연습",
-			"title_b": "회사 회화 연습",
-			"page_name": [
-				"강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+{
+  "content_lan": "일본어",
+  "content_code": "8415",
+  "content_name": "나의 첫 도전 일본어 회화 4 : 현지에서 통하는 말하기",
+  "content_sample": "1",
+  "content_chasi": "24",
+  "content_size": "1000*650",
+  "content_cm": "신재민",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "백화점 - 표현 익히기",
+      "title_b": "백화점 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "백화점 - 회화 연습",
+      "title_b": "백화점 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "레스토랑 - 표현 익히기",
+      "title_b": "레스토랑 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "레스토랑 - 회화 연습",
+      "title_b": "레스토랑 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "역 - 표현 익히기",
+      "title_b": "역 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "역 - 회화 연습",
+      "title_b": "역 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "택시 - 표현 익히기",
+      "title_b": "택시 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "택시 - 회화 연습",
+      "title_b": "택시 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "학교 - 표현 익히기",
+      "title_b": "학교 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "학교 - 회화 연습",
+      "title_b": "학교 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "병원 - 표현 익히기",
+      "title_b": "병원 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "병원 - 회화 연습",
+      "title_b": "병원 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "친구 집 - 표현 익히기",
+      "title_b": "친구 집 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "친구 집 - 회화 연습",
+      "title_b": "친구 집 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "은행 - 표현 익히기",
+      "title_b": "은행 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "은행 - 회화 연습",
+      "title_b": "은행 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "여행사 - 표현 익히기",
+      "title_b": "여행사 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "여행사 - 회화 연습",
+      "title_b": "여행사 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "우체국 - 표현 익히기",
+      "title_b": "우체국 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "우체국 - 회화 연습",
+      "title_b": "우체국 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "미용실 - 표현 익히기",
+      "title_b": "미용실 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "미용실 - 회화 연습",
+      "title_b": "미용실 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "회사 - 표현 익히기",
+      "title_b": "회사 표현 익히기",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "회사 - 회화 연습",
+      "title_b": "회사 회화 연습",
+      "page_name": [
+        "강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8415/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8415/mobile_500k/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

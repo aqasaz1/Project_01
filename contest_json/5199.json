@@ -1,516 +1,576 @@
 {
-	"content_lan": "중국어",
-	"content_code": 5199,
-	"content_name": "발전한어 듣기 초급 2",
-	"content_sample": "1/17",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "서혜린",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "왜 저에게 선물을 주세요?(1)",
-			"title_b": "왜 저에게 선물을 주세요1",
-			"page_name": [
-				"학습 포인트",
-				"음절 찾기 퀴즈",
-				"단어 찾기 퀴즈",
-				"성모, 운모, 성조 찾기 퀴즈",
-				"주요 단어 연습",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "왜 저에게 선물을 주세요?(2)",
-			"title_b": "왜 저에게 선물을 주세요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "당신은 중국어를 이렇게나 잘하는군요.(1)",
-			"title_b": "당신은 중국어를 이렇게나 잘하는군요1",
-			"page_name": [
-				"학습 포인트",
-				"음절 찾기 퀴즈",
-				"단어 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"주요 단어 연습",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "당신은 중국어를 이렇게나 잘하는군요.(2)",
-			"title_b": "당신은 중국어를 이렇게나 잘하는군요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "제 현금 카드를 잃어버렸어요.(1)",
-			"title_b": "제 현금 카드를 잃어버렸어요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"성조 찾기 퀴즈",
-				"성모, 운모, 성조 찾기 퀴즈",
-				"한어병음 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈 ②",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "제 현금 카드를 잃어버렸어요.(2)",
-			"title_b": "제 현금 카드를 잃어버렸어요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "컴퓨터를 다 고쳤어요.(1)",
-			"title_b": "컴퓨터를 다 고쳤어요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"성조 찾기 퀴즈",
-				"한어병음 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈 ②",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "컴퓨터를 다 고쳤어요.(2)",
-			"title_b": "컴퓨터를 다 고쳤어요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "창문을 닫아 주세요.(1)",
-			"title_b": "창문을 닫아 주세요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"성조 찾기 퀴즈",
-				"한어병음 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈 ②",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "창문을 닫아 주세요.(2)",
-			"title_b": "창문을 닫아 주세요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "제 카메라를 찾았어요.(1)",
-			"title_b": "제 카메라를 찾았어요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"문장 찾기 퀴즈 ①",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈 ②",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "제 카메라를 찾았어요.(2)",
-			"title_b": "제 카메라를 찾았어요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "무슨 색깔을 살 거예요?(1)",
-			"title_b": "무슨 색깔을 살 거예요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"문장 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈 ②",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "무슨 색깔을 살 거예요?(2)",
-			"title_b": "무슨 색깔을 살 거예요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "나는 감기에 걸렸어요.(1)",
-			"title_b": "나는 감기에 걸렸어요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"문장 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈 ②",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "나는 감기에 걸렸어요.(2)",
-			"title_b": "나는 감기에 걸렸어요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"내용 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "제가 내려가서 그녀를 찾을게요.(1)",
-			"title_b": "제가 내려가서 그녀를 찾을게요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"문장 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈 ②",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "제가 내려가서 그녀를 찾을게요.(2)",
-			"title_b": "제가 내려가서 그녀를 찾을게요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"OX 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "바닥에 누워 있는 이 사람은 어떻게 된 거예요?(1)",
-			"title_b": "바닥에 누워 있는 이 사람은 어떻게 된 거예요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"문장 찾기 퀴즈 ①",
-				"한어병음 찾기 퀴즈",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈 ②",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "바닥에 누워 있는 이 사람은 어떻게 된 거예요?(2)",
-			"title_b": "바닥에 누워 있는 이 사람은 어떻게 된 거예요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"내용 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "곧 방학을 하죠?(1)",
-			"title_b": "곧 방학을 하죠1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_21h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "곧 방학을 하죠?(2)",
-			"title_b": "곧 방학을 하죠2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"OX 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_22h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "저는 지금 바빠요.(1)",
-			"title_b": "저는 지금 바빠요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"그림 카드",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_23h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "저는 지금 바빠요.(2)",
-			"title_b": "저는 지금 바빠요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				" 답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_24h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "당신 왜 이제야 오나요?(1)",
-			"title_b": "당신 왜 이제야 오나요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"문장 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_25h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "당신 왜 이제야 오나요?(2)",
-			"title_b": "당신 왜 이제야 오나요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"답 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_26h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "그들이 말하는 중국어를 당신은 알아들을 수 있나요?(1)",
-			"title_b": "그들이 말하는 중국어를 당신은 알아들을 수 있나요1",
-			"page_name": [
-				"학습 포인트",
-				"단어 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"질문 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_27h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "그들이 말하는 중국어를 당신은 알아들을 수 있나요?(2)",
-			"title_b": "그들이 말하는 중국어를 당신은 알아들을 수 있나요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"내용 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_28h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "그들은 아주 많은 곳을 갔었어요.(1)",
-			"title_b": "그들은 아주 많은 곳을 갔었어요1",
-			"page_name": [
-				"학습 포인트",
-				"표현 찾기 퀴즈",
-				"한어병음 찾기 퀴즈",
-				"새 단어 익히기",
-				"구와 문장 익히기",
-				"질문 찾기 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_29h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "그들은 아주 많은 곳을 갔었어요.(2)",
-			"title_b": "그들은 아주 많은 곳을 갔었어요2",
-			"page_name": [
-				"학습 포인트",
-				"새 단어 익히기",
-				"듣기 훈련 ①",
-				"듣기 강의",
-				"듣기 훈련 ②",
-				"OX 퀴즈",
-				"학습 정리"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_30h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 5199,
+  "content_name": "발전한어 듣기 초급 2",
+  "content_sample": "1/17",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "서혜린",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "왜 저에게 선물을 주세요?(1)",
+      "title_b": "왜 저에게 선물을 주세요1",
+      "page_name": [
+        "학습 포인트",
+        "음절 찾기 퀴즈",
+        "단어 찾기 퀴즈",
+        "성모, 운모, 성조 찾기 퀴즈",
+        "주요 단어 연습",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "왜 저에게 선물을 주세요?(2)",
+      "title_b": "왜 저에게 선물을 주세요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "당신은 중국어를 이렇게나 잘하는군요.(1)",
+      "title_b": "당신은 중국어를 이렇게나 잘하는군요1",
+      "page_name": [
+        "학습 포인트",
+        "음절 찾기 퀴즈",
+        "단어 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "주요 단어 연습",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "당신은 중국어를 이렇게나 잘하는군요.(2)",
+      "title_b": "당신은 중국어를 이렇게나 잘하는군요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "제 현금 카드를 잃어버렸어요.(1)",
+      "title_b": "제 현금 카드를 잃어버렸어요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "성조 찾기 퀴즈",
+        "성모, 운모, 성조 찾기 퀴즈",
+        "한어병음 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈 ②",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "제 현금 카드를 잃어버렸어요.(2)",
+      "title_b": "제 현금 카드를 잃어버렸어요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "컴퓨터를 다 고쳤어요.(1)",
+      "title_b": "컴퓨터를 다 고쳤어요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "성조 찾기 퀴즈",
+        "한어병음 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈 ②",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "컴퓨터를 다 고쳤어요.(2)",
+      "title_b": "컴퓨터를 다 고쳤어요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "창문을 닫아 주세요.(1)",
+      "title_b": "창문을 닫아 주세요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "성조 찾기 퀴즈",
+        "한어병음 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈 ②",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "창문을 닫아 주세요.(2)",
+      "title_b": "창문을 닫아 주세요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "제 카메라를 찾았어요.(1)",
+      "title_b": "제 카메라를 찾았어요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "문장 찾기 퀴즈 ①",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈 ②",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "제 카메라를 찾았어요.(2)",
+      "title_b": "제 카메라를 찾았어요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "무슨 색깔을 살 거예요?(1)",
+      "title_b": "무슨 색깔을 살 거예요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "문장 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈 ②",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "무슨 색깔을 살 거예요?(2)",
+      "title_b": "무슨 색깔을 살 거예요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "나는 감기에 걸렸어요.(1)",
+      "title_b": "나는 감기에 걸렸어요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "문장 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈 ②",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "나는 감기에 걸렸어요.(2)",
+      "title_b": "나는 감기에 걸렸어요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "내용 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "제가 내려가서 그녀를 찾을게요.(1)",
+      "title_b": "제가 내려가서 그녀를 찾을게요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "문장 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈 ②",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "제가 내려가서 그녀를 찾을게요.(2)",
+      "title_b": "제가 내려가서 그녀를 찾을게요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "OX 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "바닥에 누워 있는 이 사람은 어떻게 된 거예요?(1)",
+      "title_b": "바닥에 누워 있는 이 사람은 어떻게 된 거예요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "문장 찾기 퀴즈 ①",
+        "한어병음 찾기 퀴즈",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈 ②",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "바닥에 누워 있는 이 사람은 어떻게 된 거예요?(2)",
+      "title_b": "바닥에 누워 있는 이 사람은 어떻게 된 거예요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "내용 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "곧 방학을 하죠?(1)",
+      "title_b": "곧 방학을 하죠1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "곧 방학을 하죠?(2)",
+      "title_b": "곧 방학을 하죠2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "OX 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "저는 지금 바빠요.(1)",
+      "title_b": "저는 지금 바빠요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "그림 카드",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "저는 지금 바빠요.(2)",
+      "title_b": "저는 지금 바빠요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        " 답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "당신 왜 이제야 오나요?(1)",
+      "title_b": "당신 왜 이제야 오나요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "문장 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "당신 왜 이제야 오나요?(2)",
+      "title_b": "당신 왜 이제야 오나요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "답 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "그들이 말하는 중국어를 당신은 알아들을 수 있나요?(1)",
+      "title_b": "그들이 말하는 중국어를 당신은 알아들을 수 있나요1",
+      "page_name": [
+        "학습 포인트",
+        "단어 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "질문 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "그들이 말하는 중국어를 당신은 알아들을 수 있나요?(2)",
+      "title_b": "그들이 말하는 중국어를 당신은 알아들을 수 있나요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "내용 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "그들은 아주 많은 곳을 갔었어요.(1)",
+      "title_b": "그들은 아주 많은 곳을 갔었어요1",
+      "page_name": [
+        "학습 포인트",
+        "표현 찾기 퀴즈",
+        "한어병음 찾기 퀴즈",
+        "새 단어 익히기",
+        "구와 문장 익히기",
+        "질문 찾기 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "그들은 아주 많은 곳을 갔었어요.(2)",
+      "title_b": "그들은 아주 많은 곳을 갔었어요2",
+      "page_name": [
+        "학습 포인트",
+        "새 단어 익히기",
+        "듣기 훈련 ①",
+        "듣기 강의",
+        "듣기 훈련 ②",
+        "OX 퀴즈",
+        "학습 정리"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5199/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

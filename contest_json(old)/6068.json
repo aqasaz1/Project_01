@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "6068",
+	"content_name": "쁘리벳 러시아어 동사 따라잡기",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "동사 원형, 동사 인칭변화",
+			"title_b": "동사 원형과 동사 인칭변화",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "불완료형, 완료형",
+			"title_b": "불완료형과 완료형",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "과거형, 미래형",
+			"title_b": "과거형과 미래형",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "불완료형, 완료형 의미",
+			"title_b": "불완료형과 완료형 의미",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "접두사의 의미",
+			"title_b": "접두사의 의미",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "운동동사 1",
+			"title_b": "운동동사 1",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "운동동사 2",
+			"title_b": "운동동사 2",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "접두사가 있는 운동동사",
+			"title_b": "접두사가 있는 운동동사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "운동동사 특수 표현",
+			"title_b": "운동동사 특수 표현",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "재귀동사 1",
+			"title_b": "재귀동사 1",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "재귀동사 2",
+			"title_b": "재귀동사 2",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "형동사 1",
+			"title_b": "형동사 1",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "형동사 2",
+			"title_b": "형동사 2",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "부동사",
+			"title_b": "부동사",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "명령형, 미정형 사용법",
+			"title_b": "명령형과 미정형 사용법",
+			"page_name": [
+				"인트로",
+				"오늘의 강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6068/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

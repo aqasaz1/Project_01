@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": "8417",
+	"content_name": "핵심만 콕 집어주는, 무조건 토익 입문 LC",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1170*658",
+	"content_cm": "김태우",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "PART1. 한 사람 등장 사진",
+			"title_b": "PART1 한 사람 등장 사진",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_01.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "PART1. 두 사람 이상 등장 사진",
+			"title_b": "PART1 두 사람 이상 등장 사진",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_02.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "PART1. 사물, 풍경 사진",
+			"title_b": "PART1 사물 사진 풍경 사진",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_03.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "PART2. who, when, where(1)",
+			"title_b": "PART2 who when where 1",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_04.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "PART2. who, when, where(2)",
+			"title_b": "PART2 who when where 2",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_05.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "PART2. what, how, why, which(1)",
+			"title_b": "PART2 what how why which 1",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_06.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "PART2. what, how, why, which(2)",
+			"title_b": "PART2 what how why which 2",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_07.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "PART3. 공공 장소",
+			"title_b": "PART3 공공 장소",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_08.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "PART3. 회사 생활",
+			"title_b": "PART3 회사 생활",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_09.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "PART4. 전화 녹음 메시지",
+			"title_b": "PART4 전화 녹음 메시지",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_10.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "PART4. 연설, 인물 소개",
+			"title_b": "PART4 연설 인물 소개",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_11.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "종합 테스트 - PART1",
+			"title_b": "종합 테스트 PART1",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_12.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "종합 테스트 - PART2",
+			"title_b": "종합 테스트 PART2",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_13.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "종합 테스트 - PART3",
+			"title_b": "종합 테스트 PART3",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_14.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "종합 테스트 - PART4",
+			"title_b": "종합 테스트 PART4",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8417/mp4_bind/z1_15.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

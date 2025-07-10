@@ -1,489 +1,549 @@
 {
-	"content_lan": "중국어",
-	"content_code": 5195,
-	"content_name": "발전한어 말하기 초급 1",
-	"content_sample": "1/16",
-	"content_chasi": "15/15",
-	"content_size": "1000*650",
-	"content_cm": "이희진",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "안녕하세요! (1)",
-			"title_b": "안녕하세요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_01h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "안녕하세요! (2)",
-			"title_b": "안녕하세요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_02h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "안녕하세요! (3)",
-			"title_b": "안녕하세요 3",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_03h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "감사합니다! (1)",
-			"title_b": "감사합니다 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_04h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "감사합니다! (2)",
-			"title_b": "감사합니다 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_05h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "감사합니다! (3)",
-			"title_b": "감사합니다 3",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_06h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "오늘은 월요일이에요. (1)",
-			"title_b": "오늘은 월요일이에요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_07h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "오늘은 월요일이에요. (2)",
-			"title_b": "오늘은 월요일이에요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_08h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "저는 중국인이에요. (1)",
-			"title_b": "저는 중국인이에요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_09h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "저는 중국인이에요. (2)",
-			"title_b": "저는 중국인이에요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_10h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "저는 중국인이에요. (3)",
-			"title_b": "저는 중국인이에요 3",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_11h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "저는 중국어를 공부해요. (1)",
-			"title_b": "저는 중국어를 공부해요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_12h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "저는 중국어를 공부해요. (2)",
-			"title_b": "저는 중국어를 공부해요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_13h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "저는 중국어를 공부해요. (3)",
-			"title_b": "저는 중국어를 공부해요 3",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_14h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "복습 (1)",
-			"title_b": "복습 1",
-			"page_name": [
-				"Intro",
-				"단어 확인",
-				"문장 확인",
-				"말하기 연습",
-				"문화 강의",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_15h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "당신네 반은 몇 명인가요? (1)",
-			"title_b": "당신네 반은 몇 명인가요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_16h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "당신네 반은 몇 명인가요? (2)",
-			"title_b": "당신네 반은 몇 명인가요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_17h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "모두 얼마예요? (1)",
-			"title_b": "모두 얼마예요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_18h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "모두 얼마예요? (2)",
-			"title_b": "모두 얼마예요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_19h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "말씀 좀 여쭙겠습니다. 은행은 어디에 있나요? (1)",
-			"title_b": "말씀 좀 여쭙겠습니다 은행은 어디에 있나요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_20h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "말씀 좀 여쭙겠습니다. 은행은 어디에 있나요? (2)",
-			"title_b": "말씀 좀 여쭙겠습니다 은행은 어디에 있나요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_21h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "오늘은 몇 월 며칠인가요? (1)",
-			"title_b": "오늘은 몇 월 며칠인가요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_22h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "오늘은 몇 월 며칠인가요? (2)",
-			"title_b": "오늘은 몇 월 며칠인가요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_23h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "나는 매일 8시에 수업을 들어요. (1)",
-			"title_b": "나는 매일 8시에 수업을 들어요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_24h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "나는 매일 8시에 수업을 들어요. (2)",
-			"title_b": "나는 매일 8시에 수업을 들어요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_25h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "나는 유학생 기숙사에 살아요. (1)",
-			"title_b": "나는 유학생 기숙사에 살아요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_26h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "나는 유학생 기숙사에 살아요. (2)",
-			"title_b": "나는 유학생 기숙사에 살아요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_27h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "나는 베이징에서 중국어를 공부해요. (1)",
-			"title_b": "나는 베이징에서 중국어를 공부해요 1",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_28h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "나는 베이징에서 중국어를 공부해요. (2)",
-			"title_b": "나는 베이징에서 중국어를 공부해요 2",
-			"page_name": [
-				"Intro",
-				"워밍업",
-				"대화 듣기",
-				"문장 배우기",
-				"대화 다시 듣기",
-				"연습문제",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_29h_500k.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "복습 (2)",
-			"title_b": "복습 2",
-			"page_name": [
-				"Intro",
-				"단어 확인",
-				"문장 확인",
-				"말하기 연습",
-				"문화 강의",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_30h_500k.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 5195,
+  "content_name": "발전한어 말하기 초급 1",
+  "content_sample": "1/16",
+  "content_chasi": "15/15",
+  "content_size": "1000*650",
+  "content_cm": "이희진",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "안녕하세요! (1)",
+      "title_b": "안녕하세요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "안녕하세요! (2)",
+      "title_b": "안녕하세요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "안녕하세요! (3)",
+      "title_b": "안녕하세요 3",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "감사합니다! (1)",
+      "title_b": "감사합니다 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "감사합니다! (2)",
+      "title_b": "감사합니다 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "감사합니다! (3)",
+      "title_b": "감사합니다 3",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "오늘은 월요일이에요. (1)",
+      "title_b": "오늘은 월요일이에요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "오늘은 월요일이에요. (2)",
+      "title_b": "오늘은 월요일이에요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "저는 중국인이에요. (1)",
+      "title_b": "저는 중국인이에요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "저는 중국인이에요. (2)",
+      "title_b": "저는 중국인이에요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "저는 중국인이에요. (3)",
+      "title_b": "저는 중국인이에요 3",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "저는 중국어를 공부해요. (1)",
+      "title_b": "저는 중국어를 공부해요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "저는 중국어를 공부해요. (2)",
+      "title_b": "저는 중국어를 공부해요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "저는 중국어를 공부해요. (3)",
+      "title_b": "저는 중국어를 공부해요 3",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "복습 (1)",
+      "title_b": "복습 1",
+      "page_name": [
+        "Intro",
+        "단어 확인",
+        "문장 확인",
+        "말하기 연습",
+        "문화 강의",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "당신네 반은 몇 명인가요? (1)",
+      "title_b": "당신네 반은 몇 명인가요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "당신네 반은 몇 명인가요? (2)",
+      "title_b": "당신네 반은 몇 명인가요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "모두 얼마예요? (1)",
+      "title_b": "모두 얼마예요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "모두 얼마예요? (2)",
+      "title_b": "모두 얼마예요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "말씀 좀 여쭙겠습니다. 은행은 어디에 있나요? (1)",
+      "title_b": "말씀 좀 여쭙겠습니다 은행은 어디에 있나요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "말씀 좀 여쭙겠습니다. 은행은 어디에 있나요? (2)",
+      "title_b": "말씀 좀 여쭙겠습니다 은행은 어디에 있나요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "오늘은 몇 월 며칠인가요? (1)",
+      "title_b": "오늘은 몇 월 며칠인가요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "오늘은 몇 월 며칠인가요? (2)",
+      "title_b": "오늘은 몇 월 며칠인가요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "나는 매일 8시에 수업을 들어요. (1)",
+      "title_b": "나는 매일 8시에 수업을 들어요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "나는 매일 8시에 수업을 들어요. (2)",
+      "title_b": "나는 매일 8시에 수업을 들어요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "나는 유학생 기숙사에 살아요. (1)",
+      "title_b": "나는 유학생 기숙사에 살아요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "나는 유학생 기숙사에 살아요. (2)",
+      "title_b": "나는 유학생 기숙사에 살아요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "나는 베이징에서 중국어를 공부해요. (1)",
+      "title_b": "나는 베이징에서 중국어를 공부해요 1",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "나는 베이징에서 중국어를 공부해요. (2)",
+      "title_b": "나는 베이징에서 중국어를 공부해요 2",
+      "page_name": [
+        "Intro",
+        "워밍업",
+        "대화 듣기",
+        "문장 배우기",
+        "대화 다시 듣기",
+        "연습문제",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "복습 (2)",
+      "title_b": "복습 2",
+      "page_name": [
+        "Intro",
+        "단어 확인",
+        "문장 확인",
+        "말하기 연습",
+        "문화 강의",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5195/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

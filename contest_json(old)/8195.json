@@ -1,0 +1,341 @@
+{
+	"content_lan": "영어",
+	"content_code": 8195,
+	"content_name": "[야나두] 리얼대화영어 - 초급편",
+	"content_sample": "1/16",
+	"content_chasi": "15/15",
+	"content_size": "1000*650",
+	"content_cm": "오순정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "친구와 함께 운동한 날",
+			"title_b": "친구와 함께 운동한 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "카페에서 커피 주문하기",
+			"title_b": "카페에서 커피 주문하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "오대리랑 점심 메뉴 정하기",
+			"title_b": "오대리랑 점심 메뉴 정하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "오대리 새 신발 칭찬해 주기",
+			"title_b": "오대리 새 신발 칭찬해 주기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "승진한 친구 축하하기",
+			"title_b": "승진한 친구 축하하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "화난 오드리 타이르기",
+			"title_b": "화난 오드리 타이르기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "친구에게 소개팅 부탁하는 날",
+			"title_b": "친구에게 소개팅 부탁하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "오랜만에 친구랑 만나는 날",
+			"title_b": "오랜만에 친구랑 만나는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "현지인에게 사진 촬영 부탁하기",
+			"title_b": "현지인에게 사진 촬영 부탁하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "공공장소 에티켓 요청하기",
+			"title_b": "공공장소 에티켓 요청하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "지각 상습범 경고하는 날",
+			"title_b": "지각 상습범 경고하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "카드값 푸념하는 날",
+			"title_b": "카드값 푸념하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "속상한 친구 걱정해 주기",
+			"title_b": "속상한 친구 걱정해 주기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "신규 입사자와 첫 대면하는 날",
+			"title_b": "신규 입사자와 첫 대면하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "처음 만난 사람과 자연스럽게 대화하기",
+			"title_b": "처음 만난 사람과 자연스럽게 대화하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "피곤한 날 친구에게 푸념하기",
+			"title_b": "피곤한 날 친구에게 푸념하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "옷 가게에서 쇼핑하는 날",
+			"title_b": "옷 가게에서 쇼핑하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "아프지만 엄살 부리기 싫은 날",
+			"title_b": "아프지만 엄살 부리기 싫은 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "친구에게 깜짝 소식 전하는 날",
+			"title_b": "친구에게 깜짝 소식 전하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "친구랑 영화 취향 공유하기",
+			"title_b": "친구랑 영화 취향 공유하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "취업한 친구 축하해 주는 날",
+			"title_b": "취업한 친구 축하해 주는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "친구랑 근황 토크",
+			"title_b": "친구랑 근황 토크",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "오대리에게 도움 요청하기",
+			"title_b": "오대리에게 도움 요청하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "친구랑 술 한잔하는 날",
+			"title_b": "친구랑 술 한잔하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "발표 망친 날, 동료에게 푸념하기",
+			"title_b": "발표 망친 날, 동료에게 푸념하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "친구에게 등산의 묘미 알려주기",
+			"title_b": "친구에게 등산의 묘미 알려주기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "호감 가는 사람 번호 물어보기",
+			"title_b": "호감 가는 사람 번호 물어보기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "친구랑 주말 약속 잡기",
+			"title_b": "친구랑 주말 약속 잡기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "식당에서 음식 주문하기",
+			"title_b": "식당에서 음식 주문하기",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "친구랑 집들이 하는 날",
+			"title_b": "친구랑 집들이 하는 날",
+			"page_name": [
+				"Lecture",
+				"Practice"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8195/mp4_bind/z1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

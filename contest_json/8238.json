@@ -1,351 +1,419 @@
 {
-	"content_lan": "영어",
-	"content_code": "8238",
-	"content_name": "말하기가 되는 스피킹 영작문",
-	"content_sample": "1/18",
-	"content_chasi": "17/17",
-	"content_size": "1000*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "현재 vs. 현재진행",
-			"title_b": "현재 vs 현재진행",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "과거 vs. 과거진행",
-			"title_b": "과거 vs 과거진행",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "현재완료(경험) vs. 현재완료(계속)",
-			"title_b": "현재완료 경험 vs 현재완료 계속",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "현재완료 vs. 단순과거",
-			"title_b": "현재완료 vs 단순과거",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "미래시제 be going to vs. 미래시제 will",
-			"title_b": "미래시제 be going to vs 미래시제 will",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "예측의 be going to vs. 예측의 will",
-			"title_b": "예측의 be going to vs 예측의 will",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "1·2형식 동사 vs. 3형식 동사",
-			"title_b": "1형식과 2형식 동사 vs 3형식 동사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "4형식 동사 vs. 5형식 동사",
-			"title_b": "4형식 동사 vs 5형식 동사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "필요와 의무의 have to vs. 충고와 조언의 should",
-			"title_b": "필요와 의무의 have to vs 충고와 조언의 should",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "가능성과 추측의 could/might vs. 능력의 can/could",
-			"title_b": "가능성과 추측의 could와 might vs 능력의 can과 could",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "could have p.p. vs. should have p.p.",
-			"title_b": "could have pp vs should have pp",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "셀 수 있는 명사 vs. 셀 수 없는 명사",
-			"title_b": "셀 수 있는 명사 vs 셀 수 없는 명사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "부정관사 a(n) vs. 정관사 the",
-			"title_b": "부정관사 vs 정관사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "무관사 표현 vs. 정관사 표현",
-			"title_b": "무관사 표현 vs 정관사 표현",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "명사의 소유격 ’s vs. 명사의 소유격 of",
-			"title_b": "명사의 소유격 s vs 명사의 소유격 of",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "some vs. any",
-			"title_b": "some vs any",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "all, most vs. all of, most of",
-			"title_b": "all과 most vs all of와 most of",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "형용사 vs. 부사",
-			"title_b": "형용사 vs 부사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "현재분사 vs. 과거분사",
-			"title_b": "현재분사 vs 과거분사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "비교급 vs. 최상급",
-			"title_b": "비교급 vs 최상급",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "to부정사 vs. 동명사 I",
-			"title_b": "to부정사 vs 동명사 1",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "to부정사 vs. 동명사 II",
-			"title_b": "to부정사 vs 동명사 2",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "to부정사 표현 vs. 동명사 표현",
-			"title_b": "to부정사 표현 vs 동명사 표현",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "수동태의 현재와 과거 vs. 수동태의 진행과 완료",
-			"title_b": "수동태의 현재와 과거 vs 수동태의 진행과 완료",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "4형식 문장의 수동태 vs. 5형식 문장의 수동태",
-			"title_b": "4형식 문장의 수동태 vs 5형식 문장의 수동태",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "가정법 과거 vs. 가정법 과거완료",
-			"title_b": "가정법 과거 vs 가정법 과거완료",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "I wish 가정법 vs. without 가정법",
-			"title_b": "I wish 가정법 vs without 가정법",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "주격 관계대명사 vs. 목적격 관계대명사",
-			"title_b": "주격 관계대명사 vs 목적격 관계대명사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "관계대명사 whose vs. 관계대명사 what",
-			"title_b": "관계대명사 whose vs 관계대명사 what",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "시간 전치사 vs. 장소 전치사",
-			"title_b": "시간 전치사 vs 장소 전치사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "기타 전치사",
-			"title_b": "기타 전치사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "명사절 접속사 that vs. 명사절 접속사 what",
-			"title_b": "명사절 접속사 that vs 명사절 접속사 what",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "시간 및 이유의 부사절 접속사 vs. 조건 및 양보의 부사절 접속사",
-			"title_b": "시간 및 이유의 부사절 접속사 vs 조건 및 양보의 부사절 접속사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "접속사 vs. 전치사",
-			"title_b": "접속사 vs 전치사",
-			"page_name": [
-				"LECTURE"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_34h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": "8238",
+  "content_name": "말하기가 되는 스피킹 영작문",
+  "content_sample": "1/18",
+  "content_chasi": "17/17",
+  "content_size": "1000*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "현재 vs. 현재진행",
+      "title_b": "현재 vs 현재진행",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "과거 vs. 과거진행",
+      "title_b": "과거 vs 과거진행",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "현재완료(경험) vs. 현재완료(계속)",
+      "title_b": "현재완료 경험 vs 현재완료 계속",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "현재완료 vs. 단순과거",
+      "title_b": "현재완료 vs 단순과거",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "미래시제 be going to vs. 미래시제 will",
+      "title_b": "미래시제 be going to vs 미래시제 will",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "예측의 be going to vs. 예측의 will",
+      "title_b": "예측의 be going to vs 예측의 will",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "1·2형식 동사 vs. 3형식 동사",
+      "title_b": "1형식과 2형식 동사 vs 3형식 동사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "4형식 동사 vs. 5형식 동사",
+      "title_b": "4형식 동사 vs 5형식 동사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "필요와 의무의 have to vs. 충고와 조언의 should",
+      "title_b": "필요와 의무의 have to vs 충고와 조언의 should",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "가능성과 추측의 could/might vs. 능력의 can/could",
+      "title_b": "가능성과 추측의 could와 might vs 능력의 can과 could",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "could have p.p. vs. should have p.p.",
+      "title_b": "could have pp vs should have pp",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "셀 수 있는 명사 vs. 셀 수 없는 명사",
+      "title_b": "셀 수 있는 명사 vs 셀 수 없는 명사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "부정관사 a(n) vs. 정관사 the",
+      "title_b": "부정관사 vs 정관사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "무관사 표현 vs. 정관사 표현",
+      "title_b": "무관사 표현 vs 정관사 표현",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "명사의 소유격 ’s vs. 명사의 소유격 of",
+      "title_b": "명사의 소유격 s vs 명사의 소유격 of",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "some vs. any",
+      "title_b": "some vs any",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "all, most vs. all of, most of",
+      "title_b": "all과 most vs all of와 most of",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step1/a1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "형용사 vs. 부사",
+      "title_b": "형용사 vs 부사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "현재분사 vs. 과거분사",
+      "title_b": "현재분사 vs 과거분사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "비교급 vs. 최상급",
+      "title_b": "비교급 vs 최상급",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "to부정사 vs. 동명사 I",
+      "title_b": "to부정사 vs 동명사 1",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "to부정사 vs. 동명사 II",
+      "title_b": "to부정사 vs 동명사 2",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "to부정사 표현 vs. 동명사 표현",
+      "title_b": "to부정사 표현 vs 동명사 표현",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "수동태의 현재와 과거 vs. 수동태의 진행과 완료",
+      "title_b": "수동태의 현재와 과거 vs 수동태의 진행과 완료",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "4형식 문장의 수동태 vs. 5형식 문장의 수동태",
+      "title_b": "4형식 문장의 수동태 vs 5형식 문장의 수동태",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "가정법 과거 vs. 가정법 과거완료",
+      "title_b": "가정법 과거 vs 가정법 과거완료",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "I wish 가정법 vs. without 가정법",
+      "title_b": "I wish 가정법 vs without 가정법",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "주격 관계대명사 vs. 목적격 관계대명사",
+      "title_b": "주격 관계대명사 vs 목적격 관계대명사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "관계대명사 whose vs. 관계대명사 what",
+      "title_b": "관계대명사 whose vs 관계대명사 what",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "시간 전치사 vs. 장소 전치사",
+      "title_b": "시간 전치사 vs 장소 전치사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "기타 전치사",
+      "title_b": "기타 전치사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "명사절 접속사 that vs. 명사절 접속사 what",
+      "title_b": "명사절 접속사 that vs 명사절 접속사 what",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "시간 및 이유의 부사절 접속사 vs. 조건 및 양보의 부사절 접속사",
+      "title_b": "시간 및 이유의 부사절 접속사 vs 조건 및 양보의 부사절 접속사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "접속사 vs. 전치사",
+      "title_b": "접속사 vs 전치사",
+      "page_name": [
+        "LECTURE"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8238/mp4/a1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8238/mobile_500k/step2/a1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

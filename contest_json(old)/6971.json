@@ -1,0 +1,251 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6971,
+	"content_name": "나의 겁 없는 중국생활 중국어",
+	"content_sample": "1",
+	"content_chasi": "20",
+	"content_size": "1000*650",
+	"content_cm": "이희진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "전화로 식당 예약하기 외",
+			"title_b": "전화로 식당 예약하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "식당에서 자리 바꾸기 외",
+			"title_b": "식당에서 자리 바꾸기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "시원한 맥주 요청하기 외",
+			"title_b": "시원한 맥주 요청하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "스테이크 주문하기 외",
+			"title_b": "스테이크 주문하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "식당에서 음식 재촉하기 외",
+			"title_b": "식당에서 음식 재촉하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "국이 식었을 때 데워 달라고 요청하기 외",
+			"title_b": "국이 식었을 때 데워 달라고 요청하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "건배하기 외",
+			"title_b": "건배하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "한턱내기 외",
+			"title_b": "한턱내기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "장본 물건 배달 받기 외",
+			"title_b": "장본 물건 배달 받기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "아침식사 테이크아웃하기 외",
+			"title_b": "아침식사 테이크아웃하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "훠궈 주문하기 외",
+			"title_b": "훠궈 주문하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "길 묻기 외",
+			"title_b": "길 묻기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "버스-지하철 환승하기 외",
+			"title_b": "버스 지하철 환승하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "공항에서 자율 탑승 수속하기 외",
+			"title_b": "공항에서 자율 탑승 수속하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "보안검색대에서 재검 받기 외",
+			"title_b": "보안검색대에서 재검 받기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "기내식 먹기 외",
+			"title_b": "기내식 먹기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "전화로 호텔 예약하기 외",
+			"title_b": "전화로 호텔 예약하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "호텔 편의시설 이용하기 외",
+			"title_b": "호텔 편의시설 이용하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "장거리 여객버스 타기 외",
+			"title_b": "장거리 여객버스 타기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "차량 렌트하기 외",
+			"title_b": "차량 렌트하기 외",
+			"page_name": [
+				"인트로",
+				"오늘의 이야기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6971/mp4_bind/z1_20h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

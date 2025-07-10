@@ -1,592 +1,672 @@
 {
-	"content_lan": "중국어",
-	"content_code": 5577,
-	"content_name": "왕초보를 위한 속성 중국어 회화 - 기초 편",
-	"content_sample": "8/22",
-	"content_chasi": "20/20",
-	"content_size": "1000*650",
-	"content_cm": "이희진",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "중국어의 발음 - 성조",
-			"title_b": "중국어의 발음  성조",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "중국어의 발음 - 운모(1)",
-			"title_b": "중국어의 발음  운모1",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "중국어의 발음 - 성모(1)",
-			"title_b": "중국어의 발음  성모1",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "중국어의 발음 - 성모(2)",
-			"title_b": "중국어의 발음  성모2",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "중국어의 발음 - 운모(2)",
-			"title_b": "중국어의 발음  운모2",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "중국어의 발음 - 운모(3)과 er화",
-			"title_b": "중국어의 발음  운모3과 er화",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "중국어의 발음 - 성조의 변화",
-			"title_b": "중국어의 발음  성조의 변화",
-			"page_name": [
-				"인트로",
-				"발음 강의",
-				"발음 연습",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "너 바쁘니?",
-			"title_b": "너 바쁘니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "한국어는 어렵니, 어렵지 않니?",
-			"title_b": "한국어는 어렵니 어렵지 않니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "내 옷 어때?",
-			"title_b": "내 옷 어때",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "너도 참 예뻐",
-			"title_b": "너도 참 예뻐",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "오늘 날씨 어때?",
-			"title_b": "오늘 날씨 어때",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "흰색 신발이 예쁘니?",
-			"title_b": "흰색 신발이 예쁘니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "복습(1)",
-			"title_b": "복습1",
-			"page_name": [
-				"인트로",
-				"말하기 문제풀이1",
-				"해설 강의",
-				"말하기 문제풀이2",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "오늘은 몇 월 며칠이니?",
-			"title_b": "오늘은 몇 월 며칠이니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "오늘은 일요일이지?",
-			"title_b": "오늘은 일요일이지",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "그는 누구니?",
-			"title_b": "그는 누구니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "이거 네 것이니?",
-			"title_b": "이거 네 것이니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "너의 형 이름은 뭐니?",
-			"title_b": "너의 형 이름은 뭐니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "만나게 되어 반가워요!",
-			"title_b": "만나게 되어 반가워요",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "복습(2)",
-			"title_b": "복습2",
-			"page_name": [
-				"인트로",
-				"말하기 문제풀이1",
-				"해설 강의",
-				"말하기 문제풀이2",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "너의 형 집에 있니?",
-			"title_b": "너의 형 집에 있니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "주말에 시간 있니?",
-			"title_b": "주말에 시간 있니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "너 공원에서 뭐 하고 있니?",
-			"title_b": "너 공원에서 뭐 하고 있니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "편지 쓰고 있어",
-			"title_b": "편지 쓰고 있어",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "저는 내일 수업에 참석할 수 없어요",
-			"title_b": "저는 내일 수업에 참석할 수 없어요",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "나는 영화를 보러 가고 싶어",
-			"title_b": "나는 영화를 보러 가고 싶어",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "복습(3)",
-			"title_b": "복습3",
-			"page_name": [
-				"인트로",
-				"말하기 문제풀이1",
-				"해설 강의",
-				"말하기 문제풀이2",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "미술관은 여기에서 머니?",
-			"title_b": "미술관은 여기에서 머니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "네가 생각하기에 내가 뚱뚱해, 안 뚱뚱해?",
-			"title_b": "네가 생각하기에 내가 뚱뚱해 안 뚱뚱해",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "무엇을 사시겠습니까?",
-			"title_b": "무엇을 사시겠습니까",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "이 사과 어떻게 팔죠?",
-			"title_b": "이 사과 어떻게 팔죠",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "머리를 잘라야 한다",
-			"title_b": "머리를 잘라야 한다",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "영화가 곧 시작하려고 한다",
-			"title_b": "영화가 곧 시작하려고 한다",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "복습(4)",
-			"title_b": "복습4",
-			"page_name": [
-				"인트로",
-				"말하기 문제풀이1",
-				"해설 강의",
-				"말하기 문제풀이2",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "미국에 가 본 적 있어요?",
-			"title_b": "미국에 가 본 적 있어요",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "어디에서 샀니?",
-			"title_b": "어디에서 샀니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "올해 몇 살이니?",
-			"title_b": "올해 몇 살이니",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "수업에 자주 오지 않는다",
-			"title_b": "수업에 자주 오지 않는다",
-			"page_name": [
-				"인트로",
-				"단어 학습",
-				"문장 따라 말하기",
-				"본문 강의",
-				"반복 말하기",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "복습(5)",
-			"title_b": "복습5",
-			"page_name": [
-				"인트로",
-				"말하기 문제풀이1",
-				"해설 강의",
-				"말하기 문제풀이2",
-				"정리하기"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_40h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "중국어",
+  "content_code": 5577,
+  "content_name": "왕초보를 위한 속성 중국어 회화 - 기초 편",
+  "content_sample": "8/22",
+  "content_chasi": "20/20",
+  "content_size": "1000*650",
+  "content_cm": "이희진",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "중국어의 발음 - 성조",
+      "title_b": "중국어의 발음  성조",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "중국어의 발음 - 운모(1)",
+      "title_b": "중국어의 발음  운모1",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "중국어의 발음 - 성모(1)",
+      "title_b": "중국어의 발음  성모1",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "중국어의 발음 - 성모(2)",
+      "title_b": "중국어의 발음  성모2",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "중국어의 발음 - 운모(2)",
+      "title_b": "중국어의 발음  운모2",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "중국어의 발음 - 운모(3)과 er화",
+      "title_b": "중국어의 발음  운모3과 er화",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "중국어의 발음 - 성조의 변화",
+      "title_b": "중국어의 발음  성조의 변화",
+      "page_name": [
+        "인트로",
+        "발음 강의",
+        "발음 연습",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "너 바쁘니?",
+      "title_b": "너 바쁘니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "한국어는 어렵니, 어렵지 않니?",
+      "title_b": "한국어는 어렵니 어렵지 않니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "내 옷 어때?",
+      "title_b": "내 옷 어때",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "너도 참 예뻐",
+      "title_b": "너도 참 예뻐",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "오늘 날씨 어때?",
+      "title_b": "오늘 날씨 어때",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "흰색 신발이 예쁘니?",
+      "title_b": "흰색 신발이 예쁘니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "복습(1)",
+      "title_b": "복습1",
+      "page_name": [
+        "인트로",
+        "말하기 문제풀이1",
+        "해설 강의",
+        "말하기 문제풀이2",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "오늘은 몇 월 며칠이니?",
+      "title_b": "오늘은 몇 월 며칠이니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "오늘은 일요일이지?",
+      "title_b": "오늘은 일요일이지",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "그는 누구니?",
+      "title_b": "그는 누구니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "이거 네 것이니?",
+      "title_b": "이거 네 것이니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "너의 형 이름은 뭐니?",
+      "title_b": "너의 형 이름은 뭐니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "만나게 되어 반가워요!",
+      "title_b": "만나게 되어 반가워요",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step1/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "복습(2)",
+      "title_b": "복습2",
+      "page_name": [
+        "인트로",
+        "말하기 문제풀이1",
+        "해설 강의",
+        "말하기 문제풀이2",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "너의 형 집에 있니?",
+      "title_b": "너의 형 집에 있니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "주말에 시간 있니?",
+      "title_b": "주말에 시간 있니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "너 공원에서 뭐 하고 있니?",
+      "title_b": "너 공원에서 뭐 하고 있니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "편지 쓰고 있어",
+      "title_b": "편지 쓰고 있어",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "저는 내일 수업에 참석할 수 없어요",
+      "title_b": "저는 내일 수업에 참석할 수 없어요",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "나는 영화를 보러 가고 싶어",
+      "title_b": "나는 영화를 보러 가고 싶어",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "복습(3)",
+      "title_b": "복습3",
+      "page_name": [
+        "인트로",
+        "말하기 문제풀이1",
+        "해설 강의",
+        "말하기 문제풀이2",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "미술관은 여기에서 머니?",
+      "title_b": "미술관은 여기에서 머니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "네가 생각하기에 내가 뚱뚱해, 안 뚱뚱해?",
+      "title_b": "네가 생각하기에 내가 뚱뚱해 안 뚱뚱해",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "무엇을 사시겠습니까?",
+      "title_b": "무엇을 사시겠습니까",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "이 사과 어떻게 팔죠?",
+      "title_b": "이 사과 어떻게 팔죠",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "머리를 잘라야 한다",
+      "title_b": "머리를 잘라야 한다",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "영화가 곧 시작하려고 한다",
+      "title_b": "영화가 곧 시작하려고 한다",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "복습(4)",
+      "title_b": "복습4",
+      "page_name": [
+        "인트로",
+        "말하기 문제풀이1",
+        "해설 강의",
+        "말하기 문제풀이2",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "미국에 가 본 적 있어요?",
+      "title_b": "미국에 가 본 적 있어요",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "어디에서 샀니?",
+      "title_b": "어디에서 샀니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "올해 몇 살이니?",
+      "title_b": "올해 몇 살이니",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "수업에 자주 오지 않는다",
+      "title_b": "수업에 자주 오지 않는다",
+      "page_name": [
+        "인트로",
+        "단어 학습",
+        "문장 따라 말하기",
+        "본문 강의",
+        "반복 말하기",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4_bind_part/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "복습(5)",
+      "title_b": "복습5",
+      "page_name": [
+        "인트로",
+        "말하기 문제풀이1",
+        "해설 강의",
+        "말하기 문제풀이2",
+        "정리하기"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/5577/mp4/a1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/5577/mobile/step2/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

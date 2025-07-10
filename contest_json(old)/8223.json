@@ -1,0 +1,176 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8223",
+	"content_name": "New 센베노 몽골어 첫걸음",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1000*650",
+	"content_cm": "정계영",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "알파벳 익히기 1",
+			"title_b": "알파벳 익히기 1",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "알파벳 익히기 2",
+			"title_b": "알파벳 익히기 2",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "알파벳 익히기 3",
+			"title_b": "알파벳 익히기 3",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "인사말 익히기",
+			"title_b": "인사말 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "묻고 답하기",
+			"title_b": "묻고 답하기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "자기소개하기",
+			"title_b": "자기소개하기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "사는 곳 말하기",
+			"title_b": "사는 곳 말하기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "가족 소개하기",
+			"title_b": "가족 소개하기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "취미 묻고 답하기",
+			"title_b": "취미 묻고 답하기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "요일 익히기",
+			"title_b": "요일 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "숫자 익히기",
+			"title_b": "숫자 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "시간 익히기",
+			"title_b": "시간 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "방향 익히기",
+			"title_b": "방향 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "운송수단 익히기",
+			"title_b": "운송수단 익히기",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "종합 복습",
+			"title_b": "종합 복습",
+			"page_name": [
+				"강의 듣기",
+				"정리하기"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8223/mp4_bind/z1_15h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

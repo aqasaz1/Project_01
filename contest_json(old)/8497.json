@@ -1,0 +1,191 @@
+{
+	"content_lan": "영어",
+	"content_code": "8497",
+	"content_name": "핵심만 콕 집어주는, 무조건 토익스피킹 AL-AH 단기완성 STEP 1",
+	"content_sample": "1",
+	"content_chasi": "15",
+	"content_size": "1170*658",
+	"content_cm": "김태우",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "오리엔테이션",
+			"title_b": "오리엔테이션",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_01.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "파트 1 개요, 발음, 억양",
+			"title_b": "파트 1 개요  발음  억양",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_02.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "파트 1 강세, 공지, 안내문",
+			"title_b": "파트 1 강세  공지  안내문",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_03.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "파트 1 방송, 자동 응답 메시지",
+			"title_b": "파트 1 방송  자동 응답 메시지",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_04.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "파트 2 개요, 위치, 인물 묘사",
+			"title_b": "파트 2 개요  위치  인물 묘사",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_05.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "파트 2 인상착의, 주변대상 묘사",
+			"title_b": "파트 2 인상착의  주변대상 묘사",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_06.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "파트 2 회사, 학교",
+			"title_b": "파트 2 회사  학교",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_07.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "파트 2 시장, 식당",
+			"title_b": "파트 2 시장  식당",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_08.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "파트 2 공원, 거리",
+			"title_b": "파트 2 공원  거리",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_09.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "파트 3 개요, 의문사 2개 유형",
+			"title_b": "파트 3 개요  의문사 2개 유형",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_10.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "파트 3 의견 문제",
+			"title_b": "파트 3 의견 문제",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_11.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "파트 3 7번 유형별 답변 전략",
+			"title_b": "파트 3 7번 유형별 답변 전략",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_12.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "파트 4 개요, 기초 다지기",
+			"title_b": "파트 4 개요  기초 다지기",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_13.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "파트 4 답변 전략",
+			"title_b": "파트 4 답변 전략",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_14.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "파트 4 행사, 회의 일정",
+			"title_b": "파트 4 행사  회의 일정",
+			"page_name": [
+				"Intro",
+				"Lecture",
+				"Quiz"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/_porting/CON100/8497/mp4_bind/z1_15.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

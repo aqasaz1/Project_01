@@ -1,911 +1,1031 @@
 {
-	"content_lan": "영어",
-	"content_code": 7382,
-	"content_name": "네이버 최다 검색 영단어로 배우는 영어",
-	"content_sample": "1/16/31/46",
-	"content_chasi": "15/15/15/15",
-	"content_size": "1100*650",
-	"content_cm": "김영실",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "appreciate, address, through",
-			"title_b": "appreciate address through",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "concern, as, while",
-			"title_b": "concern as while",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "practice, though, feature",
-			"title_b": "practice though feature",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "would, refer, subject",
-			"title_b": "would refer subject",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "conduct, reference, available",
-			"title_b": "conduct reference available",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "consider, certain, present",
-			"title_b": "consider certain present",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "complete, treat, determine",
-			"title_b": "complete treat determine",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "commit, assume, against, identify",
-			"title_b": "commit assume against identify",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "apply, measure, further, remain",
-			"title_b": "apply measure further remain",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "appropriate, rather, since, rise",
-			"title_b": "appropriate rather since rise",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "take, experience, involve",
-			"title_b": "take experience involve",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "compromise, leave, recognize",
-			"title_b": "compromise leave recognize",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "secure, associate, direct",
-			"title_b": "secure associate direct",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "find, initiative, arrange, regard",
-			"title_b": "find initiative arrange regard",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "executive, charge, prompt, encourage",
-			"title_b": "executive charge prompt encourage",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "discipline, offer, account",
-			"title_b": "discipline offer account",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "material, whether, suggest",
-			"title_b": "material whether suggest",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "once, otherwise, indicate",
-			"title_b": "once otherwise indicate",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "provide, drive, either",
-			"title_b": "provide drive either",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "bring, effect, quite",
-			"title_b": "bring effect quite",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "significant, afford, keep, stuff",
-			"title_b": "significant afford keep stuff",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "expect, interest, contribute",
-			"title_b": "expect interest contribute",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "hold, proceed, right, estimate",
-			"title_b": "hold proceed right estimate",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "challenge, should, develop",
-			"title_b": "challenge should develop",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "yet, issue, implement, benefit",
-			"title_b": "yet issue implement benefit",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "upon, release, draw",
-			"title_b": "upon release draw",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "commitment, ensure, whereas, attend",
-			"title_b": "commitment ensure whereas attend",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "influence, despite, then",
-			"title_b": "influence despite then",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "due, engage, demonstrate",
-			"title_b": "due engage demonstrate",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "allow, prefer, alert, contain",
-			"title_b": "allow prefer alert contain",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_30h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 31,
-			"title_a": "lie, although, admit, appear",
-			"title_b": "lie although admit appear",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_31h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 32,
-			"title_a": "for, specific, application",
-			"title_b": "for specific application",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_32h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 33,
-			"title_a": "observe, accept, extend",
-			"title_b": "observe accept extend",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_33h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 34,
-			"title_a": "deserve, reflect, critical, quote",
-			"title_b": "deserve reflect critical quote",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_34h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 35,
-			"title_a": "require, request, credit, value",
-			"title_b": "require request credit value",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_35h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 36,
-			"title_a": "relevant, among, respect",
-			"title_b": "relevant among respect",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_36h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 37,
-			"title_a": "suspend, struggle, relative",
-			"title_b": "suspend struggle relative",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_37h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 38,
-			"title_a": "get, patient, figure",
-			"title_b": "get patient figure",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_38h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 39,
-			"title_a": "matter, establish, adapt, promote",
-			"title_b": "matter establish adapt promote",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_39h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 40,
-			"title_a": "convince, cause, accommodate",
-			"title_b": "convince cause accommodate",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_40h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 41,
-			"title_a": "favor, strike, about, describe",
-			"title_b": "favor strike about describe",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_41h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 42,
-			"title_a": "raise, occur, state",
-			"title_b": "raise occur state",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_42h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 43,
-			"title_a": "work, contact, fancy",
-			"title_b": "work contact fancy",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_43h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 44,
-			"title_a": "alternative, effort, urge",
-			"title_b": "alternative effort urge",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_44h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 45,
-			"title_a": "claim, assign, vary",
-			"title_b": "claim assign vary",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_45h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 46,
-			"title_a": "exercise, mean, confirm",
-			"title_b": "exercise mean confirm",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_46h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 47,
-			"title_a": "particular, bear, note, travel",
-			"title_b": "particular bear note travel",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_47h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 48,
-			"title_a": "suppose, authority, enough, current",
-			"title_b": "suppose authority enough current",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_48h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 49,
-			"title_a": "any, individual, around, serve",
-			"title_b": "any individual around serve",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_49h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 50,
-			"title_a": "choose, substitute, decline",
-			"title_b": "choose substitute decline",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_50h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 51,
-			"title_a": "over, adopt, several, occasion",
-			"title_b": "over adopt several occasion",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_51h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 52,
-			"title_a": "statement, acknowledge, except, increase",
-			"title_b": "statement acknowledge except increase",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_52h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 53,
-			"title_a": "prevent, bother, perspective",
-			"title_b": "prevent bother perspective",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_53h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 54,
-			"title_a": "fall, provision, imperative",
-			"title_b": "fall provision imperative",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_54h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 55,
-			"title_a": "purchase, improve, range",
-			"title_b": "purchase improve range",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_55h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 56,
-			"title_a": "separate, even, consequence",
-			"title_b": "separate even consequence",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_56h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 57,
-			"title_a": "eligible, there, reserve",
-			"title_b": "eligible there reserve",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_57h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 58,
-			"title_a": "attribute, such, sustain",
-			"title_b": "attribute such sustain",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_58h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 59,
-			"title_a": "compliment, unless, complement",
-			"title_b": "compliment unless complement",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_59h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 60,
-			"title_a": "notice, suffer, become",
-			"title_b": "notice suffer become",
-			"page_name": [
-				"INTRO",
-				"Big Sense",
-				"Big Lesson",
-				"Big Check",
-				"Big Shadowing",
-				"Big Recap"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_60h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7382,
+  "content_name": "네이버 최다 검색 영단어로 배우는 영어",
+  "content_sample": "1/16/31/46",
+  "content_chasi": "15/15/15/15",
+  "content_size": "1100*650",
+  "content_cm": "김영실",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "appreciate, address, through",
+      "title_b": "appreciate address through",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "concern, as, while",
+      "title_b": "concern as while",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "practice, though, feature",
+      "title_b": "practice though feature",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "would, refer, subject",
+      "title_b": "would refer subject",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "conduct, reference, available",
+      "title_b": "conduct reference available",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "consider, certain, present",
+      "title_b": "consider certain present",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "complete, treat, determine",
+      "title_b": "complete treat determine",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "commit, assume, against, identify",
+      "title_b": "commit assume against identify",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "apply, measure, further, remain",
+      "title_b": "apply measure further remain",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "appropriate, rather, since, rise",
+      "title_b": "appropriate rather since rise",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "take, experience, involve",
+      "title_b": "take experience involve",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "compromise, leave, recognize",
+      "title_b": "compromise leave recognize",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "secure, associate, direct",
+      "title_b": "secure associate direct",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "find, initiative, arrange, regard",
+      "title_b": "find initiative arrange regard",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "executive, charge, prompt, encourage",
+      "title_b": "executive charge prompt encourage",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "discipline, offer, account",
+      "title_b": "discipline offer account",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "material, whether, suggest",
+      "title_b": "material whether suggest",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "once, otherwise, indicate",
+      "title_b": "once otherwise indicate",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "provide, drive, either",
+      "title_b": "provide drive either",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "bring, effect, quite",
+      "title_b": "bring effect quite",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "significant, afford, keep, stuff",
+      "title_b": "significant afford keep stuff",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "expect, interest, contribute",
+      "title_b": "expect interest contribute",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "hold, proceed, right, estimate",
+      "title_b": "hold proceed right estimate",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "challenge, should, develop",
+      "title_b": "challenge should develop",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "yet, issue, implement, benefit",
+      "title_b": "yet issue implement benefit",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "upon, release, draw",
+      "title_b": "upon release draw",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "commitment, ensure, whereas, attend",
+      "title_b": "commitment ensure whereas attend",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "influence, despite, then",
+      "title_b": "influence despite then",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "due, engage, demonstrate",
+      "title_b": "due engage demonstrate",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "allow, prefer, alert, contain",
+      "title_b": "allow prefer alert contain",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step2/z1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 31,
+      "title_a": "lie, although, admit, appear",
+      "title_b": "lie although admit appear",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_31h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_31h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 32,
+      "title_a": "for, specific, application",
+      "title_b": "for specific application",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_32h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_32h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 33,
+      "title_a": "observe, accept, extend",
+      "title_b": "observe accept extend",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_33h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_33h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 34,
+      "title_a": "deserve, reflect, critical, quote",
+      "title_b": "deserve reflect critical quote",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_34h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_34h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 35,
+      "title_a": "require, request, credit, value",
+      "title_b": "require request credit value",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_35h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_35h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 36,
+      "title_a": "relevant, among, respect",
+      "title_b": "relevant among respect",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_36h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_36h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 37,
+      "title_a": "suspend, struggle, relative",
+      "title_b": "suspend struggle relative",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_37h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_37h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 38,
+      "title_a": "get, patient, figure",
+      "title_b": "get patient figure",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_38h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_38h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 39,
+      "title_a": "matter, establish, adapt, promote",
+      "title_b": "matter establish adapt promote",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_39h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_39h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 40,
+      "title_a": "convince, cause, accommodate",
+      "title_b": "convince cause accommodate",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_40h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_40h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 41,
+      "title_a": "favor, strike, about, describe",
+      "title_b": "favor strike about describe",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_41h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_41h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 42,
+      "title_a": "raise, occur, state",
+      "title_b": "raise occur state",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_42h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_42h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 43,
+      "title_a": "work, contact, fancy",
+      "title_b": "work contact fancy",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_43h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_43h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 44,
+      "title_a": "alternative, effort, urge",
+      "title_b": "alternative effort urge",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_44h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_44h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 45,
+      "title_a": "claim, assign, vary",
+      "title_b": "claim assign vary",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_45h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step3/z1_45h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 46,
+      "title_a": "exercise, mean, confirm",
+      "title_b": "exercise mean confirm",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_46h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_46h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 47,
+      "title_a": "particular, bear, note, travel",
+      "title_b": "particular bear note travel",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_47h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_47h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 48,
+      "title_a": "suppose, authority, enough, current",
+      "title_b": "suppose authority enough current",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_48h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_48h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 49,
+      "title_a": "any, individual, around, serve",
+      "title_b": "any individual around serve",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_49h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_49h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 50,
+      "title_a": "choose, substitute, decline",
+      "title_b": "choose substitute decline",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_50h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_50h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 51,
+      "title_a": "over, adopt, several, occasion",
+      "title_b": "over adopt several occasion",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_51h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_51h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 52,
+      "title_a": "statement, acknowledge, except, increase",
+      "title_b": "statement acknowledge except increase",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_52h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_52h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 53,
+      "title_a": "prevent, bother, perspective",
+      "title_b": "prevent bother perspective",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_53h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_53h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 54,
+      "title_a": "fall, provision, imperative",
+      "title_b": "fall provision imperative",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_54h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_54h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 55,
+      "title_a": "purchase, improve, range",
+      "title_b": "purchase improve range",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_55h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_55h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 56,
+      "title_a": "separate, even, consequence",
+      "title_b": "separate even consequence",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_56h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_56h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 57,
+      "title_a": "eligible, there, reserve",
+      "title_b": "eligible there reserve",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_57h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_57h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 58,
+      "title_a": "attribute, such, sustain",
+      "title_b": "attribute such sustain",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_58h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_58h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 59,
+      "title_a": "compliment, unless, complement",
+      "title_b": "compliment unless complement",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_59h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_59h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 60,
+      "title_a": "notice, suffer, become",
+      "title_b": "notice suffer become",
+      "page_name": [
+        "INTRO",
+        "Big Sense",
+        "Big Lesson",
+        "Big Check",
+        "Big Shadowing",
+        "Big Recap"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7382/mp4_bind/z1_60h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7382/mobile/step4/z1_60h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

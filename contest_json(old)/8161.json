@@ -1,0 +1,131 @@
+{
+	"content_lan": "영어",
+	"content_code": 8161,
+	"content_name": "컬쳐 톡 중동 & 유럽 편",
+	"content_sample": "1",
+	"content_chasi": "10",
+	"content_size": "1000*650",
+	"content_cm": null,
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "두바이 - 여성 보호와 라마단",
+			"title_b": "두바이 여성 보호와 라마단",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "아부다비 - 엄격한 드레스코드",
+			"title_b": "아부다비 엄격한 드레스코드",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "터키 - 동서양의 연결고리",
+			"title_b": "터키 동서양의 연결고리",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "이스라엘 - 종교 인사이드",
+			"title_b": "이스라엘 종교 인사이드",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "이스라엘 - 깜짝 놀랄 반전 문화",
+			"title_b": "이스라엘 깜짝 놀랄 반전 문화",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "팔레스타인 - 여행 철수 권고 지역",
+			"title_b": "팔레스타인 여행 철수 권고 지역",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "네덜란드 - 따르릉~ 소매치기 조심",
+			"title_b": "네덜란드 따르릉 소매치기 조심",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "덴마크 - “우리끼리” 강한 나라",
+			"title_b": "덴마크 우리끼리 강한 나라",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "폴란드 - 반짝이는 밤의 도시",
+			"title_b": "폴란드 반짝이는 밤의 도시",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "우크라이나 - 자유의 투쟁",
+			"title_b": "우크라이나 자유의 투쟁",
+			"page_name": [
+				"어휘 학습",
+				"강의 듣기",
+				"응용 표현 학습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8161/mp4_bind/z1_10h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

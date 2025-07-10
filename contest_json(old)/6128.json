@@ -1,0 +1,639 @@
+{
+	"content_lan": "중국어",
+	"content_code": 6128,
+	"content_name": "New 다락원 중국어 마스터 2",
+	"content_sample": "1/25",
+	"content_chasi": "20/20",
+	"content_size": "1000*650",
+	"content_cm": "서혜린",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "당신은 몇 과목을 신청했어요?",
+			"title_b": "당신은 몇 과목을 신청했어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "저는 매일 다섯 시간 공부해요.",
+			"title_b": "저는 매일 다섯 시간 공부해요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "일이 많으면 초과 근무를 해야 해요.",
+			"title_b": "일이 많으면 초과 근무를 해야 해요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "어제 친목회는 어땠어요?",
+			"title_b": "어제 친목회는 어땠어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "공원에 사람이 이렇게나 많네요!",
+			"title_b": "공원에 사람이 이렇게나 많네요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "저도 한번 배워보고 싶어요.",
+			"title_b": "저도 한번 배워보고 싶어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "우리 그녀에게 무슨 선물을 하면 좋을까요?",
+			"title_b": "우리 그녀에게 무슨 선물을 하면 좋을까요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "생일 축하해요!",
+			"title_b": "생일 축하해요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "요리는 이미 다 준비됐어요.",
+			"title_b": "요리는 이미 다 준비됐어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "복습 (1)",
+			"title_b": "복습 1",
+			"page_name": [
+				"인트로",
+				"표현 플러스 강의",
+				"어법 포인트 강의",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4_bind_part/z1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "저는 머리가 아파요.",
+			"title_b": "저는 머리가 아파요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "저는 감기에 걸렸어요.",
+			"title_b": "저는 감기에 걸렸어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "저는 자전거를 고치고 있어요.",
+			"title_b": "저는 자전거를 고치고 있어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "당신은 여기에 기다리고 있어요, 전 표를 사러 갈게요.",
+			"title_b": "당신은 여기에 기다리고 있어요 전 표를 사러 갈게요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "그 그림들은 정말 잘 그렸어요.",
+			"title_b": "그 그림들은 정말 잘 그렸어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "정말 미안해요, 늦었어요.",
+			"title_b": "정말 미안해요 늦었어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "속도가 예전보다 두 배 더 빨라요.",
+			"title_b": "속도가 예전보다 두 배 더 빨라요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "인터넷에 접속해서 찾아봐야겠어요.",
+			"title_b": "인터넷에 접속해서 찾아봐야겠어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "다음에 우리 온라인에서 수다 좀 떨어요.",
+			"title_b": "다음에 우리 온라인에서 수다 좀 떨어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "복습 (2)",
+			"title_b": "복습 2",
+			"page_name": [
+				"인트로",
+				"표현 플러스 강의",
+				"어법 포인트 강의",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4_bind_part/z1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "한국 본사에서 중국으로 사람을 파견해 와요.",
+			"title_b": "한국 본사에서 중국으로 사람을 파견해 와요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "그는 베이징에서 언제까지 머물 건가요?",
+			"title_b": "그는 베이징에서 언제까지 머물 건가요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "오시는 길 수고 많으셨어요.",
+			"title_b": "오시는 길 수고 많으셨어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "어디에서 환전할 수 있는지 아세요?",
+			"title_b": "어디에서 환전할 수 있는지 아세요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "1달러는 런민삐 얼마로 바꿀 수 있나요?",
+			"title_b": "1달러는 런민삐 얼마로 바꿀 수 있나요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "여권만 있으면 돼요.",
+			"title_b": "여권만 있으면 돼요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "방 한 칸, 거실 한 칸짜리 있나요?",
+			"title_b": "방 한 칸 거실 한 칸짜리 있나요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "나현이는 어째서 아직 오지 않았어요?",
+			"title_b": "나현이는 어째서 아직 오지 않았어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "이 단지는 정말 크네요.",
+			"title_b": "이 단지는 정말 크네요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "복습 (3)",
+			"title_b": "복습 3",
+			"page_name": [
+				"인트로",
+				"표현 플러스 강의",
+				"어법 포인트 강의",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4_bind_part/z1_30h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "객실카드와 조식권을 가져가세요.",
+			"title_b": "객실카드와 조식권을 가져가세요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_31h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "전 짐을 정리하고 바로 갈게요.",
+			"title_b": "전 짐을 정리하고 바로 갈게요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_32h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "우리 함께 사진 좀 찍어요!",
+			"title_b": "우리 함께 사진 좀 찍어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_33h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "기차에서도 살 수 있어요.",
+			"title_b": "기차에서도 살 수 있어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_34h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "당신은 어디에서 샀나요?",
+			"title_b": "당신은 어디에서 샀나요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_35h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "이번 여행을 저는 잊을 수 없어요.",
+			"title_b": "이번 여행을 저는 잊을 수 없어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_36h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 37,
+			"title_a": "우린 당신이 떠나는 것이 정말 아쉬워요.",
+			"title_b": "우린 당신이 떠나는 것이 정말 아쉬워요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_37h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 38,
+			"title_a": "탑승 수속은 다 하셨어요?",
+			"title_b": "탑승 수속은 다 하셨어요",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_38h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 39,
+			"title_a": "가시는 길에 평안하시길 바랍니다.",
+			"title_b": "가시는 길에 평안하시길 바랍니다",
+			"page_name": [
+				"인트로",
+				"단어 듣기",
+				"회화 듣기",
+				"강의",
+				"회화 연습",
+				"퀴즈",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4/a1_39h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 40,
+			"title_a": "복습 (4)",
+			"title_b": "복습 4",
+			"page_name": [
+				"인트로",
+				"표현 플러스 강의",
+				"어법 포인트 강의",
+				"포인트 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/6128/mp4_bind_part/z1_40h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}

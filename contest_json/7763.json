@@ -1,392 +1,452 @@
 {
-	"content_lan": "영어",
-	"content_code": 7763,
-	"content_name": "영단기 신토익 스타트 LC 700+",
-	"content_sample": "3/16",
-	"content_chasi": "15/15",
-	"content_size": "1100*650",
-	"content_cm": "이선영",
-	"content_data": [
-		{
-			"chasi": 1,
-			"title_a": "LC 발음 훈련",
-			"title_b": "LC 발음 훈련",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_01h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 2,
-			"title_a": "Part 1 기본 학습",
-			"title_b": "Part 1 기본 학습",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_02h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 3,
-			"title_a": "Part 1 인물 중심 사진",
-			"title_b": "Part 1 인물 중심 사진",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_03h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 4,
-			"title_a": "Part 1 사물과 배경 중심 사진",
-			"title_b": "Part 1 사물과 배경 중심 사진",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_04h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 5,
-			"title_a": "ACTUAL TEST Part 1",
-			"title_b": "ACTUAL TEST Part 1",
-			"page_name": [
-				"INTRO",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_05h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 6,
-			"title_a": "Part 2 기본 학습",
-			"title_b": "Part 2 기본 학습",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_06h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 7,
-			"title_a": "Part 2 Who, What/Which 의문문",
-			"title_b": "Part 2 Who What Which 의문문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_07h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 8,
-			"title_a": "Part 2 When, Where 의문문",
-			"title_b": "Part 2 When Where 의문문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_08h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 9,
-			"title_a": "Part 2 How, Why 의문문",
-			"title_b": "Part 2 How Why 의문문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_09h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 10,
-			"title_a": "Part 2 일반, 부가 의문문",
-			"title_b": "Part 2 일반 및 부가 의문문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_10h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 11,
-			"title_a": "Part 2 간접, 선택 의문문",
-			"title_b": "Part 2 간접 및 선택 의문문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_11h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 12,
-			"title_a": "Part 2 권유/제안문, 요청/부탁문",
-			"title_b": "Part 2 권유와 제안문 요청과 부탁문",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_12h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 13,
-			"title_a": "Part 2 평서문과 꼭 알아두어야 하는 답변",
-			"title_b": "Part 2 평서문과 꼭 알아두어야 하는 답변",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_13h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 14,
-			"title_a": "ACTUAL TEST Part 2",
-			"title_b": "ACTUAL TEST Part 2",
-			"page_name": [
-				"INTRO",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_14h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 15,
-			"title_a": "Part 3 기본 학습",
-			"title_b": "Part 3 기본 학습",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_15h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 16,
-			"title_a": "Part 3 장소와 직장/직업을 묻는 문제",
-			"title_b": "Part 3 장소와 직장 또는 직업을 묻는 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_16h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 17,
-			"title_a": "Part 3 대화의 주제 및 전화/방문의 목적을 묻는 문제",
-			"title_b": "Part 3 대화의 주제 및 전화나 방문의 목적을 묻는 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_17h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 18,
-			"title_a": "Part 3 문제나 이유/원인을 묻는 문제",
-			"title_b": "Part 3 문제나 이유와 원인을 묻는 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_18h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 19,
-			"title_a": "Part 3 특정 내용이나 요청/요구 사항을 묻는 문제",
-			"title_b": "Part 3 특정 내용이나 요구 사항을 묻는 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_19h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 20,
-			"title_a": "Part 3 권유/제안 또는 앞으로 일어날 일을 묻는 문제",
-			"title_b": "Part 3 권유나 제안 또는 앞으로 일어날 일을 묻는 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_20h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 21,
-			"title_a": "Part 3 화자의 의도와 시각 자료 연계 문제",
-			"title_b": "Part 3 화자의 의도와 시각 자료 연계 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_21h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 22,
-			"title_a": "ACTUAL TEST Part 3",
-			"title_b": "ACTUAL TEST Part 3",
-			"page_name": [
-				"INTRO",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_22h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 23,
-			"title_a": "Part 4 기본 학습",
-			"title_b": "Part 4 기본 학습",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_23h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 24,
-			"title_a": "Part 4 전화 메시지",
-			"title_b": "Part 4 전화 메시지",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_24h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 25,
-			"title_a": "Part 4 안내 및 공지",
-			"title_b": "Part 4 안내 및 공지",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_25h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 26,
-			"title_a": "Part 4 인물 소개와 설명/연설",
-			"title_b": "Part 4 인물 소개와 설명/연설",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_26h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 27,
-			"title_a": "Part 4 방송",
-			"title_b": "Part 4 방송",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_27h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 28,
-			"title_a": "Part 4 광고와 견학",
-			"title_b": "Part 4 광고와 견학",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_28h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 29,
-			"title_a": "Part 4 화자의 의도와 시각 자료 연계 문제",
-			"title_b": "Part 4 화자의 의도와 시각 자료 연계 문제",
-			"page_name": [
-				"INTRO",
-				"개념 정리",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_29h.mp4",
-			"mp4_bind_time": ""
-		},
-		{
-			"chasi": 30,
-			"title_a": "ACTUAL TEST Part 4",
-			"title_b": "ACTUAL TEST Part 4",
-			"page_name": [
-				"INTRO",
-				"문제 풀기",
-				"700+ 해설 강의"
-			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_30h.mp4",
-			"mp4_bind_time": ""
-		}
-	]
+  "content_lan": "영어",
+  "content_code": 7763,
+  "content_name": "영단기 신토익 스타트 LC 700+",
+  "content_sample": "3/16",
+  "content_chasi": "15/15",
+  "content_size": "1100*650",
+  "content_cm": "이선영",
+  "content_data": [
+    {
+      "chasi": 1,
+      "title_a": "LC 발음 훈련",
+      "title_b": "LC 발음 훈련",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_01h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_01h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 2,
+      "title_a": "Part 1 기본 학습",
+      "title_b": "Part 1 기본 학습",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_02h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_02h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 3,
+      "title_a": "Part 1 인물 중심 사진",
+      "title_b": "Part 1 인물 중심 사진",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_03h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_03h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 4,
+      "title_a": "Part 1 사물과 배경 중심 사진",
+      "title_b": "Part 1 사물과 배경 중심 사진",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_04h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_04h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 5,
+      "title_a": "ACTUAL TEST Part 1",
+      "title_b": "ACTUAL TEST Part 1",
+      "page_name": [
+        "INTRO",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_05h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/a1_05h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 6,
+      "title_a": "Part 2 기본 학습",
+      "title_b": "Part 2 기본 학습",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_06h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_06h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 7,
+      "title_a": "Part 2 Who, What/Which 의문문",
+      "title_b": "Part 2 Who What Which 의문문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_07h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_07h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 8,
+      "title_a": "Part 2 When, Where 의문문",
+      "title_b": "Part 2 When Where 의문문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_08h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_08h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 9,
+      "title_a": "Part 2 How, Why 의문문",
+      "title_b": "Part 2 How Why 의문문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_09h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_09h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 10,
+      "title_a": "Part 2 일반, 부가 의문문",
+      "title_b": "Part 2 일반 및 부가 의문문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_10h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_10h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 11,
+      "title_a": "Part 2 간접, 선택 의문문",
+      "title_b": "Part 2 간접 및 선택 의문문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_11h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_11h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 12,
+      "title_a": "Part 2 권유/제안문, 요청/부탁문",
+      "title_b": "Part 2 권유와 제안문 요청과 부탁문",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_12h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_12h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 13,
+      "title_a": "Part 2 평서문과 꼭 알아두어야 하는 답변",
+      "title_b": "Part 2 평서문과 꼭 알아두어야 하는 답변",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_13h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_13h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 14,
+      "title_a": "ACTUAL TEST Part 2",
+      "title_b": "ACTUAL TEST Part 2",
+      "page_name": [
+        "INTRO",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_14h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/a1_14h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 15,
+      "title_a": "Part 3 기본 학습",
+      "title_b": "Part 3 기본 학습",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_15h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step1/z1_15h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 16,
+      "title_a": "Part 3 장소와 직장/직업을 묻는 문제",
+      "title_b": "Part 3 장소와 직장 또는 직업을 묻는 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_16h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_16h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 17,
+      "title_a": "Part 3 대화의 주제 및 전화/방문의 목적을 묻는 문제",
+      "title_b": "Part 3 대화의 주제 및 전화나 방문의 목적을 묻는 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_17h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_17h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 18,
+      "title_a": "Part 3 문제나 이유/원인을 묻는 문제",
+      "title_b": "Part 3 문제나 이유와 원인을 묻는 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_18h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_18h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 19,
+      "title_a": "Part 3 특정 내용이나 요청/요구 사항을 묻는 문제",
+      "title_b": "Part 3 특정 내용이나 요구 사항을 묻는 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_19h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_19h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 20,
+      "title_a": "Part 3 권유/제안 또는 앞으로 일어날 일을 묻는 문제",
+      "title_b": "Part 3 권유나 제안 또는 앞으로 일어날 일을 묻는 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_20h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_20h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 21,
+      "title_a": "Part 3 화자의 의도와 시각 자료 연계 문제",
+      "title_b": "Part 3 화자의 의도와 시각 자료 연계 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_21h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_21h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 22,
+      "title_a": "ACTUAL TEST Part 3",
+      "title_b": "ACTUAL TEST Part 3",
+      "page_name": [
+        "INTRO",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_22h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/a1_22h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 23,
+      "title_a": "Part 4 기본 학습",
+      "title_b": "Part 4 기본 학습",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_23h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_23h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 24,
+      "title_a": "Part 4 전화 메시지",
+      "title_b": "Part 4 전화 메시지",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_24h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_24h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 25,
+      "title_a": "Part 4 안내 및 공지",
+      "title_b": "Part 4 안내 및 공지",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_25h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_25h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 26,
+      "title_a": "Part 4 인물 소개와 설명/연설",
+      "title_b": "Part 4 인물 소개와 설명/연설",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_26h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_26h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 27,
+      "title_a": "Part 4 방송",
+      "title_b": "Part 4 방송",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_27h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_27h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 28,
+      "title_a": "Part 4 광고와 견학",
+      "title_b": "Part 4 광고와 견학",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_28h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_28h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 29,
+      "title_a": "Part 4 화자의 의도와 시각 자료 연계 문제",
+      "title_b": "Part 4 화자의 의도와 시각 자료 연계 문제",
+      "page_name": [
+        "INTRO",
+        "개념 정리",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4_bind_part/z1_29h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/z1_29h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    },
+    {
+      "chasi": 30,
+      "title_a": "ACTUAL TEST Part 4",
+      "title_b": "ACTUAL TEST Part 4",
+      "page_name": [
+        "INTRO",
+        "문제 풀기",
+        "700+ 해설 강의"
+      ],
+      "mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/7763/mp4/a1_30h.mp4",
+      "mp4_bind_time": "",
+      "mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/7763/mobile/step2/a1_30h_500k.mp4",
+      "mp4_bind_time_500k": ""
+    }
+  ]
 }

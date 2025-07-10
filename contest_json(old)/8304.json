@@ -1,0 +1,328 @@
+{
+	"content_lan": "영어",
+	"content_code": "8304",
+	"content_name": "맨처음 토익 RC 입문편",
+	"content_sample": "1/18",
+	"content_chasi": "16/14",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Parts 5·6 문장의 구조",
+			"title_b": "Parts 56 문장의 구조",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_01h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Parts 5·6 문장의 구조 - 문제 풀이",
+			"title_b": "Parts 56 문장의 구조 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_02h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Parts 5·6 명사&대명사",
+			"title_b": "Parts 56 명사 대명사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_03h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Parts 5·6 명사&대명사 - 문제 풀이",
+			"title_b": "Parts 56 명사 대명사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_04h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Parts 5·6 형용사&부사",
+			"title_b": "Parts 56 형용사 부사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_05h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Parts 5·6 형용사&부사 - 문제 풀이",
+			"title_b": "Parts 56 형용사 부사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_06h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Parts 5·6 동사의 시제",
+			"title_b": "Parts 56 동사의 시제",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_07h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Parts 5·6 동사의 시제 - 문제 풀이",
+			"title_b": "Parts 56 동사의 시제 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_08h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Parts 5·6 능동태와 수동태",
+			"title_b": "Parts 56 능동태와 수동태",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_09h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Parts 5·6 능동태와 수동태 - 문제 풀이",
+			"title_b": "Parts 56 능동태와 수동태 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_10h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "Parts 5·6 to부정사",
+			"title_b": "Parts 56 to부정사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_11h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Parts 5·6 to부정사 - 문제 풀이",
+			"title_b": "Parts 56 to부정사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_12h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Parts 5·6 동명사",
+			"title_b": "Parts 56 동명사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_13h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Parts 5·6 동명사 - 문제 풀이",
+			"title_b": "Parts 56 동명사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_14h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Parts 5·6 분사",
+			"title_b": "Parts 56 분사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_15h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Parts 5·6 분사 - 문제 풀이",
+			"title_b": "Parts 56 분사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_16h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "Parts 5·6 접속사",
+			"title_b": "Parts 56 접속사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_17h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "Parts 5·6 접속사 - 문제 풀이",
+			"title_b": "Parts 56 접속사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_18h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "Parts 5·6 전치사",
+			"title_b": "Parts 56 전치사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_19h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "Parts 5·6 전치사 - 문제 풀이",
+			"title_b": "Parts 56 전치사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_20h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "Parts 5·6 관계사",
+			"title_b": "Parts 56 관계사",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_21h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "Parts 5·6 관계사 - 문제 풀이",
+			"title_b": "Parts 56 관계사 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_22h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Parts 5·6 가정법",
+			"title_b": "Parts 56 가정법",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_23h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "Parts 5·6 가정법 - 문제 풀이",
+			"title_b": "Parts 56 가정법 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_24h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Parts 5·6 일치",
+			"title_b": "Parts 56 일치",
+			"page_name": [
+				"포인트 개념 정리"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_25h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Parts 5·6 일치 - 문제 풀이",
+			"title_b": "Parts 56 일치 문제 풀이",
+			"page_name": [
+				"문제 풀기",
+				"문제 풀이"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_26h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Part 7 문제 유형별 연습 I",
+			"title_b": "Part 7 문제 유형별 연습 I",
+			"page_name": [
+				"문제 풀기",
+				"유형별 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_27h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Part 7 문제 유형별 연습 II",
+			"title_b": "Part 7 문제 유형별 연습 II",
+			"page_name": [
+				"문제 풀기",
+				"유형별 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_28h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Part 7 지문 유형별 연습 I",
+			"title_b": "Part 7 지문 유형별 연습 I",
+			"page_name": [
+				"문제 풀기",
+				"유형별 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_29h.mp4",
+			"mp4_bind_time": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "Part 7 지문 유형별 연습 II",
+			"title_b": "Part 7 지문 유형별 연습 II",
+			"page_name": [
+				"문제 풀기",
+				"유형별 연습"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8304/mp4/a1_30h.mp4",
+			"mp4_bind_time": ""
+		}
+	]
+}
