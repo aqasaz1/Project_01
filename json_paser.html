@@ -39,12 +39,14 @@
 				<th>차시명(특수기호제거)</th>
 				<th>페이지명</th>
 				<th>합본경로</th>
+				<th>합본경로_500k</th>
 			</tr>
 			<tr>
 				<td><textarea name="" id="con_data1" class="non-data" cols="29" rows="30"></textarea></td>
 				<td><textarea name="" id="con_data2" class="non-data" cols="29" rows="30"></textarea></td>
 				<td><textarea name="" id="con_data3" class="non-data" cols="29" rows="30"></textarea></td>
 				<td><textarea name="" id="con_bind"  class="non-data" cols="29" rows="30"></textarea></td>
+				<td><textarea name="" id="con_bind_500k"  class="non-data" cols="29" rows="30"></textarea></td>
 			</tr>
 		</table>
 	</div>
@@ -70,6 +72,7 @@
 				var con_data_title_b	= $("#con_data2").val().trim().split("\n")	//차시명(특수기호제거)
 				var con_data_page_name	= $("#con_data3").val().trim().split("\n")	//메뉴명
 				var con_data_bine_path	= $("#con_bind").val().replaceAll("\\","/").trim().split("\n")	//합본
+				var con_data_bine_path_500k	= $("#con_bind_500k").val().replaceAll("\\","/").trim().split("\n")	//합본
 
 					$.each(con_data_title_a, function (key, val) {
 						try{
@@ -81,7 +84,9 @@
 							"title_b": con_data_title_b[key] === "" ? null : con_data_title_b[key],
 							"page_name": con_data_page_name_bit,
 							"mp4_bind_path": con_data_bine_path[key],
-							"mp4_bind_time": ""
+							"mp4_bind_time": "",
+							"mp4_bind_path_500k": con_data_bine_path_500k[key],
+							"mp4_bind_time_500k": ""
 						}
 					})
 
@@ -123,6 +128,7 @@
 					$("#con_data2").val('차시명01\n차시명02\n차시명03\n차시명04\n차시명05\n')
 					$("#con_data3").val('메뉴1-1\t메뉴1-2\n메뉴2-1\t메뉴2-2\n메뉴3-1\t메뉴3-2\n메뉴4-1\t메뉴4-2\n메뉴5-1\t메뉴5-2\n')
 					$("#con_bind").val('x:~z01.mp4\nx:~z02.mp4\nx:~z03.mp4\nx:~z04.mp4\nx:~z05.mp4\n')
+					$("#con_bind_500k").val('x:~z01_500k.mp4\nx:~z02_500k.mp4\nx:~z03_500k.mp4\nx:~z04_500k.mp4\nx:~z05_500k.mp4\n')
 				}else{
 					sampleCondition = true;
 					$(this).text("샘플보기")
