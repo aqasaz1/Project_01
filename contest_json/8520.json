@@ -3,7 +3,7 @@
 	"content_code": "8520",
 	"content_name": "일본어 잘하고 싶을 땐 다락원 기초문법2",
 	"content_sample": "1/24/45",
-	"content_chasi": "23/21/25",
+	"content_chasi": "23/44/69",
 	"content_size": "1000*650",
 	"content_cm": "박진솔",
 	"content_data": [
@@ -14,9 +14,9 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_01h.mp4",
+			"mp4_bind_path": "",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_01h_500k.mp4",
+			"mp4_bind_path_500k": "",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -26,9 +26,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_02h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_02h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -38,9 +36,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_03h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_03h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -50,9 +46,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_04h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_04h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -62,9 +56,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_05h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_05h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -74,9 +66,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_06h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_06h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -86,9 +76,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_07h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_07h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -98,9 +86,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_08h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_08h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -110,9 +96,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_09h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_09h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -122,9 +106,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_10h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_10h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -134,9 +116,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_11h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_11h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -146,9 +126,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_12h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_12h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -158,9 +136,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_13h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_13h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -170,9 +146,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_14h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_14h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -182,9 +156,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_15h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_15h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -194,9 +166,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_16h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_16h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -206,9 +176,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_17h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_17h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -218,9 +186,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_18h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_18h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -230,9 +196,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_19h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_19h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -242,9 +206,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_20h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_20h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -254,9 +216,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_21h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_21h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -266,9 +226,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_22h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_22h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -278,9 +236,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_23h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step1/a1_23h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -290,9 +246,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_24h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_24h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -302,9 +256,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_25h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_25h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -314,9 +266,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_26h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_26h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -326,9 +276,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_27h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_27h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -338,9 +286,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_28h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_28h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -350,9 +296,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_29h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_29h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -362,9 +306,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_30h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_30h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -374,9 +316,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_31h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_31h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -386,9 +326,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_32h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_32h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -398,9 +336,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_33h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_33h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -410,9 +346,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_34h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_34h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -422,9 +356,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_35h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_35h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -434,9 +366,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_36h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_36h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -446,9 +376,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_37h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_37h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -458,9 +386,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_38h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_38h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -470,9 +396,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_39h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_39h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -482,9 +406,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_40h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_40h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -494,9 +416,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_41h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_41h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -506,9 +426,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_42h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_42h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -518,9 +436,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_43h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_43h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -530,9 +446,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_44h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step2/a1_44h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -542,9 +456,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_45h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_45h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -554,9 +466,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_46h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_46h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -566,9 +476,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_47h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_47h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -578,9 +486,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_48h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_48h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -590,9 +496,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_49h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_49h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -602,9 +506,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_50h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_50h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -614,9 +516,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_51h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_51h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -626,9 +526,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_52h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_52h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -638,9 +536,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_53h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_53h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -650,9 +546,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_54h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_54h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -662,9 +556,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_55h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_55h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -674,9 +566,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_56h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_56h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -686,9 +576,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_57h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_57h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -698,9 +586,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_58h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_58h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -710,9 +596,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_59h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_59h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -722,9 +606,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_60h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_60h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -734,9 +616,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_61h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_61h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -746,9 +626,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_62h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_62h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -758,9 +636,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_63h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_63h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -770,9 +646,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_64h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_64h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -782,9 +656,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_65h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_65h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -794,9 +666,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_66h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_66h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -806,9 +676,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_67h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_67h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -818,9 +686,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_68h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_68h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		},
 		{
@@ -830,9 +696,7 @@
 			"page_name": [
 				"강의"
 			],
-			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8520/mp4/a1_69h.mp4",
 			"mp4_bind_time": "",
-			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8520/mobile_500k/step3/a1_69h_500k.mp4",
 			"mp4_bind_time_500k": ""
 		}
 	]
