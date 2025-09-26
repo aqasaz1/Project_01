@@ -1,0 +1,299 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8535",
+	"content_name": " Korean Grammar in Use - Beginning 3",
+	"content_sample": "1",
+	"content_chasi": "24",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "N이/가",
+			"title_b": "N이 N가",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "N은/는",
+			"title_b": "N은 N는",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "N을/를",
+			"title_b": "N을 N를",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "N와/과, N(이)랑, N하고",
+			"title_b": "N와 N과ㅣN이랑ㅣN하고",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "N의",
+			"title_b": "N의",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "N에 ①",
+			"title_b": "N에 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "N에 ②",
+			"title_b": "N에 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "N에서",
+			"title_b": "N에서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "What’s the Difference? 에 vs. 에서",
+			"title_b": "에 vs 에서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "N에서 N까지, N부터 N까지",
+			"title_b": "N에서 N까지ㅣN부터 N까지",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "N에게/한테",
+			"title_b": "N에게ㅣN한테",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "N도",
+			"title_b": "N도",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "N만",
+			"title_b": "N만",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "N밖에",
+			"title_b": "N밖에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "What’s the Difference? 밖에 vs. 만",
+			"title_b": "밖에 vs 만",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "N(으)로",
+			"title_b": "N으로",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "What’s the Difference? 로 왔어요 vs. 해서 왔어요 / 로 가다 vs. 에 가다",
+			"title_b": "차로 왔어요 vs 운전해서 왔어요ㅣ으로 가다 vs 에 가다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "N(이)나 ①",
+			"title_b": "N이나 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_18h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_18h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "N(이)나 ②",
+			"title_b": "N이나 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_19h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_19h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "What’s the Difference? 밖에 vs. (이)나",
+			"title_b": "밖에 vs 이나",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_20h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_20h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "N쯤",
+			"title_b": "N쯤",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_21h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_21h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "N처럼, N같이",
+			"title_b": "N처럼ㅣN같이",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_22h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_22h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "N보다",
+			"title_b": "N보다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_23h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_23h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "N마다",
+			"title_b": "N마다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8535/mp4/a1_24h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8535/mobile_500k/a1_24h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}

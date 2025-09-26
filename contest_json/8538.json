@@ -1,0 +1,263 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8538",
+	"content_name": " Korean Grammar in Use - Beginning 6",
+	"content_sample": "1",
+	"content_chasi": "21",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "A/V-겠어요 ①",
+			"title_b": "AV겠어요 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "V-(으)ㄹ게요",
+			"title_b": "V으ㄹ게요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "What’s the Difference? -(으)ㄹ게요 vs. -(으)ㄹ 거예요",
+			"title_b": "을게요 vs 을 거예요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "V-(으)ㄹ래요 ②",
+			"title_b": "V으ㄹ래요 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "A/V-(으)ㄴ/는데 ②",
+			"title_b": "AV으ㄴ데ㅣAV는데 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "V-(으)니까 ②",
+			"title_b": "V으니까 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "V-(으)러 가다/오다",
+			"title_b": "V으러 가다ㅣV으러 오다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "V-(으)려고",
+			"title_b": "V으려고",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "What’s the Difference? -(으)러 vs. -(으)려고",
+			"title_b": "으러 vs 으려고",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "V-(으)려고 하다",
+			"title_b": "V으려고 하다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "N을/를 위해(서), V-기 위해(서)",
+			"title_b": "N을 위해서ㅣN를 위해서ㅣV기 위해서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "What’s the Difference? -(으)려고 vs. -기 위해서",
+			"title_b": "으려고 vs 기 위해서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "V-기로 하다",
+			"title_b": "V기로 하다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "A/V-(으)면",
+			"title_b": "AV으면",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "V-(으)려면",
+			"title_b": "V으려면",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "A/V-아/어도",
+			"title_b": "AV아도ㅣAV어도",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "A/V-겠어요 ②",
+			"title_b": "AV겠어요 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "A/V-(으)ㄹ 거예요 ②",
+			"title_b": "AV으ㄹ 거예요 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_18h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_18h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "A/V-(으)ㄹ까요? ③",
+			"title_b": "AV으ㄹ까요 3",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_19h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_19h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "A/V-(으)ㄴ/는/(으)ㄹ 것 같다",
+			"title_b": "AV으ㄴㅣ는ㅣ으ㄹ 것 같다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_20h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_20h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "What’s the Difference? -겠어요 vs. -을 거예요 vs. -은/는/을 것 같다",
+			"title_b": "겠어요 vs 을 거예요 vs 은ㅣ는ㅣ을 것 같다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8538/mp4/a1_21h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8538/mobile_500k/a1_21h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}

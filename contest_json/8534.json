@@ -1,0 +1,143 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8534",
+	"content_name": " Korean Grammar in Use - Beginning 2",
+	"content_sample": "1",
+	"content_chasi": "11",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "Present Tense A/V-(스)ㅂ니다",
+			"title_b": "Present Tense AV스ㅂ니다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Present Tense A/V-아/어요",
+			"title_b": "Present Tense AV아요ㅣAV어요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Past Tense A/V-았/었어요",
+			"title_b": "Past Tense AV았어요ㅣAV었어요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Future Tense V-(으)ㄹ 거예요 ①",
+			"title_b": "Future Tense V으ㄹ 거예요 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Progressive Tense V-고 있다 ①",
+			"title_b": "Progressive Tense V고 있다 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "Past Perfect Tense A/V-았/었었어요",
+			"title_b": "Past Perfect Tense AV았었어요ㅣAV었었어요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "What’s the Difference? -았/었어요 vs. -았/었었어요",
+			"title_b": "았ㅣ었어요 vs 았ㅣ었어요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Word Negation",
+			"title_b": "Word Negation",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "안 A/V-아/어요 (A/V-지 않아요)",
+			"title_b": "안 AV아요ㅣ안 AV어요ㅣAV지 않아요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "못 V-아/어요 (V-지 못해요)",
+			"title_b": "못 V아요ㅣ못 V어요ㅣV지 못해요",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "What’s the Difference? 안 vs. 못",
+			"title_b": "안 vs 못",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8534/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8534/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}

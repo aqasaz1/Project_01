@@ -1,0 +1,275 @@
+{
+	"content_lan": "기타외국어",
+	"content_code": "8536",
+	"content_name": " Korean Grammar in Use - Beginning 4",
+	"content_sample": "1",
+	"content_chasi": "22",
+	"content_size": "1000*650",
+	"content_cm": "이은진",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "A/V-고",
+			"title_b": "AV고",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "A/V-거나",
+			"title_b": "AV거나",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "A/V-지만",
+			"title_b": "AV지만",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "A/V-(으)ㄴ/는데 ①",
+			"title_b": "AV으ㄴ데ㅣAV는데 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "N 전에, V-기 전에",
+			"title_b": "N 전에ㅣV기 전에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "What’s the Difference? 1시 전에 vs. 1시간 전에",
+			"title_b": "1시 전에 vs 1시간 전에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "N 후에, V-(으)ㄴ 후에",
+			"title_b": "N 후에ㅣV으ㄴ 후에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "What’s the Difference? 1시 후에 vs. 1시간 후에",
+			"title_b": "1시 후에 vs 1시간 후에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "V-고 나서",
+			"title_b": "V고 나서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "V-아/어서 ①",
+			"title_b": "V아서ㅣV어서 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "What’s the Difference? -고 vs. -아/어서",
+			"title_b": "고 vs 아서 어서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "N 때, A/V-(으)ㄹ 때",
+			"title_b": "N 때ㅣ AV으ㄹ 때",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "What’s the Difference? 크리스마스에 vs. 크리스마스 때",
+			"title_b": "크리스마스에 vs 크리스마스 때",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "V-(으)면서",
+			"title_b": "V으면서",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "N 중, V-는 중",
+			"title_b": "N 중ㅣV는 중",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "V-자마자",
+			"title_b": "V자마자",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "N 동안, V-는 동안",
+			"title_b": "N 동안ㅣV는 동안",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "What’s the Difference? -(으)면서 vs. -는 동안(에)",
+			"title_b": "으면서 vs 는 동안에",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_18h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_18h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "V-(으)ㄴ 지",
+			"title_b": "V으ㄴ 지",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_19h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_19h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "V-(으)ㄹ 수 있다/없다",
+			"title_b": "V으ㄹ 수 있다ㅣV으ㄹ 수 없다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_20h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_20h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "V-(으)ㄹ 줄 알다/모르다",
+			"title_b": "V으ㄹ 줄 알다ㅣV으ㄹ 줄 모르다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_21h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_21h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "What’s the Difference? -을 줄 알다/모르다 vs. -을 수 있다/없다",
+			"title_b": "을 줄 알다ㅣ모르다 vs 을 수 있다ㅣ없다",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8536/mp4/a1_22h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8536/mobile_500k/a1_22h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}
