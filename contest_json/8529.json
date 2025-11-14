@@ -1,0 +1,419 @@
+{
+	"content_lan": "일본어",
+	"content_code": "8529",
+	"content_name": "100가지 상황별 비즈니스 일본어 - 소통 편",
+	"content_sample": "1/33",
+	"content_chasi": "16/18",
+	"content_size": "1000*650",
+	"content_cm": "신재민",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "첫 만남 ①",
+			"title_b": "첫 만남 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "첫 만남 ②",
+			"title_b": "첫 만남 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "명함 교환 ①",
+			"title_b": "명함 교환 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "명함 교환 ②",
+			"title_b": "명함 교환 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "타인 소개",
+			"title_b": "타인 소개",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "재회",
+			"title_b": "재회",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "명함 보고 말하기 ①",
+			"title_b": "명함 보고 말하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "명함 보고 말하기 ②",
+			"title_b": "명함 보고 말하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "계절과 날씨 ①",
+			"title_b": "계절과 날씨 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "계절과 날씨 ②",
+			"title_b": "계절과 날씨 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "계절과 날씨 ③",
+			"title_b": "계절과 날씨 ③",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "계절과 날씨 ④",
+			"title_b": "계절과 날씨 ④",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "취미와 관심사",
+			"title_b": "취미와 관심사",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "칭찬하기",
+			"title_b": "칭찬하기",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "대화 마무리하기 ①",
+			"title_b": "대화 마무리하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "대화 마무리하기 ②",
+			"title_b": "대화 마무리하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "부탁 · 제안하기 ①",
+			"title_b": "부탁 제안하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "부탁 · 제안하기 ②",
+			"title_b": "부탁 제안하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_18h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_18h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "거절하기 ①",
+			"title_b": "거절하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_19h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_19h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "거절하기 ②",
+			"title_b": "거절하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_20h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_20h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "반론하기",
+			"title_b": "반론하기",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_21h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_21h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "감사 인사 ①",
+			"title_b": "감사 인사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_22h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_22h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "감사 인사 ②",
+			"title_b": "감사 인사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_23h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_23h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "감사 인사 ③",
+			"title_b": "감사 인사 ③",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_24h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_24h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "감사 인사 ④",
+			"title_b": "감사 인사 ④",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_25h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_25h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "사과 인사 ①",
+			"title_b": "사과 인사 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_26h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_26h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "사과 인사 ②",
+			"title_b": "사과 인사 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_27h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_27h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "사과 인사 ③",
+			"title_b": "사과 인사 ③",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_28h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_28h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "부탁 · 요청하기 ①",
+			"title_b": "부탁 요청하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_29h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_29h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "부탁 · 요청하기 ②",
+			"title_b": "부탁 요청하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_30h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_30h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "부탁 · 요청하기 ③",
+			"title_b": "부탁 요청하기 ③",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_31h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_31h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "답변하기 ①",
+			"title_b": "답변하기 1",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_32h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_32h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "답변하기 ②",
+			"title_b": "답변하기 2",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_33h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_33h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "보고 · 연락 · 상의하기",
+			"title_b": "보고 연락 상의하기",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8529/mp4/a1_34h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8529/mobile_500k/a1_34h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}

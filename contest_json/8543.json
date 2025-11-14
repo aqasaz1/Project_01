@@ -1,0 +1,443 @@
+{
+	"content_lan": "영어",
+	"content_code": "8543",
+	"content_name": "물음표 영어 - 육하원칙으로 질문하기",
+	"content_sample": "1/33",
+	"content_chasi": "16/20",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "when / where / why - INTRO",
+			"title_b": "when where why INTRO",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "When + be 동사?",
+			"title_b": "When be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "When + do 동사?",
+			"title_b": "When do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "When + 조동사?",
+			"title_b": "When 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "Do you know + when 간접의문문?",
+			"title_b": "Do you know when 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "when ~? - TRAINING",
+			"title_b": "when 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Where + be 동사?",
+			"title_b": "Where be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Where + do 동사?",
+			"title_b": "Where do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Where + 조동사?",
+			"title_b": "Where 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Do you know + where 간접의문문?",
+			"title_b": "Do you know where 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "where ~? - TRAINING",
+			"title_b": "where 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "Why + be 동사?",
+			"title_b": "Why be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Why + do 동사?",
+			"title_b": "Why do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Why + 조동사?",
+			"title_b": "Why 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Do you know + why 간접의문문?",
+			"title_b": "Do you know why 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "why ~? - TRAINING",
+			"title_b": "why 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "what / who / how - INTRO",
+			"title_b": "what who how INTRO",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 18,
+			"title_a": "What + be 동사?",
+			"title_b": "What be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_18h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_18h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 19,
+			"title_a": "What + do 동사?",
+			"title_b": "What do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_19h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_19h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 20,
+			"title_a": "What + 일반 동사?",
+			"title_b": "What 일반 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_20h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_20h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 21,
+			"title_a": "What + 조동사?",
+			"title_b": "What 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_21h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_21h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 22,
+			"title_a": "What + 명사?",
+			"title_b": "What 명사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_22h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_22h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 23,
+			"title_a": "Do you know + what 간접의문문?",
+			"title_b": "Do you know what 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_23h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_23h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 24,
+			"title_a": "what ~? - TRAINING",
+			"title_b": "what 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_24h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_24h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 25,
+			"title_a": "Who + be 동사?",
+			"title_b": "Who be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_25h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_25h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 26,
+			"title_a": "Who + do 동사?",
+			"title_b": "Who do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_26h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_26h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 27,
+			"title_a": "Who + 일반 동사?",
+			"title_b": "Who 일반 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_27h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_27h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 28,
+			"title_a": "Who + 조동사?",
+			"title_b": "Who 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_28h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_28h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 29,
+			"title_a": "Do you know + who 간접의문문?",
+			"title_b": "Do you know who 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_29h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_29h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 30,
+			"title_a": "who ~? - TRAINING",
+			"title_b": "who 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_30h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_30h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 31,
+			"title_a": "How + be 동사?",
+			"title_b": "How be 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_31h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_31h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 32,
+			"title_a": "How + do 동사?",
+			"title_b": "How do 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_32h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_32h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 33,
+			"title_a": "How + 조동사?",
+			"title_b": "How 조동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_33h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_33h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 34,
+			"title_a": "How + 형용사/부사?",
+			"title_b": "How 형용사 부사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_34h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_34h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 35,
+			"title_a": "Do you know + how 간접의문문?",
+			"title_b": "Do you know how 간접의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_35h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_35h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 36,
+			"title_a": "how ~? - TRAINING",
+			"title_b": "how 의문문 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8543/mp4/a1_36h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8543/mobile_500k/a1_36h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}
