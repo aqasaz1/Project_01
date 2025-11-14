@@ -1,0 +1,215 @@
+{
+	"content_lan": "영어",
+	"content_code": "8542",
+	"content_name": "물음표 영어 - Yes/No 질문하기",
+	"content_sample": "1",
+	"content_chasi": "17",
+	"content_size": "1000*650",
+	"content_cm": "신화정",
+	"content_data": [
+		{
+			"chasi": 1,
+			"title_a": "be 동사 - INTRO",
+			"title_b": "be 동사 INTRO",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_01h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_01h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 2,
+			"title_a": "Are ~?",
+			"title_b": "Are 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_02h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_02h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 3,
+			"title_a": "Is ~?",
+			"title_b": "Is 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_03h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_03h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 4,
+			"title_a": "Have/Has ~ been?",
+			"title_b": "Have Has been 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_04h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_04h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 5,
+			"title_a": "be 동사 ~? - TRAINING",
+			"title_b": "be 동사 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_05h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_05h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 6,
+			"title_a": "do 동사 - INTRO",
+			"title_b": "do 동사 INTRO",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_06h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_06h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 7,
+			"title_a": "Do you 동사?",
+			"title_b": "Do you 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_07h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_07h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 8,
+			"title_a": "Did you 동사?",
+			"title_b": "Did you 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_08h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_08h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 9,
+			"title_a": "Does it 동사?",
+			"title_b": "Does it 동사 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_09h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_09h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 10,
+			"title_a": "Have/Has ~ p.p.?",
+			"title_b": "Have Has pp 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_10h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_10h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 11,
+			"title_a": "do동사 ~? - TRAINING",
+			"title_b": "do동사 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_11h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_11h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 12,
+			"title_a": "조동사 - INTRO",
+			"title_b": "조동사 INTRO",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_12h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_12h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 13,
+			"title_a": "Can ~? / May I ~?",
+			"title_b": "Can 의문문 May I 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_13h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_13h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 14,
+			"title_a": "Should I ~? / Do I have to(need to) ~?",
+			"title_b": "Should I 의문문 Do I have to need to 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_14h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_14h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 15,
+			"title_a": "Will ~? / Are you going to ~? / Are you ~ing?",
+			"title_b": "Will 의문문 Are you going to 의문문 Are you ing 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_15h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_15h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 16,
+			"title_a": "Would ~?",
+			"title_b": "Would 의문문",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_16h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_16h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		},
+		{
+			"chasi": 17,
+			"title_a": "조동사 ~? - TRAINING",
+			"title_b": "조동사 TRAINING",
+			"page_name": [
+				"강의"
+			],
+			"mp4_bind_path": "X:/Darakwon Dropbox/윤인준/content/8542/mp4/a1_17h.mp4",
+			"mp4_bind_time": "",
+			"mp4_bind_path_500k": "X:/Darakwon Dropbox/윤인준/content/8542/mobile_500k/a1_17h_500k.mp4",
+			"mp4_bind_time_500k": ""
+		}
+	]
+}
